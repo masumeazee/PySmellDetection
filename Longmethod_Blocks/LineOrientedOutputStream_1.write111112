@@ -1,0 +1,1 @@
+void#write#(#int#cc#)#throws#IOException#{#final#byte#c#=#(#byte#)#cc#;##if#(#(#c#==#LF#)#||#(#c#==#CR#)#)#{##if#(#!#skip#)#{#processBuffer#(#)#;#}#}#else#{#buffer#.#write#(#cc#)#;#}##skip#=#(#c#==#CR#)#;#}

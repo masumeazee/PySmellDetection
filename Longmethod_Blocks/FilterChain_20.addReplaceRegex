@@ -1,0 +1,1 @@
+void#addReplaceRegex#(#TokenFilter#.#ReplaceRegex#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

@@ -1,0 +1,1 @@
+void#setName#(#String#name#)#{#this#.#name#=#name#;#}##String#getName#(#)#{#return#name#;#}##void#setValue#(#String#value#)#{#this#.#value#=#value#;#}##String#getValue#(#)#{#return#value#;#}##

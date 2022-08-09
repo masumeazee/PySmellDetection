@@ -1,0 +1,1 @@
+void#setBuildFile#(#URL#buildFile#)#throws#MalformedURLException#{#this#.#buildFileURL#=#buildFile#;#this#.#buildFileParentURL#=#new#URL#(#buildFile#,#"."#)#;##if#(#implicitTarget#.#getLocation#(#)#==#null#)#{#implicitTarget#.#setLocation#(#new#Location#(#buildFile#.#toString#(#)#)#)#;#}#}

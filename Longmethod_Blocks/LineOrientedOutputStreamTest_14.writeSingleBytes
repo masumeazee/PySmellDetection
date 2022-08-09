@@ -1,0 +1,1 @@
+void#writeSingleBytes#(#)#throws#IOException#{#byte#[#]#b#=#LINE#.#getBytes#(#)#;##for#(#int#i#=#0#;##i#<#b#.#length#;#i#++#)#{#stream#.#write#(#b#[#i#]#)#;#}#}

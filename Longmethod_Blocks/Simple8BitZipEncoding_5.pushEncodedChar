@@ -1,0 +1,1 @@
+boolean#pushEncodedChar#(#ByteBuffer#bb#,#char#c#)#{##if#(#c#>=#0#&&#c#<#128#)#{#bb#.#put#(#(#byte#)#c#)#;##return#true#;#}##Simple8BitChar#r#=#this#.#encodeHighChar#(#c#)#;##if#(#r#==#null#)#{##return#false#;#}##bb#.#put#(#r#.#code#)#;##return#true#;#}

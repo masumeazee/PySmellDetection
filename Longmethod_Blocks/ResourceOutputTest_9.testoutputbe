@@ -1,0 +1,1 @@
+void#testoutputbe#(#Resource#dest#)#{#try#{#testoutput#(#dest#)#;#}##catch#(#IOException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

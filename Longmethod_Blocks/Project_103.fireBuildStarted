@@ -1,0 +1,1 @@
+void#fireBuildStarted#(#)#{#BuildEvent#event#=#new#BuildEvent#(#this#)#;#BuildListener#[#]#currListeners#=#listeners#;##for#(#int#i#=#0#;##i#<#currListeners#.#length#;#i#++#)#{#currListeners#[#i#]#.#buildStarted#(#event#)#;#}#}

@@ -1,0 +1,1 @@
+void#setByLine#(#boolean#byline#)#{#this#.#byline#=#byline#;#}

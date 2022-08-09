@@ -1,0 +1,1 @@
+void#add#(#FileNameMapper#fileNameMapper#)#{##if#(#this#==#fileNameMapper#||#(#fileNameMapper#instanceof#ContainerMapper#&&#(#(#ContainerMapper#)#fileNameMapper#)#.#contains#(#this#)#)#)#{#throw#new#IllegalArgumentException#(#"Circular mapper containment condition detected"#)#;#}#else#{#mappers#.#add#(#fileNameMapper#)#;#}#}

@@ -1,0 +1,1 @@
+boolean#isValidNameCharacter#(#char#c#)#{##// ? is there an xml api for this ?##return#Character#.#isLetterOrDigit#(#c#)#||#c#==#'.'#||#c#==#'-'#;#}

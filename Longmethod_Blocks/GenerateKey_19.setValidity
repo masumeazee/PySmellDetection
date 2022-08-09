@@ -1,0 +1,1 @@
+void#setValidity#(#final#String#validity#)#throws#BuildException#{#try#{#this#.#validity#=#Integer#.#parseInt#(#validity#)#;#}##catch#(#final#NumberFormatException#nfe#)#{#throw#new#BuildException#(#"Validity attribute should be a integer"#)#;#}#}

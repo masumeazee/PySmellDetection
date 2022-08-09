@@ -1,0 +1,1 @@
+void#setOutFile#(#File#outFile#)#{#this#.#outFile#=#outFile#;#}

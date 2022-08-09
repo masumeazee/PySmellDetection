@@ -1,0 +1,1 @@
+void#setMessageOutputLevel#(#int#level#)#{#msgOutputLevel#=#level#;#}

@@ -1,0 +1,1 @@
+void#setBaselineRootName#(#String#baselineRootName#)#{#mBaselineRootName#=#baselineRootName#;#}

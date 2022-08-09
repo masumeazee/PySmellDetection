@@ -1,0 +1,1 @@
+String#selectionString#(#File#basedir#,#File#[#]#files#,#FileSelector#selector#)#{#StringBuffer#buf#=#new#StringBuffer#(#)#;##for#(#int#x#=#0#;##x#<#files#.#length#;#x#++#)#{##if#(#selector#.#isSelected#(#basedir#,#filenames#[#x#]#,#files#[#x#]#)#)#{#buf#.#append#(#'T'#)#;#}#else#{#buf#.#append#(#'F'#)#;#}#}##return#buf#.#toString#(#)#;#}

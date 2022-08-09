@@ -1,0 +1,1 @@
+void#testWithStyleAttrAndResource#(#)#throws#Exception#{#expectSpecificBuildException#(#"testWithStyleAttrAndResource"#,#"Must throws a BuildException"#,#"specify the "#+#"stylesheet either as a filename in style "#+#"attribute or as a nested resource but not "#+#"as both"#)#;#}

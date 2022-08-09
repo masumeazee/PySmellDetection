@@ -1,0 +1,1 @@
+long#getLastModified#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getLastModified#(#)#;#}##if#(#!#isExists#(#)#||#lastmodified#==#null#)#{##return#UNKNOWN_DATETIME#;#}##long#result#=#lastmodified#.#longValue#(#)#;##return#result#<#UNKNOWN_DATETIME#?#UNKNOWN_DATETIME#:#result#;#}

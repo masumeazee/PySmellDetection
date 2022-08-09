@@ -1,0 +1,1 @@
+void#setExecutable#(#String#executable#)#{#this#.#executable#=#executable#;#}

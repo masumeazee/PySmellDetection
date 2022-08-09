@@ -1,0 +1,1 @@
+void#addConfiguredRevoke#(#Permissions#.#Permission#perm#)#{#revokedPermissions#.#add#(#perm#)#;#}

@@ -1,0 +1,1 @@
+void#addArgumentsToList#(#ListIterator#list#)#{#for#(#int#i#=#0#;##i#<#arguments#.#size#(#)#;#i#++#)#{#Argument#arg#=#(#Argument#)#arguments#.#elementAt#(#i#)#;#String#[#]#s#=#arg#.#getParts#(#)#;##if#(#s#!=#null#)#{#for#(#int#j#=#0#;##j#<#s#.#length#;#j#++#)#{#list#.#add#(#s#[#j#]#)#;#}#}#}#}

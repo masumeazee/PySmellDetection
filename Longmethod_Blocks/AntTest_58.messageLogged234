@@ -1,0 +1,1 @@
+void#messageLogged#(#BuildEvent#event#)#{#check#(#event#)#;#}

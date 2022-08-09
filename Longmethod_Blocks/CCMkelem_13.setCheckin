@@ -1,0 +1,1 @@
+void#setCheckin#(#boolean#ci#)#{#mCheckin#=#ci#;#}

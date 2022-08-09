@@ -1,0 +1,1 @@
+boolean#testUnlessAllows#(#)#{#PropertyHelper#propertyHelper#=#PropertyHelper#.#getPropertyHelper#(#getProject#(#)#)#;#Object#o#=#propertyHelper#.#parseProperties#(#unlessCondition#)#;##return#propertyHelper#.#testUnlessCondition#(#o#)#;#}

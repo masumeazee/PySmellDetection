@@ -1,0 +1,1 @@
+String#[#]#mapFileName#(#String#fileName#)#{#int#lastDot#=#fileName#.#lastIndexOf#(#'.'#)#;##if#(#lastDot#>=#0#)#{##return#new#String#[#]#{#fileName#.#substring#(#0#,#lastDot#)#+#extension#}#;#}#else#{##return#new#String#[#]#{#fileName#+#extension#}#;#}#}

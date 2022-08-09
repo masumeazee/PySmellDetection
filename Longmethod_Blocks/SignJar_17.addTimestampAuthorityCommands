@@ -1,0 +1,1 @@
+void#addTimestampAuthorityCommands#(#final#ExecTask#cmd#)#{##if#(#tsaurl#!=#null#)#{#addValue#(#cmd#,#"-tsa"#)#;#addValue#(#cmd#,#tsaurl#)#;#}##if#(#tsacert#!=#null#)#{#addValue#(#cmd#,#"-tsacert"#)#;#addValue#(#cmd#,#tsacert#)#;#}#}

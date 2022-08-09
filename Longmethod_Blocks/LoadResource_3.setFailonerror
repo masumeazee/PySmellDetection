@@ -1,0 +1,1 @@
+void#setFailonerror#(#final#boolean#fail#)#{#failOnError#=#fail#;#}

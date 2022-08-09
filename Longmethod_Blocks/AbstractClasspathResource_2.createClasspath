@@ -1,0 +1,1 @@
+Path#createClasspath#(#)#{#checkChildrenAllowed#(#)#;##if#(#classpath#==#null#)#{#classpath#=#new#Path#(#getProject#(#)#)#;#}##setChecked#(#false#)#;##return#classpath#.#createPath#(#)#;#}

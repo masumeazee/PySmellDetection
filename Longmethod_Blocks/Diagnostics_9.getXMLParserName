@@ -1,0 +1,1 @@
+String#getXMLParserName#(#)#{#SAXParser#saxParser#=#getSAXParser#(#)#;##if#(#saxParser#==#null#)#{##return#"Could not create an XML Parser"#;#}##// check to what is in the classname#String#saxParserName#=#saxParser#.#getClass#(#)#.#getName#(#)#;##return#saxParserName#;#}

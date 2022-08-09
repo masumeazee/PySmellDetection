@@ -1,0 +1,1 @@
+int#getDirMode#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#p#)#)#.#getDirMode#(#p#)#;#}##dieOnCircularReference#(#)#;##return#dirMode#;#}

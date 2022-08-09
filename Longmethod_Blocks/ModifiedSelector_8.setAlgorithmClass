@@ -1,0 +1,1 @@
+void#setAlgorithmClass#(#String#classname#)#{#algorithmClass#=#classname#;#}

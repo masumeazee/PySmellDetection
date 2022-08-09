@@ -1,0 +1,1 @@
+void#check#(#BuildEvent#event#)#{##if#(#error#==#null#)#{#try#{#assertNotNull#(#event#.#getProject#(#)#.#getInputHandler#(#)#)#;#assertSame#(#ih#,#event#.#getProject#(#)#.#getInputHandler#(#)#)#;#}##catch#(#AssertionFailedError#e#)#{#error#=#e#;#}#}#}

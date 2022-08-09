@@ -1,0 +1,1 @@
+void#startElement#(#String#uri#,#String#tag#,#String#qname#,#Attributes#attrs#)#throws#SAXParseException#{#AntHandler#next#=#currentHandler#.#onStartChild#(#uri#,#tag#,#qname#,#attrs#,#context#)#;#antHandlers#.#push#(#currentHandler#)#;#currentHandler#=#next#;#currentHandler#.#onStartElement#(#uri#,#tag#,#qname#,#attrs#,#context#)#;#}

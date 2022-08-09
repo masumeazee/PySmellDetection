@@ -1,0 +1,1 @@
+Object#invokeStatic#(#Object#obj#,#String#methodName#)#{#try#{#Method#method#;#method#=#(#(#Class#)#obj#)#.#getMethod#(#methodName#,#(#Class#[#]#)#null#)#;##return#method#.#invoke#(#obj#,#(#Object#[#]#)#null#)#;#}##catch#(#Exception#t#)#{#throwBuildException#(#t#)#;##return#null#;##// NotReached#}#}

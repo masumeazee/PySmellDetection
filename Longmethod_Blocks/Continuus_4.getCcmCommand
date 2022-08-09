@@ -1,0 +1,1 @@
+String#getCcmCommand#(#)#{#String#toReturn#=#ccmDir#;##if#(#!#toReturn#.#equals#(#""#)#&&#!#toReturn#.#endsWith#(#"/"#)#)#{#toReturn#+=#"/"#;#}##toReturn#+=#CCM_EXE#;##return#toReturn#;#}

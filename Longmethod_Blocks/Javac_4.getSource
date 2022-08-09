@@ -1,0 +1,1 @@
+String#getSource#(#)#{##return#source#!=#null#?#source#:#getProject#(#)#.#getProperty#(#MagicNames#.#BUILD_JAVAC_SOURCE#)#;#}

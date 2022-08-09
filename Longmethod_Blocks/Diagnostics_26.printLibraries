@@ -1,0 +1,1 @@
+void#printLibraries#(#File#[#]#libs#,#PrintStream#out#)#{##if#(#libs#==#null#)#{#out#.#println#(#"No such directory."#)#;##return#;#}##for#(#int#i#=#0#;##i#<#libs#.#length#;#i#++#)#{#out#.#println#(#libs#[#i#]#.#getName#(#)#+#" ("#+#libs#[#i#]#.#length#(#)#+#" bytes)"#)#;#}#}

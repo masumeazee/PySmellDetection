@@ -1,0 +1,1 @@
+void#buildStarted#(#BuildEvent#event#)#{#buildElement#=#new#TimedElement#(#)#;#buildElement#.#startTime#=#System#.#currentTimeMillis#(#)#;#buildElement#.#element#=#doc#.#createElement#(#BUILD_TAG#)#;#}

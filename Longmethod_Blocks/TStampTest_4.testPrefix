@@ -1,0 +1,1 @@
+void#testPrefix#(#)#throws#Exception#{#tstamp#.#setPrefix#(#"prefix"#)#;#tstamp#.#execute#(#)#;#String#prop#=#project#.#getProperty#(#"prefix.DSTAMP"#)#;#assertNotNull#(#prop#)#;#}

@@ -1,0 +1,1 @@
+File#createTempDir#(#)#throws#IOException#{#File#tmpDir#=#File#.#createTempFile#(#"genic"#,#null#,#null#)#;#tmpDir#.#delete#(#)#;##if#(#!#tmpDir#.#mkdir#(#)#)#{#throw#new#IOException#(#"Cannot create the temporary directory '"#+#tmpDir#+#"'."#)#;#}##return#tmpDir#;#}

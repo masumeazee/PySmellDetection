@@ -1,0 +1,1 @@
+void#testClone#(#)#{#v#.#add#(#O#)#;#Object#o#=#v#.#clone#(#)#;#assertTrue#(#o#instanceof#VectorSet#)#;#VectorSet#vs#=#(#VectorSet#)#o#;#assertEquals#(#1#,#vs#.#size#(#)#)#;#assertTrue#(#vs#.#contains#(#O#)#)#;#}

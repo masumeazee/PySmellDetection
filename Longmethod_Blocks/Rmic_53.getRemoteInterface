@@ -1,0 +1,1 @@
+Class#getRemoteInterface#(#Class#testClass#)#{##if#(#Remote#.#class#.#isAssignableFrom#(#testClass#)#)#{#Class#[#]#interfaces#=#testClass#.#getInterfaces#(#)#;##if#(#interfaces#!=#null#)#{#for#(#int#i#=#0#;##i#<#interfaces#.#length#;#i#++#)#{##if#(#Remote#.#class#.#isAssignableFrom#(#interfaces#[#i#]#)#)#{##return#interfaces#[#i#]#;#}#}#}#}##return#null#;#}

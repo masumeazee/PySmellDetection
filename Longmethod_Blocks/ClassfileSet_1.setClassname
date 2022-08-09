@@ -1,0 +1,1 @@
+void#setClassname#(#String#name#)#{#this#.#rootClass#=#name#;#}

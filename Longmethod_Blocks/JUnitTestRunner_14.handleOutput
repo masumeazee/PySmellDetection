@@ -1,0 +1,1 @@
+void#handleOutput#(#String#output#)#{##if#(#!#logTestListenerEvents#&&#output#.#startsWith#(#JUnitTask#.#TESTLISTENER_PREFIX#)#)#{##// ignore#}#else##if#(#systemOut#!=#null#)#{#systemOut#.#print#(#output#)#;#}#}

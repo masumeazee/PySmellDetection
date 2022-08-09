@@ -1,0 +1,1 @@
+void#write#(#int#b#)#{##if#(#b#==#'\n'#&&#lastChar#!=#'\r'#)#{#rawWrite#(#'\r'#)#;##// ensure always \r\n#rawWrite#(#b#)#;#}#else##if#(#b#==#'.'#&&#lastChar#==#'\n'#)#{#rawWrite#(#'.'#)#;##// add extra dot#rawWrite#(#b#)#;#}#else#{#rawWrite#(#b#)#;#}##lastChar#=#b#;#}

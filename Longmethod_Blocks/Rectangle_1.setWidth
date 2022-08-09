@@ -1,0 +1,1 @@
+void#setWidth#(#int#w#)#{#width#=#w#;#}

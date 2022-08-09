@@ -1,0 +1,1 @@
+ResourceCollection#assertFilesystemOnly#(#ResourceCollection#rc#)#{##if#(#rc#!=#null#&&#!#(#rc#.#isFilesystemOnly#(#)#)#)#{#throw#new#BuildException#(#getDataTypeName#(#)#+#" allows only filesystem resources."#)#;#}##return#rc#;#}

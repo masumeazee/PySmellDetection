@@ -1,0 +1,1 @@
+void#addEllipse#(#Ellipse#elip#)#{#instructions#.#add#(#elip#)#;#}

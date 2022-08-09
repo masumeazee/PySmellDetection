@@ -1,0 +1,1 @@
+int#compare#(#Object#foo#,#Object#bar#)#{#dieOnCircularReference#(#)#;#ResourceComparator#c#=#isReference#(#)#?#(#ResourceComparator#)#getCheckedRef#(#)#:#this#;##return#c#.#resourceCompare#(#(#Resource#)#foo#,#(#Resource#)#bar#)#;#}

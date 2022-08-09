@@ -1,0 +1,1 @@
+ZipExtraField#[#]#getExtraFields#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ZipResource#)#getCheckedRef#(#)#)#.#getExtraFields#(#)#;#}##checkEntry#(#)#;##if#(#extras#==#null#)#{##return#new#ZipExtraField#[#0#]#;#}##return#extras#;#}

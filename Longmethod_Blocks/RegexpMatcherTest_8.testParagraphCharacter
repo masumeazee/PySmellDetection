@@ -1,0 +1,1 @@
+void#testParagraphCharacter#(#)#throws#IOException#{#reg#.#setPattern#(#"end of text$"#)#;#assertTrue#(#"paragraph character"#,#!#reg#.#matches#(#"end of text\u2029"#)#)#;#}

@@ -1,0 +1,1 @@
+void#setAddproperty#(#String#addproperty#)#{#this#.#addproperty#=#addproperty#;#}

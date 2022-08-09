@@ -1,0 +1,1 @@
+void#validate#(#)#{##if#(#null#==#antfile#)#{#final#String#message#=#"Must specify Buildfile"#;#throw#new#BuildException#(#message#)#;#}##if#(#null#==#destfile#)#{#final#String#message#=#"Must specify destination file"#;#throw#new#BuildException#(#message#)#;#}#}

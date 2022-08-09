@@ -1,0 +1,1 @@
+void#setEncoding#(#String#encoding#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#encoding#=#encoding#;#}

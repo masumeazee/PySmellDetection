@@ -1,0 +1,1 @@
+void#setMaster#(#boolean#master#)#{#mMaster#=#master#;#}

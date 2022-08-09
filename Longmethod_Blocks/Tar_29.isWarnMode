@@ -1,0 +1,1 @@
+boolean#isWarnMode#(#)#{##return#WARN#.#equalsIgnoreCase#(#getValue#(#)#)#;#}

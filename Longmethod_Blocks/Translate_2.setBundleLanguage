@@ -1,0 +1,1 @@
+void#setBundleLanguage#(#String#bundleLanguage#)#{#this#.#bundleLanguage#=#bundleLanguage#;#}

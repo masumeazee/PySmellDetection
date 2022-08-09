@@ -1,0 +1,1 @@
+void#setName#(#String#name#)#{##if#(#!#isValidName#(#name#)#)#{#throw#new#BuildException#(#"Illegal name ["#+#name#+#"] for macro element"#)#;#}##this#.#name#=#name#.#toLowerCase#(#Locale#.#US#)#;#}

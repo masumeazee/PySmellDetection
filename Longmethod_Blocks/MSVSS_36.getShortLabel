@@ -1,0 +1,1 @@
+String#getShortLabel#(#)#{#String#shortLabel#;##// CheckStyle:MagicNumber OFF##if#(#label#!=#null#&&#label#.#length#(#)#>#31#)#{#shortLabel#=#this#.#label#.#substring#(#0#,#30#)#;#log#(#"Label is longer than 31 characters, truncated to: "#+#shortLabel#,#Project#.#MSG_WARN#)#;#}#else#{#shortLabel#=#label#;#}##// CheckStyle:MagicNumber ON##return#shortLabel#;#}

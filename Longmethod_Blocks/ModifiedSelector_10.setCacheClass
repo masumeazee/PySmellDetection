@@ -1,0 +1,1 @@
+void#setCacheClass#(#String#classname#)#{#cacheClass#=#classname#;#}

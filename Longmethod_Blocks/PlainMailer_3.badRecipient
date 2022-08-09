@@ -1,0 +1,1 @@
+void#badRecipient#(#String#rcpt#,#IOException#reason#)#{#String#msg#=#"Failed to send mail to "#+#rcpt#;##if#(#shouldIgnoreInvalidRecipients#(#)#)#{#msg#+=#" because of :"#+#reason#.#getMessage#(#)#;##if#(#task#!=#null#)#{#task#.#log#(#msg#,#Project#.#MSG_WARN#)#;#}#else#{#System#.#err#.#println#(#msg#)#;#}#}#else#{#throw#new#BuildException#(#msg#,#reason#)#;#}#}

@@ -1,0 +1,1 @@
+void#testDivisionByZero#(#)#throws#IOException#{#CBZip2OutputStream#cb#=#new#CBZip2OutputStream#(#new#ByteArrayOutputStream#(#)#)#;#cb#.#close#(#)#;##// expected no exception#}

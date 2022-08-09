@@ -1,0 +1,1 @@
+void#addRegexp#(#RegularExpression#regularExpression#)#{##if#(#this#.#regularExpression#!=#null#)#{#throw#new#BuildException#(#"Only one regular expression is allowed."#)#;#}##this#.#regularExpression#=#regularExpression#;#}

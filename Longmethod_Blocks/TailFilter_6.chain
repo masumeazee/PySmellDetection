@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#TailFilter#newFilter#=#new#TailFilter#(#rdr#)#;#newFilter#.#setLines#(#getLines#(#)#)#;#newFilter#.#setSkip#(#getSkip#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

@@ -1,0 +1,1 @@
+Method#getElementMethod#(#String#elementName#)#throws#BuildException#{#Object#creator#=#nestedCreators#.#get#(#elementName#)#;##if#(#creator#==#null#)#{#throw#new#UnsupportedElementException#(#"Class "#+#bean#.#getName#(#)#+#" doesn't support the nested \""#+#elementName#+#"\" element."#,#elementName#)#;#}##return#(#(#NestedCreator#)#creator#)#.#method#;#}

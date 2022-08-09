@@ -1,0 +1,1 @@
+void#setString#(#String#str#)#{#strText#=#str#;#}

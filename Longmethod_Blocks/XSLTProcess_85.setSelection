@@ -1,0 +1,1 @@
+void#setSelection#(#boolean#b#)#{#selection#=#b#;#}

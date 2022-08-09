@@ -1,0 +1,1 @@
+boolean#hasPatterns#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#hasPatterns#(#p#)#;#}##dieOnCircularReference#(#p#)#;##return#includesFileList#.#size#(#)#>#0#||#excludesFileList#.#size#(#)#>#0#||#includeList#.#size#(#)#>#0#||#excludeList#.#size#(#)#>#0#;#}

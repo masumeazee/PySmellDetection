@@ -1,0 +1,1 @@
+void#write#(#byte#[#]#wBuf#)#throws#IOException#{#write#(#wBuf#,#0#,#wBuf#.#length#)#;#}

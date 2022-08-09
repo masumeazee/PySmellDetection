@@ -1,0 +1,1 @@
+void#parse#(#Project#project#,#Object#source#)#throws#BuildException#{#throw#new#BuildException#(#"ProjectHelper.parse() must be implemented "#+#"in a helper plugin "#+#this#.#getClass#(#)#.#getName#(#)#)#;#}

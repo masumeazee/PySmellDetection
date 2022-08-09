@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceList#)#getCheckedRef#(#)#)#.#size#(#)#;#}##return#cache#(#)#.#size#(#)#;#}

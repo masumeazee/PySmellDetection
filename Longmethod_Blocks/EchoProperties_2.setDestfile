@@ -1,0 +1,1 @@
+void#setDestfile#(#File#destfile#)#{#this#.#destfile#=#destfile#;#}

@@ -1,0 +1,1 @@
+void#setErrorProperty#(#String#errorProperty#)#{#synchronized#(#errMutex#)#{##if#(#errorProperty#==#null#||#!#(#errorProperty#.#equals#(#this#.#errorProperty#)#)#)#{#this#.#errorProperty#=#errorProperty#;#errorBaos#=#null#;#}#}#}

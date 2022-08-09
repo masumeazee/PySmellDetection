@@ -1,0 +1,1 @@
+Transformer#getXSLTProcessor#(#)#{#TransformerFactory#transformerFactory#=#TransformerFactory#.#newInstance#(#)#;##if#(#transformerFactory#==#null#)#{##return#null#;#}##Transformer#transformer#=#null#;##try#{#transformer#=#transformerFactory#.#newTransformer#(#)#;#}##catch#(#Exception#e#)#{##// ignore#ignoreThrowable#(#e#)#;#}##return#transformer#;#}

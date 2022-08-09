@@ -1,0 +1,1 @@
+boolean#isFailure#(#)#{##return#isFailure#(#getExitValue#(#)#)#;#}

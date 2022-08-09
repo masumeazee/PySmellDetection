@@ -1,0 +1,1 @@
+void#testPrefixAddsDir#(#)#throws#IOException#{#executeTarget#(#"testPrefixAddsDir"#)#;#File#archive#=#getProject#(#)#.#resolveFile#(#"test3.zip"#)#;#zfPrefixAddsDir#=#new#ZipFile#(#archive#)#;#ZipEntry#ze#=#zfPrefixAddsDir#.#getEntry#(#"test/"#)#;#assertNotNull#(#"test/ has been added"#,#ze#)#;#}

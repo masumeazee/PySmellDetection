@@ -1,0 +1,1 @@
+void#setMaxParallel#(#int#max#)#{#throw#new#BuildException#(#getTaskType#(#)#+#" doesn\'t support the maxparallel attribute"#,#getLocation#(#)#)#;#}

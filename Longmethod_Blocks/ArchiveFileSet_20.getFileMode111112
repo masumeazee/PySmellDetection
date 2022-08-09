@@ -1,0 +1,1 @@
+int#getFileMode#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#p#)#)#.#getFileMode#(#p#)#;#}##dieOnCircularReference#(#)#;##return#fileMode#;#}

@@ -1,0 +1,1 @@
+int#read#(#)#throws#IOException#{#byte#[#]#buffer#=#new#byte#[#1#]#;#if#(#project#.#demuxInput#(#buffer#,#0#,#1#)#==#-#1#)#{#return#-#1#;#}#return#buffer#[#0#]#;#}##int#read#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{#return#project#.#demuxInput#(#buffer#,#offset#,#length#)#;#}##

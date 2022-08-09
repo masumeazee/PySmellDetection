@@ -1,0 +1,1 @@
+void#setFileNameParameter#(#String#fileNameParameter#)#{#this#.#fileNameParameter#=#fileNameParameter#;#}

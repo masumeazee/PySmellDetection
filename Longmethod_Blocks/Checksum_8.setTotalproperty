@@ -1,0 +1,1 @@
+void#setTotalproperty#(#String#totalproperty#)#{#this#.#totalproperty#=#totalproperty#;#}

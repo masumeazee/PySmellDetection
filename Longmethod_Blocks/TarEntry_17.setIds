@@ -1,0 +1,1 @@
+void#setIds#(#int#userId#,#int#groupId#)#{#setUserId#(#userId#)#;#setGroupId#(#groupId#)#;#}

@@ -1,0 +1,1 @@
+void#setLanguage#(#String#language#)#{#helper#.#setLanguage#(#language#)#;#}

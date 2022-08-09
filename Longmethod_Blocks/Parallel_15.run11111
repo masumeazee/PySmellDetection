@@ -1,0 +1,1 @@
+void#run#(#)#{#try#{#LocalProperties#.#get#(#getProject#(#)#)#.#copy#(#)#;#thread#=#Thread#.#currentThread#(#)#;#task#.#perform#(#)#;#}##catch#(#Throwable#t#)#{#exception#=#t#;##if#(#failOnAny#)#{#stillRunning#=#false#;#}#}##finally#{#synchronized#(#semaphore#)#{#finished#=#true#;#semaphore#.#notifyAll#(#)#;#}#}#}

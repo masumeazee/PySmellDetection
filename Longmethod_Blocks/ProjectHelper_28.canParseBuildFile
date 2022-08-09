@@ -1,0 +1,1 @@
+boolean#canParseBuildFile#(#Resource#buildFile#)#{##return#true#;#}

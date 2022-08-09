@@ -1,0 +1,1 @@
+void#ensureOpened#(#)#throws#IOException#{##if#(#closed#)#{#throw#new#IOException#(#file#+#" has already been closed."#)#;#}##if#(#!#opened#)#{#fos#=#new#FileOutputStream#(#file#.#getAbsolutePath#(#)#,#append#)#;#opened#=#true#;#}#}

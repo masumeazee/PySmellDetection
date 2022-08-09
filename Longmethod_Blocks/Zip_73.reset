@@ -1,0 +1,1 @@
+void#reset#(#)#{#resources#.#removeAllElements#(#)#;#zipFile#=#null#;#baseDir#=#null#;#groupfilesets#.#removeAllElements#(#)#;#duplicate#=#"add"#;#archiveType#=#"zip"#;#doCompress#=#true#;#emptyBehavior#=#"skip"#;#doUpdate#=#false#;#doFilesonly#=#false#;#encoding#=#null#;#}

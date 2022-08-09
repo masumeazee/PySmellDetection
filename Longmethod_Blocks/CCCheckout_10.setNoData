@@ -1,0 +1,1 @@
+void#setNoData#(#boolean#ndata#)#{#mNdata#=#ndata#;#}

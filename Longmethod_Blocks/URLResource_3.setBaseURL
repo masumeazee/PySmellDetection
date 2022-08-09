@@ -1,0 +1,1 @@
+void#setBaseURL#(#URL#base#)#{#checkAttributesAllowed#(#)#;##if#(#url#!=#null#)#{#throw#new#BuildException#(#"can't define URL and baseURL attribute"#)#;#}##baseURL#=#base#;#}

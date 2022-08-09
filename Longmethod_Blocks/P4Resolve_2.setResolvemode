@@ -1,0 +1,1 @@
+void#setResolvemode#(#String#resolvemode#)#{#boolean#found#=#false#;##for#(#int#counter#=#0#;##counter#<#RESOLVE_MODES#.#length#;#counter#++#)#{##if#(#resolvemode#.#equals#(#RESOLVE_MODES#[#counter#]#)#)#{#found#=#true#;#break#;#}#}##if#(#!#found#)#{#throw#new#BuildException#(#"Unacceptable value for resolve mode"#)#;#}##this#.#resolvemode#=#resolvemode#;#}

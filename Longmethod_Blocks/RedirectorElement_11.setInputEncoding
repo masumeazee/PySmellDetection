@@ -1,0 +1,1 @@
+void#setInputEncoding#(#String#inputEncoding#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#inputEncoding#=#inputEncoding#;#}

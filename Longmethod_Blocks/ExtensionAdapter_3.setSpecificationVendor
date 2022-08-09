@@ -1,0 +1,1 @@
+void#setSpecificationVendor#(#final#String#specificationVendor#)#{#verifyNotAReference#(#)#;#this#.#specificationVendor#=#specificationVendor#;#}

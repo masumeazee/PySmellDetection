@@ -1,0 +1,1 @@
+String#[#]#getFilesAndDirs#(#FileList#list#)#{##return#restrict#(#list#.#getFiles#(#getProject#(#)#)#,#list#.#getDir#(#getProject#(#)#)#)#;#}

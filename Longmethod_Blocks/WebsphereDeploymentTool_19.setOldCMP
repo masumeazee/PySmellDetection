@@ -1,0 +1,1 @@
+void#setOldCMP#(#boolean#oldCMP#)#{#this#.#newCMP#=#!#oldCMP#;#}

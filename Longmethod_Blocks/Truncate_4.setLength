@@ -1,0 +1,1 @@
+void#setLength#(#Long#length#)#{#this#.#length#=#length#;##if#(#length#!=#null#&&#length#.#longValue#(#)#<#0#)#{#throw#new#BuildException#(#INVALID_LENGTH#+#length#)#;#}#}

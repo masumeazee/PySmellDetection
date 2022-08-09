@@ -1,0 +1,1 @@
+void#setInternalFromLabel#(#final#String#fromLabel#)#{#this#.#fromLabel#=#fromLabel#;#}

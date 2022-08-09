@@ -1,0 +1,1 @@
+void#testAppend#(#)#{#test3#(#)#;#File#file#=#new#File#(#getProjectDir#(#)#,#tempFile#)#;#final#long#origSize#=#file#.#length#(#)#;#executeTarget#(#"testAppend"#)#;#File#file2#=#new#File#(#getProjectDir#(#)#,#tempFile2#)#;#final#long#newSize#=#file2#.#length#(#)#;#assertEquals#(#origSize#*#2#,#newSize#)#;#}

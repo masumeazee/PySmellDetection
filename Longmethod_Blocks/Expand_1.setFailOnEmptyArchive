@@ -1,0 +1,1 @@
+void#setFailOnEmptyArchive#(#boolean#b#)#{#failOnEmptyArchive#=#b#;#}

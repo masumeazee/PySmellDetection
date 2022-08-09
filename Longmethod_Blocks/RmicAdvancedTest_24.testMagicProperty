@@ -1,0 +1,1 @@
+void#testMagicProperty#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testMagicProperty"#,#"magic property not working"#,#RmicAdapterFactory#.#ERROR_UNKNOWN_COMPILER#)#;#}

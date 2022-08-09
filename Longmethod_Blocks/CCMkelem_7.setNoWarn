@@ -1,0 +1,1 @@
+void#setNoWarn#(#boolean#nwarn#)#{#mNwarn#=#nwarn#;#}

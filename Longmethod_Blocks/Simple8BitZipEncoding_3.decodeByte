@@ -1,0 +1,1 @@
+char#decodeByte#(#byte#b#)#{##// code 0-127##if#(#b#>=#0#)#{##return#(#char#)#b#;#}##// byte is signed, so 128 == -128 and 255 == -1##return#this#.#highChars#[#128#+#(#int#)#b#]#;#}

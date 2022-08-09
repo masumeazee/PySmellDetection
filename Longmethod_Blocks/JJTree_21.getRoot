@@ -1,0 +1,1 @@
+File#getRoot#(#File#file#)#{#File#root#=#file#.#getAbsoluteFile#(#)#;##while#(#root#.#getParent#(#)#!=#null#)#{#root#=#root#.#getParentFile#(#)#;#}##return#root#;#}

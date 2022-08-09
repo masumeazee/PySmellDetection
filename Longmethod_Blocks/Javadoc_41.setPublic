@@ -1,0 +1,1 @@
+void#setPublic#(#boolean#b#)#{#addArgIf#(#b#,#"-public"#)#;#}

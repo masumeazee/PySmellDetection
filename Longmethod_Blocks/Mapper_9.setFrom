@@ -1,0 +1,1 @@
+void#setFrom#(#String#from#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#from#=#from#;#}

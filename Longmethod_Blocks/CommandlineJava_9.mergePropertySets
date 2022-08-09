@@ -1,0 +1,1 @@
+Properties#mergePropertySets#(#)#{#Properties#p#=#new#Properties#(#)#;##for#(#Enumeration#e#=#propertySets#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#PropertySet#ps#=#(#PropertySet#)#e#.#nextElement#(#)#;#p#.#putAll#(#ps#.#getProperties#(#)#)#;#}##return#p#;#}

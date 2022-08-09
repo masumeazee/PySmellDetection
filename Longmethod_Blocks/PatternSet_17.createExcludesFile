@@ -1,0 +1,1 @@
+NameEntry#createExcludesFile#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##return#addPatternToList#(#excludesFileList#)#;#}

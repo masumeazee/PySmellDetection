@@ -1,0 +1,1 @@
+void#setPname#(#String#pname#)#{#mPname#=#pname#;#}

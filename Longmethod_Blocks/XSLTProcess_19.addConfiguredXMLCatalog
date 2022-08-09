@@ -1,0 +1,1 @@
+void#addConfiguredXMLCatalog#(#XMLCatalog#xmlCatalog#)#{#this#.#xmlCatalog#.#addConfiguredXMLCatalog#(#xmlCatalog#)#;#}

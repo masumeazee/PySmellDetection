@@ -1,0 +1,1 @@
+Task#getThreadTask#(#Thread#thread#)#{#synchronized#(#threadTasks#)#{#Task#task#=#(#Task#)#threadTasks#.#get#(#thread#)#;##if#(#task#==#null#)#{#ThreadGroup#group#=#thread#.#getThreadGroup#(#)#;##while#(#task#==#null#&&#group#!=#null#)#{#task#=#(#Task#)#threadGroupTasks#.#get#(#group#)#;#group#=#group#.#getParent#(#)#;#}#}##return#task#;#}#}

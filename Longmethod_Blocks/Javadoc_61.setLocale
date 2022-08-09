@@ -1,0 +1,1 @@
+void#setLocale#(#String#locale#)#{##// createArgument(true) is necessary to make sure -locale##// is the first argument (required in 1.3+).#cmd#.#createArgument#(#true#)#.#setValue#(#locale#)#;#cmd#.#createArgument#(#true#)#.#setValue#(#"-locale"#)#;#}

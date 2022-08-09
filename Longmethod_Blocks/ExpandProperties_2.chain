@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#ExpandProperties#newFilter#=#new#ExpandProperties#(#rdr#)#;#newFilter#.#setProject#(#getProject#(#)#)#;##return#newFilter#;#}

@@ -1,0 +1,1 @@
+byte#med3#(#byte#a#,#byte#b#,#byte#c#)#{##return#(#a#<#b#)#?#(#b#<#c#?#b#:#a#<#c#?#c#:#a#)#:#(#b#>#c#?#b#:#a#>#c#?#c#:#a#)#;#}

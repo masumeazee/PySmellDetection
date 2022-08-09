@@ -1,0 +1,1 @@
+void#checkTaskName#(#)#{##if#(#"javadoc2"#.#equals#(#getTaskType#(#)#)#)#{#log#(#"Warning: the task name <javadoc2> is deprecated."#+#" Use <javadoc> instead."#,#Project#.#MSG_WARN#)#;#}#}

@@ -1,0 +1,1 @@
+InputStream#wrapStream#(#InputStream#in#)#throws#IOException#;

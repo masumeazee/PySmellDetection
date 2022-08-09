@@ -1,0 +1,1 @@
+void#write#(#int#b#)#throws#IOException#{##// Method intended to swallow whatever comes at it#}

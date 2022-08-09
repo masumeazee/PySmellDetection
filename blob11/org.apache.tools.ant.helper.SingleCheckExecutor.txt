@@ -1,0 +1,1 @@
+void#executeTargets#(#Project#project#,#String#[#]#targetNames#)#throws#BuildException#{#project#.#executeSortedTargets#(#project#.#topoSort#(#targetNames#,#project#.#getTargets#(#)#,#false#)#)#;#}##Executor#getSubProjectExecutor#(#)#{#return#this#;#}##

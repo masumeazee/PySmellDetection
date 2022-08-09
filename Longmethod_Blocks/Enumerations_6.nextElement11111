@@ -1,0 +1,1 @@
+Object#nextElement#(#)#throws#NoSuchElementException#{##if#(#hasMoreElements#(#)#)#{##return#enumArray#[#index#]#.#nextElement#(#)#;#}##throw#new#NoSuchElementException#(#)#;#}

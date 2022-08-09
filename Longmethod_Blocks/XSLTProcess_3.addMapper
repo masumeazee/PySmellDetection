@@ -1,0 +1,1 @@
+void#addMapper#(#Mapper#mapper#)#{##if#(#mapperElement#!=#null#)#{#handleError#(#"Cannot define more than one mapper"#)#;#}#else#{#mapperElement#=#mapper#;#}#}

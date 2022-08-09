@@ -1,0 +1,1 @@
+void#setRegex#(#String#r#)#{#regex#=#r#;#reg#=#null#;#}

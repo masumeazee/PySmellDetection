@@ -1,0 +1,1 @@
+void#handleOutput#(#String#output#)#{##if#(#output#.#startsWith#(#TESTLISTENER_PREFIX#)#)#{#log#(#output#,#Project#.#MSG_VERBOSE#)#;#}#else##if#(#runner#!=#null#)#{##if#(#outputToFormatters#)#{#runner#.#handleOutput#(#output#)#;#}##if#(#showOutput#)#{#super#.#handleOutput#(#output#)#;#}#}#else#{#super#.#handleOutput#(#output#)#;#}#}

@@ -1,0 +1,1 @@
+void#setHaltonerror#(#boolean#haltonerror#)#{#this#.#haltonerror#=#haltonerror#;#}

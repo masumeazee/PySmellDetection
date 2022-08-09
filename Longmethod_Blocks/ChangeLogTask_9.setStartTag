@@ -1,0 +1,1 @@
+void#setStartTag#(#final#String#start#)#{#this#.#startTag#=#start#;#}

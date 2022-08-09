@@ -1,0 +1,1 @@
+String#getXalanVersion#(#String#procVersionClassName#)#throws#ClassNotFoundException#{#Class#procVersion#=#Class#.#forName#(#procVersionClassName#)#;#String#pkg#=#procVersion#.#getPackage#(#)#.#getName#(#)#;##try#{#Field#f#=#procVersion#.#getField#(#"S_VERSION"#)#;##return#pkg#+#" "#+#f#.#get#(#null#)#.#toString#(#)#;#}##catch#(#Exception#e#)#{##return#pkg#+#" ?.?"#;#}#}

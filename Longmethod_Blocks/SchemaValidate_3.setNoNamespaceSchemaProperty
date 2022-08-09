@@ -1,0 +1,1 @@
+void#setNoNamespaceSchemaProperty#(#String#property#)#{#String#anonSchema#=#getNoNamespaceSchemaURL#(#)#;##if#(#anonSchema#!=#null#)#{#setProperty#(#property#,#anonSchema#)#;#}#}

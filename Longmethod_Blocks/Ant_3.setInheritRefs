@@ -1,0 +1,1 @@
+void#setInheritRefs#(#boolean#value#)#{#inheritRefs#=#value#;#}

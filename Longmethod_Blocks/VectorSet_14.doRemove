@@ -1,0 +1,1 @@
+boolean#doRemove#(#Object#o#)#{##// again, remove seems to delegate to removeElement, but we##// shouldn't trust it##if#(#set#.#remove#(#o#)#)#{#int#index#=#indexOf#(#o#)#;#System#.#arraycopy#(#elementData#,#index#+#1#,#elementData#,#index#,#size#(#)#-#index#)#;#elementCount#--#;##return#true#;#}##return#false#;#}

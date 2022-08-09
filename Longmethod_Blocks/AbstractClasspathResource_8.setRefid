@@ -1,0 +1,1 @@
+void#setRefid#(#Reference#r#)#{##if#(#loader#!=#null#||#classpath#!=#null#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#r#)#;#}

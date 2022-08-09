@@ -1,0 +1,1 @@
+boolean#eval#(#)#{##if#(#countConditions#(#)#!=#1#)#{#throw#new#BuildException#(#"A single nested condition is required."#)#;#}##return#(#(#Condition#)#(#getConditions#(#)#.#nextElement#(#)#)#)#.#eval#(#)#;#}

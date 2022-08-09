@@ -1,0 +1,1 @@
+void#addFilesMatch#(#FilesMatch#test#)#{#conditions#.#addElement#(#test#)#;#}

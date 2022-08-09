@@ -1,0 +1,1 @@
+void#setWhenempty#(#WhenEmpty#we#)#{#log#(#"JARs are never empty, they contain at least a manifest file"#,#Project#.#MSG_WARN#)#;#}

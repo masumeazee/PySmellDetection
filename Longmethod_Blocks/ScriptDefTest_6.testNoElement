@@ -1,0 +1,1 @@
+void#testNoElement#(#)#{#expectOutput#(#"noelement"#,#"Attribute attr1 = test"#)#;#}

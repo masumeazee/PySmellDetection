@@ -1,0 +1,1 @@
+Object#clone#(#)#throws#BuildException#{##if#(#isReference#(#)#)#{##return#(#(#FilterSet#)#getRef#(#)#)#.#clone#(#)#;#}##try#{#FilterSet#fs#=#(#FilterSet#)#super#.#clone#(#)#;#fs#.#filters#=#(#Vector#)#getFilters#(#)#.#clone#(#)#;#fs#.#setProject#(#getProject#(#)#)#;##return#fs#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

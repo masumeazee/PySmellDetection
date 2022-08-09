@@ -1,0 +1,1 @@
+String#replaceProperties#(#String#value#)#throws#BuildException#{##return#PropertyHelper#.#getPropertyHelper#(#this#)#.#replaceProperties#(#null#,#value#,#null#)#;#}

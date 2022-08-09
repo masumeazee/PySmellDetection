@@ -1,0 +1,1 @@
+Vector#getBuildListeners#(#)#{#synchronized#(#listenersLock#)#{#Vector#r#=#new#Vector#(#listeners#.#length#)#;##for#(#int#i#=#0#;##i#<#listeners#.#length#;#i#++#)#{#r#.#add#(#listeners#[#i#]#)#;#}##return#r#;#}#}

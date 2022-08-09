@@ -1,0 +1,1 @@
+void#setPackage#(#String#p#)#{#mypackage#=#p#;#}

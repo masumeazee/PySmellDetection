@@ -1,0 +1,1 @@
+void#append#(#Path#other#)#{##if#(#other#==#null#)#{##return#;#}##add#(#other#)#;#}

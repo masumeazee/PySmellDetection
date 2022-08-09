@@ -1,0 +1,1 @@
+void#testCaseSensitive#(#)#{#Contains#con#=#new#Contains#(#)#;#con#.#setString#(#"abc"#)#;#con#.#setSubstring#(#"A"#)#;#assertTrue#(#!#con#.#eval#(#)#)#;#con#.#setCasesensitive#(#false#)#;#assertTrue#(#con#.#eval#(#)#)#;#}

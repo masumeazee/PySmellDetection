@@ -1,0 +1,1 @@
+void#checkPermission#(#Permission#perm#)#{##// no permission here#}

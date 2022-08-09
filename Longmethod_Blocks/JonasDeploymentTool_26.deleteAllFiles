@@ -1,0 +1,1 @@
+void#deleteAllFiles#(#File#aFile#)#{##if#(#aFile#.#isDirectory#(#)#)#{#File#[#]#someFiles#=#aFile#.#listFiles#(#)#;##for#(#int#i#=#0#;##i#<#someFiles#.#length#;#i#++#)#{#deleteAllFiles#(#someFiles#[#i#]#)#;#}#}##aFile#.#delete#(#)#;#}

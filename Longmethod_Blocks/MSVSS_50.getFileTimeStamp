@@ -1,0 +1,1 @@
+String#getFileTimeStamp#(#)#{##if#(#timestamp#==#null#)#{##return#""#;#}#else##if#(#timestamp#.#getValue#(#)#.#equals#(#TIME_MODIFIED#)#)#{##return#FLAG_FILETIME_MODIFIED#;#}#else##if#(#timestamp#.#getValue#(#)#.#equals#(#TIME_UPDATED#)#)#{##return#FLAG_FILETIME_UPDATED#;#}#else#{##return#FLAG_FILETIME_DEF#;#}#}

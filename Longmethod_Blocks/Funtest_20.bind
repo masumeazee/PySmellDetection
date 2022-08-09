@@ -1,0 +1,1 @@
+void#bind#(#Task#task#)#{#task#.#bindToOwner#(#this#)#;#task#.#init#(#)#;#}

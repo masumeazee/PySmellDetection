@@ -1,0 +1,1 @@
+void#setCaseSensitive#(#boolean#caseSensitive#)#{##if#(#!#caseSensitive#)#{#regexpOptions#=#RegexpMatcher#.#MATCH_CASE_INSENSITIVE#;#}#else#{#regexpOptions#=#0#;#}#}

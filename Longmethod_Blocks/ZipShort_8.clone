@@ -1,0 +1,1 @@
+Object#clone#(#)#{#try#{##return#super#.#clone#(#)#;#}##catch#(#CloneNotSupportedException#cnfe#)#{##// impossible#throw#new#RuntimeException#(#cnfe#)#;#}#}

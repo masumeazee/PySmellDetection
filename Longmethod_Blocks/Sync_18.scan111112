@@ -1,0 +1,1 @@
+void#scan#(#File#fromDir#,#File#toDir#,#String#[#]#files#,#String#[#]#dirs#)#{#assertTrue#(#"No mapper"#,#mapperElement#==#null#)#;#super#.#scan#(#fromDir#,#toDir#,#files#,#dirs#)#;##for#(#int#i#=#0#;##i#<#files#.#length#;#++#i#)#{#nonOrphans#.#add#(#files#[#i#]#)#;#}##for#(#int#i#=#0#;##i#<#dirs#.#length#;#++#i#)#{#nonOrphans#.#add#(#dirs#[#i#]#)#;#}#}

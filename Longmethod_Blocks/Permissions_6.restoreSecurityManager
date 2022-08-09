@@ -1,0 +1,1 @@
+void#restoreSecurityManager#(#)#{#active#=#false#;#System#.#setSecurityManager#(#origSm#)#;#}

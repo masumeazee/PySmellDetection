@@ -1,0 +1,1 @@
+void#testNonTestCaseName#(#)#{#assertEquals#(#"I'm a foo"#,#JUnitVersionHelper#.#getTestCaseName#(#new#Foo1#(#)#)#)#;#}

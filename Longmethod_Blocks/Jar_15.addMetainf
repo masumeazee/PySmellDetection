@@ -1,0 +1,1 @@
+void#addMetainf#(#ZipFileSet#fs#)#{##// We just set the prefix for this fileset, and pass it up.#fs#.#setPrefix#(#"META-INF/"#)#;#super#.#addFileset#(#fs#)#;#}

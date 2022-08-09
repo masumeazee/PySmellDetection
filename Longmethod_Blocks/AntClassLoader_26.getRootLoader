@@ -1,0 +1,1 @@
+ClassLoader#getRootLoader#(#)#{#ClassLoader#ret#=#getClass#(#)#.#getClassLoader#(#)#;##while#(#ret#!=#null#&&#ret#.#getParent#(#)#!=#null#)#{#ret#=#ret#.#getParent#(#)#;#}##return#ret#;#}

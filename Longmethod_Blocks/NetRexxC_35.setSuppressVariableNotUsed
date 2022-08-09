@@ -1,0 +1,1 @@
+void#setSuppressVariableNotUsed#(#boolean#suppressVariableNotUsed#)#{#this#.#suppressVariableNotUsed#=#suppressVariableNotUsed#;#}

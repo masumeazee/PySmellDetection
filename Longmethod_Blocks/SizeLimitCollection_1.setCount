@@ -1,0 +1,1 @@
+void#setCount#(#int#i#)#{#checkAttributesAllowed#(#)#;#count#=#i#;#}

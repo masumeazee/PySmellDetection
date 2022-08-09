@@ -1,0 +1,1 @@
+void#setInputHandler#(#InputHandler#handler#)#{#inputHandler#=#handler#;#}

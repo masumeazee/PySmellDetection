@@ -1,0 +1,1 @@
+void#dieOnCircularReference#(#Project#p#)#{##if#(#checked#||#!#isReference#(#)#)#{##return#;#}##dieOnCircularReference#(#new#IdentityStack#(#this#)#,#p#)#;#}

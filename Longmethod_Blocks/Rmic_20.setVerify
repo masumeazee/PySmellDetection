@@ -1,0 +1,1 @@
+void#setVerify#(#boolean#verify#)#{#this#.#verify#=#verify#;#}

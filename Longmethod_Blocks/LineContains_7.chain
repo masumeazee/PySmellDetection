@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#LineContains#newFilter#=#new#LineContains#(#rdr#)#;#newFilter#.#setContains#(#getContains#(#)#)#;#newFilter#.#setNegate#(#isNegated#(#)#)#;##return#newFilter#;#}

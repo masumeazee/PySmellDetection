@@ -1,0 +1,1 @@
+DocumentBuilder#getDocumentBuilder#(#)#{#try#{##return#DocumentBuilderFactory#.#newInstance#(#)#.#newDocumentBuilder#(#)#;#}##catch#(#Exception#e#)#{#throw#new#ExceptionInInitializerError#(#e#)#;#}#}

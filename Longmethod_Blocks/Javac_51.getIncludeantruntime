@@ -1,0 +1,1 @@
+boolean#getIncludeantruntime#(#)#{##return#includeAntRuntime#!=#null#?#includeAntRuntime#.#booleanValue#(#)#:#true#;#}

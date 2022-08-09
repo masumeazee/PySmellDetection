@@ -1,0 +1,1 @@
+void#configureProject#(#String#filename#)#throws#BuildException#{#configureProject#(#filename#,#Project#.#MSG_DEBUG#)#;#}

@@ -1,0 +1,1 @@
+void#setRemoteFile#(#String#aFromUri#)#{#validateRemoteUri#(#"remoteFile"#,#aFromUri#)#;#setFromUri#(#aFromUri#)#;#this#.#isFromRemote#=#true#;#}

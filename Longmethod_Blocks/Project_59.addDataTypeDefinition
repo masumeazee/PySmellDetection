@@ -1,0 +1,1 @@
+void#addDataTypeDefinition#(#String#typeName#,#Class#typeClass#)#{#ComponentHelper#.#getComponentHelper#(#this#)#.#addDataTypeDefinition#(#typeName#,#typeClass#)#;#}

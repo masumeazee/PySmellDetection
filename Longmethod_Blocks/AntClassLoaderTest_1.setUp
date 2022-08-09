@@ -1,0 +1,1 @@
+void#setUp#(#)#{#p#=#new#Project#(#)#;#p#.#init#(#)#;#configureProject#(#"src/etc/testcases/core/antclassloader.xml"#)#;#getProject#(#)#.#executeTarget#(#"setup"#)#;#}

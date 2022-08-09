@@ -1,0 +1,1 @@
+void#run#(#)#{#synchronized#(#processes#)#{#running#=#true#;#Enumeration#e#=#processes#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#(#(#Process#)#e#.#nextElement#(#)#)#.#destroy#(#)#;#}#}#}

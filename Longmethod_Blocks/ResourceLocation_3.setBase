@@ -1,0 +1,1 @@
+void#setBase#(#URL#base#)#{#this#.#base#=#base#;#}

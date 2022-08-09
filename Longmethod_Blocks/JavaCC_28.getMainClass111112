@@ -1,0 +1,1 @@
+String#getMainClass#(#File#home#,#int#type#)#throws#BuildException#{#Path#p#=#new#Path#(#null#)#;#p#.#createPathElement#(#)#.#setLocation#(#getArchiveFile#(#home#)#)#;#p#.#addJavaRuntime#(#)#;##return#getMainClass#(#p#,#type#)#;#}

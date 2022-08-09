@@ -1,0 +1,1 @@
+void#validate#(#)#{##//validation##if#(#property#==#null#)#{#throw#new#BuildException#(#ERROR_NO_PROPERTY#)#;#}##if#(#file#==#null#&&#filesets#.#isEmpty#(#)#&&#paths#.#isEmpty#(#)#)#{#throw#new#BuildException#(#ERROR_NO_FILES#)#;#}#}

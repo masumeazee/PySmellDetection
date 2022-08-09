@@ -1,0 +1,1 @@
+void#setCreateFile#(#boolean#createFile#)#{#this#.#createFile#=#createFile#;#}

@@ -1,0 +1,1 @@
+void#logFuture#(#ResourceCollection#rc#,#ResourceSelector#rsel#)#{#Restrict#r#=#new#Restrict#(#)#;#r#.#add#(#rsel#)#;#r#.#add#(#rc#)#;##for#(#Iterator#i#=#r#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#log#(#"Warning: "#+#i#.#next#(#)#+#" modified in the future."#,#Project#.#MSG_WARN#)#;#}#}

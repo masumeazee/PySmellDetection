@@ -1,0 +1,4 @@
+Hashtable#parseEjbFiles#(#String#descriptorFileName#,#SAXParser#saxParser#)#throws#IOException#,#SAXException#{#FileInputStream#descriptorStream#=#null#;#Hashtable#ejbFiles#=#null#;##try#{##/* Parse the ejb deployment descriptor.  While it may not
+             * look like much, we use a SAXParser and an inner class to
+             * get hold of all the classfile names for the descriptor.
+             */#descriptorStream#=#new#FileInputStream#(#new#File#(#config#.#descriptorDir#,#descriptorFileName#)#)#;#saxParser#.#parse#(#new#InputSource#(#descriptorStream#)#,#handler#)#;#ejbFiles#=#handler#.#getFiles#(#)#;#}##finally#{##if#(#descriptorStream#!=#null#)#{#try#{#descriptorStream#.#close#(#)#;#}##catch#(#IOException#closeException#)#{##// ignore#}#}#}##return#ejbFiles#;#}

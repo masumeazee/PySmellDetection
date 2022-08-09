@@ -1,0 +1,1 @@
+void#appendFiles#(#Vector#files#,#DirectoryScanner#ds#)#{#String#[#]#dsfiles#=#ds#.#getIncludedFiles#(#)#;##for#(#int#i#=#0#;##i#<#dsfiles#.#length#;#i#++#)#{#files#.#addElement#(#dsfiles#[#i#]#)#;#}#}

@@ -1,0 +1,1 @@
+void#printResults#(#PrintStream#out#)#throws#SQLException#{#ResultSet#rs#=#getStatement#(#)#.#getResultSet#(#)#;##try#{#printResults#(#rs#,#out#)#;#}##finally#{##if#(#rs#!=#null#)#{#rs#.#close#(#)#;#}#}#}

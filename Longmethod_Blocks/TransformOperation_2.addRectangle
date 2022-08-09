@@ -1,0 +1,1 @@
+void#addRectangle#(#Rectangle#instr#)#{#instructions#.#add#(#instr#)#;#}

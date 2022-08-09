@@ -1,0 +1,1 @@
+void#testInheritBasedir#(#)#{#String#basedir#=#getProjectDir#(#)#.#getAbsolutePath#(#)#;#testBaseDirs#(#"inheritBasedir"#,#new#String#[#]#{#basedir#,#basedir#}#)#;#}

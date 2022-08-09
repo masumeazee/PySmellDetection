@@ -1,0 +1,1 @@
+void#closeQuietly#(#)#{##if#(#!#isAutocommit#(#)#&&#getConnection#(#)#!=#null#&&#onError#.#equals#(#"abort"#)#)#{#try#{#getConnection#(#)#.#rollback#(#)#;#}##catch#(#SQLException#ex#)#{##// ignore#}#}#}

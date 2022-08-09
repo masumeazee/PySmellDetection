@@ -1,0 +1,1 @@
+String#escapeName#(#String#s#)#{##return#escape#(#s#,#true#)#;#}

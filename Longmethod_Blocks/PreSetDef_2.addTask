@@ -1,0 +1,1 @@
+void#addTask#(#Task#nestedTask#)#{##if#(#this#.#nestedTask#!=#null#)#{#throw#new#BuildException#(#"Only one nested element allowed"#)#;#}##if#(#!#(#nestedTask#instanceof#UnknownElement#)#)#{#throw#new#BuildException#(#"addTask called with a task that is not an unknown element"#)#;#}##this#.#nestedTask#=#(#UnknownElement#)#nestedTask#;#}

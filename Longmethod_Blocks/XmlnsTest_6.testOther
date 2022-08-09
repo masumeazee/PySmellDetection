@@ -1,0 +1,1 @@
+void#testOther#(#)#{#expectLog#(#"other"#,#"a message"#)#;#}

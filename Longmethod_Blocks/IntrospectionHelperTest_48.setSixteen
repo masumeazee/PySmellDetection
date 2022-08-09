@@ -1,0 +1,1 @@
+void#setSixteen#(#Character#c#)#{#assertEquals#(#c#.#charValue#(#)#,#'a'#)#;#}

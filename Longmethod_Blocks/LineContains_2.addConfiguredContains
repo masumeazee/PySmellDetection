@@ -1,0 +1,1 @@
+void#addConfiguredContains#(#final#Contains#contains#)#{#this#.#contains#.#addElement#(#contains#.#getValue#(#)#)#;#}

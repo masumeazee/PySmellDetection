@@ -1,0 +1,1 @@
+void#storeChild#(#Project#project#,#Object#parent#,#Object#child#,#String#tag#)#{#IntrospectionHelper#ih#=#IntrospectionHelper#.#getHelper#(#project#,#parent#.#getClass#(#)#)#;#ih#.#storeElement#(#project#,#parent#,#child#,#tag#)#;#}

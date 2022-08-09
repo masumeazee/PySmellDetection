@@ -1,0 +1,1 @@
+void#sendFrom#(#String#from#)#throws#IOException#{#int#[#]#ok#=#{#OK_FROM#}#;#send#(#"MAIL FROM: "#+#"<"#+#sanitizeAddress#(#from#)#+#">"#,#ok#)#;#}

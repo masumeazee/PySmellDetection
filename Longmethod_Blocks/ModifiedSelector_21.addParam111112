@@ -1,0 +1,1 @@
+void#addParam#(#String#key#,#Object#value#)#{#Parameter#par#=#new#Parameter#(#)#;#par#.#setName#(#key#)#;#par#.#setValue#(#String#.#valueOf#(#value#)#)#;#configParameter#.#add#(#par#)#;#}

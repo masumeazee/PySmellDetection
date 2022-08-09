@@ -1,0 +1,1 @@
+boolean#isFilesystemOnly#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#isFilesystemOnly#(#)#;#}##validate#(#)#;##for#(#Iterator#i#=#getNested#(#)#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{##if#(#(#!#(#(#ResourceCollection#)#i#.#next#(#)#)#.#isFilesystemOnly#(#)#)#)#{##return#false#;#}#}##return#true#;#}

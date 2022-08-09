@@ -1,0 +1,1 @@
+String#format#(#long#date#,#String#pattern#)#{##return#format#(#new#Date#(#date#)#,#pattern#)#;#}

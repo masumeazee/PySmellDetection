@@ -1,0 +1,1 @@
+void#testWindowsLineSeparator2#(#)#throws#IOException#{#try#{#super#.#testWindowsLineSeparator2#(#)#;#fail#(#"Should trigger when this bug is fixed. {@since 1.2}"#)#;#}##catch#(#AssertionFailedError#e#)#{#}#}

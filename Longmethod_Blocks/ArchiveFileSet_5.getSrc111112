@@ -1,0 +1,1 @@
+File#getSrc#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#p#)#)#.#getSrc#(#p#)#;#}##return#getSrc#(#)#;#}

@@ -1,0 +1,1 @@
+void#setTablength#(#int#tlength#)#throws#BuildException#{#try#{#filter#.#setTablength#(#tlength#)#;#}##catch#(#IOException#e#)#{##// filter.setTablength throws IOException that would better be##// a BuildException#throw#new#BuildException#(#e#.#getMessage#(#)#,#e#)#;#}#}

@@ -1,0 +1,1 @@
+void#doit#(#InputStream#is#,#OutputStream#os#)#throws#Exception#;

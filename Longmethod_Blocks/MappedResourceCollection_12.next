@@ -1,0 +1,1 @@
+Object#next#(#)#{##return#new#MappedResource#(#(#Resource#)#sourceIterator#.#next#(#)#,#mapper#)#;#}

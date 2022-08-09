@@ -1,0 +1,1 @@
+void#startTest#(#Test#t#)#{#testStarts#.#put#(#t#,#new#Long#(#System#.#currentTimeMillis#(#)#)#)#;#failed#.#put#(#t#,#Boolean#.#FALSE#)#;#}

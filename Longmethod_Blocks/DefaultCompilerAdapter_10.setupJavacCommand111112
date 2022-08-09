@@ -1,0 +1,1 @@
+Commandline#setupJavacCommand#(#boolean#debugLevelCheck#)#{#Commandline#cmd#=#new#Commandline#(#)#;#setupJavacCommandlineSwitches#(#cmd#,#debugLevelCheck#)#;#logAndAddFilesToCompile#(#cmd#)#;##return#cmd#;#}

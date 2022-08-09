@@ -1,0 +1,1 @@
+void#setNoindex#(#boolean#b#)#{#addArgIf#(#b#,#"-noindex"#)#;#}

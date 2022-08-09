@@ -1,0 +1,1 @@
+void#setLocalpath#(#Path#localPath#)#{#this#.#localPath#=#localPath#.#toString#(#)#;#}

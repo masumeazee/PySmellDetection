@@ -1,0 +1,1 @@
+void#setUp#(#)#throws#Exception#{#destroyTempFiles#(#)#;#initTestPropFile#(#)#;#initBuildPropFile#(#)#;#configureProject#(#projectFilePath#)#;#project#.#setProperty#(#valueDoesNotGetOverwrittenPropertyFileKey#,#valueDoesNotGetOverwrittenPropertyFile#)#;#}

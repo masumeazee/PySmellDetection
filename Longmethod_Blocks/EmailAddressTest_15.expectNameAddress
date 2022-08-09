@@ -1,0 +1,1 @@
+void#expectNameAddress#(#EmailAddress#e#)#{#assertEquals#(#"name"#,#e#.#getName#(#)#)#;#assertEquals#(#"address"#,#e#.#getAddress#(#)#)#;#}

@@ -1,0 +1,1 @@
+void#testDirectoryHierarchyWithDirMatching#(#)#throws#Exception#{#executeTarget#(#"testDirectoryHierarchyWithDirMatching"#)#;#assertTrue#(#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"out/dest/level1/data.html"#)#.#exists#(#)#)#;#}

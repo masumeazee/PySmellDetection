@@ -1,0 +1,1 @@
+void#setRawBlobs#(#boolean#rawBlobs#)#{#this#.#rawBlobs#=#rawBlobs#;#}

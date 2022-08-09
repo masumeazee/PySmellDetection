@@ -1,0 +1,1 @@
+void#testPrefix#(#)#{#Commandline#c#=#new#Commandline#(#)#;#Commandline#.#Argument#a#=#c#.#createArgument#(#)#;#a#.#setValue#(#"foo"#)#;#a#.#setPrefix#(#"-f="#)#;#String#[#]#s#=#c#.#getCommandline#(#)#;#assertEquals#(#1#,#s#.#length#)#;#assertEquals#(#"-f=foo"#,#s#[#0#]#)#;#}

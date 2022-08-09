@@ -1,0 +1,1 @@
+void#setInternalUser#(#final#String#user#)#{#this#.#user#=#user#;#}

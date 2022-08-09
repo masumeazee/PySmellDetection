@@ -1,0 +1,1 @@
+void#targetStarted#(#BuildEvent#event#)#{##//System.out.println("targetStarted " + event.getTarget().getName());#}

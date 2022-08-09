@@ -1,0 +1,1 @@
+void#setTimeoutUnit#(#WaitFor#.#Unit#unit#)#{#timeoutUnitMultiplier#=#unit#.#getMultiplier#(#)#;#}

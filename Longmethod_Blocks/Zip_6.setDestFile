@@ -1,0 +1,1 @@
+void#setDestFile#(#File#destFile#)#{#this#.#zipFile#=#destFile#;#}

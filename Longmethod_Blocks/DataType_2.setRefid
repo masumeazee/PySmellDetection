@@ -1,0 +1,1 @@
+void#setRefid#(#final#Reference#ref#)#{#this#.#ref#=#ref#;#checked#=#false#;#}

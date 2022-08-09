@@ -1,0 +1,1 @@
+JonasDeploymentTool#createJonas#(#)#{#log#(#"JOnAS deployment tools"#,#Project#.#MSG_VERBOSE#)#;#JonasDeploymentTool#tool#=#new#JonasDeploymentTool#(#)#;#addDeploymentTool#(#tool#)#;##return#tool#;#}

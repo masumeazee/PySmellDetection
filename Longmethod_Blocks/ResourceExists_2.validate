@@ -1,0 +1,1 @@
+void#validate#(#)#throws#BuildException#{##if#(#resource#==#null#)#{#throw#new#BuildException#(#"resource is required"#)#;#}#}

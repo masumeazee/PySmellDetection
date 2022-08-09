@@ -1,0 +1,1 @@
+String#flattenToString#(#Collection#c#)#{#Iterator#iter#=#c#.#iterator#(#)#;#boolean#first#=#true#;#StringBuffer#sb#=#new#StringBuffer#(#)#;##while#(#iter#.#hasNext#(#)#)#{##if#(#!#first#)#{#sb#.#append#(#","#)#;#}##sb#.#append#(#String#.#valueOf#(#iter#.#next#(#)#)#)#;#first#=#false#;#}##return#sb#.#toString#(#)#;#}

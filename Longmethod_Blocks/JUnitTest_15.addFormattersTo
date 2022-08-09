@@ -1,0 +1,1 @@
+void#addFormattersTo#(#Vector#v#)#{#final#int#count#=#formatters#.#size#(#)#;##for#(#int#i#=#0#;##i#<#count#;#i#++#)#{#v#.#addElement#(#formatters#.#elementAt#(#i#)#)#;#}#}

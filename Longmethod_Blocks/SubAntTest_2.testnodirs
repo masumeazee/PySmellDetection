@@ -1,0 +1,1 @@
+void#testnodirs#(#)#{#project#.#executeTarget#(#"testnodirs"#)#;#expectLog#(#"testnodirs"#,#"No sub-builds to iterate on"#)#;#}

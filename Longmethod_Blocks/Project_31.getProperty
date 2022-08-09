@@ -1,0 +1,1 @@
+String#getProperty#(#String#propertyName#)#{#Object#value#=#PropertyHelper#.#getPropertyHelper#(#this#)#.#getProperty#(#propertyName#)#;##return#value#==#null#?#null#:#String#.#valueOf#(#value#)#;#}

@@ -1,0 +1,1 @@
+void#setUserProperty#(#String#name#,#Object#value#)#{##if#(#project#!=#null#)#{#project#.#log#(#"Setting ro project property: "#+#name#+#" -> "#+#value#,#Project#.#MSG_DEBUG#)#;#}##synchronized#(#this#)#{#userProperties#.#put#(#name#,#value#)#;#properties#.#put#(#name#,#value#)#;#}#}

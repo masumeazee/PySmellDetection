@@ -1,0 +1,1 @@
+void#logBuildException#(#String#reason#,#BuildException#e#)#{#Throwable#t#=#e#.#getCause#(#)#==#null#?#e#:#e#.#getCause#(#)#;#log#(#reason#+#t#.#getMessage#(#)#,#Project#.#MSG_WARN#)#;#}

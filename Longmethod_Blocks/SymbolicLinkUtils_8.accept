@@ -1,0 +1,1 @@
+boolean#accept#(#File#d#,#String#n#)#{##return#localName#.#equals#(#n#)#;#}

@@ -1,0 +1,1 @@
+void#setRemote#(#final#boolean#remote#)#{#this#.#remote#=#remote#;#}

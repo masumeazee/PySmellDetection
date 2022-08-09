@@ -1,0 +1,1 @@
+Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#iterator#(#)#;#}##validate#(#)#;##return#new#FailFast#(#this#,#coll#.#iterator#(#)#)#;#}

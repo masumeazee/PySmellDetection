@@ -1,0 +1,1 @@
+void#setUsername#(#String#username#)#{#sosUsername#=#username#;#}

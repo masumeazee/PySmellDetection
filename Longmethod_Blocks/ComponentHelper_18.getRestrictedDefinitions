@@ -1,0 +1,1 @@
+List#getRestrictedDefinitions#(#String#componentName#)#{#synchronized#(#restrictedDefinitions#)#{##return#(#List#)#restrictedDefinitions#.#get#(#componentName#)#;#}#}

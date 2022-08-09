@@ -1,0 +1,1 @@
+void#setSerialwarn#(#boolean#b#)#{#addArgIf#(#b#,#"-serialwarn"#)#;#}

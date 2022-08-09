@@ -1,0 +1,1 @@
+boolean#wasSuccessful#(#)#throws#IOException#,#BuildException#{##if#(#ioexception#!=#null#)#{#throw#ioexception#;#}##if#(#exception#!=#null#)#{#throw#exception#;#}##return#success#;#}

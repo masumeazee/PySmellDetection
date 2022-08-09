@@ -1,0 +1,1 @@
+long#lastModified#(#)#{##if#(#file#!=#null#)#{##return#file#.#getTimestamp#(#)#.#getTimeInMillis#(#)#;#}##return#0#;#}

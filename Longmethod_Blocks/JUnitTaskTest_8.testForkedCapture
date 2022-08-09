@@ -1,0 +1,1 @@
+void#testForkedCapture#(#)#throws#IOException#{#getProject#(#)#.#setProperty#(#"fork"#,#"true"#)#;#testNonForkedCapture#(#)#;##// those would fail because of the way BuildFileTest captures output#assertNoPrint#(#getOutput#(#)#,#"output"#)#;#assertNoPrint#(#getError#(#)#,#"error output"#)#;#assertOutput#(#)#;#}

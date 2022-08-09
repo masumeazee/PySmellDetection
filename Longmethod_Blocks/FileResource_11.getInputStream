@@ -1,0 +1,1 @@
+InputStream#getInputStream#(#)#throws#IOException#{##return#isReference#(#)#?#(#(#Resource#)#getCheckedRef#(#)#)#.#getInputStream#(#)#:#new#FileInputStream#(#getNotNullFile#(#)#)#;#}

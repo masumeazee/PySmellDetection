@@ -1,0 +1,1 @@
+void#setOtherambiguityCheck#(#int#otherAmbiguityCheck#)#{#optionalAttrs#.#put#(#OTHER_AMBIGUITY_CHECK#,#new#Integer#(#otherAmbiguityCheck#)#)#;#}

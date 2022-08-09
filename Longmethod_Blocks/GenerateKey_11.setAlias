@@ -1,0 +1,1 @@
+void#setAlias#(#final#String#alias#)#{#this#.#alias#=#alias#;#}

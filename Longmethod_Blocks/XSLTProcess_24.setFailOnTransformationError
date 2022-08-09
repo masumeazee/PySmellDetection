@@ -1,0 +1,1 @@
+void#setFailOnTransformationError#(#boolean#b#)#{#failOnTransformationError#=#b#;#}

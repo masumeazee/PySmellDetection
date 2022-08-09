@@ -1,0 +1,1 @@
+void#processFile#(#File#file#)#{#processFile#(#file#,#new#File#(#destDir#==#null#?#srcDir#:#destDir#,#file#.#getName#(#)#)#)#;#}

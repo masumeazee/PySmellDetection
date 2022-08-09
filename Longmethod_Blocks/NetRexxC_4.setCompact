@@ -1,0 +1,1 @@
+void#setCompact#(#boolean#compact#)#{#this#.#compact#=#compact#;#}

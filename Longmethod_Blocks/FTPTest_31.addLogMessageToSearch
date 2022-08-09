@@ -1,0 +1,1 @@
+void#addLogMessageToSearch#(#String#message#)#{#searchMap#.#put#(#message#,#new#Integer#(#0#)#)#;#}

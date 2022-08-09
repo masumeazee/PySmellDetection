@@ -1,0 +1,1 @@
+boolean#isFilesystemOnly#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceList#)#getCheckedRef#(#)#)#.#isFilesystemOnly#(#)#;#}##return#cache#(#)#.#isFilesystemOnly#(#)#;#}

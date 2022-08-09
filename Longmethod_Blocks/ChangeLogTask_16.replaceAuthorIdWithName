@@ -1,0 +1,1 @@
+void#replaceAuthorIdWithName#(#final#Properties#userList#,#final#CVSEntry#[#]#entrySet#)#{#for#(#int#i#=#0#;##i#<#entrySet#.#length#;#i#++#)#{#final#CVSEntry#entry#=#entrySet#[#i#]#;##if#(#userList#.#containsKey#(#entry#.#getAuthor#(#)#)#)#{#entry#.#setAuthor#(#userList#.#getProperty#(#entry#.#getAuthor#(#)#)#)#;#}#}#}

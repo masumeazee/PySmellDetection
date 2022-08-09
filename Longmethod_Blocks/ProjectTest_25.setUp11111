@@ -1,0 +1,1 @@
+void#setUp#(#)#{##if#(#!#isConfigured#)#{#configureProject#(#"src/etc/testcases/"#+#buildfile#)#;#isConfigured#=#true#;#}#}

@@ -1,0 +1,1 @@
+void#setClass#(#Class#clazz#)#{#throw#new#BuildException#(#"Not supported"#)#;#}

@@ -1,0 +1,1 @@
+void#stop#(#)#{#stop#=#System#.#currentTimeMillis#(#)#;#}

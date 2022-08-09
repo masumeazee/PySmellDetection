@@ -1,0 +1,1 @@
+void#setTrace#(#boolean#trace#)#{#this#.#trace#=#trace#;#}

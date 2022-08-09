@@ -1,0 +1,1 @@
+String#getPattern#(#Project#p#)#{#init#(#p#)#;##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#getPattern#(#p#)#;#}##setPattern#(#)#;##return#regexp#.#getPattern#(#)#;#}

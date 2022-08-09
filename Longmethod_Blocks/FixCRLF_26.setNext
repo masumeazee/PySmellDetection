@@ -1,0 +1,1 @@
+void#setNext#(#int#next#)#{#this#.#next#=#next#;#}

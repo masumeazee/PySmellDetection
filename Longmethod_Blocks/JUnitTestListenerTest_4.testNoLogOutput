@@ -1,0 +1,1 @@
+void#testNoLogOutput#(#)#{#executeTarget#(#PASS_TEST_TARGET#)#;#assertFalse#(#"expecting log to not have BuildListener events"#,#hasBuildListenerEvents#(#getLog#(#)#)#)#;#}

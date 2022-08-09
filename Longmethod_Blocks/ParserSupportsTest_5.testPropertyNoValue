@@ -1,0 +1,1 @@
+void#testPropertyNoValue#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testPropertyNoValue"#,#ParserSupports#.#ERROR_NO_VALUE#,#ParserSupports#.#ERROR_NO_VALUE#)#;#}

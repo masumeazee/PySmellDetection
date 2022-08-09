@@ -1,0 +1,1 @@
+File#getClassContainer#(#String#classname#)#throws#IOException#{#String#classLocation#=#classname#.#replace#(#'.'#,#'/'#)#+#".class"#;##// we look through the classpath elements. If the element is a dir##// we look for the file. IF it is a zip, we look for the zip entry##return#getResourceContainer#(#classLocation#,#classPath#.#list#(#)#)#;#}

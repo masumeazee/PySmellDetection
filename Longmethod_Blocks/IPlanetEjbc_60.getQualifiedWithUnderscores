@@ -1,0 +1,1 @@
+String#getQualifiedWithUnderscores#(#)#{##return#qualifiedName#.#replace#(#'.'#,#'_'#)#;#}

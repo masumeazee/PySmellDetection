@@ -1,0 +1,1 @@
+void#setJvmDebugLevel#(#Integer#jvmDebugLevel#)#{#this#.#jvmDebugLevel#=#jvmDebugLevel#;#}

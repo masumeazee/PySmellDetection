@@ -1,0 +1,1 @@
+boolean#retainAll#(#Collection#c#)#{#LinkedList#l#=#new#LinkedList#(#)#;##for#(#Iterator#i#=#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Object#o#=#i#.#next#(#)#;##if#(#!#c#.#contains#(#o#)#)#{#l#.#addLast#(#o#)#;#}#}##if#(#!#l#.#isEmpty#(#)#)#{#removeAll#(#l#)#;##return#true#;#}##return#false#;#}

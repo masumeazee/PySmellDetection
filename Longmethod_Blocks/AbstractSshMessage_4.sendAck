@@ -1,0 +1,1 @@
+void#sendAck#(#OutputStream#out#)#throws#IOException#{#byte#[#]#buf#=#new#byte#[#1#]#;#buf#[#0#]#=#0#;#out#.#write#(#buf#)#;#out#.#flush#(#)#;#}

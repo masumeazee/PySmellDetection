@@ -1,0 +1,1 @@
+void#addReplaceString#(#TokenFilter#.#ReplaceString#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

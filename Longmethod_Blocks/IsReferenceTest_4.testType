@@ -1,0 +1,1 @@
+void#testType#(#)#{#expectPropertySet#(#"type"#,#"global-path"#)#;#assertPropertyUnset#(#"global-path-as-fileset"#)#;#assertPropertyUnset#(#"global-path-as-foo"#)#;#assertPropertySet#(#"global-echo"#)#;#}

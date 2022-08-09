@@ -1,0 +1,1 @@
+void#testNotEnoughArgs#(#)#{#expectSpecificBuildException#(#"isreference-incomplete"#,#"refid attribute has been omitted"#,#"No reference specified for isreference "#+#"condition"#)#;#}

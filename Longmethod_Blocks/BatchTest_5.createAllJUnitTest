@@ -1,0 +1,1 @@
+JUnitTest#[#]#createAllJUnitTest#(#)#{#String#[#]#filenames#=#getFilenames#(#)#;#JUnitTest#[#]#tests#=#new#JUnitTest#[#filenames#.#length#]#;##for#(#int#i#=#0#;##i#<#tests#.#length#;#i#++#)#{#String#classname#=#javaToClass#(#filenames#[#i#]#)#;#tests#[#i#]#=#createJUnitTest#(#classname#)#;#}##return#tests#;#}

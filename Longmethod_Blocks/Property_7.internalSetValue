@@ -1,0 +1,1 @@
+void#internalSetValue#(#Object#value#)#{#this#.#untypedValue#=#value#;##//preserve protected string value for subclasses :(#this#.#value#=#value#==#null#?#null#:#value#.#toString#(#)#;#}

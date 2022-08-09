@@ -1,0 +1,1 @@
+Artifact#[#]#getArtifacts#(#)#{#return#artifacts#;#}##

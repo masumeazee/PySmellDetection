@@ -1,0 +1,1 @@
+void#addMessage#(#Message#message#)#throws#BuildException#{##if#(#this#.#message#!=#null#)#{#throw#new#BuildException#(#"Only one message can be sent in an email"#)#;#}##this#.#message#=#message#;#}

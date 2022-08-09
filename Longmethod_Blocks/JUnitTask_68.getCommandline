@@ -1,0 +1,1 @@
+CommandlineJava#getCommandline#(#)#{##if#(#commandline#==#null#)#{#commandline#=#new#CommandlineJava#(#)#;#}##return#commandline#;#}

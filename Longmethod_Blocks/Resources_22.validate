@@ -1,0 +1,1 @@
+void#validate#(#)#{#dieOnCircularReference#(#)#;#coll#=#(#coll#==#null#)#?#new#MyCollection#(#)#:#coll#;#}

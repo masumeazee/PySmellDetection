@@ -1,0 +1,1 @@
+boolean#accept#(#File#dir1#,#String#name#)#{##return#name#.#endsWith#(#".java"#)#||#(#includeNoSourcePackages#&&#name#.#equals#(#"package.html"#)#)#;#}

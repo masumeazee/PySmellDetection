@@ -1,0 +1,1 @@
+void#addText#(#String#text#)#{#helper#.#addText#(#text#)#;#}

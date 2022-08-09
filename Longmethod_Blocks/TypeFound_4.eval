@@ -1,0 +1,1 @@
+boolean#eval#(#)#throws#BuildException#{##if#(#name#==#null#)#{#throw#new#BuildException#(#"No type specified"#)#;#}##return#doesTypeExist#(#name#)#;#}

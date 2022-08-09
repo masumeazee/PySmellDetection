@@ -1,0 +1,1 @@
+void#setValue#(#long#size#)#{#this#.#size#=#size#;##if#(#multiplier#!=#0#&&#size#>#-#1#)#{#sizelimit#=#size#*#multiplier#;#}#}

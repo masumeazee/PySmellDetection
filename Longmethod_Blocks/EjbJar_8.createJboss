@@ -1,0 +1,1 @@
+JbossDeploymentTool#createJboss#(#)#{#JbossDeploymentTool#tool#=#new#JbossDeploymentTool#(#)#;#addDeploymentTool#(#tool#)#;##return#tool#;#}

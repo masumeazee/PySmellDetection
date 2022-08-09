@@ -1,0 +1,1 @@
+void#addSourcePath#(#Path#sourcePath#)#{##if#(#sourcePath#==#null#)#{##return#;#}##this#.#sourcePath#.#append#(#sourcePath#)#;#this#.#sourcePath#.#setProject#(#sourcePath#.#getProject#(#)#)#;#}

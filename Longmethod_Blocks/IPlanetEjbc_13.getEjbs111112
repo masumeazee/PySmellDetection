@@ -1,0 +1,4 @@
+EjbInfo#[#]#getEjbs#(#)#throws#IOException#,#SAXException#{#EjbInfo#[#]#ejbs#=#null#;##/*
+         * The EJB information is gathered from the standard XML EJB descriptor
+         * and the iAS-specific XML EJB descriptor using a SAX parser.
+         */#parser#.#parse#(#stdDescriptor#,#handler#)#;#parser#.#parse#(#iasDescriptor#,#handler#)#;#ejbs#=#handler#.#getEjbs#(#)#;##return#ejbs#;#}

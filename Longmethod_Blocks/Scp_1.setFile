@@ -1,0 +1,1 @@
+void#setFile#(#String#aFromUri#)#{#setFromUri#(#aFromUri#)#;#this#.#isFromRemote#=#isRemoteUri#(#this#.#fromUri#)#;#}

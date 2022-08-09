@@ -1,0 +1,1 @@
+String#getClassLoadId#(#)#{##if#(#loaderId#==#null#&&#classpathId#!=#null#)#{##return#MagicNames#.#REFID_CLASSPATH_LOADER_PREFIX#+#classpathId#;#}#else#{##return#loaderId#;#}#}

@@ -1,0 +1,1 @@
+void#zipResource#(#Resource#resource#,#OutputStream#zOut#)#throws#IOException#{#InputStream#rIn#=#resource#.#getInputStream#(#)#;##try#{#zipFile#(#rIn#,#zOut#)#;#}##finally#{#rIn#.#close#(#)#;#}#}

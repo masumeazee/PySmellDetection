@@ -1,0 +1,1 @@
+void#setArg2#(#Object#arg2#)#{##if#(#arg2#instanceof#String#)#{#setArg2#(#(#String#)#arg2#)#;#}#else#{#setArg2Internal#(#arg2#)#;#}#}

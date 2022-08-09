@@ -1,0 +1,1 @@
+AddAsisRemove#newInstance#(#String#value#)#{#AddAsisRemove#a#=#new#AddAsisRemove#(#)#;#a#.#setValue#(#value#)#;##return#a#;#}

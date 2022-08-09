@@ -1,0 +1,1 @@
+void#setGid#(#int#gid#)#{#checkTarFileSetAttributesAllowed#(#)#;#groupIdSet#=#true#;#this#.#gid#=#gid#;#}

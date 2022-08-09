@@ -1,0 +1,1 @@
+Extension#[#]#getOptions#(#final#Manifest#manifest#)#{##return#getListed#(#manifest#,#OPTIONAL_EXTENSION_LIST#)#;#}

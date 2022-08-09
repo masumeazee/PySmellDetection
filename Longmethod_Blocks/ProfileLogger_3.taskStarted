@@ -1,0 +1,1 @@
+void#taskStarted#(#BuildEvent#event#)#{#String#name#=#event#.#getTask#(#)#.#getTaskName#(#)#;#Date#now#=#new#Date#(#)#;#logStart#(#event#,#now#,#name#)#;#profileData#.#put#(#event#.#getTask#(#)#,#now#)#;#}

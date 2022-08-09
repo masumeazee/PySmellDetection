@@ -1,0 +1,1 @@
+void#addDraw#(#Draw#instr#)#{#instructions#.#add#(#instr#)#;#}

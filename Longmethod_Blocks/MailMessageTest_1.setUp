@@ -1,0 +1,1 @@
+void#setUp#(#)#{#try#{#local#=#InetAddress#.#getLocalHost#(#)#.#getHostName#(#)#;#}##catch#(#java#.#net#.#UnknownHostException#uhe#)#{##// ignore#}#}

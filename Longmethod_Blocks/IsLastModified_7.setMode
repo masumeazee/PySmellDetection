@@ -1,0 +1,1 @@
+void#setMode#(#CompareMode#mode#)#{#this#.#mode#=#mode#;#}

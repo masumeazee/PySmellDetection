@@ -1,0 +1,1 @@
+void#addText#(#String#sql#)#{##//there is no need to expand properties here as that happens when Transaction.addText is##//called; to do so here would be an error.#this#.#sqlCommand#+=#sql#;#}

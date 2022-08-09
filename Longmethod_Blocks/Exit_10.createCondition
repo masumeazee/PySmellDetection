@@ -1,0 +1,1 @@
+ConditionBase#createCondition#(#)#{##if#(#nestedCondition#!=#null#)#{#throw#new#BuildException#(#"Only one nested condition is allowed."#)#;#}##nestedCondition#=#new#NestedCondition#(#)#;##return#nestedCondition#;#}

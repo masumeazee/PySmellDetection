@@ -1,0 +1,1 @@
+void#setProxy#(#String#proxy#)#{#this#.#proxy#=#proxy#;#}

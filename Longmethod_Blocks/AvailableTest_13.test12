@@ -1,0 +1,1 @@
+void#test12#(#)#{#executeTarget#(#"test12"#)#;#assertNull#(#project#.#getProperty#(#"test"#)#)#;#assertEquals#(#"true"#,#project#.#getProperty#(#""#)#)#;#}

@@ -1,0 +1,1 @@
+String#toString#(#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#toString#(#)#;#}##dieOnCircularReference#(#)#;##return#w#.#toString#(#)#;#}

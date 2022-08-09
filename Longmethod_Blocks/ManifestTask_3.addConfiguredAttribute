@@ -1,0 +1,1 @@
+void#addConfiguredAttribute#(#Manifest#.#Attribute#attribute#)#throws#ManifestException#{#checkAttribute#(#attribute#)#;#nestedManifest#.#addConfiguredAttribute#(#attribute#)#;#}

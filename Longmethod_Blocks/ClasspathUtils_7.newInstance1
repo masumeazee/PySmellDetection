@@ -1,0 +1,1 @@
+Object#newInstance#(#String#className#,#ClassLoader#userDefinedLoader#)#{##return#newInstance#(#className#,#userDefinedLoader#,#Object#.#class#)#;#}

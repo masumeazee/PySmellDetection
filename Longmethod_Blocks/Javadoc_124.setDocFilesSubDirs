@@ -1,0 +1,1 @@
+void#setDocFilesSubDirs#(#boolean#b#)#{#docFilesSubDirs#=#b#;#}

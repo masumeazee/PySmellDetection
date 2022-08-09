@@ -1,0 +1,1 @@
+BufferInfo#getBufferInfo#(#)#{#Thread#current#=#Thread#.#currentThread#(#)#;#BufferInfo#bufferInfo#=#(#BufferInfo#)#buffers#.#get#(#current#)#;##if#(#bufferInfo#==#null#)#{#bufferInfo#=#new#BufferInfo#(#)#;#bufferInfo#.#buffer#=#new#ByteArrayOutputStream#(#INTIAL_SIZE#)#;#bufferInfo#.#crSeen#=#false#;#buffers#.#put#(#current#,#bufferInfo#)#;#}##return#bufferInfo#;#}

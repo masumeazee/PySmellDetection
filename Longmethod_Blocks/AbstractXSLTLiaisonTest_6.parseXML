@@ -1,0 +1,1 @@
+Document#parseXML#(#File#file#)#throws#Exception#{#DocumentBuilderFactory#dbfactory#=#DocumentBuilderFactory#.#newInstance#(#)#;#DocumentBuilder#dbuilder#=#dbfactory#.#newDocumentBuilder#(#)#;##return#dbuilder#.#parse#(#file#)#;#}

@@ -1,0 +1,1 @@
+String#trimSeparator#(#String#s#)#{##return#s#.#endsWith#(#"/"#)#?#s#.#substring#(#0#,#s#.#length#(#)#-#1#)#:#s#;#}

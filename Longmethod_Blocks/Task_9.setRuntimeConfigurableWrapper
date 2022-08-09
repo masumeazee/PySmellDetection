@@ -1,0 +1,1 @@
+void#setRuntimeConfigurableWrapper#(#RuntimeConfigurable#wrapper#)#{#this#.#wrapper#=#wrapper#;#}

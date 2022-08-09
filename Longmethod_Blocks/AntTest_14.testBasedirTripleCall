@@ -1,0 +1,1 @@
+void#testBasedirTripleCall#(#)#{#File#dir1#=#getProjectDir#(#)#;#File#dir2#=#project#.#resolveFile#(#"ant"#)#;#testBaseDirs#(#"tripleCall"#,#new#String#[#]#{#dir1#.#getAbsolutePath#(#)#,#dir2#.#getAbsolutePath#(#)#,#dir1#.#getAbsolutePath#(#)#}#)#;#}

@@ -1,0 +1,4 @@
+void#startElement#(#String#name#,#AttributeList#atts#)#throws#SAXException#{##/*
+             * I need to "push" the element onto the String (currentLoc) which
+             * always represents the current location in the XML document.
+             */#currentLoc#+=#"\\"#+#name#;##/* A new element has started, so reset the text being captured */#currentText#=#""#;##if#(#currentLoc#.#equals#(#"\\ejb-jar"#)#)#{#iasDescriptor#=#false#;#}#else##if#(#currentLoc#.#equals#(#"\\ias-ejb-jar"#)#)#{#iasDescriptor#=#true#;#}##if#(#(#name#.#equals#(#"session"#)#)#||#(#name#.#equals#(#"entity"#)#)#)#{#ejbType#=#name#;#}#}

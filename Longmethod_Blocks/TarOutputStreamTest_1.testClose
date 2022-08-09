@@ -1,0 +1,1 @@
+void#testClose#(#)#throws#IOException#{#ByteArrayOutputStream#byteStream#=#new#ByteArrayOutputStream#(#)#;#TarOutputStream#stream#=#new#TarOutputStream#(#byteStream#)#;#stream#.#close#(#)#;#stream#.#close#(#)#;#}

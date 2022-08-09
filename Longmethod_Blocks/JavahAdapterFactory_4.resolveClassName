@@ -1,0 +1,1 @@
+JavahAdapter#resolveClassName#(#String#className#,#ClassLoader#loader#)#throws#BuildException#{##return#(#JavahAdapter#)#ClasspathUtils#.#newInstance#(#className#,#loader#!=#null#?#loader#:#JavahAdapterFactory#.#class#.#getClassLoader#(#)#,#JavahAdapter#.#class#)#;#}

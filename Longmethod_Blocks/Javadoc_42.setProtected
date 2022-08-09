@@ -1,0 +1,1 @@
+void#setProtected#(#boolean#b#)#{#addArgIf#(#b#,#"-protected"#)#;#}

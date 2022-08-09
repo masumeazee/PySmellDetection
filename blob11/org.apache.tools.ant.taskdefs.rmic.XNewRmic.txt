@@ -1,0 +1,1 @@
+Commandline#setupRmicCommand#(#)#{#String#[#]#options#=#new#String#[#]#{#"-Xnew"#}#;#Commandline#commandline#=#super#.#setupRmicCommand#(#options#)#;#return#commandline#;#}##

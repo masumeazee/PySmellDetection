@@ -1,0 +1,1 @@
+void#testEmptyCopy#(#)#{#executeTarget#(#"emptycopy"#)#;#String#d#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/a/b/c/d"#;#assertFileIsNotPresent#(#d#)#;#String#c#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/a/b/c"#;#assertFileIsNotPresent#(#c#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"dangling"#)#==#-#1#)#;#}

@@ -1,0 +1,1 @@
+void#setInitialized#(#final#boolean#initialized#)#{#this#.#initialized#=#initialized#;#}

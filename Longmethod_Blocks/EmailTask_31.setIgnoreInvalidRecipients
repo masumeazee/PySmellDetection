@@ -1,0 +1,1 @@
+void#setIgnoreInvalidRecipients#(#boolean#b#)#{#ignoreInvalidRecipients#=#b#;#}

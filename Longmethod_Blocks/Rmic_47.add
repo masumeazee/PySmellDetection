@@ -1,0 +1,1 @@
+void#add#(#RmicAdapter#adapter#)#{##if#(#nestedAdapter#!=#null#)#{#throw#new#BuildException#(#"Can't have more than one rmic adapter"#)#;#}##nestedAdapter#=#adapter#;#}

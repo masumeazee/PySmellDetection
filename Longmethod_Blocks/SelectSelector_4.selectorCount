@@ -1,0 +1,1 @@
+int#selectorCount#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#selectorCount#(#)#;#}##return#super#.#selectorCount#(#)#;#}

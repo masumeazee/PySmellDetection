@@ -1,0 +1,1 @@
+String#toString#(#)#{#StringBuffer#buf#=#new#StringBuffer#(#"{containsregexpselector expression: "#)#;#buf#.#append#(#userProvidedExpression#)#;#buf#.#append#(#"}"#)#;##return#buf#.#toString#(#)#;#}

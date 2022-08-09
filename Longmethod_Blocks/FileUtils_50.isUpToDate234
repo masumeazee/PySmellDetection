@@ -1,0 +1,1 @@
+boolean#isUpToDate#(#long#sourceTime#,#long#destTime#,#long#granularity#)#{##return#destTime#!=#-#1#&&#destTime#>=#sourceTime#+#granularity#;#}

@@ -1,0 +1,1 @@
+Object#newInstance#(#Class#ofClass#,#Class#[#]#argTypes#,#Object#[#]#args#)#{#try#{#Constructor#con#=#ofClass#.#getConstructor#(#argTypes#)#;##return#con#.#newInstance#(#args#)#;#}##catch#(#Exception#t#)#{#throwBuildException#(#t#)#;##return#null#;##// NotReached#}#}

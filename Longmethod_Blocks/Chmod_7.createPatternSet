@@ -1,0 +1,1 @@
+PatternSet#createPatternSet#(#)#{#defaultSetDefined#=#true#;##return#defaultSet#.#createPatternSet#(#)#;#}

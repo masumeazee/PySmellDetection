@@ -1,0 +1,1 @@
+void#setVm#(#String#vm#)#{#vmCommand#.#setExecutable#(#vm#)#;#}

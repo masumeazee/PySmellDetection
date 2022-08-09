@@ -1,0 +1,1 @@
+void#setValidate#(#boolean#validate#)#{#this#.#validate#=#validate#;#}

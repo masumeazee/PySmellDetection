@@ -1,0 +1,1 @@
+void#testPath#(#)#{#executeTarget#(#"testPath"#)#;#assertPropertyContains#(#"testPath"#,#"makeurl.xml"#)#;#}

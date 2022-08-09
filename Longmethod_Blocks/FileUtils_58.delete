@@ -1,0 +1,1 @@
+void#delete#(#File#file#)#{##if#(#file#!=#null#)#{#file#.#delete#(#)#;#}#}

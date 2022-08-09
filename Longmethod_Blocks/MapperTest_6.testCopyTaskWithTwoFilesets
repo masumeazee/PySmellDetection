@@ -1,0 +1,1 @@
+void#testCopyTaskWithTwoFilesets#(#)#{#TaskdefForCopyTest#t#=#new#TaskdefForCopyTest#(#"test1"#)#;##try#{#t#.#setUp#(#)#;#t#.#test1#(#)#;#}##finally#{#t#.#tearDown#(#)#;#}#}

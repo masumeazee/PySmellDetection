@@ -1,0 +1,1 @@
+void#setFeature#(#String#feature#)#{#this#.#feature#=#feature#;#}

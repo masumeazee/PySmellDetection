@@ -1,0 +1,1 @@
+int#getEolLength#(#)#{##return#eolStr#.#length#(#)#;#}

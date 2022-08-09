@@ -1,0 +1,1 @@
+void#setVisitorException#(#String#visitorException#)#{#optionalAttrs#.#put#(#VISITOR_EXCEPTION#,#visitorException#)#;#}

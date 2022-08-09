@@ -1,0 +1,1 @@
+void#setJvmargs#(#String#s#)#{#log#(#"The jvmargs attribute is deprecated. "#+#"Please use nested jvmarg elements."#,#Project#.#MSG_WARN#)#;#getCommandLine#(#)#.#createVmArgument#(#)#.#setLine#(#s#)#;#}

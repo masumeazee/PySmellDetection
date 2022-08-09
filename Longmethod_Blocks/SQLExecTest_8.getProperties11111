@@ -1,0 +1,1 @@
+Properties#getProperties#(#String#driver#,#String#user#,#String#pwd#,#String#url#)#{#Properties#props#=#new#Properties#(#)#;#props#.#put#(#DRIVER#,#driver#)#;#props#.#put#(#USER#,#user#)#;#props#.#put#(#PASSWORD#,#pwd#)#;#props#.#put#(#URL#,#url#)#;##return#props#;#}

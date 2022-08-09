@@ -1,0 +1,1 @@
+Object#getUserProperty#(#String#name#)#{##if#(#name#==#null#)#{##return#null#;#}##return#userProperties#.#get#(#name#)#;#}

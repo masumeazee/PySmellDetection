@@ -1,0 +1,1 @@
+int#read#(#char#[#]#cbuf#,#int#off#,#int#len#)#throws#IOException#{##//hand down#int#result#=#next#.#read#(#cbuf#,#off#,#len#)#;##//cache#buffer#.#append#(#cbuf#,#off#,#len#)#;##//return##return#result#;#}

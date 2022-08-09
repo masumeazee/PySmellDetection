@@ -1,0 +1,1 @@
+boolean#okToDelete#(#File#d#)#{#String#[#]#list#=#d#.#list#(#)#;##if#(#list#==#null#)#{##return#false#;#}##// maybe io error?#for#(#int#i#=#0#;##i#<#list#.#length#;#i#++#)#{#String#s#=#list#[#i#]#;#File#f#=#new#File#(#d#,#s#)#;##if#(#f#.#isDirectory#(#)#)#{##if#(#!#okToDelete#(#f#)#)#{##return#false#;#}#}#else#{##return#false#;##// found a file#}#}##return#true#;#}

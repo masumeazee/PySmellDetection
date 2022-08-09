@@ -1,0 +1,1 @@
+void#setTrace#(#TraceAttr#trace#)#{#this#.#trace#=#trace#.#getValue#(#)#;#}

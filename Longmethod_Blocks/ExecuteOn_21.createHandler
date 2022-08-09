@@ -1,0 +1,1 @@
+ExecuteStreamHandler#createHandler#(#)#throws#BuildException#{##//if we have a RedirectorElement, return a decoy##return#(#redirectorElement#==#null#)#?#super#.#createHandler#(#)#:#new#PumpStreamHandler#(#)#;#}

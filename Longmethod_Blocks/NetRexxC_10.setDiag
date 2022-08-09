@@ -1,0 +1,1 @@
+void#setDiag#(#boolean#diag#)#{#this#.#diag#=#diag#;#}

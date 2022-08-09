@@ -1,0 +1,1 @@
+void#invokeCircularReferenceCheck#(#DataType#dt#,#Stack#stk#,#Project#p#)#{#dt#.#dieOnCircularReference#(#stk#,#p#)#;#}

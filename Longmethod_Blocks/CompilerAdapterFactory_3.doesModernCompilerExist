@@ -1,0 +1,1 @@
+boolean#doesModernCompilerExist#(#)#{#try#{#Class#.#forName#(#MODERN_COMPILER#)#;##return#true#;#}##catch#(#ClassNotFoundException#cnfe#)#{#try#{#ClassLoader#cl#=#CompilerAdapterFactory#.#class#.#getClassLoader#(#)#;##if#(#cl#!=#null#)#{#cl#.#loadClass#(#MODERN_COMPILER#)#;##return#true#;#}#}##catch#(#ClassNotFoundException#cnfe2#)#{##// Ignore Exception#}#}##return#false#;#}

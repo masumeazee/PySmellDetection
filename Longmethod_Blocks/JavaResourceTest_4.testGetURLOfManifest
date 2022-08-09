@@ -1,0 +1,1 @@
+void#testGetURLOfManifest#(#)#{#JavaResource#r#=#new#JavaResource#(#)#;#r#.#setName#(#"META-INF/MANIFEST.MF"#)#;#assertNotNull#(#r#.#getURL#(#)#)#;#}

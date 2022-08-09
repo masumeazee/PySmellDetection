@@ -1,0 +1,1 @@
+File#getVendorOutputJarFile#(#String#baseName#)#{#File#jarFile#=#new#File#(#getDestDir#(#)#,#baseName#+#jarSuffix#)#;#log#(#"JAR file name: "#+#jarFile#.#toString#(#)#,#Project#.#MSG_VERBOSE#)#;##return#jarFile#;#}

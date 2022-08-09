@@ -1,0 +1,1 @@
+void#testTextElement#(#)#{#expectLogContaining#(#"textelement"#,#"Hello world"#)#;#}

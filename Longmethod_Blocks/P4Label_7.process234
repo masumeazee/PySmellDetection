@@ -1,0 +1,1 @@
+void#process#(#String#line#)#{#log#(#line#,#Project#.#MSG_VERBOSE#)#;##if#(#util#.#match#(#"/^Options:/"#,#line#)#)#{#line#=#"Options: "#+#lock#;#}##labelSpec#.#append#(#line#+#"\n"#)#;#}

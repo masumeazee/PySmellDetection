@@ -1,0 +1,1 @@
+void#setupFTPDelegate#(#)#{#ClassLoader#myLoader#=#FTPTask#.#class#.#getClassLoader#(#)#;##if#(#mustSplit#(#)#)#{#mirrorLoader#=#new#SplitClassLoader#(#myLoader#,#classpath#,#getProject#(#)#,#new#String#[#]#{#"FTPTaskMirrorImpl"#,#"FTPConfigurator"#}#)#;#}#else#{#mirrorLoader#=#myLoader#;#}##delegate#=#createMirror#(#this#,#mirrorLoader#)#;#}

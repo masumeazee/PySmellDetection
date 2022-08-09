@@ -1,0 +1,1 @@
+boolean#hasBeenScanned#(#String#vpath#)#{##return#scannedDirs#.#containsKey#(#vpath#)#;#}

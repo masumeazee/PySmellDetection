@@ -1,0 +1,1 @@
+void#setType#(#MapperType#type#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#type#=#type#;#}

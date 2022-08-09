@@ -1,0 +1,1 @@
+void#setFiltering#(#String#filter#)#{#filtering#=#Project#.#toBoolean#(#filter#)#;#}

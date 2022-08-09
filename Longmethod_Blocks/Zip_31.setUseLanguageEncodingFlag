@@ -1,0 +1,1 @@
+void#setUseLanguageEncodingFlag#(#boolean#b#)#{#useLanguageEncodingFlag#=#b#;#}

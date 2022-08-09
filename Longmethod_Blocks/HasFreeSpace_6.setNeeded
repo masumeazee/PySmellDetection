@@ -1,0 +1,1 @@
+void#setNeeded#(#String#needed#)#{#this#.#needed#=#needed#;#}

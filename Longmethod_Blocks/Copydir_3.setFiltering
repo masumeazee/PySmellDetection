@@ -1,0 +1,1 @@
+void#setFiltering#(#boolean#filter#)#{#filtering#=#filter#;#}

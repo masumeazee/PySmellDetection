@@ -1,0 +1,1 @@
+void#testResourceSelectorSelresFalse#(#)#{#BFT#bft#=#new#BFT#(#"modifiedselector"#)#;#bft#.#doTarget#(#"modifiedselectortest-ResourceSelresFalse"#)#;#bft#.#deleteCachefile#(#)#;#}

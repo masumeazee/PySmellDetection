@@ -1,0 +1,1 @@
+URL#getFileURL#(#File#file#)#throws#MalformedURLException#{##return#new#URL#(#toURI#(#file#.#getAbsolutePath#(#)#)#)#;#}

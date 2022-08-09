@@ -1,0 +1,1 @@
+void#createProcessOutputPump#(#InputStream#is#,#OutputStream#os#)#{#outputThread#=#createPump#(#is#,#os#)#;#}

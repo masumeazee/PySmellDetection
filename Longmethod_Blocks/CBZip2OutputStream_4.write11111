@@ -1,0 +1,1 @@
+void#write#(#final#int#b#)#throws#IOException#{##if#(#this#.#out#!=#null#)#{#write0#(#b#)#;#}#else#{#throw#new#IOException#(#"closed"#)#;#}#}

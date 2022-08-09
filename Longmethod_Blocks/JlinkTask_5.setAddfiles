@@ -1,0 +1,1 @@
+void#setAddfiles#(#Path#addfiles#)#{##if#(#this#.#addfiles#==#null#)#{#this#.#addfiles#=#addfiles#;#}#else#{#this#.#addfiles#.#append#(#addfiles#)#;#}#}

@@ -1,0 +1,1 @@
+void#testNoAlias#(#)#{#expectBuildExceptionContaining#(#"testNoAlias"#,#"no alias"#,#SignJar#.#ERROR_NO_ALIAS#)#;#}

@@ -1,0 +1,1 @@
+void#setReplace#(#boolean#replace#)#{#this#.#replace#=#replace#;#}

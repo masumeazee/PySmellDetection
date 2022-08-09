@@ -1,0 +1,1 @@
+void#setFailOnNoResources#(#boolean#b#)#{#failOnNoResources#=#b#;#}

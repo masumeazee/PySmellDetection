@@ -1,0 +1,1 @@
+void#setAdd#(#boolean#add#)#{#this#.#add#=#add#;#}

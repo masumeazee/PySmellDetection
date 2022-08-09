@@ -1,0 +1,1 @@
+void#startDocument#(#)#throws#SAXException#{#this#.#ejbFiles#=#new#Hashtable#(#DEFAULT_HASH_TABLE_SIZE#,#1#)#;#this#.#currentElement#=#null#;#inEJBRef#=#false#;#}

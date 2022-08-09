@@ -1,0 +1,1 @@
+void#setKeepgenerated#(#String#inValue#)#{#this#.#keepgenerated#=#Boolean#.#valueOf#(#inValue#)#.#booleanValue#(#)#;#}

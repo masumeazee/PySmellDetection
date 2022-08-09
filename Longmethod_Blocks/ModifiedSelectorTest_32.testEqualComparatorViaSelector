@@ -1,0 +1,1 @@
+void#testEqualComparatorViaSelector#(#)#{#ModifiedSelector#s#=#(#ModifiedSelector#)#getSelector#(#)#;#ModifiedSelector#.#ComparatorName#compName#=#new#ModifiedSelector#.#ComparatorName#(#)#;#compName#.#setValue#(#"equal"#)#;#s#.#setComparator#(#compName#)#;##try#{#performTests#(#s#,#"TTTTTTTTTTTT"#)#;#}##finally#{#s#.#getCache#(#)#.#delete#(#)#;#}#}

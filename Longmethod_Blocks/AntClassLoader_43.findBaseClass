@@ -1,0 +1,1 @@
+Class#findBaseClass#(#String#name#)#throws#ClassNotFoundException#{##return#parent#==#null#?#findSystemClass#(#name#)#:#parent#.#loadClass#(#name#)#;#}

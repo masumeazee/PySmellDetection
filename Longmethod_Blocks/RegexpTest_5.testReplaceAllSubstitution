@@ -1,0 +1,1 @@
+void#testReplaceAllSubstitution#(#)#{#Regexp#reg#=#(#Regexp#)#getReg#(#)#;#reg#.#setPattern#(#pattern#)#;#assertTrue#(#reg#.#matches#(#test#)#)#;#assertEquals#(#"abedcfg-abedcfg"#,#reg#.#substitute#(#test#,#"ab\\2d\\1f"#,#Regexp#.#REPLACE_ALL#)#)#;#}

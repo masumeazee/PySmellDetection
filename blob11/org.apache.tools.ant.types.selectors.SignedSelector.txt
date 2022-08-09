@@ -1,0 +1,1 @@
+void#setName#(#String#name#)#{#isSigned#.#setName#(#name#)#;#}##boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#{#if#(#file#.#isDirectory#(#)#)#{#return#false#;#// Quick return: directories cannot be signed#}#isSigned#.#setProject#(#getProject#(#)#)#;#isSigned#.#setFile#(#file#)#;#return#isSigned#.#eval#(#)#;#}##

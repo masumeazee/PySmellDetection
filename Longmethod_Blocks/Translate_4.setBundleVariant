@@ -1,0 +1,1 @@
+void#setBundleVariant#(#String#bundleVariant#)#{#this#.#bundleVariant#=#bundleVariant#;#}

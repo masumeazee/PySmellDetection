@@ -1,0 +1,1 @@
+void#setRegex#(#String#regex#)#{#assertValid#(#"regex"#,#regex#)#;#this#.#regex#=#regex#;#}

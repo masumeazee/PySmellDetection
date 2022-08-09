@@ -1,0 +1,1 @@
+void#validateNamespace#(#)#{##if#(#!#isSet#(#getNamespace#(#)#)#)#{#throw#new#BuildException#(#ERROR_NO_URI#)#;#}#}

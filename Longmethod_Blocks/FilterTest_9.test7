@@ -1,0 +1,1 @@
+void#test7#(#)#{#executeTarget#(#"test7"#)#;#assertEquals#(#"<%@ include file=\"root/some/include.jsp\"%>"#,#getFilteredFile#(#"7"#,#"filtered.tmp"#)#)#;#}

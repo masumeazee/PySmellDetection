@@ -1,0 +1,1 @@
+Vector#findElementInTarget#(#Project#project#,#Target#t#,#String#name#)#{#Task#[#]#tasks#=#t#.#getTasks#(#)#;#Vector#elems#=#new#Vector#(#)#;##for#(#int#i#=#0#;##i#<#tasks#.#length#;#i#++#)#{##if#(#name#.#equals#(#tasks#[#i#]#.#getTaskName#(#)#)#)#{#elems#.#addElement#(#tasks#[#i#]#)#;#}#}##return#elems#;#}

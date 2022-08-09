@@ -1,0 +1,1 @@
+void#init#(#int#op#,#String#src#,#String#dest#,#long#max#)#{#initFileSize#=#max#;#totalLength#=#0#;#percentTransmitted#=#0#;#}

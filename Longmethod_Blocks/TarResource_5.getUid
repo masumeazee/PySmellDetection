@@ -1,0 +1,1 @@
+int#getUid#(#)#{##if#(#isReference#(#)#)#{##return#(#(#TarResource#)#getCheckedRef#(#)#)#.#getUid#(#)#;#}##checkEntry#(#)#;##return#uid#;#}

@@ -1,0 +1,1 @@
+Enumeration#fromCompound#(#Enumeration#[#]#enums#)#{##return#new#CompoundEnumeration#(#enums#)#;#}

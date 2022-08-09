@@ -1,0 +1,1 @@
+void#setManagingComponent#(#ProjectComponent#pc#)#{#this#.#managingPc#=#pc#;#}

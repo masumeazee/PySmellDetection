@@ -1,0 +1,1 @@
+RmicAdapter#resolveClassName#(#String#className#,#ClassLoader#loader#)#throws#BuildException#{##return#(#RmicAdapter#)#ClasspathUtils#.#newInstance#(#className#,#loader#!=#null#?#loader#:#RmicAdapterFactory#.#class#.#getClassLoader#(#)#,#RmicAdapter#.#class#)#;#}

@@ -1,0 +1,1 @@
+void#testPropertyfileCache#(#)#{#PropertiesfileCache#cache#=#new#PropertiesfileCache#(#)#;#File#cachefile#=#new#File#(#"cache.properties"#)#;#cache#.#setCachefile#(#cachefile#)#;#doTest#(#cache#)#;#assertFalse#(#"Cache file not deleted."#,#cachefile#.#exists#(#)#)#;#}

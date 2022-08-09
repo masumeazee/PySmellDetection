@@ -1,0 +1,1 @@
+void#setWarnOnRmiStubs#(#boolean#warnOnRmiStubs#)#{#this#.#warnOnRmiStubs#=#warnOnRmiStubs#;#}

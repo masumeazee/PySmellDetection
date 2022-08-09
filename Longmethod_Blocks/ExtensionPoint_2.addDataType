@@ -1,0 +1,1 @@
+void#addDataType#(#RuntimeConfigurable#r#)#{#throw#new#BuildException#(#NO_CHILDREN_ALLOWED#)#;#}

@@ -1,0 +1,1 @@
+void#addText#(#String#text#)#{##if#(#textBuffer#==#null#)#{##// Initialize to the size of the first text fragment, with##// the hopes that it's the only one.#textBuffer#=#new#StringBuffer#(#text#.#length#(#)#)#;#}##// Append the fragment -- we defer property replacement until##// later just in case we get a partial property in a fragment.#textBuffer#.#append#(#text#)#;#}

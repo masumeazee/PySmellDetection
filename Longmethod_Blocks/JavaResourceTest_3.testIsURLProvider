@@ -1,0 +1,1 @@
+void#testIsURLProvider#(#)#{#JavaResource#r#=#new#JavaResource#(#)#;#assertSame#(#r#,#r#.#as#(#URLProvider#.#class#)#)#;#}

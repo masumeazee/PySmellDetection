@@ -1,0 +1,1 @@
+DateFormat#createDateFormat#(#String#pattern#)#{#SimpleDateFormat#sdf#=#new#SimpleDateFormat#(#pattern#)#;#TimeZone#gmt#=#TimeZone#.#getTimeZone#(#"GMT"#)#;#sdf#.#setTimeZone#(#gmt#)#;#sdf#.#setLenient#(#true#)#;##return#sdf#;#}

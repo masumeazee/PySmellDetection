@@ -1,0 +1,1 @@
+void#testFileList#(#)#{#Path#p#=#new#Path#(#project#)#;#FileList#f#=#new#FileList#(#)#;#f#.#setProject#(#project#)#;#f#.#setDir#(#project#.#resolveFile#(#"."#)#)#;#f#.#setFiles#(#"build.xml"#)#;#p#.#addFilelist#(#f#)#;#String#[#]#l#=#p#.#list#(#)#;#assertEquals#(#1#,#l#.#length#)#;#assertEquals#(#project#.#resolveFile#(#"build.xml"#)#.#getAbsolutePath#(#)#,#l#[#0#]#)#;#}

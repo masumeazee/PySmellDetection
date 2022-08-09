@@ -1,0 +1,1 @@
+void#addConfiguredProvider#(#Provider#provider#)#{#provider#.#check#(#)#;#providerList#.#add#(#provider#)#;#}

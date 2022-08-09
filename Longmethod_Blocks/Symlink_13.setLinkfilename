@@ -1,0 +1,1 @@
+void#setLinkfilename#(#String#lf#)#{#this#.#linkFileName#=#lf#;#}

@@ -1,0 +1,1 @@
+void#setWarningProperty#(#String#warningProperty#)#{#this#.#warningProperty#=#warningProperty#;#}

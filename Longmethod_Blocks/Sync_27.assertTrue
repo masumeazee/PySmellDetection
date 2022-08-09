@@ -1,0 +1,1 @@
+void#assertTrue#(#String#message#,#boolean#condition#)#{##if#(#!#condition#)#{#throw#new#BuildException#(#"Assertion Error: "#+#message#)#;#}#}

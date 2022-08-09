@@ -1,0 +1,1 @@
+void#setNocompil#(#boolean#aBoolean#)#{#nocompil#=#aBoolean#;#}

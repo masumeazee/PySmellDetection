@@ -1,0 +1,1 @@
+void#setStrictassign#(#boolean#strictassign#)#{#this#.#strictassign#=#strictassign#;#}

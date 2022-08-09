@@ -1,0 +1,1 @@
+void#addDepend#(#DependSelector#selector#)#{#usedMatchingTask#=#true#;#super#.#addDepend#(#selector#)#;#}

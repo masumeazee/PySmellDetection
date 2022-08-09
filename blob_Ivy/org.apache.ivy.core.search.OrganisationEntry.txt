@@ -1,0 +1,1 @@
+String#getOrganisation#(#)#{#return#organisation#;#}##DependencyResolver#getResolver#(#)#{#return#resolver#;#}##String#toString#(#)#{#return#organisation#;#}##

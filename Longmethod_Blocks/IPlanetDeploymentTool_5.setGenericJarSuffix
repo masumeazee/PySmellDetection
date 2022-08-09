@@ -1,0 +1,1 @@
+void#setGenericJarSuffix#(#String#inString#)#{#log#(#"Since a generic JAR file is not created during processing, the "#+#"iPlanet Deployment Tool does not support the "#+#"\"genericjarsuffix\" attribute.  It will be ignored."#,#Project#.#MSG_WARN#)#;#}

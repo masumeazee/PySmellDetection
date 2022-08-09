@@ -1,0 +1,1 @@
+void#setAuthor#(#boolean#b#)#{#author#=#b#;#}

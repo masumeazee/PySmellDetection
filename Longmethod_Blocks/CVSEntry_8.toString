@@ -1,0 +1,1 @@
+String#toString#(#)#{##return#getAuthor#(#)#+#"\n"#+#getDate#(#)#+#"\n"#+#getFiles#(#)#+#"\n"#+#getComment#(#)#;#}

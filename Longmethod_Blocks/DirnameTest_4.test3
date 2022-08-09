@@ -1,0 +1,1 @@
+void#test3#(#)#{#expectBuildException#(#"test3"#,#"property attribute required"#)#;#}

@@ -1,0 +1,1 @@
+void#setCurrentTarget#(#Target#target#)#{#this#.#currentTarget#=#target#;#}

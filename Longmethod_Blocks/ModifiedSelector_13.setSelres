@@ -1,0 +1,1 @@
+void#setSelres#(#boolean#newValue#)#{#this#.#selectResourcesWithoutInputStream#=#newValue#;#}

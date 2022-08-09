@@ -1,0 +1,1 @@
+void#addFileset#(#final#FileSet#fileSet#)#{#filesets#.#addElement#(#fileSet#)#;#}

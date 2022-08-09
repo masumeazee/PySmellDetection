@@ -1,0 +1,1 @@
+void#setPattern#(#final#String#pattern#)#{#dfFactory#=#new#Touch#.#DateFormatFactory#(#)#{#public#DateFormat#getPrimaryFormat#(#)#{##return#new#SimpleDateFormat#(#pattern#)#;#}##public#DateFormat#getFallbackFormat#(#)#{##return#null#;#}#}#;#}

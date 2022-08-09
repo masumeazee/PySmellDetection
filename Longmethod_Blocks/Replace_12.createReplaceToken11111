@@ -1,0 +1,1 @@
+NestedString#createReplaceToken#(#)#{##if#(#token#==#null#)#{#token#=#new#NestedString#(#)#;#}##return#token#;#}

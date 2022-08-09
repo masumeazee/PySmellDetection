@@ -1,0 +1,1 @@
+Properties#getProperties#(#File#propertyFile#)#throws#BuildException#{##return#getProperties#(#new#FileResource#(#getProject#(#)#,#propertyFile#)#)#;#}

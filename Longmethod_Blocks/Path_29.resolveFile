@@ -1,0 +1,1 @@
+File#resolveFile#(#Project#project#,#String#relativeName#)#{##return#FileUtils#.#getFileUtils#(#)#.#resolveFile#(#(#project#==#null#)#?#null#:#project#.#getBaseDir#(#)#,#relativeName#)#;#}

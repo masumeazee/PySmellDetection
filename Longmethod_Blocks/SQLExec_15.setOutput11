@@ -1,0 +1,1 @@
+void#setOutput#(#File#output#)#{#setOutput#(#new#FileResource#(#getProject#(#)#,#output#)#)#;#}

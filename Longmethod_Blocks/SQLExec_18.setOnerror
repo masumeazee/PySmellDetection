@@ -1,0 +1,1 @@
+void#setOnerror#(#OnError#action#)#{#this#.#onError#=#action#.#getValue#(#)#;#}

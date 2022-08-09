@@ -1,0 +1,1 @@
+void#setName#(#String#name#)#{##if#(#definerSet#)#{#tooManyDefinitions#(#)#;#}##definerSet#=#true#;#this#.#name#=#name#;#}

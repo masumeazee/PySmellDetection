@@ -1,0 +1,1 @@
+Resource#getOldest#(#ResourceCollection#rc#)#{##return#getXest#(#rc#,#REVERSE_DATE#)#;#}

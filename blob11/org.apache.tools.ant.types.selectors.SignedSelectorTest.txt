@@ -1,0 +1,1 @@
+void#setUp#(#)#{#configureProject#(#"src/etc/testcases/types/selectors/signedselector.xml"#)#;#}##void#testSelectSigned#(#)#{#executeTarget#(#"selectsigned"#)#;#}##void#testNotSelected#(#)#{#executeTarget#(#"notselected"#)#;#}##void#testName#(#)#{#executeTarget#(#"name"#)#;#}##

@@ -1,0 +1,1 @@
+SAXParser#newSAXParser#(#SAXParserFactory#factory#)#throws#BuildException#{#try#{##return#factory#.#newSAXParser#(#)#;#}##catch#(#ParserConfigurationException#e#)#{#throw#new#BuildException#(#"Cannot create parser for the given "#+#"configuration: "#+#e#.#getMessage#(#)#,#e#)#;#}##catch#(#SAXException#e#)#{#throw#convertToBuildException#(#e#)#;#}#}

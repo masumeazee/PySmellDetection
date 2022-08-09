@@ -1,0 +1,1 @@
+void#addLoaderPackageRoot#(#String#packageRoot#)#{#loaderPackages#.#addElement#(#packageRoot#+#(#packageRoot#.#endsWith#(#"."#)#?#""#:#"."#)#)#;#}

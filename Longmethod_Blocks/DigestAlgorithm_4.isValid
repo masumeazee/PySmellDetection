@@ -1,0 +1,1 @@
+boolean#isValid#(#)#{##return#"SHA"#.#equalsIgnoreCase#(#algorithm#)#||#"MD5"#.#equalsIgnoreCase#(#algorithm#)#;#}

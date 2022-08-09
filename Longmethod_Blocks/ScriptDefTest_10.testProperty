@@ -1,0 +1,1 @@
+void#testProperty#(#)#{#executeTarget#(#"property"#)#;##// get the fileset and its basedir#String#log#=#getLog#(#)#;#assertTrue#(#"Expecting property in attribute value replaced"#,#log#.#indexOf#(#"Attribute value = test"#)#!=#-#1#)#;#}

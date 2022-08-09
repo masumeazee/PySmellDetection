@@ -1,0 +1,1 @@
+void#NotestFailingAdapter#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testFailingAdapter"#,#"expected failures to propagate"#,#Rmic#.#ERROR_RMIC_FAILED#)#;#}

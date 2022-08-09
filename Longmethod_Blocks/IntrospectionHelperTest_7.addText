@@ -1,0 +1,1 @@
+void#addText#(#String#text#)#{#assertEquals#(#"test"#,#text#)#;#}

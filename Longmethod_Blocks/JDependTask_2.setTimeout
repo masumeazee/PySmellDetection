@@ -1,0 +1,1 @@
+void#setTimeout#(#Long#value#)#{#timeout#=#value#;#}

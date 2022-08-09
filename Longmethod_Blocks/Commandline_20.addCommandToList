@@ -1,0 +1,1 @@
+void#addCommandToList#(#ListIterator#list#)#{##if#(#executable#!=#null#)#{#list#.#add#(#executable#)#;#}##addArgumentsToList#(#list#)#;#}

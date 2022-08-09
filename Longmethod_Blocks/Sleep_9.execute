@@ -1,0 +1,1 @@
+void#execute#(#)#throws#BuildException#{#try#{#validate#(#)#;#long#sleepTime#=#getSleepTime#(#)#;#log#(#"sleeping for "#+#sleepTime#+#" milliseconds"#,#Project#.#MSG_VERBOSE#)#;#doSleep#(#sleepTime#)#;#}##catch#(#Exception#e#)#{##if#(#failOnError#)#{#throw#new#BuildException#(#e#)#;#}#else#{#String#text#=#e#.#toString#(#)#;#log#(#text#,#Project#.#MSG_ERR#)#;#}#}#}

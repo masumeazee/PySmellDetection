@@ -1,0 +1,1 @@
+void#testNullArgs#(#)#{#try#{#FILE_UTILS#.#normalize#(#null#)#;#fail#(#"successfully normalized a null-file"#)#;#}##catch#(#NullPointerException#npe#)#{##// Expected exception caught#}##File#f#=#FILE_UTILS#.#resolveFile#(#null#,#"a"#)#;#assertEquals#(#f#,#new#File#(#"a"#)#.#getAbsoluteFile#(#)#)#;#}

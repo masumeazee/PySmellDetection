@@ -1,0 +1,1 @@
+void#setParameters#(#final#Parameter#[#]#parameters#)#{#this#.#parameters#=#parameters#;#setInitialized#(#false#)#;#}

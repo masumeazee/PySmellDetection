@@ -1,0 +1,1 @@
+void#taskStarted#(#BuildEvent#event#)#{##if#(#initialized#)#{#Task#task#=#event#.#getTask#(#)#;#Logger#log#=#Logger#.#getLogger#(#task#.#getClass#(#)#.#getName#(#)#)#;#log#.#info#(#"Task \""#+#task#.#getTaskName#(#)#+#"\" started."#)#;#}#}

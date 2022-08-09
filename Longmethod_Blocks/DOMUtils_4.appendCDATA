@@ -1,0 +1,1 @@
+void#appendCDATA#(#Element#parent#,#String#content#)#{#Document#doc#=#parent#.#getOwnerDocument#(#)#;#CDATASection#c#=#doc#.#createCDATASection#(#content#)#;#parent#.#appendChild#(#c#)#;#}

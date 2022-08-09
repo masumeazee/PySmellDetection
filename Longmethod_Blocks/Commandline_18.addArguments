@@ -1,0 +1,1 @@
+void#addArguments#(#String#[#]#line#)#{#for#(#int#i#=#0#;##i#<#line#.#length#;#i#++#)#{#createArgument#(#)#.#setValue#(#line#[#i#]#)#;#}#}

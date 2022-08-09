@@ -1,0 +1,1 @@
+DocletParam#createParam#(#)#{#DocletParam#param#=#new#DocletParam#(#)#;#params#.#addElement#(#param#)#;##return#param#;#}

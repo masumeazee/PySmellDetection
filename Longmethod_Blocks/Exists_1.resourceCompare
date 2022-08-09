@@ -1,0 +1,1 @@
+int#resourceCompare#(#Resource#foo#,#Resource#bar#)#{#boolean#f#=#foo#.#isExists#(#)#;##if#(#f#==#bar#.#isExists#(#)#)#{##return#0#;#}##return#f#?#1#:#-#1#;#}

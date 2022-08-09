@@ -1,0 +1,1 @@
+void#sendData#(#)#throws#IOException#{#int#[#]#ok#=#{#OK_DATA#}#;#send#(#"DATA"#,#ok#)#;#}

@@ -1,0 +1,1 @@
+void#setFrom#(#EmailAddress#from#)#{#this#.#from#=#from#;#}

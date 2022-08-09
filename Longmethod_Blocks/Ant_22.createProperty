@@ -1,0 +1,1 @@
+Property#createProperty#(#)#{#Property#p#=#new#Property#(#true#,#getProject#(#)#)#;#p#.#setProject#(#getNewProject#(#)#)#;#p#.#setTaskName#(#"property"#)#;#properties#.#addElement#(#p#)#;##return#p#;#}

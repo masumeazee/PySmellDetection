@@ -1,0 +1,1 @@
+void#validate#(#)#{#verifySettings#(#)#;#dieOnCircularReference#(#)#;#String#errmsg#=#getError#(#)#;##if#(#errmsg#!=#null#)#{#throw#new#BuildException#(#errmsg#)#;#}##Enumeration#e#=#selectorElements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#Object#o#=#e#.#nextElement#(#)#;##if#(#o#instanceof#BaseSelector#)#{#(#(#BaseSelector#)#o#)#.#validate#(#)#;#}#}#}

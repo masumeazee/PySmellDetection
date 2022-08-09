@@ -1,0 +1,1 @@
+void#setSpecFile#(#String#sf#)#{##if#(#(#sf#==#null#)#||#(#sf#.#trim#(#)#.#length#(#)#==#0#)#)#{#throw#new#BuildException#(#"You must specify a spec file"#,#getLocation#(#)#)#;#}##this#.#specFile#=#sf#;#}

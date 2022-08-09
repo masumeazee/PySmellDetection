@@ -1,0 +1,1 @@
+NameEntry#createIncludesFile#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##return#addPatternToList#(#includesFileList#)#;#}

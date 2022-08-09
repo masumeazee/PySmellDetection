@@ -1,0 +1,1 @@
+void#createProcessErrorPump#(#InputStream#is#,#OutputStream#os#)#{#errorThread#=#createPump#(#is#,#os#)#;#}

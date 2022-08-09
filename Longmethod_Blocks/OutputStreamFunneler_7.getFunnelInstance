@@ -1,0 +1,1 @@
+OutputStream#getFunnelInstance#(#)#throws#IOException#{#dieIfClosed#(#)#;##try#{##return#new#Funnel#(#)#;#}##finally#{#notifyAll#(#)#;#}#}

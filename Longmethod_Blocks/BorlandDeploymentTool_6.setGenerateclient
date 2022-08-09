@@ -1,0 +1,1 @@
+void#setGenerateclient#(#boolean#b#)#{#this#.#generateclient#=#b#;#}

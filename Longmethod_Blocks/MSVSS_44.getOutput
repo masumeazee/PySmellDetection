@@ -1,0 +1,1 @@
+String#getOutput#(#)#{##return#outputFileName#!=#null#?#FLAG_OUTPUT#+#outputFileName#:#""#;#}

@@ -1,0 +1,1 @@
+void#tearDown#(#)#{##if#(#logFile#!=#null#&&#logFile#.#exists#(#)#)#{#getProject#(#)#.#setProperty#(#"logFile"#,#logFile#.#getAbsolutePath#(#)#)#;#}##executeTarget#(#"cleanup"#)#;#}

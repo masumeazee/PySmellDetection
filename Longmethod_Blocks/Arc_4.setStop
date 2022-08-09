@@ -1,0 +1,1 @@
+void#setStop#(#int#stop#)#{#this#.#stop#=#stop#;#}

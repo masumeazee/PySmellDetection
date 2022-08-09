@@ -1,0 +1,1 @@
+void#setChangeProperty#(#String#changeProperty#)#{#this#.#changeProperty#=#changeProperty#;#}

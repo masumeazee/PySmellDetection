@@ -1,0 +1,1 @@
+void#add#(#Tokenizer#tokenizer#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#this#.#tokenizer#!=#null#)#{#throw#new#BuildException#(#"Only one nested tokenizer allowed."#)#;#}##this#.#tokenizer#=#tokenizer#;#setChecked#(#false#)#;#}

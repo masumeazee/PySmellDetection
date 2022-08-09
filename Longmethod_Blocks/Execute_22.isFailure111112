@@ -1,0 +1,1 @@
+boolean#isFailure#(#int#exitValue#)#{##//on openvms even exit value signals failure;##// for other platforms nonzero exit value signals failure##return#Os#.#isFamily#(#"openvms"#)#?#(#exitValue#%#2#==#0#)#:#(#exitValue#!=#0#)#;#}

@@ -1,0 +1,1 @@
+void#setDiagnostic#(#boolean#enable#)#{#diagnostic#=#enable#;#}

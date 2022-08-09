@@ -1,0 +1,1 @@
+void#setDeleteOnExit#(#boolean#deleteOnExit#)#{#this#.#deleteOnExit#=#deleteOnExit#;#}

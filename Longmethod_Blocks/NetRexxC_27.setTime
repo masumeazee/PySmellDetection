@@ -1,0 +1,1 @@
+void#setTime#(#boolean#time#)#{#this#.#time#=#time#;#}

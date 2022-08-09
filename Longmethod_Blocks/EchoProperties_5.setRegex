@@ -1,0 +1,1 @@
+void#setRegex#(#String#regex#)#{##if#(#regex#!=#null#&&#regex#.#length#(#)#!=#0#)#{#this#.#regex#=#regex#;#PropertySet#ps#=#new#PropertySet#(#)#;#ps#.#setProject#(#getProject#(#)#)#;#ps#.#appendRegex#(#regex#)#;#addPropertyset#(#ps#)#;#}#}

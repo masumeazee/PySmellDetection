@@ -1,0 +1,1 @@
+void#setToList#(#Vector#list#)#{#this#.#toList#=#list#;#}

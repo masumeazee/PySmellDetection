@@ -1,0 +1,1 @@
+void#caught#(#Throwable#thrown#)#{#exception#=#thrown#;#buildException#=#(#thrown#instanceof#BuildException#)#?#(#BuildException#)#thrown#:#new#BuildException#(#thrown#)#;#}

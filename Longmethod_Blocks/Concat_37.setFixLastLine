@@ -1,0 +1,1 @@
+void#setFixLastLine#(#boolean#fixLastLine#)#{#this#.#fixLastLine#=#fixLastLine#;#}

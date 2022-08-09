@@ -1,0 +1,1 @@
+void#printParserInfo#(#PrintStream#out#,#String#parserType#,#String#parserName#,#String#parserLocation#)#{##if#(#parserName#==#null#)#{#parserName#=#"unknown"#;#}##if#(#parserLocation#==#null#)#{#parserLocation#=#"unknown"#;#}##out#.#println#(#parserType#+#" : "#+#parserName#)#;#out#.#println#(#parserType#+#" Location: "#+#parserLocation#)#;#}

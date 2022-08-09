@@ -1,0 +1,1 @@
+void#messageLogged#(#BuildEvent#event#)#{#String#message#=#event#.#getMessage#(#)#;##if#(#this#.#matcher#.#matches#(#message#)#)#{#lastMatchGroups#=#this#.#matcher#.#getGroups#(#message#)#;#}##super#.#messageLogged#(#event#)#;#}

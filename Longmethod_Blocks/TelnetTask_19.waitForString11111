@@ -1,0 +1,1 @@
+void#waitForString#(#String#s#)#{#waitForString#(#s#,#null#)#;#}

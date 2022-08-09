@@ -1,0 +1,1 @@
+void#add#(#FileNameMapper#newmapper#)#{##if#(#mapper#!=#null#)#{#throw#new#BuildException#(#"Only one mapper allowed"#)#;#}##mapper#=#newmapper#;#}

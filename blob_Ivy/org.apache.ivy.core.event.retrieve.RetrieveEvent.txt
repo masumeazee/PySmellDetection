@@ -1,0 +1,1 @@
+ModuleRevisionId#getModuleRevisionId#(#)#{#return#mrid#;#}##RetrieveOptions#getOptions#(#)#{#return#options#;#}##

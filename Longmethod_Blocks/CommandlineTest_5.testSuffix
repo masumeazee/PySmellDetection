@@ -1,0 +1,1 @@
+void#testSuffix#(#)#{#Commandline#c#=#new#Commandline#(#)#;#Commandline#.#Argument#a#=#c#.#createArgument#(#)#;#a#.#setValue#(#"foo"#)#;#a#.#setSuffix#(#",1"#)#;#String#[#]#s#=#c#.#getCommandline#(#)#;#assertEquals#(#1#,#s#.#length#)#;#assertEquals#(#"foo,1"#,#s#[#0#]#)#;#}

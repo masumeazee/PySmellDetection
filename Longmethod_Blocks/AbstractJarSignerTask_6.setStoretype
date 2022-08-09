@@ -1,0 +1,1 @@
+void#setStoretype#(#final#String#storetype#)#{#this#.#storetype#=#storetype#;#}

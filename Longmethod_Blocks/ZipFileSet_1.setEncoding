@@ -1,0 +1,1 @@
+void#setEncoding#(#String#enc#)#{#checkZipFileSetAttributesAllowed#(#)#;#this#.#encoding#=#enc#;#}

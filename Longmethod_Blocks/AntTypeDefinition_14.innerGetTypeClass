@@ -1,0 +1,1 @@
+Class#innerGetTypeClass#(#)#throws#ClassNotFoundException#{##if#(#clazz#!=#null#)#{##return#clazz#;#}##if#(#classLoader#==#null#)#{#clazz#=#Class#.#forName#(#className#)#;#}#else#{#clazz#=#classLoader#.#loadClass#(#className#)#;#}##return#clazz#;#}

@@ -1,0 +1,1 @@
+void#setNodeprefix#(#String#nodePrefix#)#{#optionalAttrs#.#put#(#NODE_PREFIX#,#nodePrefix#)#;#}

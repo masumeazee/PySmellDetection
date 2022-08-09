@@ -1,0 +1,1 @@
+String#[#]#getIncludePatterns#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#getIncludePatterns#(#p#)#;#}##dieOnCircularReference#(#p#)#;#readFiles#(#p#)#;##return#makeArray#(#includeList#,#p#)#;#}

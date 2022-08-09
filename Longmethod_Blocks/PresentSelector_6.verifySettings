@@ -1,0 +1,1 @@
+void#verifySettings#(#)#{##if#(#targetdir#==#null#)#{#setError#(#"The targetdir attribute is required."#)#;#}##if#(#map#==#null#)#{##if#(#mapperElement#==#null#)#{#map#=#new#IdentityMapper#(#)#;#}#else#{#map#=#mapperElement#.#getImplementation#(#)#;##if#(#map#==#null#)#{#setError#(#"Could not set <mapper> element."#)#;#}#}#}#}

@@ -1,0 +1,1 @@
+boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#{##return#isSelected#(#new#FileResource#(#file#)#)#;#}

@@ -1,0 +1,1 @@
+void#rethrowAnyBuildException#(#)#{#BuildException#ex#=#getBuildException#(#)#;##if#(#ex#!=#null#)#{#throw#ex#;#}#}

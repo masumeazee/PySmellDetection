@@ -1,0 +1,1 @@
+void#addNested#(#Echo#nestedEcho#)#{#this#.#nestedEcho#=#nestedEcho#;#}

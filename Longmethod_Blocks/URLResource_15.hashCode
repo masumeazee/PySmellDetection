@@ -1,0 +1,1 @@
+int#hashCode#(#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#hashCode#(#)#;#}##return#MAGIC#*#(#(#getURL#(#)#==#null#)#?#NULL_URL#:#getURL#(#)#.#hashCode#(#)#)#;#}

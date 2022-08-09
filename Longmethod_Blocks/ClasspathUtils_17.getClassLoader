@@ -1,0 +1,1 @@
+ClassLoader#getClassLoader#(#)#{##return#getClassLoaderForPath#(#getContextProject#(#)#,#classpath#,#getClassLoadId#(#)#,#reverseLoader#,#loaderId#!=#null#||#isMagicPropertySet#(#getContextProject#(#)#)#)#;#}

@@ -1,0 +1,1 @@
+void#characters#(#char#[#]#buf#,#int#start#,#int#count#)#{#wrapper#.#addText#(#buf#,#start#,#count#)#;#}

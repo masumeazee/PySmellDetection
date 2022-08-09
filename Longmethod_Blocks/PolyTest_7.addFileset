@@ -1,0 +1,1 @@
+void#addFileset#(#FileSet#fileset#)#{#log#(#"class of fileset is "#+#fileset#.#getClass#(#)#)#;#}

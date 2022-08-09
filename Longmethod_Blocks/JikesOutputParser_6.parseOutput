@@ -1,0 +1,1 @@
+void#parseOutput#(#BufferedReader#reader#)#throws#IOException#{##if#(#emacsMode#)#{#parseEmacsOutput#(#reader#)#;#}#else#{#parseStandardOutput#(#reader#)#;#}#}

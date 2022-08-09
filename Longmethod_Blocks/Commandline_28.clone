@@ -1,0 +1,1 @@
+Object#clone#(#)#{#try#{#Commandline#c#=#(#Commandline#)#super#.#clone#(#)#;#c#.#arguments#=#(#Vector#)#arguments#.#clone#(#)#;##return#c#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

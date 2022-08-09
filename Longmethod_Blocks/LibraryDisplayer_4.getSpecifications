@@ -1,0 +1,1 @@
+Specification#[#]#getSpecifications#(#final#Manifest#manifest#)#throws#BuildException#{#try#{##return#Specification#.#getSpecifications#(#manifest#)#;#}##catch#(#final#ParseException#pe#)#{#throw#new#BuildException#(#pe#.#getMessage#(#)#,#pe#)#;#}#}

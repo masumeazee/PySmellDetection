@@ -1,0 +1,1 @@
+void#read#(#DataInputStream#cpStream#)#throws#IOException#{#setValue#(#new#Long#(#cpStream#.#readLong#(#)#)#)#;#}##String#toString#(#)#{#return#"Long Constant Pool Entry: "#+#getValue#(#)#;#}##

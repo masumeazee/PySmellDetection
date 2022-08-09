@@ -1,0 +1,1 @@
+void#testCaseInsensitiveMatch#(#)#{#reg#.#setPattern#(#"aaaa"#)#;#assertTrue#(#"aaaa doesn't match AAaa"#,#!#reg#.#matches#(#"AAaa"#)#)#;#assertTrue#(#"aaaa matches AAaa ignoring case"#,#reg#.#matches#(#"AAaa"#,#RegexpMatcher#.#MATCH_CASE_INSENSITIVE#)#)#;#}

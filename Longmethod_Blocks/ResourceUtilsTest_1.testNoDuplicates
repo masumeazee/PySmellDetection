@@ -1,0 +1,1 @@
+void#testNoDuplicates#(#)#{#Resource#r#=#new#Resource#(#"samual vimes"#,#true#,#1#,#false#)#;#Resource#[#]#toNew#=#ResourceUtils#.#selectOutOfDateSources#(#taskINeedForLogging#,#new#Resource#[#]#{#r#}##,#this#,#this#)#;#assertEquals#(#1#,#toNew#.#length#)#;#}

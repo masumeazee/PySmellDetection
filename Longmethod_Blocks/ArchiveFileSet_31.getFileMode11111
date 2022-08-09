@@ -1,0 +1,1 @@
+int#getFileMode#(#)#{##return#fileMode#;#}

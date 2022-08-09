@@ -1,0 +1,1 @@
+boolean#isOutOfDate#(#File#src#,#File#target#,#int#granularity#)#{##if#(#!#src#.#exists#(#)#)#{##return#false#;#}##if#(#!#target#.#exists#(#)#)#{##return#true#;#}##if#(#(#src#.#lastModified#(#)#-#granularity#)#>#target#.#lastModified#(#)#)#{##return#true#;#}##return#false#;#}

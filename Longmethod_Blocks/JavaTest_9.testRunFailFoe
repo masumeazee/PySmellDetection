@@ -1,0 +1,1 @@
+void#testRunFailFoe#(#)#{##if#(#runFatalTests#)#{#expectBuildExceptionContaining#(#"testRunFailFoe"#,#"java failures being propagated"#,#"Java returned:"#)#;#}#}

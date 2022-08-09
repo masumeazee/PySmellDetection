@@ -1,0 +1,1 @@
+void#testFileFromRemoteShare#(#)#throws#Throwable#{#String#resolved#=#Locator#.#fromJarURI#(#SHARED_JAR_URI#)#;#assertResolved#(#SHARED_JAR_URI#,#LAUNCHER_JAR#,#resolved#,#true#)#;#File#f#=#new#File#(#resolved#)#;#String#path#=#f#.#getAbsolutePath#(#)#;##if#(#windows#)#{#assertEquals#(#0#,#path#.#indexOf#(#"\\\\"#)#)#;#}#}

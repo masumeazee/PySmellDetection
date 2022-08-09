@@ -1,0 +1,1 @@
+void#targetStarted#(#BuildEvent#event#)#{##if#(#initialized#)#{#Log#log#=#getLog#(#TARGET_LOG#,#event#.#getTarget#(#)#.#getName#(#)#)#;##// Since task log category includes target, we don't really##// need this message#realLog#(#log#,#"Start: "#+#event#.#getTarget#(#)#.#getName#(#)#,#Project#.#MSG_VERBOSE#,#null#)#;#}#}

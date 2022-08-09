@@ -1,0 +1,1 @@
+Enumeration#findResources#(#String#name#)#throws#IOException#{##if#(#name#.#equals#(#TEST_RESOURCE#)#)#{##return#Collections#.#enumeration#(#Collections#.#singleton#(#new#URL#(#"http://ant.apache.org/"#+#name#)#)#)#;#}#else#{##return#Collections#.#enumeration#(#Collections#.#EMPTY_SET#)#;#}#}

@@ -1,0 +1,1 @@
+String#getXSLTProcessorName#(#)#{#Transformer#transformer#=#getXSLTProcessor#(#)#;##if#(#transformer#==#null#)#{##return#"Could not create an XSLT Processor"#;#}##// check to what is in the classname#String#processorName#=#transformer#.#getClass#(#)#.#getName#(#)#;##return#processorName#;#}

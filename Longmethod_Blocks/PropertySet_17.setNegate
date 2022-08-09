@@ -1,0 +1,1 @@
+void#setNegate#(#boolean#negate#)#{#assertNotReference#(#)#;#this#.#negate#=#negate#;#}

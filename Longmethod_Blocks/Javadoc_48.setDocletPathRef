@@ -1,0 +1,1 @@
+void#setDocletPathRef#(#Reference#r#)#{##if#(#doclet#==#null#)#{#doclet#=#new#DocletInfo#(#)#;#doclet#.#setProject#(#getProject#(#)#)#;#}##doclet#.#createPath#(#)#.#setRefid#(#r#)#;#}

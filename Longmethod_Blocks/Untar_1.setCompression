@@ -1,0 +1,1 @@
+void#setCompression#(#UntarCompressionMethod#method#)#{#compression#=#method#;#}

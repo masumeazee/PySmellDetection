@@ -1,0 +1,1 @@
+Path#createCatalogPath#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#this#.#catalogPath#==#null#)#{#this#.#catalogPath#=#new#Path#(#getProject#(#)#)#;#}##setChecked#(#false#)#;##return#this#.#catalogPath#.#createPath#(#)#;#}

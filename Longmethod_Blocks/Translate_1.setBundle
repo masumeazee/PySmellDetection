@@ -1,0 +1,1 @@
+void#setBundle#(#String#bundle#)#{#this#.#bundle#=#bundle#;#}

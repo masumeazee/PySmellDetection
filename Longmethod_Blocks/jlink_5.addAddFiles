@@ -1,0 +1,1 @@
+void#addAddFiles#(#String#[#]#filesToAdd#)#{##if#(#filesToAdd#==#null#)#{##return#;#}##for#(#int#i#=#0#;##i#<#filesToAdd#.#length#;#i#++#)#{#addAddFile#(#filesToAdd#[#i#]#)#;#}#}

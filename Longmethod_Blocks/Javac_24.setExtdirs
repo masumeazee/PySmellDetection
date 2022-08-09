@@ -1,0 +1,1 @@
+void#setExtdirs#(#Path#extdirs#)#{##if#(#this#.#extdirs#==#null#)#{#this#.#extdirs#=#extdirs#;#}#else#{#this#.#extdirs#.#append#(#extdirs#)#;#}#}

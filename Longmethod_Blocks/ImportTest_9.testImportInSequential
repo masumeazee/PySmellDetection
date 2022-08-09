@@ -1,0 +1,1 @@
+void#testImportInSequential#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/import/subdir/importinsequential.xml"#)#;#expectPropertySet#(#"within-imported"#,#"foo"#,#"bar"#)#;#assertNotNull#(#getProject#(#)#.#getReference#(#"baz"#)#)#;#}

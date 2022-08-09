@@ -1,0 +1,1 @@
+void#setGlib#(#File#superGrammar#)#{#this#.#superGrammar#=#superGrammar#;#}

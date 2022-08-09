@@ -1,0 +1,8 @@
+void#tearDown#(#)#throws#Exception#{##if#(#project#==#null#)#{##/*
+             * Maybe the BuildFileTest was subclassed and there is
+             * no initialized project. So we could avoid getting a
+             * NPE.
+             * If there is an initialized project getTargets() does
+             * not return null as it is initialized by an empty
+             * HashSet.
+             */##return#;#}##final#String#tearDown#=#"tearDown"#;##if#(#project#.#getTargets#(#)#.#containsKey#(#tearDown#)#)#{#project#.#executeTarget#(#tearDown#)#;#}#}

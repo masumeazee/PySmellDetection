@@ -1,0 +1,1 @@
+PrintStream#createEmptyStream#(#)#{##return#new#PrintStream#(#new#OutputStream#(#)#{#public#void#write#(#int#b#)#{#}#}#)#;#}

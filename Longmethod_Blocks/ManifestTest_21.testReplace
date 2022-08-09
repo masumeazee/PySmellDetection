@@ -1,0 +1,1 @@
+void#testReplace#(#)#throws#IOException#,#ManifestException#{#executeTarget#(#"testReplace"#)#;#Manifest#mf#=#getManifest#(#"src/etc/testcases/taskdefs/mftest.mf"#)#;#assertNotNull#(#mf#)#;#assertEquals#(#Manifest#.#getDefaultManifest#(#)#,#mf#)#;#}

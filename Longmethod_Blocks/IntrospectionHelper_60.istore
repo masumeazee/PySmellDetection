@@ -1,0 +1,1 @@
+void#istore#(#Object#parent#,#Object#child#)#throws#InvocationTargetException#,#IllegalAccessException#,#InstantiationException#{#getMethod#(#)#.#invoke#(#parent#,#new#Object#[#]#{#child#}#)#;#}

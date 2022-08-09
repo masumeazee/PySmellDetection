@@ -1,0 +1,1 @@
+Map#scan#(#Resource#[#]#resources#,#File#toDir#)#{#assertTrue#(#"No mapper"#,#mapperElement#==#null#)#;#Map#m#=#super#.#scan#(#resources#,#toDir#)#;#Iterator#iter#=#m#.#keySet#(#)#.#iterator#(#)#;##while#(#iter#.#hasNext#(#)#)#{#nonOrphans#.#add#(#(#(#Resource#)#iter#.#next#(#)#)#.#getName#(#)#)#;#}##return#m#;#}

@@ -1,0 +1,1 @@
+void#testIfAndUnless#(#)#{##//neither#executeTarget#(#"testIfAndUnless"#)#;#project#.#setProperty#(#"if"#,#""#)#;#expectBuildExceptionContaining#(#"testIfAndUnless"#,#"expect fail on defined(if)"#,#"if=if and unless=unless"#)#;#project#.#setProperty#(#"unless"#,#""#)#;##//this call should succeed as unless overrides if#executeTarget#(#"testIfAndUnless"#)#;#}

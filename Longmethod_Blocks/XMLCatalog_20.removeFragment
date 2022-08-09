@@ -1,0 +1,1 @@
+String#removeFragment#(#String#uri#)#{#String#result#=#uri#;#int#hashPos#=#uri#.#indexOf#(#"#"#)#;##if#(#hashPos#>=#0#)#{#result#=#uri#.#substring#(#0#,#hashPos#)#;#}##return#result#;#}

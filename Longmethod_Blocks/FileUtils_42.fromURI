@@ -1,0 +1,1 @@
+String#fromURI#(#String#uri#)#{#synchronized#(#cacheFromUriLock#)#{##if#(#uri#.#equals#(#cacheFromUriRequest#)#)#{##return#cacheFromUriResponse#;#}##String#path#=#Locator#.#fromURI#(#uri#)#;#String#ret#=#isAbsolutePath#(#path#)#?#normalize#(#path#)#.#getAbsolutePath#(#)#:#path#;#cacheFromUriRequest#=#uri#;#cacheFromUriResponse#=#ret#;##return#ret#;#}#}

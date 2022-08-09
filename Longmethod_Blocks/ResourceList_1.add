@@ -1,0 +1,1 @@
+void#add#(#ResourceCollection#rc#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##textDocuments#.#add#(#rc#)#;#setChecked#(#false#)#;#}

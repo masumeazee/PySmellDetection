@@ -1,0 +1,1 @@
+void#setQuiet#(#boolean#q#)#{##if#(#q#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-s"#)#;#}#}

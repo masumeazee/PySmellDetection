@@ -1,0 +1,1 @@
+int#handleInput#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{##if#(#ant#!=#null#)#{##return#ant#.#handleInput#(#buffer#,#offset#,#length#)#;#}#else#{##return#super#.#handleInput#(#buffer#,#offset#,#length#)#;#}#}

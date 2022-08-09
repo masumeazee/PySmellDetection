@@ -1,0 +1,1 @@
+boolean#hasResources#(#)#{##return#path#!=#null#||#filesets#.#size#(#)#>#0#;#}

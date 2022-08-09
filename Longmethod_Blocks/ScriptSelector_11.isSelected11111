@@ -1,0 +1,1 @@
+boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#{#init#(#)#;#setSelected#(#true#)#;#this#.#file#=#file#;#this#.#basedir#=#basedir#;#this#.#filename#=#filename#;#runner#.#addBean#(#"basedir"#,#basedir#)#;#runner#.#addBean#(#"filename"#,#filename#)#;#runner#.#addBean#(#"file"#,#file#)#;#runner#.#executeScript#(#"ant_selector"#)#;##return#isSelected#(#)#;#}

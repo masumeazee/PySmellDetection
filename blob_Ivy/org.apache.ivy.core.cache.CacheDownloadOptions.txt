@@ -1,0 +1,1 @@
+DownloadListener#getListener#(#)#{#return#listener#;#}##CacheDownloadOptions#setListener#(#DownloadListener#listener#)#{#this#.#listener#=#listener#;#return#this#;#}##boolean#isForce#(#)#{#return#force#;#}##CacheDownloadOptions#setForce#(#boolean#force#)#{#this#.#force#=#force#;#return#this#;#}##

@@ -1,0 +1,1 @@
+void#testPatternSetIncludeAndExclude#(#)#{#executeTarget#(#"testPatternSetIncludeAndExclude"#)#;#assertFileMissing#(#"1/foo is not included"#,#"unziptestout/1/foo"#)#;#assertFileMissing#(#"2/bar is excluded"#,#"unziptestout/2/bar"#)#;#}

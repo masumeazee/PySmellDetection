@@ -1,0 +1,1 @@
+void#setMethod#(#int#method#)#{#this#.#method#=#method#;#}

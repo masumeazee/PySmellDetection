@@ -1,0 +1,1 @@
+void#setRmic#(#final#Rmic#attributes#)#{#this#.#attributes#=#attributes#;#mapper#=#new#RmicFileNameMapper#(#)#;#}

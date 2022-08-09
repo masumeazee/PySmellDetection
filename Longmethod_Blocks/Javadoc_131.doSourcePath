@@ -1,0 +1,1 @@
+void#doSourcePath#(#Commandline#toExecute#,#Path#sourceDirs#)#{##if#(#sourceDirs#.#size#(#)#>#0#)#{#toExecute#.#createArgument#(#)#.#setValue#(#"-sourcepath"#)#;#toExecute#.#createArgument#(#)#.#setPath#(#sourceDirs#)#;#}#}

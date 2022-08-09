@@ -1,0 +1,1 @@
+void#testgenericantfile#(#)#{#File#dir1#=#project#.#resolveFile#(#"."#)#;#File#dir2#=#project#.#resolveFile#(#"subant/subant-test1"#)#;#File#dir3#=#project#.#resolveFile#(#"subant/subant-test2"#)#;#testBaseDirs#(#"testgenericantfile"#,#new#String#[#]#{#dir1#.#getAbsolutePath#(#)#,#dir2#.#getAbsolutePath#(#)#,#dir3#.#getAbsolutePath#(#)#}#)#;#}

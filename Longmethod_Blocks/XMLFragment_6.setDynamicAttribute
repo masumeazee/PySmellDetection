@@ -1,0 +1,1 @@
+void#setDynamicAttribute#(#String#uri#,#String#name#,#String#qName#,#String#value#)#{##if#(#uri#.#equals#(#""#)#)#{#e#.#setAttribute#(#name#,#value#)#;#}#else#{#e#.#setAttributeNS#(#uri#,#qName#,#value#)#;#}#}

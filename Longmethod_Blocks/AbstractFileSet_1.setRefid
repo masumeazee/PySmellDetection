@@ -1,0 +1,1 @@
+void#setRefid#(#Reference#r#)#throws#BuildException#{##if#(#dir#!=#null#||#defaultPatterns#.#hasPatterns#(#getProject#(#)#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#!#additionalPatterns#.#isEmpty#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#!#selectors#.#isEmpty#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##super#.#setRefid#(#r#)#;#}

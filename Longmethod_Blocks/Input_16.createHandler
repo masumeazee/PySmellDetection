@@ -1,0 +1,1 @@
+Handler#createHandler#(#)#{##if#(#handler#!=#null#)#{#throw#new#BuildException#(#"Cannot define > 1 nested input handler"#)#;#}##handler#=#new#Handler#(#)#;##return#handler#;#}

@@ -1,0 +1,1 @@
+void#addTrim#(#Trim#filter#)#{#filters#.#addElement#(#filter#)#;#}

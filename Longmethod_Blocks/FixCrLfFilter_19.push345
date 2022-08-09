@@ -1,0 +1,1 @@
+void#push#(#char#[#]#cs#,#int#start#,#int#length#)#{#for#(#int#i#=#start#+#length#-#1#;##i#>=#start#;#)#{#push#(#cs#[#i#--#]#)#;#}#}

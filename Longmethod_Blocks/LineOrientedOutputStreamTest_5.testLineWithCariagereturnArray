@@ -1,0 +1,1 @@
+void#testLineWithCariagereturnArray#(#)#throws#IOException#{#writeByteArray#(#)#;#writeAsArray#(#'\r'#)#;#stream#.#assertInvoked#(#)#;#}

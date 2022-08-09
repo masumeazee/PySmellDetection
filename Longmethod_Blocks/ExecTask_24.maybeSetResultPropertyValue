@@ -1,0 +1,1 @@
+void#maybeSetResultPropertyValue#(#int#result#)#{##if#(#resultProperty#!=#null#)#{#String#res#=#Integer#.#toString#(#result#)#;#getProject#(#)#.#setNewProperty#(#resultProperty#,#res#)#;#}#}

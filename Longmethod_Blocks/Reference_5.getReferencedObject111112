@@ -1,0 +1,1 @@
+Object#getReferencedObject#(#Project#fallback#)#throws#BuildException#{##if#(#refid#==#null#)#{#throw#new#BuildException#(#"No reference specified"#)#;#}##Object#o#=#project#==#null#?#fallback#.#getReference#(#refid#)#:#project#.#getReference#(#refid#)#;##if#(#o#==#null#)#{#throw#new#BuildException#(#"Reference "#+#refid#+#" not found."#)#;#}##return#o#;#}

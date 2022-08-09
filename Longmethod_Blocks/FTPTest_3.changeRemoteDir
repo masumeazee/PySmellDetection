@@ -1,0 +1,1 @@
+boolean#changeRemoteDir#(#String#remoteDir#)#{#boolean#result#=#true#;##try#{#ftp#.#cwd#(#remoteDir#)#;#}##catch#(#Exception#ex#)#{#System#.#out#.#println#(#"could not change directory to "#+#remoteTmpDir#)#;#result#=#false#;#}##return#result#;#}

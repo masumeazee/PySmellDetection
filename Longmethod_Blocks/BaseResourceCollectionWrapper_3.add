@@ -1,0 +1,1 @@
+void#add#(#ResourceCollection#c#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#c#==#null#)#{##return#;#}##if#(#rc#!=#null#)#{#throw#oneNested#(#)#;#}##rc#=#c#;##if#(#Project#.#getProject#(#rc#)#==#null#)#{#Project#p#=#getProject#(#)#;##if#(#p#!=#null#)#{#p#.#setProjectReference#(#rc#)#;#}#}##setChecked#(#false#)#;#}

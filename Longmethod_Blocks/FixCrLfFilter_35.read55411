@@ -1,0 +1,1 @@
+int#read#(#)#throws#IOException#{#int#thisChar#=#super#.#read#(#)#;##// if source is EOF but last character was NOT ctrl-z, return ctrl-z##if#(#thisChar#==#-#1#)#{##if#(#lastChar#!=#CTRLZ#)#{#lastChar#=#CTRLZ#;##return#lastChar#;#}#}#else#{#lastChar#=#thisChar#;#}##return#thisChar#;#}

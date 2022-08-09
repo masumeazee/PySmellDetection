@@ -1,0 +1,1 @@
+void#execute#(#AntTelnetClient#telnet#)#throws#BuildException#{#telnet#.#sendString#(#taskString#,#echoString#)#;#}

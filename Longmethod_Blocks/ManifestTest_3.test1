@@ -1,0 +1,1 @@
+void#test1#(#)#throws#ManifestException#,#IOException#{#executeTarget#(#"test1"#)#;#Manifest#manifest#=#getManifest#(#EXPANDED_MANIFEST#)#;#String#version#=#manifest#.#getManifestVersion#(#)#;#assertEquals#(#"Manifest was not created with correct version - "#,#"1.0"#,#version#)#;#}

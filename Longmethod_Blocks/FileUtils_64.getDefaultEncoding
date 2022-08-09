@@ -1,0 +1,1 @@
+String#getDefaultEncoding#(#)#{#InputStreamReader#is#=#new#InputStreamReader#(#new#InputStream#(#)#{#public#int#read#(#)#{##return#-#1#;#}#}#)#;##try#{##return#is#.#getEncoding#(#)#;#}##finally#{#close#(#is#)#;#}#}

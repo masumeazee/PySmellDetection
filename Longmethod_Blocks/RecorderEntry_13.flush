@@ -1,0 +1,1 @@
+void#flush#(#)#{##if#(#record#&&#out#!=#null#)#{#out#.#flush#(#)#;#}#}

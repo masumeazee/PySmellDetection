@@ -1,0 +1,1 @@
+void#addUser#(#final#CvsUser#user#)#{#cvsUsers#.#addElement#(#user#)#;#}

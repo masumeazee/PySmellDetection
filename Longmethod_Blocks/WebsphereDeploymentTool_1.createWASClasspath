@@ -1,0 +1,1 @@
+Path#createWASClasspath#(#)#{##if#(#wasClasspath#==#null#)#{#wasClasspath#=#new#Path#(#getTask#(#)#.#getProject#(#)#)#;#}##return#wasClasspath#.#createPath#(#)#;#}

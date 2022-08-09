@@ -1,0 +1,1 @@
+void#logVmCrash#(#FormatterElement#[#]#feArray#,#JUnitTest#test#,#String#testCase#)#{#logVmExit#(#feArray#,#test#,#"Forked Java VM exited abnormally. Please note the time in the report"#+#" does not reflect the time until the VM exit."#,#testCase#)#;#}

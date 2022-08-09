@@ -1,0 +1,1 @@
+void#testNoTimeOut#(#)#throws#Exception#{#Commandline#cmd#=#getCommandline#(#TIME_OUT#/#2#)#;#ej#.#setJavaCommand#(#cmd#)#;#ej#.#execute#(#project#)#;#assertTrue#(#"process should not have been killed"#,#!#ej#.#killedProcess#(#)#)#;#}

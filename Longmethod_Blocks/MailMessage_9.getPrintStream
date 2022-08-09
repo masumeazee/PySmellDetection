@@ -1,0 +1,1 @@
+PrintStream#getPrintStream#(#)#throws#IOException#{#setFromHeader#(#)#;#setReplyToHeader#(#)#;#setToHeader#(#)#;#setCcHeader#(#)#;#setHeader#(#"X-Mailer"#,#"org.apache.tools.mail.MailMessage (ant.apache.org)"#)#;#sendData#(#)#;#flushHeaders#(#)#;##return#out#;#}

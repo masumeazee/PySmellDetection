@@ -1,0 +1,1 @@
+void#setPrefix#(#String#prefix#)#{#assertValid#(#"prefix"#,#prefix#)#;#this#.#prefix#=#prefix#;#}

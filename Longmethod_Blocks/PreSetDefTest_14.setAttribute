@@ -1,0 +1,1 @@
+void#setAttribute#(#boolean#b#)#{##if#(#isSet#)#{#throw#new#BuildException#(#"Attribute Already set"#)#;#}##attribute#=#b#;#isSet#=#true#;#}

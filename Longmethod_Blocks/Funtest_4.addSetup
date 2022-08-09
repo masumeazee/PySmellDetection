@@ -1,0 +1,1 @@
+void#addSetup#(#Sequential#sequence#)#{#logOverride#(#"setup"#,#setup#)#;#setup#=#sequence#;#}

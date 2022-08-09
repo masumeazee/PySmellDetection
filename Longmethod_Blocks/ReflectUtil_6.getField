@@ -1,0 +1,1 @@
+Object#getField#(#Object#obj#,#String#fieldName#)#throws#BuildException#{#try#{#Field#field#=#obj#.#getClass#(#)#.#getDeclaredField#(#fieldName#)#;#field#.#setAccessible#(#true#)#;##return#field#.#get#(#obj#)#;#}##catch#(#Exception#t#)#{#throwBuildException#(#t#)#;##return#null#;##// NotReached#}#}

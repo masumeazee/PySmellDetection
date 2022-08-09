@@ -1,0 +1,1 @@
+void#initProperties#(#)#throws#BuildException#{#setJavaVersionProperty#(#)#;#setSystemProperties#(#)#;#setPropertyInternal#(#MagicNames#.#ANT_VERSION#,#Main#.#getAntVersion#(#)#)#;#setAntLib#(#)#;#}

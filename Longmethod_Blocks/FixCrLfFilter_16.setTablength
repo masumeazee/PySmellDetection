@@ -1,0 +1,1 @@
+void#setTablength#(#int#tabLength#)#throws#IOException#{##if#(#tabLength#<#MIN_TAB_LENGTH#||#tabLength#>#MAX_TAB_LENGTH#)#{#throw#new#IOException#(#"tablength must be between "#+#MIN_TAB_LENGTH#+#" and "#+#MAX_TAB_LENGTH#)#;#}##this#.#tabLength#=#tabLength#;#}

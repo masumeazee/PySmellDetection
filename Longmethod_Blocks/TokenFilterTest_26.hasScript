@@ -1,0 +1,1 @@
+boolean#hasScript#(#String#test#)#{#try#{#executeTarget#(#"hasscript"#)#;#}##catch#(#Throwable#ex#)#{#System#.#out#.#println#(#test#+#": skipped - script not present "#)#;##return#false#;#}##return#true#;#}

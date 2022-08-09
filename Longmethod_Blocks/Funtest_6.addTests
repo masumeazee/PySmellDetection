@@ -1,0 +1,1 @@
+void#addTests#(#Sequential#sequence#)#{#logOverride#(#"tests"#,#tests#)#;#tests#=#sequence#;#}

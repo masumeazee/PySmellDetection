@@ -1,0 +1,10 @@
+void#testSetLastModified#(#)#throws#IOException#{#removeThis#=#new#File#(#"dummy"#)#;#FileOutputStream#fos#=#new#FileOutputStream#(#removeThis#)#;#fos#.#write#(#new#byte#[#0#]#)#;#fos#.#close#(#)#;#long#modTime#=#removeThis#.#lastModified#(#)#;#assertTrue#(#modTime#!=#0#)#;##/*
+         * Sleep for some time to make sure a touched file would get a
+         * more recent timestamp according to the file system's
+         * granularity (should be > 2s to account for Windows FAT).
+         */#try#{#Thread#.#sleep#(#5000#)#;#}##catch#(#InterruptedException#ie#)#{#fail#(#ie#.#getMessage#(#)#)#;#}##FILE_UTILS#.#setFileLastModified#(#removeThis#,#-#1#)#;#long#secondModTime#=#removeThis#.#lastModified#(#)#;#assertTrue#(#secondModTime#>#modTime#)#;##// number of milliseconds in a day#final#int#millisperday#=#24#*#3600#*#1000#;##// in a previous version, the date of the file was set to 123456##// milliseconds since 01.01.1970##// it did not work on a computer running JDK 1.4.1_02 + Windows 2000#FILE_UTILS#.#setFileLastModified#(#removeThis#,#secondModTime#+#millisperday#)#;#long#thirdModTime#=#removeThis#.#lastModified#(#)#;##/*
+         * I would love to compare this with 123456, but depending on
+         * the filesystems granularity it can take an arbitrary value.
+         *
+         * Just assert the time has changed.
+         */#assertTrue#(#thirdModTime#!=#secondModTime#)#;#}

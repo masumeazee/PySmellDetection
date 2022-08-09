@@ -1,0 +1,1 @@
+int#getSubsOptions#(#int#options#)#{#int#subsOptions#=#REPLACE_FIRST#;##if#(#RegexpUtil#.#hasFlag#(#options#,#REPLACE_ALL#)#)#{#subsOptions#=#REPLACE_ALL#;#}##return#subsOptions#;#}

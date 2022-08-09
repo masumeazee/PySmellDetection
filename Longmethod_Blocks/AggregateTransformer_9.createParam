@@ -1,0 +1,1 @@
+XSLTProcess#.#Param#createParam#(#)#{#XSLTProcess#.#Param#p#=#new#XSLTProcess#.#Param#(#)#;#params#.#add#(#p#)#;##return#p#;#}

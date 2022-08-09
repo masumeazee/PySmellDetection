@@ -1,0 +1,1 @@
+void#validate#(#)#throws#BuildException#{##if#(#null#==#propertyName#)#{#final#String#message#=#"Property attribute must be specified."#;#throw#new#BuildException#(#message#)#;#}##if#(#null#==#requiredExtension#)#{#final#String#message#=#"Extension element must be specified."#;#throw#new#BuildException#(#message#)#;#}#}

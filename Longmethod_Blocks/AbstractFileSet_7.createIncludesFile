@@ -1,0 +1,1 @@
+PatternSet#.#NameEntry#createIncludesFile#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##directoryScanner#=#null#;##return#defaultPatterns#.#createIncludesFile#(#)#;#}

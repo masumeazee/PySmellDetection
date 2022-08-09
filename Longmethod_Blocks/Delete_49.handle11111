@@ -1,0 +1,1 @@
+void#handle#(#Exception#e#)#{##if#(#failonerror#)#{#throw#(#e#instanceof#BuildException#)#?#(#BuildException#)#e#:#new#BuildException#(#e#)#;#}##log#(#e#,#quiet#?#Project#.#MSG_VERBOSE#:#verbosity#)#;#}

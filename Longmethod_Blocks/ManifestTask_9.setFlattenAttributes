@@ -1,0 +1,1 @@
+void#setFlattenAttributes#(#boolean#b#)#{#flattenClassPaths#=#b#;#}

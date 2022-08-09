@@ -1,0 +1,1 @@
+void#addText#(#String#s#)#{#setString#(#getProject#(#)#.#replaceProperties#(#s#)#)#;#}

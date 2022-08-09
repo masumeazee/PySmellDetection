@@ -1,0 +1,1 @@
+void#setOutput#(#File#out#)#{#setOutput#(#(#out#==#null#)#?#null#:#new#File#[#]#{#out#}#)#;#}

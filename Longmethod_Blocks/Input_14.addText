@@ -1,0 +1,1 @@
+void#addText#(#String#msg#)#{##if#(#messageAttribute#&&#""#.#equals#(#msg#.#trim#(#)#)#)#{##return#;#}##message#+=#getProject#(#)#.#replaceProperties#(#msg#)#;#}

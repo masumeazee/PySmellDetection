@@ -1,0 +1,1 @@
+Object#as#(#Class#clazz#)#{##return#FileProvider#.#class#.#isAssignableFrom#(#clazz#)#?#null#:#getResource#(#)#.#as#(#clazz#)#;#}

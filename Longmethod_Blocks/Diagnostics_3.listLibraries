@@ -1,0 +1,1 @@
+File#[#]#listLibraries#(#)#{#String#home#=#System#.#getProperty#(#MagicNames#.#ANT_HOME#)#;##if#(#home#==#null#)#{##return#null#;#}##File#libDir#=#new#File#(#home#,#"lib"#)#;##return#listJarFiles#(#libDir#)#;#}

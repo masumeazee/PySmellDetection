@@ -1,0 +1,1 @@
+void#checkConfiguration#(#)#{##if#(#!#haveGroup#)#{#throw#new#BuildException#(#"Required attribute group not set in "#+#"chgrp"#,#getLocation#(#)#)#;#}##super#.#checkConfiguration#(#)#;#}

@@ -1,0 +1,1 @@
+void#setTab#(#AddAsisRemove#attr#)#{#tabs#=#attr#.#resolve#(#)#;#}

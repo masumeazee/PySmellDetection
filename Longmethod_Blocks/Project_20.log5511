@@ -1,0 +1,1 @@
+void#log#(#String#message#,#Throwable#throwable#,#int#msgLevel#)#{#fireMessageLogged#(#this#,#message#,#throwable#,#msgLevel#)#;#}

@@ -1,0 +1,1 @@
+boolean#isContainer#(#)#{##return#TaskContainer#.#class#.#isAssignableFrom#(#bean#)#;#}

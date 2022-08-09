@@ -1,0 +1,1 @@
+void#actionPerformed#(#ActionEvent#a#)#{##if#(#!#hasProgressPattern#(#)#)#{##if#(#total#<#MAX#)#{#total#++#;#}#else#{#total#=#MIN#;#}##pb#.#setValue#(#total#)#;#}#}

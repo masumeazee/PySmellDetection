@@ -1,0 +1,1 @@
+void#sendRcpt#(#String#rcpt#)#throws#IOException#{#int#[#]#ok#=#{#OK_RCPT_1#,#OK_RCPT_2#}#;#send#(#"RCPT TO: "#+#"<"#+#sanitizeAddress#(#rcpt#)#+#">"#,#ok#)#;#}

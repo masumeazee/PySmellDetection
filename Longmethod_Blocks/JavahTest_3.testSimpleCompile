@@ -1,0 +1,1 @@
+void#testSimpleCompile#(#)#{#executeTarget#(#"simple-compile"#)#;#assertTrue#(#getProject#(#)#.#resolveFile#(#"output/org_example_Foo.h"#)#.#exists#(#)#)#;#}

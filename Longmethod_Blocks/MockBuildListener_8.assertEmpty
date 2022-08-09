@@ -1,0 +1,1 @@
+void#assertEmpty#(#)#{#assertTrue#(#"MockBuildListener is not empty"#,#buffer#.#isEmpty#(#)#)#;#}

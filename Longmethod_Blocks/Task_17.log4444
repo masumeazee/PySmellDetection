@@ -1,0 +1,1 @@
+void#log#(#String#msg#)#{#log#(#msg#,#Project#.#MSG_INFO#)#;#}

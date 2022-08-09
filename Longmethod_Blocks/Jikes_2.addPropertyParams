@@ -1,0 +1,22 @@
+void#addPropertyParams#(#Commandline#cmd#)#{##/**
+         * XXX
+         * Perhaps we shouldn't use properties for these
+         * three options (emacs mode, warnings and pedantic),
+         * but include it in the javac directive?
+         */##/**
+         * Jikes has the nice feature to print error
+         * messages in a form readable by emacs, so
+         * that emacs can directly set the cursor
+         * to the place, where the error occurred.
+         */#String#emacsProperty#=#project#.#getProperty#(#"build.compiler.emacs"#)#;##if#(#emacsProperty#!=#null#&&#Project#.#toBoolean#(#emacsProperty#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"+E"#)#;#}##/**
+         * Jikes issues more warnings that javac, for
+         * example, when you have files in your classpath
+         * that don't exist. As this is often the case, these
+         * warning can be pretty annoying.
+         */#String#warningsProperty#=#project#.#getProperty#(#"build.compiler.warnings"#)#;##if#(#warningsProperty#!=#null#)#{#attributes#.#log#(#"!! the build.compiler.warnings property is "#+#"deprecated. !!"#,#Project#.#MSG_WARN#)#;#attributes#.#log#(#"!! Use the nowarn attribute instead. !!"#,#Project#.#MSG_WARN#)#;##if#(#!#Project#.#toBoolean#(#warningsProperty#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-nowarn"#)#;#}#}##if#(#attributes#.#getNowarn#(#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-nowarn"#)#;#}##/**
+         * Jikes can issue pedantic warnings.
+         */#String#pedanticProperty#=#project#.#getProperty#(#"build.compiler.pedantic"#)#;##if#(#pedanticProperty#!=#null#&&#Project#.#toBoolean#(#pedanticProperty#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"+P"#)#;#}##/**
+         * Jikes supports something it calls "full dependency
+         * checking", see the jikes documentation for differences
+         * between -depend and +F.
+         */#String#fullDependProperty#=#project#.#getProperty#(#"build.compiler.fulldepend"#)#;##if#(#fullDependProperty#!=#null#&&#Project#.#toBoolean#(#fullDependProperty#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"+F"#)#;#}#}

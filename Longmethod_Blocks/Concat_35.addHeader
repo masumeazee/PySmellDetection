@@ -1,0 +1,1 @@
+void#addHeader#(#TextElement#headerToAdd#)#{#this#.#header#=#headerToAdd#;#}

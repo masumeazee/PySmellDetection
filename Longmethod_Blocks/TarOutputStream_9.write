@@ -1,0 +1,1 @@
+void#write#(#int#b#)#throws#IOException#{#oneBuf#[#0#]#=#(#byte#)#b#;#write#(#oneBuf#,#0#,#1#)#;#}

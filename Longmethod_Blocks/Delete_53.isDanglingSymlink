@@ -1,0 +1,1 @@
+boolean#isDanglingSymlink#(#File#f#)#{#try#{##return#SYMLINK_UTILS#.#isDanglingSymbolicLink#(#f#)#;#}##catch#(#java#.#io#.#IOException#e#)#{#log#(#"Error while trying to detect "#+#f#.#getAbsolutePath#(#)#+#" as broken symbolic link. "#+#e#.#getMessage#(#)#,#quiet#?#Project#.#MSG_VERBOSE#:#verbosity#)#;##return#false#;#}#}

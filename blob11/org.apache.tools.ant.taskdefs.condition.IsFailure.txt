@@ -1,0 +1,1 @@
+void#setCode#(#int#c#)#{#code#=#c#;#}##int#getCode#(#)#{#return#code#;#}##boolean#eval#(#)#{#return#Execute#.#isFailure#(#code#)#;#}##

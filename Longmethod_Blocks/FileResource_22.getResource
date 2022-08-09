@@ -1,0 +1,1 @@
+Resource#getResource#(#String#path#)#{#File#newfile#=#FILE_UTILS#.#resolveFile#(#getFile#(#)#,#path#)#;#FileResource#fileResource#=#new#FileResource#(#newfile#)#;#fileResource#.#setBaseDir#(#getBaseDir#(#)#)#;##return#fileResource#;#}

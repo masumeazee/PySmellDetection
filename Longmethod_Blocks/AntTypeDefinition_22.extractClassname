@@ -1,0 +1,1 @@
+String#extractClassname#(#Class#c#)#{##return#(#c#==#null#)#?#"<null>"#:#c#.#getClass#(#)#.#getName#(#)#;#}

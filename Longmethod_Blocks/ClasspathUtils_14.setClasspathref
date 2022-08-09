@@ -1,0 +1,1 @@
+void#setClasspathref#(#Reference#r#)#{#this#.#classpathId#=#r#.#getRefId#(#)#;#createClasspath#(#)#.#setRefid#(#r#)#;#}

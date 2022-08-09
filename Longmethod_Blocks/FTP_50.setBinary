@@ -1,0 +1,1 @@
+void#setBinary#(#boolean#binary#)#{#this#.#binary#=#binary#;#}

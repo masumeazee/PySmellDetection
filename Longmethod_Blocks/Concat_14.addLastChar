@@ -1,0 +1,1 @@
+void#addLastChar#(#char#ch#)#{#for#(#int#i#=#lastChars#.#length#-#2#;##i#>=#0#;#--#i#)#{#lastChars#[#i#]#=#lastChars#[#i#+#1#]#;#}##lastChars#[#lastChars#.#length#-#1#]#=#ch#;#}

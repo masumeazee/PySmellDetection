@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#StripLineComments#newFilter#=#new#StripLineComments#(#rdr#)#;#newFilter#.#setComments#(#getComments#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

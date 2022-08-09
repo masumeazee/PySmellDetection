@@ -1,0 +1,1 @@
+void#testDefaultFailure#(#)#{#try#{#getProject#(#null#,#true#)#.#executeTargets#(#TARGET_NAMES#)#;#fail#(#"should fail"#)#;#}##catch#(#BuildException#e#)#{#assertTrue#(#e#.#getMessage#(#)#.#equals#(#"failfoo"#)#)#;#assertEquals#(#1#,#targetCount#)#;#}#}

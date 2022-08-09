@@ -1,0 +1,1 @@
+void#run#(#)#{#try#{#success#=#get#(#)#;#}##catch#(#IOException#ioex#)#{#ioexception#=#ioex#;#}##catch#(#BuildException#bex#)#{#exception#=#bex#;#}#}

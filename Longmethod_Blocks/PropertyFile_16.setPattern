@@ -1,0 +1,1 @@
+void#setPattern#(#String#value#)#{#this#.#pattern#=#value#;#}

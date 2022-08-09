@@ -1,0 +1,1 @@
+void#store#(#Object#parent#,#Object#child#)#throws#InvocationTargetException#,#IllegalAccessException#,#InstantiationException#{##if#(#behavior#==#ADD_CONFIGURED#)#{#istore#(#parent#,#child#)#;#}#}

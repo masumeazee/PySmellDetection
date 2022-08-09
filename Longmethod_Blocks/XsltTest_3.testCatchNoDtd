@@ -1,0 +1,1 @@
+void#testCatchNoDtd#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testCatchNoDtd"#,#"expected failure"#,#"Fatal error during transformation"#)#;#}

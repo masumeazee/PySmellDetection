@@ -1,0 +1,1 @@
+String#[#]#getCmpDescriptors#(#)#{#List#returnList#=#new#ArrayList#(#)#;#EjbInfo#[#]#ejbs#=#handler#.#getEjbs#(#)#;##for#(#int#i#=#0#;##i#<#ejbs#.#length#;#i#++#)#{#List#descriptors#=#(#List#)#ejbs#[#i#]#.#getCmpDescriptors#(#)#;#returnList#.#addAll#(#descriptors#)#;#}##return#(#String#[#]#)#returnList#.#toArray#(#new#String#[#returnList#.#size#(#)#]#)#;#}

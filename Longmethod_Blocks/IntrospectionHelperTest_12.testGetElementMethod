@@ -1,0 +1,1 @@
+void#testGetElementMethod#(#)#{#assertElemMethod#(#"six"#,#"createSix"#,#String#.#class#,#null#)#;#assertElemMethod#(#"thirteen"#,#"addThirteen"#,#null#,#StringBuffer#.#class#)#;#assertElemMethod#(#"fourteen"#,#"addFourteen"#,#null#,#StringBuffer#.#class#)#;#assertElemMethod#(#"fifteen"#,#"createFifteen"#,#StringBuffer#.#class#,#null#)#;#}

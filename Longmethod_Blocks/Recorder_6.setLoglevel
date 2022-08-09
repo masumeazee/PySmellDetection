@@ -1,0 +1,1 @@
+void#setLoglevel#(#VerbosityLevelChoices#level#)#{#loglevel#=#level#.#getLevel#(#)#;#}

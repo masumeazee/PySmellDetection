@@ -1,0 +1,1 @@
+void#setSize#(#long#l#)#{#size#=#l#;#}##long#getSize#(#)#{#return#size#;#}##void#setWhen#(#Comparison#c#)#{#when#=#c#;#}##Comparison#getWhen#(#)#{#return#when#;#}##boolean#isSelected#(#Resource#r#)#{#long#diff#=#r#.#getSize#(#)#-#size#;#return#when#.#evaluate#(#diff#==#0#?#0#:#(#int#)#(#diff#/#Math#.#abs#(#diff#)#)#)#;#}##

@@ -1,0 +1,1 @@
+void#setUnless#(#Object#unlessCondition#)#{#unlessCond#=#unlessCondition#;#unlessProperty#=#unlessCondition#!=#null#?#String#.#valueOf#(#unlessCondition#)#:#null#;#}

@@ -1,0 +1,1 @@
+void#testpropertyoutput1#(#)#{#PropertyResource#r#=#new#PropertyResource#(#getProject#(#)#,#"bar"#)#;#testoutputbe#(#r#)#;#assertPropertyEquals#(#"bar"#,#"foo"#)#;#}

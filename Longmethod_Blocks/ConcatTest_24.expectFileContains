@@ -1,0 +1,1 @@
+void#expectFileContains#(#String#target#,#String#filename#,#String#contains#)#throws#IOException#{#String#content#=#getFileString#(#target#,#filename#)#;#assertTrue#(#"expecting file "#+#filename#+#" to contain "#+#contains#+#" but got "#+#content#,#content#.#indexOf#(#contains#)#>#-#1#)#;#}

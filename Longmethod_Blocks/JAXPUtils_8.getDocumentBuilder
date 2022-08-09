@@ -1,0 +1,1 @@
+DocumentBuilder#getDocumentBuilder#(#)#throws#BuildException#{#try#{##return#getDocumentBuilderFactory#(#)#.#newDocumentBuilder#(#)#;#}##catch#(#ParserConfigurationException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

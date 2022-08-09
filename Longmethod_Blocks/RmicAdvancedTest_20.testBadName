@@ -1,0 +1,1 @@
+void#testBadName#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testBadName"#,#"compiler not known"#,#RmicAdapterFactory#.#ERROR_UNKNOWN_COMPILER#)#;#}

@@ -1,0 +1,1 @@
+void#testTopLevelTarget#(#)#{#expectLog#(#"topleveltarget"#,#"Hello world"#)#;#}

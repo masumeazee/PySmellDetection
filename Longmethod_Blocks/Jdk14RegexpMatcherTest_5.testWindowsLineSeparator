@@ -1,0 +1,1 @@
+void#testWindowsLineSeparator#(#)#throws#IOException#{#try#{#super#.#testWindowsLineSeparator#(#)#;#fail#(#"Should trigger once fixed. {@since JDK 1.4RC1}"#)#;#}##catch#(#AssertionFailedError#e#)#{#}#}

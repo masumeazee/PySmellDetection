@@ -1,0 +1,1 @@
+String#fromJarURI#(#String#uri#)#{#int#pling#=#uri#.#indexOf#(#'!'#)#;#String#jarName#=#uri#.#substring#(#"jar:"#.#length#(#)#,#pling#)#;##return#fromURI#(#jarName#)#;#}

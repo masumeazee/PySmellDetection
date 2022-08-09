@@ -1,0 +1,1 @@
+void#doReportXSLTProcessorInfo#(#PrintStream#out#)#{#String#processorName#=#getXSLTProcessorName#(#)#;#String#processorLocation#=#getXSLTProcessorLocation#(#)#;#printParserInfo#(#out#,#"XSLT Processor"#,#processorName#,#processorLocation#)#;#}

@@ -1,0 +1,1 @@
+void#setDelimiterType#(#DelimiterType#delimiterType#)#{#this#.#delimiterType#=#delimiterType#.#getValue#(#)#;#}

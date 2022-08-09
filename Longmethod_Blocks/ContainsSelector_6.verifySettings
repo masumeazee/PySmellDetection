@@ -1,0 +1,1 @@
+void#verifySettings#(#)#{##if#(#contains#==#null#)#{#setError#(#"The text attribute is required"#)#;#}#}

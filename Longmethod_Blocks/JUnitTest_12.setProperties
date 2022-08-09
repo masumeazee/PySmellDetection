@@ -1,0 +1,1 @@
+void#setProperties#(#Hashtable#p#)#{#props#=#new#Properties#(#)#;##for#(#Enumeration#e#=#p#.#keys#(#)#;##e#.#hasMoreElements#(#)#;#)#{#Object#key#=#e#.#nextElement#(#)#;#props#.#put#(#key#,#p#.#get#(#key#)#)#;#}#}

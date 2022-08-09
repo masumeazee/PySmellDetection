@@ -1,0 +1,1 @@
+boolean#filterLine#(#String#line#)#{#for#(#int#i#=#0#;##i#<#DEFAULT_TRACE_FILTERS#.#length#;#i#++#)#{##if#(#line#.#indexOf#(#DEFAULT_TRACE_FILTERS#[#i#]#)#!=#-#1#)#{##return#true#;#}#}##return#false#;#}

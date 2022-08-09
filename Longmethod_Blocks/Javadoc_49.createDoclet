@@ -1,0 +1,1 @@
+DocletInfo#createDoclet#(#)#{##if#(#doclet#==#null#)#{#doclet#=#new#DocletInfo#(#)#;#}##return#doclet#;#}

@@ -1,0 +1,1 @@
+Reader#getReader#(#Object#o#)#throws#IOException#{#InputStream#is#=#(#(#Resource#)#o#)#.#getInputStream#(#)#;##return#new#BufferedReader#(#encoding#==#null#?#new#InputStreamReader#(#is#)#:#new#InputStreamReader#(#is#,#encoding#)#)#;#}

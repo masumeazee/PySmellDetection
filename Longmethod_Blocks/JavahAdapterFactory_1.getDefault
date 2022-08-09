@@ -1,0 +1,1 @@
+String#getDefault#(#)#{##if#(#JavaEnvUtils#.#isKaffe#(#)#)#{##return#Kaffeh#.#IMPLEMENTATION_NAME#;#}##return#SunJavah#.#IMPLEMENTATION_NAME#;#}

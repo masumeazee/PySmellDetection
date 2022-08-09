@@ -1,0 +1,1 @@
+void#setFrom#(#String#from#)#{#}##void#setTo#(#String#to#)#{#mergedFile#=#new#String#[#]#{#to#}#;#}##String#[#]#mapFileName#(#String#sourceFileName#)#{#return#mergedFile#;#}##

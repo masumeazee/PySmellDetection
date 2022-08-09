@@ -1,0 +1,1 @@
+void#add#(#MyValue#value#)#{#throw#new#BuildException#(#"Should not be called"#)#;#}

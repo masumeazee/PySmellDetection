@@ -1,0 +1,1 @@
+void#test6#(#)#{#executeTarget#(#"test6"#)#;#assertEquals#(#"2000"#,#getFilteredFile#(#"6"#,#"taskdefs.tmp/filter1.txt"#)#)#;#}

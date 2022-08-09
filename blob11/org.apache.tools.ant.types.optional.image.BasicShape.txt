@@ -1,0 +1,1 @@
+void#setFill#(#String#col#)#{#fill#=#col#;#}##void#setStroke#(#String#col#)#{#stroke#=#col#;#}##void#setStrokewidth#(#int#width#)#{#stroke_width#=#width#;#}##

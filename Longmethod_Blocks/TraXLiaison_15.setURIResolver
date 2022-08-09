@@ -1,0 +1,1 @@
+void#setURIResolver#(#URIResolver#aResolver#)#{#uriResolver#=#aResolver#;#}

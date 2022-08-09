@@ -1,0 +1,1 @@
+boolean#testUnlessCondition#(#Object#value#)#{##return#nullOrEmpty#(#value#)#||#!#evalAsBooleanOrPropertyName#(#value#)#;#}

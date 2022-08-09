@@ -1,0 +1,1 @@
+void#zipFile#(#InputStream#in#,#OutputStream#zOut#)#throws#IOException#{#byte#[#]#buffer#=#new#byte#[#BUFFER_SIZE#]#;#int#count#=#0#;##do#{#zOut#.#write#(#buffer#,#0#,#count#)#;#count#=#in#.#read#(#buffer#,#0#,#buffer#.#length#)#;#}##while#(#count#!=#-#1#)#;#}

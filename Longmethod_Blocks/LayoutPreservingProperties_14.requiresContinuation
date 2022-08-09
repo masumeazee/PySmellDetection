@@ -1,0 +1,1 @@
+boolean#requiresContinuation#(#String#s#)#{#char#[#]#ca#=#s#.#toCharArray#(#)#;#int#i#=#ca#.#length#-#1#;##while#(#i#>#0#&&#ca#[#i#]#==#'\\'#)#{#i#--#;#}##// trailing backslashes#int#tb#=#ca#.#length#-#i#-#1#;##return#tb#%#2#==#1#;#}

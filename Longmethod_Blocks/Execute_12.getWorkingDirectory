@@ -1,0 +1,1 @@
+File#getWorkingDirectory#(#)#{##return#workingDirectory#==#null#?#new#File#(#antWorkingDirectory#)#:#workingDirectory#;#}

@@ -1,0 +1,1 @@
+int#hashCode#(#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#hashCode#(#)#;#}##return#v#==#null#?#0#:#v#.#hashCode#(#)#;#}

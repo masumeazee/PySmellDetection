@@ -1,0 +1,1 @@
+String#toString#(#)#{##if#(#name#==#null#)#{##return#address#;#}#else#{##return#name#+#" <"#+#address#+#">"#;#}#}

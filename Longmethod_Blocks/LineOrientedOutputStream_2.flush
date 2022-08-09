@@ -1,0 +1,1 @@
+void#flush#(#)#throws#IOException#{##if#(#buffer#.#size#(#)#>#0#)#{#processBuffer#(#)#;#}#}

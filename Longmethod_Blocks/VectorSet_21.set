@@ -1,0 +1,1 @@
+Object#set#(#int#index#,#Object#o#)#{#Object#orig#=#get#(#index#)#;##if#(#set#.#add#(#o#)#)#{#elementData#[#index#]#=#o#;#set#.#remove#(#orig#)#;#}#else#{#int#oldIndexOfO#=#indexOf#(#o#)#;#remove#(#o#)#;#remove#(#orig#)#;#add#(#oldIndexOfO#>#index#?#index#:#index#-#1#,#o#)#;#}##return#orig#;#}

@@ -1,0 +1,1 @@
+boolean#isSymbolicLink#(#String#name#)#throws#IOException#{##return#isSymbolicLink#(#new#File#(#name#)#)#;#}

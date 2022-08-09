@@ -1,0 +1,1 @@
+String#[#]#getPath#(#)#{##return#getPath#(#directory#.#getAbsolutePath#(#)#)#;#}

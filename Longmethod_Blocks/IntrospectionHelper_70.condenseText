@@ -1,0 +1,1 @@
+String#condenseText#(#final#String#text#)#{##if#(#text#.#length#(#)#<=#MAX_REPORT_NESTED_TEXT#)#{##return#text#;#}##int#ends#=#(#MAX_REPORT_NESTED_TEXT#-#ELLIPSIS#.#length#(#)#)#/#2#;##return#new#StringBuffer#(#text#)#.#replace#(#ends#,#text#.#length#(#)#-#ends#,#ELLIPSIS#)#.#toString#(#)#;#}

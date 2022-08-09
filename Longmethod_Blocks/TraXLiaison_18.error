@@ -1,0 +1,1 @@
+void#error#(#TransformerException#e#)#{#logError#(#e#,#"Error"#)#;#}

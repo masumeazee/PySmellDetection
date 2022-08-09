@@ -1,0 +1,1 @@
+boolean#accept#(#String#pattern#)#{#return#pattern#.#startsWith#(#"http"#)#;#}##List#listAll#(#URL#url#)#throws#IOException#{#return#lister#.#listAll#(#url#)#;#}##String#toString#(#)#{#return#"apache http lister"#;#}##

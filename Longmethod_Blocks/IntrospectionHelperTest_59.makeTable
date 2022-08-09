@@ -1,0 +1,1 @@
+Hashtable#makeTable#(#Object#key#,#Object#value#)#{#Hashtable#table#=#new#Hashtable#(#)#;#table#.#put#(#key#,#value#)#;##return#table#;#}

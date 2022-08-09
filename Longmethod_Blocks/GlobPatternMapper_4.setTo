@@ -1,0 +1,1 @@
+void#setTo#(#String#to#)#{##if#(#to#!=#null#)#{#int#index#=#to#.#lastIndexOf#(#"*"#)#;##if#(#index#==#-#1#)#{#toPrefix#=#to#;#toPostfix#=#""#;#}#else#{#toPrefix#=#to#.#substring#(#0#,#index#)#;#toPostfix#=#to#.#substring#(#index#+#1#)#;#toContainsStar#=#true#;#}#}#else#{#throw#new#BuildException#(#"this mapper requires a 'to' attribute"#)#;#}#}

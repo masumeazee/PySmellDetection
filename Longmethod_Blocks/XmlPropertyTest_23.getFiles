@@ -1,0 +1,1 @@
+Enumeration#getFiles#(#final#File#startingDir#)#{#Vector#result#=#new#Vector#(#)#;#getFiles#(#startingDir#,#result#)#;##return#result#.#elements#(#)#;#}

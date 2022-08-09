@@ -1,0 +1,1 @@
+void#save#(#)#{##if#(#!#cacheDirty#)#{##return#;#}##if#(#(#cachefile#!=#null#)#&&#cache#.#propertyNames#(#)#.#hasMoreElements#(#)#)#{#try#{#BufferedOutputStream#bos#=#new#BufferedOutputStream#(#new#FileOutputStream#(#cachefile#)#)#;#cache#.#store#(#bos#,#null#)#;#bos#.#flush#(#)#;#bos#.#close#(#)#;#}##catch#(#Exception#e#)#{#e#.#printStackTrace#(#)#;#}#}##cacheDirty#=#false#;#}

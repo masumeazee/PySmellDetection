@@ -1,0 +1,7 @@
+void#execute#(#)#throws#BuildException#{##/* Here we can either revert any unchanged files in a changelist
+         * or
+         * any files regardless of whether they have been changed or not
+         *
+         *
+         * The whole process also accepts a p4 filespec
+         */#String#p4cmd#=#"-s revert"#;##if#(#onlyUnchanged#)#{#p4cmd#+=#" -a"#;#}##if#(#revertChange#!=#null#)#{#p4cmd#+=#" -c "#+#revertChange#;#}##execP4Command#(#p4cmd#+#" "#+#P4View#,#new#SimpleP4OutputHandler#(#this#)#)#;#}

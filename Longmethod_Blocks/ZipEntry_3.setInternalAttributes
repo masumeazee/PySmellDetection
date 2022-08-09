@@ -1,0 +1,1 @@
+void#setInternalAttributes#(#int#value#)#{#internalAttributes#=#value#;#}

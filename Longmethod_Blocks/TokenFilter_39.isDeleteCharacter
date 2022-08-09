@@ -1,0 +1,1 @@
+boolean#isDeleteCharacter#(#char#c#)#{#for#(#int#d#=#0#;##d#<#deleteChars#.#length#(#)#;#++#d#)#{##if#(#deleteChars#.#charAt#(#d#)#==#c#)#{##return#true#;#}#}##return#false#;#}

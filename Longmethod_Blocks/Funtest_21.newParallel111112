@@ -1,0 +1,1 @@
+Parallel#newParallel#(#long#parallelTimeout#)#{#Parallel#par#=#new#Parallel#(#)#;#bind#(#par#)#;#par#.#setFailOnAny#(#true#)#;#par#.#setTimeout#(#parallelTimeout#)#;##return#par#;#}

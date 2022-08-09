@@ -1,0 +1,1 @@
+String#getContent#(#)#throws#BuildException#{#validate#(#)#;#StringBuffer#sb#=#new#StringBuffer#(#key#.#trim#(#)#)#;#sb#.#append#(#"="#)#.#append#(#value#.#trim#(#)#)#;##return#sb#.#toString#(#)#;#}

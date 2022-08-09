@@ -1,0 +1,1 @@
+void#release#(#Funnel#funnel#)#throws#IOException#{##//ignore release of an already-closed funnel##if#(#!#funnel#.#closed#)#{#try#{##if#(#timeoutMillis#>#0#)#{#try#{#wait#(#timeoutMillis#)#;#}##catch#(#InterruptedException#eyeEx#)#{##//ignore#}#}##if#(#--#count#==#0#)#{#close#(#)#;#}#}##finally#{#funnel#.#closed#=#true#;#}#}#}

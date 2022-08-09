@@ -1,0 +1,1 @@
+void#testGrantedAndRevoked#(#)#{#perms#.#setSecurityManager#(#)#;##try#{#String#s#=#System#.#getProperty#(#"user.home"#)#;#System#.#setProperty#(#"user.home"#,#s#)#;#fail#(#"Could perform an action that should have been forbidden."#)#;#}##catch#(#SecurityException#e#)#{##// Was expected, test passes#}##finally#{#perms#.#restoreSecurityManager#(#)#;#}#}

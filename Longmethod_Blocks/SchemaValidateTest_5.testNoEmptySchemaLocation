@@ -1,0 +1,1 @@
+void#testNoEmptySchemaLocation#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoEmptySchemaLocation"#,#"empty schema location"#,#SchemaValidate#.#SchemaLocation#.#ERROR_NO_LOCATION#)#;#}

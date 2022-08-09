@@ -1,0 +1,1 @@
+Connection#getConnection#(#)#{##if#(#conn#==#null#)#{#conn#=#super#.#getConnection#(#)#;##if#(#!#isValidRdbms#(#conn#)#)#{#conn#=#null#;#}#}##return#conn#;#}

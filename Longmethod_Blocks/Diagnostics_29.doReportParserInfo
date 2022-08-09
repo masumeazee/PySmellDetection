@@ -1,0 +1,1 @@
+void#doReportParserInfo#(#PrintStream#out#)#{#String#parserName#=#getXMLParserName#(#)#;#String#parserLocation#=#getXMLParserLocation#(#)#;#printParserInfo#(#out#,#"XML Parser"#,#parserName#,#parserLocation#)#;#printParserInfo#(#out#,#"Namespace-aware parser"#,#getNamespaceParserName#(#)#,#getNamespaceParserLocation#(#)#)#;#}

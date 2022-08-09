@@ -1,0 +1,1 @@
+void#setFile#(#String#filename#)#{#super#.#setInternalFilename#(#filename#)#;#}

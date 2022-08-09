@@ -1,0 +1,1 @@
+boolean#evaluate#(#int#t#,#int#f#)#{#int#index#=#getIndex#(#)#;##if#(#index#==#-#1#)#{#throw#new#BuildException#(#"Quantifier value not set."#)#;#}##return#PREDS#[#index#]#.#eval#(#t#,#f#)#;#}

@@ -1,0 +1,1 @@
+void#validate#(#)#{##if#(#key#==#null#||#value#==#null#)#{#throw#new#BuildException#(#"key and value must be specified "#+#"for environment variables."#)#;#}#}

@@ -1,0 +1,1 @@
+void#targetFinished#(#BuildEvent#event#)#{##if#(#event#.#getTarget#(#)#.#getName#(#)#.#equals#(#"spawn"#)#)#{#buildFinished#=#true#;#}#}

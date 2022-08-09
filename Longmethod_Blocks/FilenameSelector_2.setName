@@ -1,0 +1,1 @@
+void#setName#(#String#pattern#)#{#pattern#=#pattern#.#replace#(#'/'#,#File#.#separatorChar#)#.#replace#(#'\\'#,#File#.#separatorChar#)#;##if#(#pattern#.#endsWith#(#File#.#separator#)#)#{#pattern#+=#"**"#;#}##this#.#pattern#=#pattern#;#}

@@ -1,0 +1,1 @@
+void#deflateUntilInputIsNeeded#(#)#throws#IOException#{#while#(#!#def#.#needsInput#(#)#)#{#deflate#(#)#;#}#}

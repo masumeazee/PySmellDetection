@@ -1,0 +1,1 @@
+void#setURI#(#String#uri#)#throws#BuildException#{##if#(#uri#.#equals#(#ProjectHelper#.#ANT_CORE_URI#)#)#{#uri#=#""#;#}##if#(#uri#.#startsWith#(#"ant:"#)#)#{#throw#new#BuildException#(#"Attempt to use a reserved URI "#+#uri#)#;#}##this#.#uri#=#uri#;#}

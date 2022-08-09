@@ -1,0 +1,1 @@
+void#setProcessErrorStream#(#InputStream#is#)#throws#IOException#{#BufferedReader#reader#=#new#BufferedReader#(#new#InputStreamReader#(#is#)#)#;#String#s#=#reader#.#readLine#(#)#;##if#(#s#!=#null#)#{#log#(#"err "#+#s#,#Project#.#MSG_DEBUG#)#;#}##// end of if ()#}

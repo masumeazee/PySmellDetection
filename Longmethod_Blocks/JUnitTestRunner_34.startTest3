@@ -1,0 +1,1 @@
+void#startTest#(#Test#arg0#)#{#registerTestCase#(#JUnitVersionHelper#.#getTestCaseName#(#arg0#)#)#;#}

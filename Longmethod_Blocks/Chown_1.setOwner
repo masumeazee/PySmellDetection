@@ -1,0 +1,1 @@
+void#setOwner#(#String#owner#)#{#createArg#(#)#.#setValue#(#owner#)#;#haveOwner#=#true#;#}

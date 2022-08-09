@@ -1,0 +1,1 @@
+void#getTypeCommand#(#Commandline#cmd#)#{#String#typenm#=#getTypeName#(#)#;##if#(#typenm#!=#null#)#{#cmd#.#createArgument#(#)#.#setValue#(#typenm#)#;#}#}

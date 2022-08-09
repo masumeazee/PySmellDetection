@@ -1,0 +1,1 @@
+void#setFooter#(#String#footer#)#{#Html#h#=#new#Html#(#)#;#h#.#addText#(#footer#)#;#addFooter#(#h#)#;#}

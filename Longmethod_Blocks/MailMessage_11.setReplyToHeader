@@ -1,0 +1,1 @@
+void#setReplyToHeader#(#)#{##if#(#!#replyto#.#isEmpty#(#)#)#{#setHeader#(#"Reply-To"#,#vectorToList#(#replyto#)#)#;#}#}

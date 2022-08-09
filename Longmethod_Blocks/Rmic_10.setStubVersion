@@ -1,0 +1,1 @@
+void#setStubVersion#(#String#stubVersion#)#{#this#.#stubVersion#=#stubVersion#;#}

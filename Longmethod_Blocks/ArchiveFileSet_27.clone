@@ -1,0 +1,1 @@
+Object#clone#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#getProject#(#)#)#)#.#clone#(#)#;#}##return#super#.#clone#(#)#;#}

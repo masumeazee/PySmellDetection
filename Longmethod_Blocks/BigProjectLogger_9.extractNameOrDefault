@@ -1,0 +1,1 @@
+String#extractNameOrDefault#(#BuildEvent#event#)#{#String#name#=#extractProjectName#(#event#)#;##if#(#name#==#null#)#{#name#=#""#;#}#else#{#name#=#'"'#+#name#+#'"'#;#}##return#name#;#}

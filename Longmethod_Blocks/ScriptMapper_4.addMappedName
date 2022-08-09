@@ -1,0 +1,1 @@
+void#addMappedName#(#String#mapping#)#{#files#.#add#(#mapping#)#;#}

@@ -1,0 +1,1 @@
+void#testOpen#(#)#throws#IOException#{#los#.#open#(#)#;#los#.#close#(#)#;#assertTrue#(#f#+#" has been written."#,#f#.#exists#(#)#)#;#}

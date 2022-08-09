@@ -1,0 +1,1 @@
+void#testoutput#(#Resource#dest#)#throws#IOException#{#ResourceUtils#.#copyResource#(#new#StringResource#(#"foo"#)#,#dest#,#null#)#;#}

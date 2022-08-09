@@ -1,0 +1,1 @@
+boolean#basedirExists#(#)#{#File#basedir#=#fs#.#getDir#(#)#;##//trick to evoke "basedir not set" if null:##return#basedir#==#null#||#basedir#.#exists#(#)#;#}

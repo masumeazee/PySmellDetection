@@ -1,0 +1,1 @@
+void#setCache#(#boolean#b#)#{#checkAttributesAllowed#(#)#;#cache#=#b#;##if#(#union#!=#null#)#{#union#.#setCache#(#b#)#;#}#}

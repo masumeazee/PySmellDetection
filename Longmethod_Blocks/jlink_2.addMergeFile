@@ -1,0 +1,1 @@
+void#addMergeFile#(#String#fileToMerge#)#{##if#(#fileToMerge#==#null#)#{##return#;#}##mergefiles#.#addElement#(#fileToMerge#)#;#}

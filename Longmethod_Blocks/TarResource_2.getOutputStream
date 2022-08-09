@@ -1,0 +1,1 @@
+OutputStream#getOutputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getOutputStream#(#)#;#}##throw#new#UnsupportedOperationException#(#"Use the tar task for tar output."#)#;#}

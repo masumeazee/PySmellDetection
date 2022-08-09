@@ -1,0 +1,1 @@
+void#addPath#(#Path#path#)#{#log#(#"class of path is "#+#path#.#getClass#(#)#)#;#}

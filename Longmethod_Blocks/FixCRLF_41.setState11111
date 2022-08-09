@@ -1,0 +1,1 @@
+void#setState#(#int#state#)#{#OneLiner#.#this#.#setState#(#state#)#;#}

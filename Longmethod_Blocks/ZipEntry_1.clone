@@ -1,0 +1,1 @@
+Object#clone#(#)#{#ZipEntry#e#=#(#ZipEntry#)#super#.#clone#(#)#;#e#.#extraFields#=#extraFields#!=#null#?#(#LinkedHashMap#)#extraFields#.#clone#(#)#:#null#;#e#.#setInternalAttributes#(#getInternalAttributes#(#)#)#;#e#.#setExternalAttributes#(#getExternalAttributes#(#)#)#;#e#.#setExtraFields#(#getExtraFields#(#)#)#;##return#e#;#}

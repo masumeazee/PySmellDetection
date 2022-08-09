@@ -1,0 +1,1 @@
+void#add#(#File#baseDir#,#String#[#]#names#,#Map#m#)#{##if#(#names#!=#null#)#{#baseDir#=#getKeyFile#(#baseDir#)#;#List#l#=#(#List#)#m#.#get#(#baseDir#)#;##if#(#l#==#null#)#{#l#=#new#ArrayList#(#names#.#length#)#;#m#.#put#(#baseDir#,#l#)#;#}##l#.#addAll#(#java#.#util#.#Arrays#.#asList#(#names#)#)#;#}#}

@@ -1,0 +1,1 @@
+void#setGroupName#(#String#groupName#)#{#this#.#groupName#=#new#StringBuffer#(#groupName#)#;#}

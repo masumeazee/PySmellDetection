@@ -1,0 +1,1 @@
+Collection#getCache#(#)#{#Collection#coll#=#cached#;##if#(#coll#==#null#)#{#coll#=#CollectionUtils#.#asCollection#(#new#MyIterator#(#)#)#;##if#(#cache#)#{#cached#=#coll#;#}#}##return#coll#;#}

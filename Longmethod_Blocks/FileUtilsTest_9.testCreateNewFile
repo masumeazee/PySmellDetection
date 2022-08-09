@@ -1,0 +1,1 @@
+void#testCreateNewFile#(#)#throws#IOException#{#removeThis#=#new#File#(#"dummy"#)#;#assertTrue#(#!#removeThis#.#exists#(#)#)#;#FILE_UTILS#.#createNewFile#(#removeThis#)#;#assertTrue#(#removeThis#.#exists#(#)#)#;#}

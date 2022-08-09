@@ -1,0 +1,1 @@
+void#setRename#(#boolean#ren#)#{#mRename#=#ren#;#}

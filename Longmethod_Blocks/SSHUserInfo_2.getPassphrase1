@@ -1,0 +1,1 @@
+String#getPassphrase#(#String#message#)#{##return#passphrase#;#}

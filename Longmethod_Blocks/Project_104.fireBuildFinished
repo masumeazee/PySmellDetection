@@ -1,0 +1,1 @@
+void#fireBuildFinished#(#Throwable#exception#)#{#BuildEvent#event#=#new#BuildEvent#(#this#)#;#event#.#setException#(#exception#)#;#BuildListener#[#]#currListeners#=#listeners#;##for#(#int#i#=#0#;##i#<#currListeners#.#length#;#i#++#)#{#currListeners#[#i#]#.#buildFinished#(#event#)#;#}##// Inform IH to clear the cache#IntrospectionHelper#.#clearCache#(#)#;#}

@@ -1,0 +1,1 @@
+Mapper#createMergeMapper#(#File#destfile#)#{#Mapper#result#=#new#Mapper#(#getProject#(#)#)#;#result#.#setClassname#(#org#.#apache#.#tools#.#ant#.#util#.#MergingMapper#.#class#.#getName#(#)#)#;#result#.#setTo#(#destfile#.#getAbsolutePath#(#)#)#;##return#result#;#}

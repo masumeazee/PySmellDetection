@@ -1,0 +1,1 @@
+boolean#isSearched#(#)#{#return#isSearched#;#}##void#setSearched#(#boolean#isSearched#)#{#this#.#isSearched#=#isSearched#;#}##File#getOriginalLocalFile#(#)#{#return#originalLocalFile#;#}##void#setOriginalLocalFile#(#File#originalLocalFile#)#{#this#.#originalLocalFile#=#originalLocalFile#;#}##

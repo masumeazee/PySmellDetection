@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#reader#)#{#TokenFilter#newFilter#=#new#TokenFilter#(#reader#)#;#newFilter#.#filters#=#filters#;#newFilter#.#tokenizer#=#tokenizer#;#newFilter#.#delimOutput#=#delimOutput#;#newFilter#.#setProject#(#getProject#(#)#)#;##return#newFilter#;#}

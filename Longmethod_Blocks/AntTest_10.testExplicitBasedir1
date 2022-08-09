@@ -1,0 +1,1 @@
+void#testExplicitBasedir1#(#)#{#File#dir1#=#getProjectDir#(#)#;#File#dir2#=#project#.#resolveFile#(#".."#)#;#testBaseDirs#(#"explicitBasedir1"#,#new#String#[#]#{#dir1#.#getAbsolutePath#(#)#,#dir2#.#getAbsolutePath#(#)#}#)#;#}

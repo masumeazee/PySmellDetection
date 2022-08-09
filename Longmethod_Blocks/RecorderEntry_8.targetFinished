@@ -1,0 +1,1 @@
+void#targetFinished#(#BuildEvent#event#)#{#log#(#"<< TARGET FINISHED -- "#+#event#.#getTarget#(#)#,#Project#.#MSG_DEBUG#)#;#String#time#=#formatTime#(#System#.#currentTimeMillis#(#)#-#targetStartTime#)#;#log#(#event#.#getTarget#(#)#+#":  duration "#+#time#,#Project#.#MSG_VERBOSE#)#;#flush#(#)#;#}

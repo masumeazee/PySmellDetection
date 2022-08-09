@@ -1,0 +1,1 @@
+void#setCmdopts#(#String#p4CmdOpts#)#{#this#.#P4CmdOpts#=#p4CmdOpts#;#}

@@ -1,0 +1,1 @@
+void#internalSetEncoding#(#String#encoding#)#{##if#(#NATIVE_ENCODING#.#equals#(#encoding#)#)#{#encoding#=#null#;#}##this#.#encoding#=#encoding#;#}

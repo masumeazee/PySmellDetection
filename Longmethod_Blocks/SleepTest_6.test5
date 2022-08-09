@@ -1,0 +1,1 @@
+void#test5#(#)#{#expectBuildException#(#"test5"#,#"Negative sleep periods are not supported"#)#;#}

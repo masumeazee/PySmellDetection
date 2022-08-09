@@ -1,0 +1,1 @@
+void#add#(#ChainableReader#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

@@ -1,0 +1,1 @@
+void#addFourteen#(#StringBuffer#s#)#{#throw#new#NullPointerException#(#)#;#}

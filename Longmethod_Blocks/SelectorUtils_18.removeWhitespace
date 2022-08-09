@@ -1,0 +1,1 @@
+String#removeWhitespace#(#String#input#)#{#StringBuffer#result#=#new#StringBuffer#(#)#;##if#(#input#!=#null#)#{#StringTokenizer#st#=#new#StringTokenizer#(#input#)#;##while#(#st#.#hasMoreTokens#(#)#)#{#result#.#append#(#st#.#nextToken#(#)#)#;#}#}##return#result#.#toString#(#)#;#}

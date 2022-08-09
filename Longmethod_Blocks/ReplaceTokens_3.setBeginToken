@@ -1,0 +1,1 @@
+void#setBeginToken#(#final#char#beginToken#)#{#this#.#beginToken#=#beginToken#;#}

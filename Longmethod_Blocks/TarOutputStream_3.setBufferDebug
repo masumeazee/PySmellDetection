@@ -1,0 +1,1 @@
+void#setBufferDebug#(#boolean#debug#)#{#buffer#.#setDebug#(#debug#)#;#}

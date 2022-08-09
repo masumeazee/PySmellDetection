@@ -1,0 +1,1 @@
+void#run#(#)#{#try#{#try#{#while#(#!#endOfStream#)#{#pumpStream#(#)#;#sleep#(#SLEEP_TIME#)#;#}#}##catch#(#InterruptedException#ie#)#{##//ignore#}##din#.#close#(#)#;#}##catch#(#IOException#ioe#)#{##// ignore#}#}

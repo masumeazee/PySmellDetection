@@ -1,0 +1,1 @@
+File#getActualDestDir#(#)#{#File#dest#=#null#;##if#(#packageName#==#null#)#{#dest#=#destDir#;#}#else#{#String#path#=#destDir#.#getPath#(#)#+#File#.#separatorChar#+#packageName#.#replace#(#'.'#,#File#.#separatorChar#)#;#dest#=#new#File#(#path#)#;#}##return#dest#;#}

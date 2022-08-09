@@ -1,0 +1,1 @@
+void#testFixFileExclusive#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testFixFileExclusive"#,#FixCRLF#.#ERROR_FILE_AND_SRCDIR#,#FixCRLF#.#ERROR_FILE_AND_SRCDIR#)#;#}

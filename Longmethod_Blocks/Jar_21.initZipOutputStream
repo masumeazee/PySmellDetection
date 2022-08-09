@@ -1,0 +1,1 @@
+void#initZipOutputStream#(#ZipOutputStream#zOut#)#throws#IOException#,#BuildException#{##if#(#!#skipWriting#)#{#Manifest#jarManifest#=#createManifest#(#)#;#writeManifest#(#zOut#,#jarManifest#)#;#writeServices#(#zOut#)#;#}#}

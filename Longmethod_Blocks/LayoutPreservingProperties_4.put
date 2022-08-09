@@ -1,0 +1,1 @@
+Object#put#(#Object#key#,#Object#value#)#throws#NullPointerException#{#Object#obj#=#super#.#put#(#key#,#value#)#;##// the above call will have failed if key or value are null#innerSetProperty#(#key#.#toString#(#)#,#value#.#toString#(#)#)#;##return#obj#;#}

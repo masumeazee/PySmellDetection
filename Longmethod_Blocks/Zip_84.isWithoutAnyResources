@@ -1,0 +1,1 @@
+boolean#isWithoutAnyResources#(#)#{##if#(#resourcesToAdd#==#null#)#{##return#true#;#}##for#(#int#counter#=#0#;##counter#<#resourcesToAdd#.#length#;#counter#++#)#{##if#(#resourcesToAdd#[#counter#]#!=#null#)#{##if#(#resourcesToAdd#[#counter#]#.#length#>#0#)#{##return#false#;#}#}#}##return#true#;#}

@@ -1,0 +1,1 @@
+void#setNusers#(#String#nusers#)#{#mNusers#=#nusers#;#}

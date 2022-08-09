@@ -1,0 +1,1 @@
+void#setSubstring#(#String#subString#)#{#this#.#subString#=#subString#;#}

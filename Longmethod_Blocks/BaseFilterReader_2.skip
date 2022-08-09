@@ -1,0 +1,1 @@
+long#skip#(#final#long#n#)#throws#IOException#,#IllegalArgumentException#{##if#(#n#<#0L#)#{#throw#new#IllegalArgumentException#(#"skip value is negative"#)#;#}##for#(#long#i#=#0#;##i#<#n#;#i#++#)#{##if#(#read#(#)#==#-#1#)#{##return#i#;#}#}##return#n#;#}

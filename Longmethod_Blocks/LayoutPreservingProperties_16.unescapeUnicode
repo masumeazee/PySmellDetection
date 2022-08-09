@@ -1,0 +1,1 @@
+char#unescapeUnicode#(#char#[#]#ch#,#int#i#)#{#String#s#=#new#String#(#ch#,#i#,#4#)#;##return#(#char#)#Integer#.#parseInt#(#s#,#16#)#;#}

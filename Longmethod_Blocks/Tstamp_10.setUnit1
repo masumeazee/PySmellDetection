@@ -1,0 +1,1 @@
+void#setUnit#(#String#unit#)#{#log#(#"DEPRECATED - The setUnit(String) method has been deprecated."#+#" Use setUnit(Tstamp.Unit) instead."#)#;#Unit#u#=#new#Unit#(#)#;#u#.#setValue#(#unit#)#;#field#=#u#.#getCalendarField#(#)#;#}

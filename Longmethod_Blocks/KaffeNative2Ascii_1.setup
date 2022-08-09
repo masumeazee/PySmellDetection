@@ -1,0 +1,1 @@
+void#setup#(#Commandline#cmd#,#Native2Ascii#args#)#throws#BuildException#{##if#(#args#.#getReverse#(#)#)#{#throw#new#BuildException#(#"-reverse is not supported by Kaffe"#)#;#}##super#.#setup#(#cmd#,#args#)#;#}

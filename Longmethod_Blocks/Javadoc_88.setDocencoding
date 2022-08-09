@@ -1,0 +1,1 @@
+void#setDocencoding#(#String#enc#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-docencoding"#)#;#cmd#.#createArgument#(#)#.#setValue#(#enc#)#;#}

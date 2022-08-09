@@ -1,0 +1,1 @@
+void#setDepend#(#boolean#depend#)#{#this#.#depend#=#depend#;#}

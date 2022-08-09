@@ -1,0 +1,1 @@
+boolean#check#(#File#basedir#,#String#[#]#files#)#{#boolean#upToDate#=#true#;##if#(#!#archiveIsUpToDate#(#files#,#basedir#)#)#{#upToDate#=#false#;#}##for#(#int#i#=#0#;##i#<#files#.#length#;#++#i#)#{##if#(#tarFile#.#equals#(#new#File#(#basedir#,#files#[#i#]#)#)#)#{#throw#new#BuildException#(#"A tar file cannot include "#+#"itself"#,#getLocation#(#)#)#;#}#}##return#upToDate#;#}

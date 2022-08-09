@@ -1,0 +1,1 @@
+boolean#accept#(#File#file#)#{##if#(#file#.#isDirectory#(#)#)#{##return#true#;#}#else#{##return#(#file#.#getPath#(#)#.#indexOf#(#"taskdefs"#)#>#0#&&#file#.#getPath#(#)#.#toLowerCase#(#)#.#endsWith#(#".xml"#)#)#;#}#}

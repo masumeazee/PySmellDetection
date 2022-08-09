@@ -1,0 +1,1 @@
+void#setTimeout#(#long#timeout#)#{#this#.#timeout#=#timeout#;#}

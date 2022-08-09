@@ -1,0 +1,1 @@
+void#execute#(#)#{#for#(#Iterator#i#=#children#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#UnknownElement#el#=#(#UnknownElement#)#i#.#next#(#)#;#el#.#maybeConfigure#(#)#;#Child#child#=#(#Child#)#el#.#getRealThing#(#)#;#child#.#injectParent#(#this#)#;#child#.#perform#(#)#;#}#}

@@ -1,0 +1,1 @@
+void#saveCache#(#)#{##if#(#getModified#(#)#>#0#)#{#cache#.#save#(#)#;#setModified#(#0#)#;#}#}

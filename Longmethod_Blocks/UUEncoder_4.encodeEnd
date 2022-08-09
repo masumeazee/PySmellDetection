@@ -1,0 +1,1 @@
+void#encodeEnd#(#)#throws#IOException#{#encodeString#(#" \nend\n"#)#;#}

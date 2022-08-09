@@ -1,0 +1,1 @@
+Regexp#createRegexpInstance#(#String#classname#)#throws#BuildException#{##return#(#Regexp#)#ClasspathUtils#.#newInstance#(#classname#,#RegexpFactory#.#class#.#getClassLoader#(#)#,#Regexp#.#class#)#;#}

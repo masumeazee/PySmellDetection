@@ -1,0 +1,1 @@
+void#testFail#(#)#{##// should get no output at all#Project#p#=#getProject#(#)#;#p#.#setUserProperty#(#"test.failure"#,#FAILURE_MESSAGE#)#;#p#.#setUserProperty#(#"test.delayed"#,#DELAYED_MESSAGE#)#;#expectBuildExceptionContaining#(#"testFail"#,#"fail task in one parallel branch"#,#FAILURE_MESSAGE#)#;#}

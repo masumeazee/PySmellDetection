@@ -1,0 +1,1 @@
+void#testTagAttribute#(#)#{#File#f#=#getProject#(#)#.#resolveFile#(#"tmpdir/ant/build.xml"#)#;#assertTrue#(#"starting empty"#,#!#f#.#exists#(#)#)#;#expectLogContaining#(#"tag-attribute"#,#"ANT_141 (revision: 1.175.2.13)"#)#;#assertTrue#(#"now it is there"#,#f#.#exists#(#)#)#;#}

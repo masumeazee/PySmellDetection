@@ -1,0 +1,1 @@
+void#handleErrorOutput#(#String#output#)#{##if#(#runner#!=#null#)#{#runner#.#handleErrorOutput#(#output#)#;##if#(#showOutput#)#{#super#.#handleErrorOutput#(#output#)#;#}#}#else#{#super#.#handleErrorOutput#(#output#)#;#}#}

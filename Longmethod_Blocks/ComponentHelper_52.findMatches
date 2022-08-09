@@ -1,0 +1,1 @@
+List##/*<AntTypeDefinition>*/#findMatches#(#String#prefix#)#{#ArrayList#matches#=#new#ArrayList#(#)#;##for#(#Iterator#i#=#values#(#)#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#AntTypeDefinition#def#=#(#AntTypeDefinition#)#(#i#.#next#(#)#)#;##if#(#def#.#getName#(#)#.#startsWith#(#prefix#)#)#{#matches#.#add#(#def#)#;#}#}##return#matches#;#}

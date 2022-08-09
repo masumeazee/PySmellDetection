@@ -1,0 +1,1 @@
+String#readFully#(#Reader#rdr#)#throws#IOException#{##return#readFully#(#rdr#,#BUF_SIZE#)#;#}

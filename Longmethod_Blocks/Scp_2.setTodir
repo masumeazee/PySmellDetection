@@ -1,0 +1,1 @@
+void#setTodir#(#String#aToUri#)#{#setToUri#(#aToUri#)#;#this#.#isToRemote#=#isRemoteUri#(#this#.#toUri#)#;#}

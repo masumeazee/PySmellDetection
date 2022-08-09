@@ -1,0 +1,1 @@
+void#checkExit#(#int#status#)#{#throw#new#ExitException#(#status#)#;#}##void#checkPermission#(#Permission#perm#)#{#// no permission here#}##

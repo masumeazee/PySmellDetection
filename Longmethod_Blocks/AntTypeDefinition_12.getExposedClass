@@ -1,0 +1,1 @@
+Class#getExposedClass#(#Project#project#)#{##if#(#adaptToClass#!=#null#)#{#Class#z#=#getTypeClass#(#project#)#;##if#(#z#==#null#||#adaptToClass#.#isAssignableFrom#(#z#)#)#{##return#z#;#}#}##return#(#adapterClass#==#null#)#?#getTypeClass#(#project#)#:#adapterClass#;#}

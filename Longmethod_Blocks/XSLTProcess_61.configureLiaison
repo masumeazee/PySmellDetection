@@ -1,0 +1,1 @@
+void#configureLiaison#(#File#stylesheet#)#throws#BuildException#{#FileResource#fr#=#new#FileResource#(#)#;#fr#.#setProject#(#getProject#(#)#)#;#fr#.#setFile#(#stylesheet#)#;#configureLiaison#(#fr#)#;#}

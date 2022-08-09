@@ -1,0 +1,1 @@
+void#setPresent#(#FilePresence#fp#)#{##if#(#fp#.#getIndex#(#)#==#0#)#{#destmustexist#=#false#;#}#}

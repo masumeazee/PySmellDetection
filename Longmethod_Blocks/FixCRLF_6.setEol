@@ -1,0 +1,1 @@
+void#setEol#(#CrLf#attr#)#{#filter#.#setEol#(#FixCrLfFilter#.#CrLf#.#newInstance#(#attr#.#getValue#(#)#)#)#;#}

@@ -1,0 +1,1 @@
+void#addReporting#(#Sequential#sequence#)#{#logOverride#(#"reporting"#,#reporting#)#;#reporting#=#sequence#;#}

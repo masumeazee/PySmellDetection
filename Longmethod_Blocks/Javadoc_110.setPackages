@@ -1,0 +1,1 @@
+void#setPackages#(#String#src#)#{#StringTokenizer#tok#=#new#StringTokenizer#(#src#,#","#)#;##while#(#tok#.#hasMoreTokens#(#)#)#{#String#p#=#tok#.#nextToken#(#)#;#PackageName#pn#=#new#PackageName#(#)#;#pn#.#setName#(#p#)#;#addPackage#(#pn#)#;#}#}

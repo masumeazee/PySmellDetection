@@ -1,0 +1,1 @@
+boolean#delegateIteratorToList#(#)#{##if#(#getClass#(#)#.#equals#(#Path#.#class#)#)#{##return#false#;#}##try#{#Method#listMethod#=#getClass#(#)#.#getMethod#(#"list"#,#(#Class#[#]#)#null#)#;##return#!#listMethod#.#getDeclaringClass#(#)#.#equals#(#Path#.#class#)#;#}##catch#(#Exception#e#)#{##//shouldn't happen, but##return#false#;#}#}

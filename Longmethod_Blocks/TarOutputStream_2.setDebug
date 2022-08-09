@@ -1,0 +1,1 @@
+void#setDebug#(#boolean#debugF#)#{#this#.#debug#=#debugF#;#}

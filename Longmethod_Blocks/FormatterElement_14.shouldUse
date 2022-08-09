@@ -1,0 +1,1 @@
+boolean#shouldUse#(#Task#t#)#{#PropertyHelper#ph#=#PropertyHelper#.#getPropertyHelper#(#t#.#getProject#(#)#)#;##return#ph#.#testIfCondition#(#ifCond#)#&&#ph#.#testUnlessCondition#(#unlessCond#)#;#}

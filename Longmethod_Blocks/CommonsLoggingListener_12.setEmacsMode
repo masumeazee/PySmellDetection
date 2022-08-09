@@ -1,0 +1,1 @@
+void#setEmacsMode#(#boolean#emacsMode#)#{##// Doesn't make sense for c-l. Use the logger config#}

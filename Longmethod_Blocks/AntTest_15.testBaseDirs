@@ -1,0 +1,1 @@
+void#testBaseDirs#(#String#target#,#String#[#]#dirs#)#{#BasedirChecker#bc#=#new#BasedirChecker#(#dirs#)#;#project#.#addBuildListener#(#bc#)#;#executeTarget#(#target#)#;#AssertionFailedError#ae#=#bc#.#getError#(#)#;##if#(#ae#!=#null#)#{#throw#ae#;#}##project#.#removeBuildListener#(#bc#)#;#}

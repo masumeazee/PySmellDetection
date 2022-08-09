@@ -1,0 +1,1 @@
+void#add#(#ResourceSelector#s#)#{#if#(#sel#!=#null#)#{#throw#new#IllegalStateException#(#"The Not ResourceSelector accepts a single nested ResourceSelector"#)#;#}#sel#=#s#;#}##boolean#isSelected#(#Resource#r#)#{#return#!#(#sel#.#isSelected#(#r#)#)#;#}##

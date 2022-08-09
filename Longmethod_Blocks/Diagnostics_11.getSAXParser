@@ -1,0 +1,1 @@
+SAXParser#getSAXParser#(#)#{#SAXParserFactory#saxParserFactory#=#SAXParserFactory#.#newInstance#(#)#;##if#(#saxParserFactory#==#null#)#{##return#null#;#}##SAXParser#saxParser#=#null#;##try#{#saxParser#=#saxParserFactory#.#newSAXParser#(#)#;#}##catch#(#Exception#e#)#{##// ignore#ignoreThrowable#(#e#)#;#}##return#saxParser#;#}

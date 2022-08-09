@@ -1,0 +1,1 @@
+void#setDefault#(#String#defaultTarget#)#{#setUserProperty#(#MagicNames#.#PROJECT_DEFAULT_TARGET#,#defaultTarget#)#;#this#.#defaultTarget#=#defaultTarget#;#}

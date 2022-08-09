@@ -1,0 +1,1 @@
+String#getTypeSpecifier#(#)#{#String#tkind#=#getTypeKind#(#)#;#String#tname#=#getTypeName#(#)#;#String#typeSpec#=#null#;##// Return the type-selector#typeSpec#=#tkind#+#":"#+#tname#;##if#(#getVOB#(#)#!=#null#)#{#typeSpec#+=#"@"#+#getVOB#(#)#;#}##return#typeSpec#;#}

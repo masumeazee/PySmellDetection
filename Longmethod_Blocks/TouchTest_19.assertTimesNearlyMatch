@@ -1,0 +1,1 @@
+void#assertTimesNearlyMatch#(#long#timestamp#,#long#time#,#long#range#)#{#assertTrue#(#"Time "#+#timestamp#+#" is not within "#+#range#+#" ms of "#+#time#,#(#Math#.#abs#(#time#-#timestamp#)#<=#range#)#)#;#}

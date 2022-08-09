@@ -1,0 +1,1 @@
+Thread#createPump#(#InputStream#is#,#OutputStream#os#,#boolean#closeWhenExhausted#)#{#final#Thread#result#=#new#ThreadWithPumper#(#new#StreamPumper#(#is#,#os#,#closeWhenExhausted#,#Os#.#isFamily#(#"windows"#)#)#)#;#result#.#setDaemon#(#true#)#;##return#result#;#}

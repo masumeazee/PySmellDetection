@@ -1,0 +1,1 @@
+boolean#equals#(#Object#obj#)#{##if#(#obj#==#null#)#{##return#false#;#}##if#(#obj#.#getClass#(#)#!=#getClass#(#)#)#{##return#false#;#}##Text#other#=#(#Text#)#obj#;##return#safeCompare#(#name#,#other#.#name#)#&&#optional#==#other#.#optional#&&#trim#==#other#.#trim#&&#safeCompare#(#defaultString#,#other#.#defaultString#)#;#}

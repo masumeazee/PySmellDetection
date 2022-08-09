@@ -1,0 +1,1 @@
+Object#as#(#Class#clazz#)#{##return#getResource#(#)#.#as#(#clazz#)#;#}

@@ -1,0 +1,1 @@
+void#setOutput#(#String#p4Input#)#{#this#.#p4input#=#p4Input#;#}

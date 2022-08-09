@@ -1,0 +1,1 @@
+void#setDefaults#(#)#{#resource#=#null#;#link#=#null#;#linkFileName#=#null#;#failonerror#=#true#;##// default behavior is to fail on an error#overwrite#=#false#;##// default behavior is to not overwrite#setAction#(#"single"#)#;##// default behavior is make a single link#fileSets#.#clear#(#)#;#}

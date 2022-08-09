@@ -1,0 +1,1 @@
+void#testConfigurationLang#(#)#{#int#[#]#expectedCounts#=#{#1#,#1#,#0#,#0#,#0#,#0#,#1#}#;#performConfigTest#(#"configuration.lang.good"#,#expectedCounts#)#;##try#{#performConfigTest#(#"configuration.lang.bad"#,#expectedCounts#)#;#fail#(#"BuildException Expected"#)#;#}##catch#(#Exception#bx#)#{#assertTrue#(#bx#instanceof#BuildException#)#;#}#}

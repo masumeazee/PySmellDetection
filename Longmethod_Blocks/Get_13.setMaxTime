@@ -1,0 +1,1 @@
+void#setMaxTime#(#long#maxTime#)#{#this#.#maxTime#=#maxTime#;#}

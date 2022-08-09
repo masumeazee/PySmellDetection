@@ -1,0 +1,1 @@
+void#testNestedC#(#)#{#expectLogContaining#(#"nested.c"#,#"add C called"#)#;#}

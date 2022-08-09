@@ -1,0 +1,1 @@
+void#setGlobal#(#boolean#glob#)#{#mGlobal#=#glob#;#}

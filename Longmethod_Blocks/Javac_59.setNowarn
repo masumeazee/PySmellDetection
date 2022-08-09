@@ -1,0 +1,1 @@
+void#setNowarn#(#boolean#flag#)#{#this#.#nowarn#=#flag#;#}

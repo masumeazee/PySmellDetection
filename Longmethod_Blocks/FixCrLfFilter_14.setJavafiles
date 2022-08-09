@@ -1,0 +1,1 @@
+void#setJavafiles#(#boolean#javafiles#)#{#this#.#javafiles#=#javafiles#;#}

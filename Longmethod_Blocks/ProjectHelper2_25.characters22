@@ -1,0 +1,1 @@
+void#characters#(#char#[#]#buf#,#int#start#,#int#count#)#throws#SAXParseException#{#currentHandler#.#characters#(#buf#,#start#,#count#,#context#)#;#}

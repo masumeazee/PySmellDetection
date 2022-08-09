@@ -1,0 +1,1 @@
+void#addVariable#(#Variable#var#)#{#variables#.#addElement#(#var#)#;#}

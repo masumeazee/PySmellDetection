@@ -1,0 +1,1 @@
+void#subBuildFinished#(#BuildEvent#event#)#{##if#(#event#.#getProject#(#)#==#getProject#(#)#)#{#cleanup#(#)#;#}#}

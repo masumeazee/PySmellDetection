@@ -1,0 +1,1 @@
+void#setAppend#(#boolean#append#)#{#this#.#append#=#append#;#}

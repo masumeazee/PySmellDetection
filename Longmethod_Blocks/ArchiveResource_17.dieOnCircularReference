@@ -1,0 +1,1 @@
+void#dieOnCircularReference#(#Stack#stk#,#Project#p#)#{##if#(#isChecked#(#)#)#{##return#;#}##if#(#isReference#(#)#)#{#super#.#dieOnCircularReference#(#stk#,#p#)#;#}#else#{##if#(#archive#!=#null#)#{#pushAndInvokeCircularReferenceCheck#(#archive#,#stk#,#p#)#;#}##setChecked#(#true#)#;#}#}

@@ -1,0 +1,1 @@
+void#setClientVersionProperty#(#String#clientVersionProperty#)#{#this#.#clientVersionProperty#=#clientVersionProperty#;#}

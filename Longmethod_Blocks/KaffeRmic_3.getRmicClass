@@ -1,0 +1,1 @@
+Class#getRmicClass#(#)#{#for#(#int#i#=#0#;##i#<#RMIC_CLASSNAMES#.#length#;#i#++#)#{#try#{##return#Class#.#forName#(#RMIC_CLASSNAMES#[#i#]#)#;#}##catch#(#ClassNotFoundException#cnfe#)#{##// Ignore#}#}##return#null#;#}

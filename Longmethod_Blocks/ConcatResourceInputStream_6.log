@@ -1,0 +1,1 @@
+void#log#(#String#message#,#int#loglevel#)#{##if#(#managingPc#!=#null#)#{#managingPc#.#log#(#message#,#loglevel#)#;#}#else#{#(#loglevel#>#Project#.#MSG_WARN#?#System#.#out#:#System#.#err#)#.#println#(#message#)#;#}#}

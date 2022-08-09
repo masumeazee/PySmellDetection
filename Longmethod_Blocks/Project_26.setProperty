@@ -1,0 +1,1 @@
+void#setProperty#(#String#name#,#String#value#)#{#PropertyHelper#.#getPropertyHelper#(#this#)#.#setProperty#(#name#,#value#,#true#)#;#}

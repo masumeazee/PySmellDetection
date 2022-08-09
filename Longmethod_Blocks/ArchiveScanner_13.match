@@ -1,0 +1,1 @@
+boolean#match#(#String#path#)#{#String#vpath#=#path#.#replace#(#'/'#,#File#.#separatorChar#)#.#replace#(#'\\'#,#File#.#separatorChar#)#;##return#isIncluded#(#vpath#)#&&#!#isExcluded#(#vpath#)#;#}

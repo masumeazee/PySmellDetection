@@ -1,0 +1,1 @@
+void#setRestoreDeletedRevisions#(#boolean#setrest#)#{#this#.#restoredeletedrevisions#=#setrest#;#}

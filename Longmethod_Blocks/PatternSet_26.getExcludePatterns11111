@@ -1,0 +1,1 @@
+String#[#]#getExcludePatterns#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#getExcludePatterns#(#p#)#;#}##dieOnCircularReference#(#p#)#;#readFiles#(#p#)#;##return#makeArray#(#excludeList#,#p#)#;#}

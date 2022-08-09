@@ -1,0 +1,1 @@
+void#setSrcdir#(#File#inDir#)#{#config#.#srcDir#=#inDir#;#}

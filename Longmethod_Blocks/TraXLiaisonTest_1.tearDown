@@ -1,0 +1,1 @@
+void#tearDown#(#)#{#File#f#=#new#File#(#"xalan2-redirect-out.tmp"#)#;##if#(#f#.#exists#(#)#)#{#f#.#delete#(#)#;#}#}

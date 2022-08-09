@@ -1,0 +1,1 @@
+void#setHeader#(#String#name#,#String#value#)#{##// Blindly trust the user doesn't set any invalid headers#headersKeys#.#add#(#name#)#;#headersValues#.#add#(#value#)#;#}

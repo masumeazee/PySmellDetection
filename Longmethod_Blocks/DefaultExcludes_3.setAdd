@@ -1,0 +1,1 @@
+void#setAdd#(#String#add#)#{#this#.#add#=#add#;#}

@@ -1,0 +1,1 @@
+void#setSubject#(#String#subject#)#{#this#.#subject#=#subject#;#}

@@ -1,0 +1,1 @@
+void#testReference#(#String#target#,#String#[#]#keys#,#boolean#[#]#expect#,#Object#value#)#{#ReferenceChecker#rc#=#new#ReferenceChecker#(#keys#,#expect#,#value#)#;#project#.#addBuildListener#(#rc#)#;#executeTarget#(#target#)#;#AssertionFailedError#ae#=#rc#.#getError#(#)#;##if#(#ae#!=#null#)#{#throw#ae#;#}##project#.#removeBuildListener#(#rc#)#;#}

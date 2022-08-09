@@ -1,0 +1,1 @@
+boolean#isRmiStub#(#String#affectedClass#,#String#className#)#{##return#isStub#(#affectedClass#,#className#,#DefaultRmicAdapter#.#RMI_STUB_SUFFIX#)#||#isStub#(#affectedClass#,#className#,#DefaultRmicAdapter#.#RMI_SKEL_SUFFIX#)#||#isStub#(#affectedClass#,#className#,#WLRmic#.#RMI_STUB_SUFFIX#)#||#isStub#(#affectedClass#,#className#,#WLRmic#.#RMI_SKEL_SUFFIX#)#;#}

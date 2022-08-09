@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#BaseResourceCollectionWrapper#)#getCheckedRef#(#)#)#.#size#(#)#;#}##dieOnCircularReference#(#)#;##return#cacheCollection#(#)#.#size#(#)#;#}

@@ -1,0 +1,1 @@
+void#add#(#FileNameMapper#fileNameMapper#)#{##if#(#this#.#fileNameMapper#!=#null#)#{#throw#new#BuildException#(#"Only one mapper type nested element allowed"#)#;#}##this#.#fileNameMapper#=#fileNameMapper#;#}

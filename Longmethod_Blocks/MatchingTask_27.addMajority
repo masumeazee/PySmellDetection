@@ -1,0 +1,1 @@
+void#addMajority#(#MajoritySelector#selector#)#{#fileset#.#addMajority#(#selector#)#;#}

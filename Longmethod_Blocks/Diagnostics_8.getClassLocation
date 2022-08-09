@@ -1,0 +1,1 @@
+URL#getClassLocation#(#Class#clazz#)#{##return#clazz#.#getProtectionDomain#(#)#.#getCodeSource#(#)#.#getLocation#(#)#;#}

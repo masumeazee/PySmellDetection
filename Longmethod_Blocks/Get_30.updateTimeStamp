@@ -1,0 +1,1 @@
+void#updateTimeStamp#(#)#{#long#remoteTimestamp#=#connection#.#getLastModified#(#)#;##if#(#verbose#)#{#Date#t#=#new#Date#(#remoteTimestamp#)#;#log#(#"last modified = "#+#t#.#toString#(#)#+#(#(#remoteTimestamp#==#0#)#?#" - using current time instead"#:#""#)#,#logLevel#)#;#}##if#(#remoteTimestamp#!=#0#)#{#FILE_UTILS#.#setFileLastModified#(#dest#,#remoteTimestamp#)#;#}#}

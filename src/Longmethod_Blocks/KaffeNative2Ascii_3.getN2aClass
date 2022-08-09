@@ -1,0 +1,1 @@
+Class#getN2aClass#(#)#{#for#(#int#i#=#0#;##i#<#N2A_CLASSNAMES#.#length#;#i#++#)#{#try#{##return#Class#.#forName#(#N2A_CLASSNAMES#[#i#]#)#;#}##catch#(#ClassNotFoundException#cnfe#)#{##// Ignore#}#}##return#null#;#}

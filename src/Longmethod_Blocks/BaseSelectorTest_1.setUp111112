@@ -1,0 +1,1 @@
+void#setUp#(#)#{#project#=#new#Project#(#)#;#project#.#init#(#)#;#project#.#setBaseDir#(#basedir#)#;##for#(#int#x#=#0#;##x#<#files#.#length#;#x#++#)#{#files#[#x#]#=#new#File#(#beddir#,#filenames#[#x#]#)#;#mirrorfiles#[#x#]#=#new#File#(#mirrordir#,#filenames#[#x#]#)#;#}#}

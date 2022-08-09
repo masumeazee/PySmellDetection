@@ -1,0 +1,1 @@
+int#getIncludedFilesCount#(#)#{##if#(#src#==#null#)#{##return#super#.#getIncludedFilesCount#(#)#;#}##scanme#(#)#;##return#matchFileEntries#.#size#(#)#;#}

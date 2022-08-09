@@ -1,0 +1,1 @@
+void#testSupportsCharacters#(#)#{#assertTrue#(#"IntrospectionHelperTest supports addText"#,#ih#.#supportsCharacters#(#)#)#;#ih#=#IntrospectionHelper#.#getHelper#(#String#.#class#)#;#assertTrue#(#"String doesn\'t support addText"#,#!#ih#.#supportsCharacters#(#)#)#;#}

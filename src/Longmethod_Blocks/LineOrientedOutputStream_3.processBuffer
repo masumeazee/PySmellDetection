@@ -1,0 +1,1 @@
+void#processBuffer#(#)#throws#IOException#{#try#{#processLine#(#buffer#.#toString#(#)#)#;#}##finally#{#buffer#.#reset#(#)#;#}#}

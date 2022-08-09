@@ -1,0 +1,1 @@
+ChannelSftp#openSftpChannel#(#)#throws#JSchException#{#ChannelSftp#channel#=#(#ChannelSftp#)#session#.#openChannel#(#"sftp"#)#;##return#channel#;#}

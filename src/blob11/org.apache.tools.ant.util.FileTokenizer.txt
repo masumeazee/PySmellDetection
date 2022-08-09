@@ -1,0 +1,1 @@
+String#getToken#(#Reader#in#)#throws#IOException#{#return#FileUtils#.#readFully#(#in#)#;#}##String#getPostToken#(#)#{#return#""#;#}##

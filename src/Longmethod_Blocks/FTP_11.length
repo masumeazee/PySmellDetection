@@ -1,0 +1,1 @@
+long#length#(#)#{##if#(#file#!=#null#)#{##return#file#.#getSize#(#)#;#}##return#0#;#}

@@ -1,0 +1,1 @@
+String#genComponentName#(#String#uri#,#String#name#)#{##if#(#uri#==#null#||#uri#.#equals#(#""#)#||#uri#.#equals#(#ANT_CORE_URI#)#)#{##return#name#;#}##return#uri#+#":"#+#name#;#}

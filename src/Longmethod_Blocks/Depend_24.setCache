@@ -1,0 +1,1 @@
+void#setCache#(#File#cache#)#{#this#.#cache#=#cache#;#}

@@ -1,0 +1,1 @@
+void#setSuffix#(#final#String#append#)#{#this#.#suffix#=#append#;#}

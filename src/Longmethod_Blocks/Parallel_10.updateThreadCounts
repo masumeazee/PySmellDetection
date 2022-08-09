@@ -1,0 +1,1 @@
+void#updateThreadCounts#(#)#{##if#(#numThreadsPerProcessor#!=#0#)#{#numThreads#=#Runtime#.#getRuntime#(#)#.#availableProcessors#(#)#*#numThreadsPerProcessor#;#}#}

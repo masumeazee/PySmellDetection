@@ -1,0 +1,1 @@
+void#setErrorOnMissingDir#(#boolean#errorOnMissingDir#)#{#this#.#errorOnMissingDir#=#errorOnMissingDir#;#}

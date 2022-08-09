@@ -1,0 +1,1 @@
+void#testRedirector14#(#)#{#executeTarget#(#"redirector14"#)#;##if#(#getProject#(#)#.#getProperty#(#"cat.can.run"#)#==#null#)#{##return#;#}##assertEquals#(#"unexpected log output"#,#"blah after blah"#,#getLog#(#)#)#;#}

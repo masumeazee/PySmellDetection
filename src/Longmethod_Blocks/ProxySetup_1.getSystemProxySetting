@@ -1,0 +1,1 @@
+String#getSystemProxySetting#(#)#{#try#{##return#System#.#getProperty#(#USE_SYSTEM_PROXIES#)#;#}##catch#(#SecurityException#e#)#{##//if you cannot read it, you won't be able to write it either##return#null#;#}#}

@@ -1,0 +1,1 @@
+void#setIgnoreNoncriticalErrors#(#boolean#ignoreNoncriticalErrors#)#{#this#.#ignoreNoncriticalErrors#=#ignoreNoncriticalErrors#;#}

@@ -1,0 +1,1 @@
+void#setLength#(#long#ell#)#{#length#=#new#Long#(#ell#)#;#}

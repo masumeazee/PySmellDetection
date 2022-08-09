@@ -1,0 +1,1 @@
+void#testDefaultBadClass#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testDefaultBadClass"#,#"expected the class to fail"#,#Rmic#.#ERROR_RMIC_FAILED#)#;##//dont look for much text here as it is vendor and version dependent#assertLogContaining#(#"unimplemented.class"#)#;#}

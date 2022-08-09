@@ -1,0 +1,1 @@
+void#testUpdateIfOnlyManifestHasChanged#(#)#{#executeTarget#(#"testUpdateIfOnlyManifestHasChanged"#)#;#File#jarXml#=#getProject#(#)#.#resolveFile#(#tempDir#+#"jar.xml"#)#;#assertTrue#(#jarXml#.#exists#(#)#)#;#}

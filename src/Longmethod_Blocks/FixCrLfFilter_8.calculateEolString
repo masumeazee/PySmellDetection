@@ -1,0 +1,1 @@
+String#calculateEolString#(#CrLf#eol#)#{##// Calculate the EOL string per the current config##if#(#eol#==#CrLf#.#ASIS#)#{##return#System#.#getProperty#(#"line.separator"#)#;#}##if#(#eol#==#CrLf#.#CR#||#eol#==#CrLf#.#MAC#)#{##return#"\r"#;#}##if#(#eol#==#CrLf#.#CRLF#||#eol#==#CrLf#.#DOS#)#{##return#"\r\n"#;#}##// assume (eol == CrLf.LF || eol == CrLf.UNIX)##return#"\n"#;#}

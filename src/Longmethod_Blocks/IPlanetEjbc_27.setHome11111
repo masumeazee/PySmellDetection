@@ -1,0 +1,1 @@
+void#setHome#(#Classname#home#)#{#this#.#home#=#home#;#}

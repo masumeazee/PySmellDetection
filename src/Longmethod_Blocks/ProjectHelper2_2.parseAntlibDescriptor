@@ -1,0 +1,1 @@
+UnknownElement#parseAntlibDescriptor#(#Project#containingProject#,#Resource#resource#)#{#URLProvider#up#=#(#URLProvider#)#resource#.#as#(#URLProvider#.#class#)#;##if#(#up#==#null#)#{#throw#new#BuildException#(#"Unsupported resource type: "#+#resource#)#;#}##return#parseUnknownElement#(#containingProject#,#up#.#getURL#(#)#)#;#}

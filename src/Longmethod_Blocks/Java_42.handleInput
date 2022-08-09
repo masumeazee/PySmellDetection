@@ -1,0 +1,1 @@
+int#handleInput#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{##// Should work whether or not redirector.inputStream == null:##return#redirector#.#handleInput#(#buffer#,#offset#,#length#)#;#}

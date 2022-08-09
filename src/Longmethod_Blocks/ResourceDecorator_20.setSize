@@ -1,0 +1,1 @@
+void#setSize#(#long#size#)#throws#BuildException#{#throw#new#BuildException#(#"you can't change the size of a "#+#getDataTypeName#(#)#)#;#}

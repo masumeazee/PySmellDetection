@@ -1,0 +1,1 @@
+void#off_testFailOnError#(#)#{#try#{#expectLogContaining#(#"testFailOnError"#,#"Unable to process image stream"#)#;#}##catch#(#RuntimeException#re#)#{#assertTrue#(#"Run time exception should say "#+#"'Unable to process image stream'. :"#+#re#.#toString#(#)#,#re#.#toString#(#)#.#indexOf#(#"Unable to process image stream"#)#>#-#1#)#;#}#}

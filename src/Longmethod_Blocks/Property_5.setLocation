@@ -1,0 +1,1 @@
+void#setLocation#(#File#location#)#{##if#(#relative#)#{#internalSetValue#(#location#)#;#}#else#{#setValue#(#location#.#getAbsolutePath#(#)#)#;#}#}

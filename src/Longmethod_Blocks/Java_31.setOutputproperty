@@ -1,0 +1,1 @@
+void#setOutputproperty#(#String#outputProp#)#{#redirector#.#setOutputProperty#(#outputProp#)#;#incompatibleWithSpawn#=#true#;#}

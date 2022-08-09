@@ -1,0 +1,1 @@
+void#addTarget#(#String#targetName#,#Target#target#)#throws#BuildException#{##if#(#targets#.#get#(#targetName#)#!=#null#)#{#throw#new#BuildException#(#"Duplicate target: `"#+#targetName#+#"'"#)#;#}##addOrReplaceTarget#(#targetName#,#target#)#;#}

@@ -1,0 +1,1 @@
+void#testXercesIsPresent#(#)#throws#SAXException#{#XMLReader#xerces#;#xerces#=#XMLReaderFactory#.#createXMLReader#(#"org.apache.xerces.parsers.SAXParser"#)#;#assertNotNull#(#xerces#)#;#}

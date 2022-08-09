@@ -1,0 +1,1 @@
+NameEntry#addPatternToList#(#Vector#list#)#{#NameEntry#result#=#new#NameEntry#(#)#;#list#.#addElement#(#result#)#;##return#result#;#}

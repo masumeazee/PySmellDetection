@@ -1,0 +1,1 @@
+void#accountForIncludedDir#(#TokenizedPath#name#,#File#file#,#boolean#fast#)#{#processIncluded#(#name#,#file#,#dirsIncluded#,#dirsExcluded#,#dirsDeselected#)#;##if#(#fast#&&#couldHoldIncluded#(#name#)#&&#!#contentsExcluded#(#name#)#)#{#scandir#(#file#,#name#,#fast#)#;#}#}

@@ -1,0 +1,1 @@
+String#getProperty#(#String#key#)#{#String#value#;##try#{#value#=#System#.#getProperty#(#key#)#;#}##catch#(#SecurityException#e#)#{#value#=#ERROR_PROPERTY_ACCESS_BLOCKED#;#}##return#value#;#}

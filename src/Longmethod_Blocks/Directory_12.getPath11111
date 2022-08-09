@@ -1,0 +1,1 @@
+String#[#]#getPath#(#String#thePath#)#{#StringTokenizer#tokenizer#=#new#StringTokenizer#(#thePath#,#File#.#separator#)#;#String#[#]#path#=#new#String#[#tokenizer#.#countTokens#(#)#]#;#int#i#=#0#;##while#(#tokenizer#.#hasMoreTokens#(#)#)#{#path#[#i#]#=#tokenizer#.#nextToken#(#)#;#i#++#;#}##return#path#;#}

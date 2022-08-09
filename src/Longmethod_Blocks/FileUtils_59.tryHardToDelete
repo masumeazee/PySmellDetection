@@ -1,0 +1,1 @@
+boolean#tryHardToDelete#(#File#f#)#{##if#(#!#f#.#delete#(#)#)#{##if#(#ON_WINDOWS#)#{#System#.#gc#(#)#;#}##try#{#Thread#.#sleep#(#DELETE_RETRY_SLEEP_MILLIS#)#;#}##catch#(#InterruptedException#ex#)#{##// Ignore Exception#}##return#f#.#delete#(#)#;#}##return#true#;#}

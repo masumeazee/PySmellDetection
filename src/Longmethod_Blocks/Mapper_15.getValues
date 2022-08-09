@@ -1,0 +1,1 @@
+String#[#]#getValues#(#)#{##return#new#String#[#]#{#"identity"#,#"flatten"#,#"glob"#,#"merge"#,#"regexp"#,#"package"#,#"unpackage"#}#;#}

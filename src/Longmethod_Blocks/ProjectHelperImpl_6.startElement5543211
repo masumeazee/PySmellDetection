@@ -1,0 +1,1 @@
+void#startElement#(#String#tag#,#AttributeList#attrs#)#throws#SAXParseException#{##if#(#tag#.#equals#(#"project"#)#)#{#new#ProjectHandler#(#helperImpl#,#this#)#.#init#(#tag#,#attrs#)#;#}#else#{#throw#new#SAXParseException#(#"Config file is not of expected "#+#"XML type"#,#helperImpl#.#locator#)#;#}#}

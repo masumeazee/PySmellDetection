@@ -1,0 +1,1 @@
+void#encodeBegin#(#)#throws#IOException#{#encodeString#(#"begin "#+#DEFAULT_MODE#+#" "#+#name#+#"\n"#)#;#}

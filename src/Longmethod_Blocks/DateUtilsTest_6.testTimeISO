@@ -1,0 +1,1 @@
+void#testTimeISO#(#)#{##// make sure that elapsed time in ms works#long#ms#=#(#20#*#3600#+#11#*#60#+#12#)#*#1000#;#String#text#=#DateUtils#.#format#(#ms#,#DateUtils#.#ISO8601_TIME_PATTERN#)#;#assertEquals#(#"20:11:12"#,#text#)#;#}

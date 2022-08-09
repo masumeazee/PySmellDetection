@@ -1,0 +1,1 @@
+void#validate#(#)#throws#BuildException#{##if#(#null#==#userID#)#{#final#String#message#=#"Username attribute must be set."#;#throw#new#BuildException#(#message#)#;#}##if#(#null#==#displayName#)#{#final#String#message#=#"Displayname attribute must be set for userID "#+#userID#;#throw#new#BuildException#(#message#)#;#}#}

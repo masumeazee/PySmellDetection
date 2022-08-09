@@ -1,0 +1,1 @@
+void#addEnable#(#EnabledAssertion#assertion#)#{#checkChildrenAllowed#(#)#;#assertionList#.#add#(#assertion#)#;#}

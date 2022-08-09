@@ -1,0 +1,1 @@
+void#testGlobMapper#(#)#{#executeTarget#(#"testGlobMapper"#)#;#assertFileMissing#(#"1/foo is not mapped"#,#"unziptestout/1/foo"#)#;#assertFileExists#(#"1/foo is mapped"#,#"unziptestout/1/foo.txt"#)#;#}

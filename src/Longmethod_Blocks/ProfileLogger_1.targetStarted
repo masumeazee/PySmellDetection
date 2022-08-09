@@ -1,0 +1,1 @@
+void#targetStarted#(#BuildEvent#event#)#{#Date#now#=#new#Date#(#)#;#String#name#=#"Target "#+#event#.#getTarget#(#)#.#getName#(#)#;#logStart#(#event#,#now#,#name#)#;#profileData#.#put#(#event#.#getTarget#(#)#,#now#)#;#}

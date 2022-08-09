@@ -1,0 +1,1 @@
+boolean#isSelected#(#Resource#r#)#{##return#r#.#isExists#(#)#;#}

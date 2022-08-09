@@ -1,0 +1,1 @@
+void#clear#(#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##rc#.#clear#(#)#;#FailFast#.#invalidate#(#this#)#;#coll#=#null#;#setChecked#(#false#)#;#}

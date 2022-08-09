@@ -1,0 +1,1 @@
+long#getLength#(#String#s#,#boolean#t#)#{##return#(#t#?#s#.#trim#(#)#:#s#)#.#length#(#)#;#}

@@ -1,0 +1,1 @@
+void#setHttpUseCaches#(#boolean#httpUseCache#)#{#this#.#httpUseCaches#=#httpUseCache#;#}

@@ -1,0 +1,1 @@
+void#testSupergrammarChangeRecompile#(#)#{#executeTarget#(#"test9"#)#;#assertEquals#(#-#1#,#getFullLog#(#)#.#indexOf#(#"Skipped grammar file."#)#)#;#executeTarget#(#"supergrammarChangeRecompile"#)#;#assertEquals#(#-#1#,#getFullLog#(#)#.#indexOf#(#"Skipped grammar file."#)#)#;#}

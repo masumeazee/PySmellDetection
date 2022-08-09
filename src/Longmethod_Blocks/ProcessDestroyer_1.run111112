@@ -1,0 +1,1 @@
+void#run#(#)#{##if#(#shouldDestroy#)#{#ProcessDestroyer#.#this#.#run#(#)#;#}#}

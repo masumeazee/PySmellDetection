@@ -1,0 +1,1 @@
+void#preConfigure#(#BaseTest#test#)#{#test#.#setFiltertrace#(#filterTrace#)#;#test#.#setHaltonerror#(#haltOnError#)#;##if#(#errorProperty#!=#null#)#{#test#.#setErrorProperty#(#errorProperty#)#;#}##test#.#setHaltonfailure#(#haltOnFail#)#;##if#(#failureProperty#!=#null#)#{#test#.#setFailureProperty#(#failureProperty#)#;#}##test#.#setFork#(#fork#)#;#}

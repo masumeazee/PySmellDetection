@@ -1,0 +1,1 @@
+boolean#isMagicPropertySet#(#Project#p#)#{##return#p#.#getProperty#(#REUSE_LOADER_REF#)#!=#null#;#}

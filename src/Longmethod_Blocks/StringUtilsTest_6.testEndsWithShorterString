@@ -1,0 +1,1 @@
+void#testEndsWithShorterString#(#)#{#assertTrue#(#StringUtils#.#endsWith#(#new#StringBuffer#(#"12345678"#)#,#"78"#)#)#;#}

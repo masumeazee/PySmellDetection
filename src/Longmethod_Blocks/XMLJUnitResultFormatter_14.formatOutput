@@ -1,0 +1,1 @@
+void#formatOutput#(#String#type#,#String#output#)#{#Element#nested#=#doc#.#createElement#(#type#)#;#rootElement#.#appendChild#(#nested#)#;#nested#.#appendChild#(#doc#.#createCDATASection#(#output#)#)#;#}

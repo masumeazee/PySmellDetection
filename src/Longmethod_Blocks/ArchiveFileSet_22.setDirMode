@@ -1,0 +1,1 @@
+void#setDirMode#(#String#octalString#)#{#checkArchiveAttributesAllowed#(#)#;#integerSetDirMode#(#Integer#.#parseInt#(#octalString#,#BASE_OCTAL#)#)#;#}

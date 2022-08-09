@@ -1,0 +1,1 @@
+File#mapToJavaFile#(#JspMangler#mangler#,#File#srcFile#,#File#srcDir#,#File#dest#)#{##if#(#!#srcFile#.#getName#(#)#.#endsWith#(#".jsp"#)#)#{##return#null#;#}##String#javaFileName#=#mangler#.#mapJspToJavaName#(#srcFile#)#;##//        String srcFileDir=srcFile.getParent();##return#new#File#(#dest#,#javaFileName#)#;#}

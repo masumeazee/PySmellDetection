@@ -1,0 +1,1 @@
+void#testIfAndUnless2#(#)#{#project#.#setProperty#(#"unless"#,#""#)#;##try#{#executeTarget#(#"testIfAndUnless"#)#;#}##catch#(#BuildException#be#)#{#fail#(#"defined(if) && !defined(unless); testIfAndUnless must not fail"#)#;#}#}

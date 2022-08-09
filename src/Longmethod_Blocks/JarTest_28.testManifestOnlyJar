@@ -1,0 +1,1 @@
+void#testManifestOnlyJar#(#)#{#expectLogContaining#(#"testManifestOnlyJar"#,#"Building MANIFEST-only jar: "#)#;#File#manifestFile#=#getProject#(#)#.#resolveFile#(#tempDir#+#"META-INF"#+#File#.#separator#+#"MANIFEST.MF"#)#;#assertTrue#(#manifestFile#.#exists#(#)#)#;#}

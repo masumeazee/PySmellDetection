@@ -1,0 +1,1 @@
+void#processBuffer#(#)#{#handler#.#process#(#buffer#.#toString#(#)#)#;#buffer#.#reset#(#)#;#}

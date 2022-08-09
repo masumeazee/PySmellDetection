@@ -1,0 +1,1 @@
+void#process#(#String#line#)#{#log#(#"P4Counter retrieved line \""#+#line#+#"\""#,#Project#.#MSG_VERBOSE#)#;##try#{#value#=#Integer#.#parseInt#(#line#)#;#myProj#.#setProperty#(#property#,#""#+#value#)#;#}##catch#(#NumberFormatException#nfe#)#{#throw#new#BuildException#(#"Perforce error. "#+#"Could not retrieve counter value."#)#;#}#}

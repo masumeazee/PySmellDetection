@@ -1,0 +1,1 @@
+void#makeMirror#(#)#{#tbed#=#new#TaskdefForMakingBed#(#"mirrorfiles"#)#;#tbed#.#setUp#(#)#;#tbed#.#makeMirror#(#)#;#}

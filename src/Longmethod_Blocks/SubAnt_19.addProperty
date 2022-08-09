@@ -1,0 +1,1 @@
+void#addProperty#(#Property#p#)#{#properties#.#addElement#(#p#)#;#}

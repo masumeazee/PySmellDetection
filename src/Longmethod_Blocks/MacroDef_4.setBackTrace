@@ -1,0 +1,1 @@
+void#setBackTrace#(#boolean#backTrace#)#{#this#.#backTrace#=#backTrace#;#}

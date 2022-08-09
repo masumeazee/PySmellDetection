@@ -1,0 +1,1 @@
+void#warning#(#SAXParseException#exception#)#{##// depending on implementation, XMLReader can yield hips of warning,##// only output then if user explicitly asked for it##if#(#warn#)#{#doLog#(#exception#,#Project#.#MSG_WARN#)#;#}#}

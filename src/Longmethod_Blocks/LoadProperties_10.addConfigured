@@ -1,0 +1,1 @@
+void#addConfigured#(#ResourceCollection#a#)#{##if#(#src#!=#null#)#{#throw#new#BuildException#(#"only a single source is supported"#)#;#}##if#(#a#.#size#(#)#!=#1#)#{#throw#new#BuildException#(#"only single-element resource collections are supported"#)#;#}##src#=#(#Resource#)#a#.#iterator#(#)#.#next#(#)#;#}

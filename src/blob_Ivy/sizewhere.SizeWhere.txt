@@ -1,0 +1,1 @@
+long#totalSize#(#File#dir#,#String#name#)#{#return#FileSize#.#totalSize#(#FindFile#.#find#(#dir#,#name#)#)#;#}##

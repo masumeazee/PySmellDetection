@@ -1,0 +1,1 @@
+boolean#isActionValid#(#)#{#boolean#valid#=#false#;#String#action#=#getTask#(#)#.#getAction#(#)#;##for#(#int#i#=#0#;##i#<#VALID_ACTIONS#.#length#;#i#++#)#{##if#(#action#.#equals#(#VALID_ACTIONS#[#i#]#)#)#{#valid#=#true#;#break#;#}#}##return#valid#;#}

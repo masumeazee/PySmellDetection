@@ -1,0 +1,1 @@
+boolean#testIfAllows#(#)#{#PropertyHelper#propertyHelper#=#PropertyHelper#.#getPropertyHelper#(#getProject#(#)#)#;#Object#o#=#propertyHelper#.#parseProperties#(#ifCondition#)#;##return#propertyHelper#.#testIfCondition#(#o#)#;#}

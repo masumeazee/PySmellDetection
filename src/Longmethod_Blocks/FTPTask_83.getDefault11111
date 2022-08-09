@@ -1,0 +1,1 @@
+FTPSystemType#getDefault#(#)#{#FTPSystemType#ftpst#=#new#FTPSystemType#(#)#;#ftpst#.#setValue#(#""#)#;##return#ftpst#;#}

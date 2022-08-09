@@ -1,0 +1,1 @@
+void#execute#(#)#throws#IOException#{#doSiteCommand#(#lftp#,#task#.#getInitialSiteCommand#(#)#)#;#}

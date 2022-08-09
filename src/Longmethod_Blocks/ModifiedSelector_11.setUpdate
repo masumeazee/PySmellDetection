@@ -1,0 +1,1 @@
+void#setUpdate#(#boolean#update#)#{#this#.#update#=#update#;#}

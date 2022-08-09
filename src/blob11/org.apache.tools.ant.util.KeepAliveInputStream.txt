@@ -1,0 +1,1 @@
+void#close#(#)#throws#IOException#{#// do not close the stream#}##InputStream#wrapSystemIn#(#)#{#return#new#KeepAliveInputStream#(#System#.#in#)#;#}##

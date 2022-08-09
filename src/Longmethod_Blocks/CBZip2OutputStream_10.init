@@ -1,0 +1,4 @@
+void#init#(#)#throws#IOException#{##// write magic: done by caller who created this stream##// this.out.write('B');##// this.out.write('Z');#this#.#data#=#new#Data#(#this#.#blockSize100k#)#;##/*
+         * Write `magic' bytes h indicating file-format == huffmanised, followed
+         * by a digit indicating blockSize100k.
+         */#bsPutUByte#(#'h'#)#;#bsPutUByte#(#'0'#+#this#.#blockSize100k#)#;#this#.#combinedCRC#=#0#;#initBlock#(#)#;#}

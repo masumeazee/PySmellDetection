@@ -1,0 +1,1 @@
+void#testReadBadFileNoFail#(#)#{#expectLog#(#"testReadBadFileNoFail"#,#"srcfile is a directory!"#)#;#}

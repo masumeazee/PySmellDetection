@@ -1,0 +1,1 @@
+void#addTokenFilter#(#final#TokenFilter#tokenFilter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#tokenFilter#)#;#}

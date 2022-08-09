@@ -1,0 +1,1 @@
+void#testPropertySchemaForInvalidXML#(#)#{#expectBuildException#(#"testProperty.invalidXML"#,#"XML file does not satisfy schema."#)#;#}

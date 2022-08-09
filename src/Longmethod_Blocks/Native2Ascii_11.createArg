@@ -1,0 +1,1 @@
+ImplementationSpecificArgument#createArg#(#)#{#ImplementationSpecificArgument#arg#=#new#ImplementationSpecificArgument#(#)#;#facade#.#addImplementationArgument#(#arg#)#;##return#arg#;#}

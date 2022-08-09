@@ -1,0 +1,1 @@
+Object#clone#(#)#{#try#{#AsiExtraField#cloned#=#(#AsiExtraField#)#super#.#clone#(#)#;#cloned#.#crc#=#new#CRC32#(#)#;##return#cloned#;#}##catch#(#CloneNotSupportedException#cnfe#)#{##// impossible#throw#new#RuntimeException#(#cnfe#)#;#}#}

@@ -1,0 +1,1 @@
+void#addEnv#(#Environment#.#Variable#var#)#{#env#.#addVariable#(#var#)#;#}

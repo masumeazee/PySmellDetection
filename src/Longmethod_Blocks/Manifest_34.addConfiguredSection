@@ -1,0 +1,1 @@
+void#addConfiguredSection#(#Section#section#)#throws#ManifestException#{#String#sectionName#=#section#.#getName#(#)#;##if#(#sectionName#==#null#)#{#throw#new#BuildException#(#"Sections must have a name"#)#;#}##sections#.#put#(#sectionName#,#section#)#;##if#(#!#sectionIndex#.#contains#(#sectionName#)#)#{#sectionIndex#.#addElement#(#sectionName#)#;#}#}

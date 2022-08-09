@@ -1,0 +1,1 @@
+void#setInheritrefs#(#boolean#b#)#{#this#.#inheritRefs#=#b#;#}

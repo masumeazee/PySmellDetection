@@ -1,0 +1,1 @@
+void#setOrb#(#String#aString#)#{#orb#=#aString#;#}

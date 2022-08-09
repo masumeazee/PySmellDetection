@@ -1,0 +1,1 @@
+void#setHidden#(#boolean#value#)#{#addArg#(#value#,#ATTR_HIDDEN#)#;#}

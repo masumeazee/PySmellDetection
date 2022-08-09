@@ -1,0 +1,1 @@
+void#testEscapeUnicode#(#)#throws#IOException#{#executeTarget#(#"testEscapeUnicode"#)#;#File#expected#=#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"expected/escapeunicode.test"#)#;#File#result#=#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"result/escapeunicode.test"#)#;#assertTrue#(#FILE_UTILS#.#contentEquals#(#expected#,#result#)#)#;#}

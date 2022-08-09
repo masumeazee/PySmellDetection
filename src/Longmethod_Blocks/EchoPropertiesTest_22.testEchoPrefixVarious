@@ -1,0 +1,1 @@
+void#testEchoPrefixVarious#(#String#target#)#throws#Exception#{#executeTarget#(#target#)#;#Properties#props#=#loadPropFile#(#PREFIX_OUTFILE#)#;#assertEquals#(#"prefix didn't include 'a.set' property"#,#"true"#,#props#.#getProperty#(#"a.set"#)#)#;#assertNull#(#"prefix failed to filter out property 'b.set'"#,#props#.#getProperty#(#"b.set"#)#)#;#}

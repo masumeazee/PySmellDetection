@@ -1,0 +1,1 @@
+void#setCoreLoader#(#ClassLoader#coreLoader#)#{#this#.#coreLoader#=#coreLoader#;#}

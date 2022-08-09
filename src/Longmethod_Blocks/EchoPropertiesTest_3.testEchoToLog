@@ -1,0 +1,1 @@
+void#testEchoToLog#(#)#{#expectLogContaining#(#"testEchoToLog"#,#"test.property="#+#TEST_VALUE#)#;#}

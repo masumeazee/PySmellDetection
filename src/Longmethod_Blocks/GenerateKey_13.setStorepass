@@ -1,0 +1,1 @@
+void#setStorepass#(#final#String#storepass#)#{#this#.#storepass#=#storepass#;#}

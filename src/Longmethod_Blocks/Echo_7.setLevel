@@ -1,0 +1,1 @@
+void#setLevel#(#EchoLevel#echoLevel#)#{#logLevel#=#echoLevel#.#getLevel#(#)#;#}

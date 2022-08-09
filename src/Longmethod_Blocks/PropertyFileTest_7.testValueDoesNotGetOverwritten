@@ -1,0 +1,1 @@
+void#testValueDoesNotGetOverwritten#(#)#{##// this test shows that the bug report 21505 is fixed#executeTarget#(#"bugDemo1"#)#;#executeTarget#(#"bugDemo2"#)#;#assertEquals#(#"5"#,#project#.#getProperty#(#"foo"#)#)#;#}

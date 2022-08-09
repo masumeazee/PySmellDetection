@@ -1,0 +1,1 @@
+void#testXercesHandlesSchema#(#)#throws#SAXException#{#XMLReader#xerces#;#xerces#=#XMLReaderFactory#.#createXMLReader#(#"org.apache.xerces.parsers.SAXParser"#)#;#xerces#.#setFeature#(#"http://apache.org/xml/features/validation/schema"#,#true#)#;#}

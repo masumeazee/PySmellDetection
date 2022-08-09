@@ -1,0 +1,1 @@
+void#addReplaceString#(#ReplaceString#filter#)#{#filters#.#addElement#(#filter#)#;#}

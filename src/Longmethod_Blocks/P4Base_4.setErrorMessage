@@ -1,0 +1,1 @@
+void#setErrorMessage#(#String#errorMessage#)#{#this#.#errorMessage#=#errorMessage#;#}

@@ -1,0 +1,1 @@
+void#setCcList#(#String#list#)#{#StringTokenizer#tokens#=#new#StringTokenizer#(#list#,#","#)#;##while#(#tokens#.#hasMoreTokens#(#)#)#{#ccList#.#addElement#(#new#EmailAddress#(#tokens#.#nextToken#(#)#)#)#;#}#}

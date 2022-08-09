@@ -1,0 +1,1 @@
+void#setMode#(#FileMode#m#)#{#this#.#mode#=#m#.#getValue#(#)#;#}

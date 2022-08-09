@@ -1,0 +1,1 @@
+void#setLPort#(#int#lport#)#{#Integer#portKey#=#new#Integer#(#lport#)#;##if#(#localPortsUsed#.#contains#(#portKey#)#)#throw#new#BuildException#(#"Multiple local tunnels defined to"#+#" use same local port "#+#lport#)#;##localPortsUsed#.#add#(#portKey#)#;#this#.#lport#=#lport#;#}

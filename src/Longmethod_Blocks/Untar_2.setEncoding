@@ -1,0 +1,1 @@
+void#setEncoding#(#String#encoding#)#{#throw#new#BuildException#(#"The "#+#getTaskName#(#)#+#" task doesn't support the encoding"#+#" attribute"#,#getLocation#(#)#)#;#}

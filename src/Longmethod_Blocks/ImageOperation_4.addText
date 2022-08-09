@@ -1,0 +1,1 @@
+void#addText#(#Text#instr#)#{#instructions#.#add#(#instr#)#;#}

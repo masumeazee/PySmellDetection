@@ -1,0 +1,1 @@
+void#setErrorProperty#(#)#{#setProperty#(#errorProperty#,#"true"#)#;#}

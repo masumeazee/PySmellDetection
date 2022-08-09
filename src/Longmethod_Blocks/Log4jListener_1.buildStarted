@@ -1,0 +1,1 @@
+void#buildStarted#(#BuildEvent#event#)#{##if#(#initialized#)#{#Logger#log#=#Logger#.#getLogger#(#Project#.#class#.#getName#(#)#)#;#log#.#info#(#"Build started."#)#;#}#}

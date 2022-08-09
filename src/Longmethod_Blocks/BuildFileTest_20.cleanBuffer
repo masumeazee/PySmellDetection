@@ -1,0 +1,1 @@
+String#cleanBuffer#(#StringBuffer#buffer#)#{#StringBuffer#cleanedBuffer#=#new#StringBuffer#(#)#;##for#(#int#i#=#0#;##i#<#buffer#.#length#(#)#;#i#++#)#{#char#ch#=#buffer#.#charAt#(#i#)#;##if#(#ch#!=#'\r'#)#{#cleanedBuffer#.#append#(#ch#)#;#}#}##return#cleanedBuffer#.#toString#(#)#;#}

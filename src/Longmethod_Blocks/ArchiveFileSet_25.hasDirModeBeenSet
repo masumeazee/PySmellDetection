@@ -1,0 +1,1 @@
+boolean#hasDirModeBeenSet#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#getProject#(#)#)#)#.#hasDirModeBeenSet#(#)#;#}##dieOnCircularReference#(#)#;##return#dirModeHasBeenSet#;#}

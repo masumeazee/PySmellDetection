@@ -1,0 +1,1 @@
+void#setComments#(#boolean#comments#)#{#this#.#comments#=#comments#;#}

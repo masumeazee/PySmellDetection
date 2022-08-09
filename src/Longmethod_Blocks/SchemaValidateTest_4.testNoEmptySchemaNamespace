@@ -1,0 +1,1 @@
+void#testNoEmptySchemaNamespace#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoEmptySchemaNamespace"#,#"empty namespace URI"#,#SchemaValidate#.#SchemaLocation#.#ERROR_NO_URI#)#;#}

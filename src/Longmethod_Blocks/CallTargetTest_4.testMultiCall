@@ -1,0 +1,1 @@
+void#testMultiCall#(#)#{#Vector#v#=#new#Vector#(#)#;#v#.#add#(#"call-multi"#)#;#v#.#add#(#"call-multi"#)#;#project#.#executeTargets#(#v#)#;#assertLogContaining#(#"multi is SETmulti is SET"#)#;#}

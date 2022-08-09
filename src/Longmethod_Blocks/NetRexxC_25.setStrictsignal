@@ -1,0 +1,1 @@
+void#setStrictsignal#(#boolean#strictsignal#)#{#this#.#strictsignal#=#strictsignal#;#}

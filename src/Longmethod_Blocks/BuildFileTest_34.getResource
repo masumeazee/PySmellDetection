@@ -1,0 +1,1 @@
+URL#getResource#(#String#resource#)#{#URL#url#=#getClass#(#)#.#getResource#(#resource#)#;#assertNotNull#(#"Could not find resource :"#+#resource#,#url#)#;##return#url#;#}

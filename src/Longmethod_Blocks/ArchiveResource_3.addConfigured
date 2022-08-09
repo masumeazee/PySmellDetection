@@ -1,0 +1,1 @@
+void#addConfigured#(#ResourceCollection#a#)#{#checkChildrenAllowed#(#)#;##if#(#archive#!=#null#)#{#throw#new#BuildException#(#"you must not specify more than one"#+#" archive"#)#;#}##if#(#a#.#size#(#)#!=#1#)#{#throw#new#BuildException#(#"only single argument resource collections"#+#" are supported as archives"#)#;#}##archive#=#(#Resource#)#a#.#iterator#(#)#.#next#(#)#;#}

@@ -1,0 +1,1 @@
+String#toString#(#)#{#StringBuffer#buf#=#new#StringBuffer#(#)#;#buf#.#append#(#"<PropertiesfileCache:"#)#;#buf#.#append#(#"cachefile="#)#.#append#(#cachefile#)#;#buf#.#append#(#";noOfEntries="#)#.#append#(#cache#.#size#(#)#)#;#buf#.#append#(#">"#)#;##return#buf#.#toString#(#)#;#}

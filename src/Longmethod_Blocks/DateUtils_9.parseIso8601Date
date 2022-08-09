@@ -1,0 +1,1 @@
+Date#parseIso8601Date#(#String#datestr#)#throws#ParseException#{##return#new#SimpleDateFormat#(#ISO8601_DATE_PATTERN#)#.#parse#(#datestr#)#;#}

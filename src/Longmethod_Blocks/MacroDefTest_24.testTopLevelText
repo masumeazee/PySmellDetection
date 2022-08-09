@@ -1,0 +1,1 @@
+void#testTopLevelText#(#)#{#expectLogContaining#(#"top-level-text"#,#"Hello World"#)#;#}

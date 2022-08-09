@@ -1,0 +1,1 @@
+String#[#]#getSections#(#)#{##if#(#null#==#sections#)#{##return#null#;#}##final#String#[#]#newSections#=#new#String#[#sections#.#length#]#;#System#.#arraycopy#(#sections#,#0#,#newSections#,#0#,#sections#.#length#)#;##return#newSections#;#}

@@ -1,0 +1,1 @@
+boolean#sameDefinition#(#AntTypeDefinition#other#,#Project#project#)#{##return#(#other#!=#null#&&#other#.#getClass#(#)#==#getClass#(#)#&&#parent#!=#null#&&#parent#.#sameDefinition#(#(#(#PreSetDefinition#)#other#)#.#parent#,#project#)#&&#element#.#similar#(#(#(#PreSetDefinition#)#other#)#.#element#)#)#;#}

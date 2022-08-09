@@ -1,0 +1,1 @@
+Hashtable#getAllSystemProperties#(#)#{#Hashtable#ret#=#new#Hashtable#(#)#;##for#(#Enumeration#e#=#System#.#getProperties#(#)#.#propertyNames#(#)#;##e#.#hasMoreElements#(#)#;#)#{#String#name#=#(#String#)#e#.#nextElement#(#)#;#ret#.#put#(#name#,#System#.#getProperties#(#)#.#getProperty#(#name#)#)#;#}##return#ret#;#}

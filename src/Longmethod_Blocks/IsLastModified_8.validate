@@ -1,0 +1,1 @@
+void#validate#(#)#throws#BuildException#{##if#(#millis#>=#0#&&#dateTime#!=#null#)#{#throw#new#BuildException#(#"Only one of dateTime and millis can be"#+#" set"#)#;#}##if#(#millis#<#0#&&#dateTime#==#null#)#{#throw#new#BuildException#(#"millis or dateTime is required"#)#;#}##if#(#resource#==#null#)#{#throw#new#BuildException#(#"resource is required"#)#;#}#}

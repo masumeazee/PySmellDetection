@@ -1,0 +1,1 @@
+ArrayList#collect#(#Object#o#)#{#ArrayList#result#=#new#ArrayList#(#)#;##for#(#Iterator#i#=#(#(#ResourceCollection#)#o#)#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#result#.#add#(#i#.#next#(#)#)#;#}##return#result#;#}

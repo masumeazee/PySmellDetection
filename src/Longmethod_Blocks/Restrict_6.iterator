@@ -1,0 +1,1 @@
+Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Restrict#)#getCheckedRef#(#)#)#.#iterator#(#)#;#}##dieOnCircularReference#(#)#;##return#w#.#iterator#(#)#;#}

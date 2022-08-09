@@ -1,0 +1,1 @@
+void#init#(#File#file#)#{#currentFile#=#file#;#failed#=#false#;#}

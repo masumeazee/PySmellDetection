@@ -1,0 +1,1 @@
+void#handleFlush#(#String#output#)#{##if#(#realThing#instanceof#Task#)#{#(#(#Task#)#realThing#)#.#handleFlush#(#output#)#;#}#else#{#super#.#handleFlush#(#output#)#;#}#}

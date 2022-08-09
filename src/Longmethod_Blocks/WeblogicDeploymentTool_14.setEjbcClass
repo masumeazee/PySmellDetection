@@ -1,0 +1,1 @@
+void#setEjbcClass#(#String#ejbcClass#)#{#this#.#ejbcClass#=#ejbcClass#;#}

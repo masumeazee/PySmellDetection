@@ -1,0 +1,1 @@
+void#addBuildSuccessfulSound#(#File#file#,#int#loops#,#Long#duration#)#{#this#.#fileSuccess#=#file#;#this#.#loopsSuccess#=#loops#;#this#.#durationSuccess#=#duration#;#}

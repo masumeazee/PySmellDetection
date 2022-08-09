@@ -1,0 +1,1 @@
+void#setInput#(#File#input#)#{#setInput#(#(#input#==#null#)#?#null#:#new#File#[#]#{#input#}#)#;#}

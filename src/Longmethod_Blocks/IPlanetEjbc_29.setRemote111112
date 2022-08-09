@@ -1,0 +1,1 @@
+void#setRemote#(#String#remote#)#{#setRemote#(#new#Classname#(#remote#)#)#;#}

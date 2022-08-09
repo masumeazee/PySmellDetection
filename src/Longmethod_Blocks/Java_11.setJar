@@ -1,0 +1,1 @@
+void#setJar#(#File#jarfile#)#throws#BuildException#{##if#(#getCommandLine#(#)#.#getClassname#(#)#!=#null#)#{#throw#new#BuildException#(#"Cannot use 'jar' and 'classname' "#+#"attributes in same command."#)#;#}##getCommandLine#(#)#.#setJar#(#jarfile#.#getAbsolutePath#(#)#)#;#}

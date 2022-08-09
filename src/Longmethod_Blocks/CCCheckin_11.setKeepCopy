@@ -1,0 +1,1 @@
+void#setKeepCopy#(#boolean#keep#)#{#mKeep#=#keep#;#}

@@ -1,0 +1,1 @@
+void#setAdjust#(#Long#adjust#)#{#this#.#adjust#=#adjust#;#}

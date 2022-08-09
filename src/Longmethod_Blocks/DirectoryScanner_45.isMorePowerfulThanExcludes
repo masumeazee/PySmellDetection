@@ -1,0 +1,1 @@
+boolean#isMorePowerfulThanExcludes#(#String#name#)#{#final#String#soughtexclude#=#name#+#File#.#separatorChar#+#SelectorUtils#.#DEEP_TREE_MATCH#;##for#(#int#counter#=#0#;##counter#<#excludePatterns#.#length#;#counter#++#)#{##if#(#excludePatterns#[#counter#]#.#toString#(#)#.#equals#(#soughtexclude#)#)#{##return#false#;#}#}##return#true#;#}

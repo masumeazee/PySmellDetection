@@ -1,0 +1,1 @@
+void#setFork#(#boolean#value#)#{#this#.#fork#=#value#;#}

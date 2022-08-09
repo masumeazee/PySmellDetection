@@ -1,0 +1,1 @@
+ResourceCollection#nextRC#(#Iterator#i#)#{##return#(#ResourceCollection#)#i#.#next#(#)#;#}

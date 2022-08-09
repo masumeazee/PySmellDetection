@@ -1,0 +1,1 @@
+void#setLoaderRef#(#Reference#r#)#{#checkAttributesAllowed#(#)#;#loader#=#r#;#}

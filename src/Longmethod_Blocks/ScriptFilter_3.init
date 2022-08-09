@@ -1,0 +1,1 @@
+void#init#(#)#throws#BuildException#{##if#(#runner#!=#null#)#{##return#;#}##runner#=#helper#.#getScriptRunner#(#)#;#}

@@ -1,0 +1,1 @@
+void#testMapperNoDest#(#)#{#expectBuildExceptionContaining#(#"testMapperNoDest"#,#"two mappers"#,#SignJar#.#ERROR_MAPPER_WITHOUT_DEST#)#;#}

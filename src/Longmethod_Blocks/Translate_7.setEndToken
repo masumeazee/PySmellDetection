@@ -1,0 +1,1 @@
+void#setEndToken#(#String#endToken#)#{#this#.#endToken#=#endToken#;#}

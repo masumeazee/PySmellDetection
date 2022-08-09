@@ -1,0 +1,1 @@
+void#setColumn#(#int#col#)#{#column#=#col#;#}

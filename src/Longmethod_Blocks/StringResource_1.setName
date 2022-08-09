@@ -1,0 +1,1 @@
+void#setName#(#String#s#)#{##if#(#getName#(#)#!=#null#)#{#throw#new#BuildException#(#new#ImmutableResourceException#(#)#)#;#}##super#.#setName#(#s#)#;#}

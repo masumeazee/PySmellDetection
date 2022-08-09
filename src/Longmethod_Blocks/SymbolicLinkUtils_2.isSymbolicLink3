@@ -1,0 +1,1 @@
+boolean#isSymbolicLink#(#File#file#)#throws#IOException#{##return#isSymbolicLink#(#file#.#getParentFile#(#)#,#file#.#getName#(#)#)#;#}

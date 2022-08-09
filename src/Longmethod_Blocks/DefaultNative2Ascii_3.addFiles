@@ -1,0 +1,1 @@
+void#addFiles#(#Commandline#cmd#,#ProjectComponent#log#,#File#src#,#File#dest#)#throws#BuildException#{#cmd#.#createArgument#(#)#.#setFile#(#src#)#;#cmd#.#createArgument#(#)#.#setFile#(#dest#)#;#}

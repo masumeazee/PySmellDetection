@@ -1,0 +1,1 @@
+void#setOutput#(#Resource#output#)#{#this#.#output#=#output#;#}

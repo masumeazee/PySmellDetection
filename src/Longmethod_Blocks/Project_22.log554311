@@ -1,0 +1,1 @@
+void#log#(#Task#task#,#String#message#,#Throwable#throwable#,#int#msgLevel#)#{#fireMessageLogged#(#task#,#message#,#throwable#,#msgLevel#)#;#}

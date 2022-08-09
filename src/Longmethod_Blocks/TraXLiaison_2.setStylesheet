@@ -1,0 +1,1 @@
+void#setStylesheet#(#Resource#stylesheet#)#throws#Exception#{##if#(#this#.#stylesheet#!=#null#)#{##// resetting the stylesheet - reset transformer#transformer#=#null#;##// do we need to reset templates as well##if#(#!#this#.#stylesheet#.#equals#(#stylesheet#)#||#(#stylesheet#.#getLastModified#(#)#!=#templatesModTime#)#)#{#templates#=#null#;#}#}##this#.#stylesheet#=#stylesheet#;#}

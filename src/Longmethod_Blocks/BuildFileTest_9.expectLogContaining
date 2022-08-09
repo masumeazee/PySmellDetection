@@ -1,0 +1,1 @@
+void#expectLogContaining#(#String#target#,#String#log#)#{#executeTarget#(#target#)#;#assertLogContaining#(#log#)#;#}

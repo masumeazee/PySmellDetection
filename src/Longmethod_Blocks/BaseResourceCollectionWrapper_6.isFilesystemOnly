@@ -1,0 +1,2 @@
+boolean#isFilesystemOnly#(#)#{##if#(#isReference#(#)#)#{##return#(#(#BaseResourceCollectionContainer#)#getCheckedRef#(#)#)#.#isFilesystemOnly#(#)#;#}##dieOnCircularReference#(#)#;##if#(#rc#==#null#||#rc#.#isFilesystemOnly#(#)#)#{##return#true#;#}##/* now check each Resource in case the child only
+           lets through files from any children IT may have: */#for#(#Iterator#i#=#cacheCollection#(#)#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Resource#r#=#(#Resource#)#i#.#next#(#)#;##if#(#r#.#as#(#FileProvider#.#class#)#==#null#)#{##return#false#;#}#}##return#true#;#}

@@ -1,0 +1,1 @@
+int#handleArgBuildFile#(#String#[#]#args#,#int#pos#)#{#try#{#buildFile#=#new#File#(#args#[#++#pos#]#.#replace#(#'/'#,#File#.#separatorChar#)#)#;#}##catch#(#ArrayIndexOutOfBoundsException#aioobe#)#{#throw#new#BuildException#(#"You must specify a buildfile when using the -buildfile argument"#)#;#}##return#pos#;#}

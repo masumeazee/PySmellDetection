@@ -1,0 +1,1 @@
+void#setJar#(#final#File#jar#)#{#this#.#jar#=#jar#;#}

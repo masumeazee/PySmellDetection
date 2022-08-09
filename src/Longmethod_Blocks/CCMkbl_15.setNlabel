@@ -1,0 +1,1 @@
+void#setNlabel#(#boolean#nlabel#)#{#mNlabel#=#nlabel#;#}

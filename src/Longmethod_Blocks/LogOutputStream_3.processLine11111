@@ -1,0 +1,1 @@
+void#processLine#(#String#line#,#int#level#)#{#pc#.#log#(#line#,#level#)#;#}

@@ -1,0 +1,1 @@
+void#setIn#(#File#inFile#)#{#this#.#inFile#=#inFile#;#}

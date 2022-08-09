@@ -1,0 +1,1 @@
+void#close#(#)#throws#IOException#{#synchronized#(#outMutex#)#{##if#(#!#closed#&&#!#(#appendOut#&&#appendProperties#)#)#{#setPropertyFromBAOS#(#this#,#property#)#;#closed#=#true#;#}#}#}

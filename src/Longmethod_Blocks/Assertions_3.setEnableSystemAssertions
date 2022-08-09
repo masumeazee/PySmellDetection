@@ -1,0 +1,1 @@
+void#setEnableSystemAssertions#(#Boolean#enableSystemAssertions#)#{#checkAttributesAllowed#(#)#;#this#.#enableSystemAssertions#=#enableSystemAssertions#;#}

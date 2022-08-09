@@ -1,0 +1,1 @@
+int#getMatchCount#(#String#message#)#{#Integer#mcnt#=#(#Integer#)#searchMap#.#get#(#message#)#;##if#(#null#!=#mcnt#)#{##return#mcnt#.#intValue#(#)#;#}##return#0#;#}

@@ -1,0 +1,1 @@
+void#setSimulationMode#(#boolean#setrest#)#{#this#.#simulationmode#=#setrest#;#}

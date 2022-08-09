@@ -1,0 +1,1 @@
+Object#getValue#(#)#{#return#value#;#}##void#setValue#(#Object#newValue#)#{#value#=#newValue#;#}##

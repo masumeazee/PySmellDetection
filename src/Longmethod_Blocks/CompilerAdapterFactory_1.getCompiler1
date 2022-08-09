@@ -1,0 +1,1 @@
+CompilerAdapter#getCompiler#(#String#compilerType#,#Task#task#)#throws#BuildException#{##return#getCompiler#(#compilerType#,#task#,#null#)#;#}

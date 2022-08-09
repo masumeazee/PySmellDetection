@@ -1,0 +1,1 @@
+void#verifySettings#(#)#{##if#(#pattern#==#null#&&#regex#==#null#)#{#setError#(#"The name or regex attribute is required"#)#;#}#else##if#(#pattern#!=#null#&&#regex#!=#null#)#{#setError#(#"Only one of name and regex attribute is allowed"#)#;#}#}

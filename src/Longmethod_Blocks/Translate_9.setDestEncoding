@@ -1,0 +1,1 @@
+void#setDestEncoding#(#String#destEncoding#)#{#this#.#destEncoding#=#destEncoding#;#}

@@ -1,0 +1,1 @@
+void#checkPackages#(#Vector#packagesToDoc#,#Path#sourceDirs#)#{##if#(#packagesToDoc#.#size#(#)#!=#0#&&#sourceDirs#.#size#(#)#==#0#)#{#String#msg#=#"sourcePath attribute must be set when "#+#"specifying package names."#;#throw#new#BuildException#(#msg#)#;#}#}

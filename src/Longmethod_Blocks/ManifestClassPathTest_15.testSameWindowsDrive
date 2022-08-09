@@ -1,0 +1,1 @@
+void#testSameWindowsDrive#(#)#{##if#(#!#Os#.#isFamily#(#"windows"#)#)#{#System#.#out#.#println#(#"Test with drive letters only run on windows"#)#;#}#else#{#executeTarget#(#"testSameDrive"#)#;#assertPropertyEquals#(#"cp"#,#"../a/b/x.jar"#)#;#}#}

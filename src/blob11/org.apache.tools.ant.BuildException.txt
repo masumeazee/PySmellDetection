@@ -1,0 +1,1 @@
+Throwable#getException#(#)#{#return#getCause#(#)#;#}##String#toString#(#)#{#return#location#.#toString#(#)#+#getMessage#(#)#;#}##void#setLocation#(#Location#location#)#{#this#.#location#=#location#;#}##Location#getLocation#(#)#{#return#location#;#}##

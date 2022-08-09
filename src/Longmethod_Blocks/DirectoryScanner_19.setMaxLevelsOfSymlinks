@@ -1,0 +1,1 @@
+void#setMaxLevelsOfSymlinks#(#int#max#)#{#maxLevelsOfSymlinks#=#max#;#}

@@ -1,0 +1,1 @@
+void#addConfiguredFilterSet#(#FilterSet#filterSet#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##for#(#Enumeration#e#=#filterSet#.#getFilters#(#)#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#addFilter#(#(#Filter#)#e#.#nextElement#(#)#)#;#}#}

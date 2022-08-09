@@ -1,0 +1,1 @@
+void#setPropertyResource#(#Resource#propertyResource#)#{#this#.#propertyResource#=#propertyResource#;#}

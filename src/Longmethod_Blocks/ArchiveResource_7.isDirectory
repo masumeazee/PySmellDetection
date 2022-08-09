@@ -1,0 +1,1 @@
+boolean#isDirectory#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#isDirectory#(#)#;#}##checkEntry#(#)#;##return#super#.#isDirectory#(#)#;#}

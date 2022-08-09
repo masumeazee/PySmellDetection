@@ -1,0 +1,1 @@
+String#getUnmappedElementName#(#Class#c#,#boolean#brief#)#{##if#(#brief#)#{#String#name#=#c#.#getName#(#)#;##return#name#.#substring#(#name#.#lastIndexOf#(#'.'#)#+#1#)#;#}##return#c#.#toString#(#)#;#}

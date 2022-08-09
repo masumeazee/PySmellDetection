@@ -1,0 +1,1 @@
+void#addDeleteCharacters#(#TokenFilter#.#DeleteCharacters#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

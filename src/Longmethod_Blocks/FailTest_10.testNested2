@@ -1,0 +1,1 @@
+void#testNested2#(#)#{#try#{#executeTarget#(#"testNested2"#)#;#}##catch#(#BuildException#be#)#{#fail#(#"condition not satisfied; testNested2 must not fail"#)#;#}#}

@@ -1,0 +1,1 @@
+void#setGlobalopts#(#String#p4Opts#)#{#this#.#P4Opts#=#p4Opts#;#}

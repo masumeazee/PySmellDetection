@@ -1,0 +1,1 @@
+void#setArchive#(#File#a#)#{#checkAttributesAllowed#(#)#;#archive#=#new#FileResource#(#a#)#;#}

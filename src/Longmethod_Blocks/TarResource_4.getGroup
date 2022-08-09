@@ -1,0 +1,1 @@
+String#getGroup#(#)#{##if#(#isReference#(#)#)#{##return#(#(#TarResource#)#getCheckedRef#(#)#)#.#getGroup#(#)#;#}##checkEntry#(#)#;##return#groupName#;#}

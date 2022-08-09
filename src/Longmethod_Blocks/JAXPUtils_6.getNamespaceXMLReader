@@ -1,0 +1,1 @@
+XMLReader#getNamespaceXMLReader#(#)#throws#BuildException#{#try#{##return#newSAXParser#(#getNSParserFactory#(#)#)#.#getXMLReader#(#)#;#}##catch#(#SAXException#e#)#{#throw#convertToBuildException#(#e#)#;#}#}

@@ -1,0 +1,1 @@
+void#setAllowtie#(#boolean#b#)#{#tie#=#b#;#}

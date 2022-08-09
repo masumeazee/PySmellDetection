@@ -1,0 +1,1 @@
+ZipScanner#getZipScanner#(#)#{##if#(#zs#==#null#)#{#zs#=#new#ZipScanner#(#)#;#zs#.#setEncoding#(#encoding#)#;#zs#.#setSrc#(#zipFile#)#;#}##return#zs#;#}

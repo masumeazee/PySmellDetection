@@ -1,0 +1,1 @@
+void#expectNameAddress3#(#EmailAddress#e#)#{#assertTrue#(#"Expected null, found <"#+#e#.#getName#(#)#+#">"#,#e#.#getName#(#)#==#null#)#;#assertEquals#(#"address"#,#e#.#getAddress#(#)#)#;#}

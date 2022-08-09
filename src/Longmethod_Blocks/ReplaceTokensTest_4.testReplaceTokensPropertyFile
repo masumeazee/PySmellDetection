@@ -1,0 +1,1 @@
+void#testReplaceTokensPropertyFile#(#)#throws#IOException#{#executeTarget#(#"testReplaceTokensPropertyFile"#)#;#File#expected#=#FILE_UTILS#.#resolveFile#(#getProjectDir#(#)#,#"expected/replacetokens.test"#)#;#File#result#=#FILE_UTILS#.#resolveFile#(#getProjectDir#(#)#,#"result/replacetokensPropertyFile.test"#)#;#assertTrue#(#FILE_UTILS#.#contentEquals#(#expected#,#result#)#)#;#}

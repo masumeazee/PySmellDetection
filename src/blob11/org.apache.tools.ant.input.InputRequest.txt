@@ -1,0 +1,1 @@
+String#getPrompt#(#)#{#return#prompt#;#}##void#setInput#(#String#input#)#{#this#.#input#=#input#;#}##boolean#isInputValid#(#)#{#return#true#;#}##String#getInput#(#)#{#return#input#;#}##String#getDefaultValue#(#)#{#return#defaultValue#;#}##void#setDefaultValue#(#String#d#)#{#defaultValue#=#d#;#}##

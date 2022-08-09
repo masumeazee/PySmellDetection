@@ -1,0 +1,1 @@
+void#test2#(#)#{#executeTarget#(#"test2"#)#;#assertNotNull#(#project#.#getProperty#(#"DSTAMP"#)#)#;#assertNotNull#(#project#.#getProperty#(#"start.DSTAMP"#)#)#;#}

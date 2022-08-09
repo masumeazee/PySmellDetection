@@ -1,0 +1,1 @@
+void#setOrb#(#final#String#inValue#)#{#orb#=#inValue#;#}

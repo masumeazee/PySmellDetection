@@ -1,0 +1,1 @@
+RuntimeConfigurable#getChild#(#int#index#)#{##return#(#RuntimeConfigurable#)#children#.#get#(#index#)#;#}

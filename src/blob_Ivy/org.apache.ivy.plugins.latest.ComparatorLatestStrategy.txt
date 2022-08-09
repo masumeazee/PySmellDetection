@@ -1,0 +1,1 @@
+List#sort#(#ArtifactInfo#[#]#infos#)#{#List#ret#=#new#ArrayList#(#Arrays#.#asList#(#infos#)#)#;#Collections#.#sort#(#ret#,#comparator#)#;#return#ret#;#}##Comparator#getComparator#(#)#{#return#comparator#;#}##void#setComparator#(#Comparator#comparator#)#{#this#.#comparator#=#comparator#;#}##

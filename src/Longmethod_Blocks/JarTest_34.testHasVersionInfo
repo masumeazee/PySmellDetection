@@ -1,0 +1,1 @@
+void#testHasVersionInfo#(#)#{#executeTarget#(#"testHasVersionInfo"#)#;#assertFalse#(#getLog#(#)#.#indexOf#(#"No Implementation-Title set."#)#>#-#1#)#;#assertFalse#(#getLog#(#)#.#indexOf#(#"No Implementation-Version set."#)#>#-#1#)#;#assertFalse#(#getLog#(#)#.#indexOf#(#"No Implementation-Vendor set."#)#>#-#1#)#;#}

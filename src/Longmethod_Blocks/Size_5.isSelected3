@@ -1,0 +1,1 @@
+boolean#isSelected#(#Resource#r#)#{#long#diff#=#r#.#getSize#(#)#-#size#;##return#when#.#evaluate#(#diff#==#0#?#0#:#(#int#)#(#diff#/#Math#.#abs#(#diff#)#)#)#;#}

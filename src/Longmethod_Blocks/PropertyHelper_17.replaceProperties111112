@@ -1,0 +1,1 @@
+String#replaceProperties#(#String#ns#,#String#value#,#Hashtable#keys#)#throws#BuildException#{##return#replaceProperties#(#value#)#;#}

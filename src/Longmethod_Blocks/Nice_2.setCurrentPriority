@@ -1,0 +1,1 @@
+void#setCurrentPriority#(#String#currentPriority#)#{#this#.#currentPriority#=#currentPriority#;#}

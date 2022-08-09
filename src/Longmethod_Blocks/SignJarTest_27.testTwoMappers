@@ -1,0 +1,1 @@
+void#testTwoMappers#(#)#{#expectBuildExceptionContaining#(#"testTwoMappers"#,#"two mappers"#,#SignJar#.#ERROR_TOO_MANY_MAPPERS#)#;#}

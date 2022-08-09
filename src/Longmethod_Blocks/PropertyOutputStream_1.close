@@ -1,0 +1,1 @@
+void#close#(#)#{##if#(#project#!=#null#&&#property#!=#null#)#{#String#s#=#new#String#(#toByteArray#(#)#)#;#project#.#setNewProperty#(#property#,#trim#?#s#.#trim#(#)#:#s#)#;#}#}

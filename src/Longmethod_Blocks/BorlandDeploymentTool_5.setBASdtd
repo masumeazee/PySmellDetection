@@ -1,0 +1,1 @@
+void#setBASdtd#(#String#inString#)#{#this#.#borlandDTD#=#inString#;#}

@@ -1,0 +1,1 @@
+String#addStubVersionOptions#(#)#{##//handle the many different stub options.#String#stubVersion#=#getRmic#(#)#.#getStubVersion#(#)#;##if#(#null#!=#stubVersion#)#{#getRmic#(#)#.#log#(#UNSUPPORTED_STUB_OPTION#+#stubVersion#,#Project#.#MSG_WARN#)#;#}##return#null#;#}

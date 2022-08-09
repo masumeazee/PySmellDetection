@@ -1,0 +1,1 @@
+void#setStyle#(#String#xslFile#)#{#this#.#xslFile#=#xslFile#;#}

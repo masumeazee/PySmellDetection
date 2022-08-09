@@ -1,0 +1,1 @@
+void#initSubProject#(#Project#subProject#)#{#ComponentHelper#.#getComponentHelper#(#subProject#)#.#initSubProject#(#ComponentHelper#.#getComponentHelper#(#this#)#)#;#subProject#.#setDefaultInputStream#(#getDefaultInputStream#(#)#)#;#subProject#.#setKeepGoingMode#(#this#.#isKeepGoingMode#(#)#)#;#subProject#.#setExecutor#(#getExecutor#(#)#.#getSubProjectExecutor#(#)#)#;#}

@@ -1,0 +1,1 @@
+ExecuteStreamHandler#getExecuteStreamHandler#(#)#{##if#(#this#.#executeStreamHandler#==#null#)#{#setExecuteStreamHandler#(#new#PumpStreamHandler#(#getOutputStream#(#)#,#getErrorStream#(#)#)#)#;#}##return#this#.#executeStreamHandler#;#}

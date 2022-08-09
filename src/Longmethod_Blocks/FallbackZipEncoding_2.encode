@@ -1,0 +1,1 @@
+ByteBuffer#encode#(#String#name#)#throws#IOException#{##if#(#this#.#charset#==#null#)#{##return#ByteBuffer#.#wrap#(#name#.#getBytes#(#)#)#;#}#else#{##return#ByteBuffer#.#wrap#(#name#.#getBytes#(#this#.#charset#)#)#;#}#}

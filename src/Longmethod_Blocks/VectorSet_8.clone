@@ -1,0 +1,1 @@
+Object#clone#(#)#{#VectorSet#vs#=#(#VectorSet#)#super#.#clone#(#)#;#vs#.#set#.#addAll#(#set#)#;##return#vs#;#}

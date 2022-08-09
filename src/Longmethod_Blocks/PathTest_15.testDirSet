@@ -1,0 +1,1 @@
+void#testDirSet#(#)#{#Path#p#=#new#Path#(#project#)#;#DirSet#d#=#new#DirSet#(#)#;#d#.#setProject#(#project#)#;#d#.#setDir#(#project#.#resolveFile#(#"."#)#)#;#d#.#setIncludes#(#"build"#)#;#p#.#addDirset#(#d#)#;#String#[#]#l#=#p#.#list#(#)#;#assertEquals#(#1#,#l#.#length#)#;#assertEquals#(#project#.#resolveFile#(#"build"#)#.#getAbsolutePath#(#)#,#l#[#0#]#)#;#}

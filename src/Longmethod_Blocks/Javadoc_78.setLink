@@ -1,0 +1,1 @@
+void#setLink#(#String#src#)#{#createLink#(#)#.#setHref#(#src#)#;#}

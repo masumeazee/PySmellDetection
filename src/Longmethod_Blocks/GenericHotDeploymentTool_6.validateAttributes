@@ -1,0 +1,1 @@
+void#validateAttributes#(#)#throws#BuildException#{#super#.#validateAttributes#(#)#;##if#(#className#==#null#)#{#throw#new#BuildException#(#"The classname attribute must be set"#)#;#}#}

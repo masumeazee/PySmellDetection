@@ -1,0 +1,1 @@
+void#addConfigured#(#PropertyHelper#propertyHelper#)#{##if#(#this#.#propertyHelper#!=#null#)#{#throw#new#BuildException#(#"Only one PropertyHelper can be installed"#)#;#}##this#.#propertyHelper#=#propertyHelper#;#}

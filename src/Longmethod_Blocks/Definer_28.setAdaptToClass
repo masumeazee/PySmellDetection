@@ -1,0 +1,1 @@
+void#setAdaptToClass#(#Class#adaptToClass#)#{#this#.#adaptToClass#=#adaptToClass#;#}

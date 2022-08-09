@@ -1,0 +1,1 @@
+Iterator#getSelectors#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceSelectorContainer#)#getCheckedRef#(#)#)#.#getSelectors#(#)#;#}##dieOnCircularReference#(#)#;##return#Collections#.#unmodifiableList#(#v#)#.#iterator#(#)#;#}

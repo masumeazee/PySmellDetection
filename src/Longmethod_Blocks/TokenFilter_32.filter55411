@@ -1,0 +1,1 @@
+String#filter#(#String#string#)#{#initialize#(#)#;##if#(#!#regexp#.#matches#(#string#,#options#)#)#{##return#null#;#}##if#(#substitution#==#null#)#{##return#string#;#}##return#regexp#.#substitute#(#string#,#substitution#.#getExpression#(#getProject#(#)#)#,#options#)#;#}

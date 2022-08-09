@@ -1,0 +1,1 @@
+void#clearCaches#(#)#{#includeNonPatterns#.#clear#(#)#;#excludeNonPatterns#.#clear#(#)#;#includePatterns#=#null#;#excludePatterns#=#null#;#areNonPatternSetsReady#=#false#;#}

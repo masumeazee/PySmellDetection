@@ -1,0 +1,1 @@
+void#checkProxyClass#(#Class#proxyClass#)#{#checkTaskClass#(#proxyClass#,#getProject#(#)#)#;#}

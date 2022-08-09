@@ -1,0 +1,1 @@
+String#getValue#(#Hashtable#properties#,#String#name#,#String#defaultValue#)#throws#Exception#{#String#propertyName#=#"MailLogger."#+#name#;#String#value#=#(#String#)#properties#.#get#(#propertyName#)#;##if#(#value#==#null#)#{#value#=#defaultValue#;#}##if#(#value#==#null#)#{#throw#new#Exception#(#"Missing required parameter: "#+#propertyName#)#;#}##return#value#;#}

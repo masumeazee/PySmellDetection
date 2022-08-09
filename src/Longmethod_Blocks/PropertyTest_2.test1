@@ -1,0 +1,1 @@
+void#test1#(#)#{##// should get no output at all#expectOutputAndError#(#"test1"#,#""#,#""#)#;#}

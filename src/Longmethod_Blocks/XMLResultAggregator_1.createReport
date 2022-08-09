@@ -1,0 +1,1 @@
+AggregateTransformer#createReport#(#)#{#AggregateTransformer#transformer#=#new#AggregateTransformer#(#this#)#;#transformers#.#addElement#(#transformer#)#;##return#transformer#;#}

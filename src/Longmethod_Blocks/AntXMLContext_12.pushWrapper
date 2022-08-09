@@ -1,0 +1,1 @@
+void#pushWrapper#(#RuntimeConfigurable#wrapper#)#{#wStack#.#addElement#(#wrapper#)#;#}

@@ -1,0 +1,1 @@
+void#setDynamic#(#boolean#dynamic#)#{#assertNotReference#(#)#;#this#.#dynamic#=#dynamic#;#}

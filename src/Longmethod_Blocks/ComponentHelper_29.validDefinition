@@ -1,0 +1,1 @@
+boolean#validDefinition#(#AntTypeDefinition#def#)#{##return#!#(#def#.#getTypeClass#(#project#)#==#null#||#def#.#getExposedClass#(#project#)#==#null#)#;#}

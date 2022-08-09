@@ -1,0 +1,1 @@
+void#printProperties#(#Hashtable#xmlproperties#)#{#Enumeration#keyEnum#=#xmlproperties#.#keys#(#)#;##while#(#keyEnum#.#hasMoreElements#(#)#)#{#String#currentKey#=#keyEnum#.#nextElement#(#)#.#toString#(#)#;#System#.#out#.#println#(#currentKey#+#" = "#+#xmlproperties#.#get#(#currentKey#)#)#;#}#}

@@ -1,0 +1,1 @@
+void#setSrcResource#(#Resource#src#)#{##if#(#tSrcResource#!=#null#)#{#throw#new#BuildException#(#"only one resource per transaction"#)#;#}##tSrcResource#=#src#;#}

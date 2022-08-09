@@ -1,0 +1,1 @@
+Parameter#createParam#(#String#name#,#String#value#)#{#Parameter#p#=#new#Parameter#(#)#;#p#.#setName#(#name#)#;#p#.#setValue#(#value#)#;##return#p#;#}

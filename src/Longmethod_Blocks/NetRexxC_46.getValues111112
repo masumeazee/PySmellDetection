@@ -1,0 +1,1 @@
+String#[#]#getValues#(#)#{##return#new#String#[#]#{#"trace"#,#"trace1"#,#"trace2"#,#"notrace"#}#;#}

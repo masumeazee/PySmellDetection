@@ -1,0 +1,1 @@
+Task#[#]#getTasks#(#)#{#List#tasks#=#new#ArrayList#(#children#.#size#(#)#)#;#Iterator#it#=#children#.#iterator#(#)#;##while#(#it#.#hasNext#(#)#)#{#Object#o#=#it#.#next#(#)#;##if#(#o#instanceof#Task#)#{#tasks#.#add#(#o#)#;#}#}##return#(#Task#[#]#)#tasks#.#toArray#(#new#Task#[#tasks#.#size#(#)#]#)#;#}

@@ -1,0 +1,1 @@
+AddAsisRemove#getEof#(#)#{##// Return copy so that the call must call setEof() to change the state##// of fixCRLF##return#ctrlz#.#newInstance#(#)#;#}

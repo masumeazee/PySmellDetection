@@ -1,0 +1,1 @@
+void#setProcessOutputStream#(#InputStream#is#)#throws#IOException#{#br#=#new#BufferedReader#(#new#InputStreamReader#(#is#)#)#;#}

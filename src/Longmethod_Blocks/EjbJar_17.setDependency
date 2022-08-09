@@ -1,0 +1,1 @@
+void#setDependency#(#String#analyzer#)#{#config#.#analyzer#=#analyzer#;#}

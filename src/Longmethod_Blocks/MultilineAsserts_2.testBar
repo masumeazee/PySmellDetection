@@ -1,0 +1,1 @@
+void#testBar#(#)#{#assertTrue#(#"testBar \ndidn't work"#,#true#)#;#}

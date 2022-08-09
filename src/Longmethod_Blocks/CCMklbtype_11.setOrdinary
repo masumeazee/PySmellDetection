@@ -1,0 +1,1 @@
+void#setOrdinary#(#boolean#ordinary#)#{#mOrdinary#=#ordinary#;#}

@@ -1,0 +1,1 @@
+String#[#]#getValues#(#)#{##// Protected first so if any GUI tool offers a default##// based on enum #0, it will be right.##return#new#String#[#]#{#"protected"#,#"public"#,#"package"#,#"private"#}#;#}

@@ -1,0 +1,1 @@
+void#testReplace#(#)#{#final#String#data#=#"abcabcabca"#;#String#res#=#StringUtils#.#replace#(#data#,#"a"#,#""#)#;#assertEquals#(#"bcbcbc"#,#res#)#;#}

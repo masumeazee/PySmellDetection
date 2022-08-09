@@ -1,0 +1,1 @@
+void#send#(#String#msg#,#int#[#]#ok#)#throws#IOException#{#out#.#rawPrint#(#msg#+#"\r\n"#)#;##// raw supports <CRLF>.<CRLF>#String#response#=#in#.#getResponse#(#)#;##if#(#!#isResponseOK#(#response#,#ok#)#)#{#throw#new#IOException#(#"Unexpected reply to command: "#+#msg#+#": "#+#response#)#;#}#}

@@ -1,0 +1,1 @@
+void#addConfiguredAttribute#(#Attribute#attribute#)#throws#ManifestException#{#String#check#=#addAttributeAndCheck#(#attribute#)#;##if#(#check#!=#null#)#{#throw#new#BuildException#(#"Specify the section name using "#+#"the \"name\" attribute of the <section> element rather "#+#"than using a \"Name\" manifest attribute"#)#;#}#}

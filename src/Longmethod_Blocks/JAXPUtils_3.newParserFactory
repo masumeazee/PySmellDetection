@@ -1,0 +1,1 @@
+SAXParserFactory#newParserFactory#(#)#throws#BuildException#{#try#{##return#SAXParserFactory#.#newInstance#(#)#;#}##catch#(#FactoryConfigurationError#e#)#{#throw#new#BuildException#(#"XML parser factory has not been "#+#"configured correctly: "#+#e#.#getMessage#(#)#,#e#)#;#}#}

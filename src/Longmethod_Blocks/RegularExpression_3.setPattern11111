@@ -1,0 +1,1 @@
+void#setPattern#(#String#pattern#)#{##if#(#regexp#==#null#)#{#myPattern#=#pattern#;#setPatternPending#=#true#;#}#else#{#regexp#.#setPattern#(#pattern#)#;#}#}

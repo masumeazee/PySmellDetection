@@ -1,0 +1,1 @@
+ClassLoader#getClassLoader#(#)#{##if#(#classLoader#==#null#)#{#classLoader#=#Antlib#.#class#.#getClassLoader#(#)#;#}##return#classLoader#;#}

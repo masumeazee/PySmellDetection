@@ -1,0 +1,1 @@
+Object#get#(#)#{#return#weakref#.#get#(#)#;#}##WeakishReference#createReference#(#Object#object#)#{#return#new#WeakishReference#(#object#)#;#}##

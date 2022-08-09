@@ -1,0 +1,1 @@
+void#logFlush#(#)#{##if#(#queuedLine#!=#null#)#{#super#.#processLine#(#queuedLine#,#Project#.#MSG_VERBOSE#)#;#queuedLine#=#null#;#}#}

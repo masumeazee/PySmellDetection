@@ -1,0 +1,1 @@
+void#setMapped#(#boolean#mapped#)#{#this#.#mapped#=#mapped#;#}

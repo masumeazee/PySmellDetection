@@ -1,0 +1,1 @@
+void#setClasspath#(#Path#classpath#)#{#checkAttributesAllowed#(#)#;##if#(#this#.#classpath#==#null#)#{#this#.#classpath#=#classpath#;#}#else#{#this#.#classpath#.#append#(#classpath#)#;#}##setChecked#(#false#)#;#}

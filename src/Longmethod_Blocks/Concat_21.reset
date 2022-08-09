@@ -1,0 +1,1 @@
+void#reset#(#)#{#append#=#false#;#forceOverwrite#=#true#;#dest#=#null#;#encoding#=#null#;#outputEncoding#=#null#;#fixLastLine#=#false#;#filterChains#=#null#;#footer#=#null#;#header#=#null#;#binary#=#false#;#outputWriter#=#null#;#textBuffer#=#null#;#eolString#=#StringUtils#.#LINE_SEP#;#rc#=#null#;#ignoreEmpty#=#true#;#}

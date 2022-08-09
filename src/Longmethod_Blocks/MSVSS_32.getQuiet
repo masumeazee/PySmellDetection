@@ -1,0 +1,1 @@
+String#getQuiet#(#)#{##return#quiet#?#FLAG_QUIET#:#""#;#}

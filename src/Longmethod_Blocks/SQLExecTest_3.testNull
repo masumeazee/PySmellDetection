@@ -1,0 +1,1 @@
+void#testNull#(#)#throws#Exception#{#doMultipleCalls#(#1000#,#NULL#,#true#,#true#)#;#}

@@ -1,0 +1,1 @@
+void#setName#(#String#name#)#{#setUserProperty#(#MagicNames#.#PROJECT_NAME#,#name#)#;#this#.#name#=#name#;#}

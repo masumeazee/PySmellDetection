@@ -1,0 +1,1 @@
+int#compare#(#Object#o1#,#Object#o2#)#{#String#key1#=#(#String#)#(#(#Map#.#Entry#)#o1#)#.#getKey#(#)#;#String#key2#=#(#String#)#(#(#Map#.#Entry#)#o2#)#.#getKey#(#)#;##return#key1#.#compareTo#(#key2#)#;#}

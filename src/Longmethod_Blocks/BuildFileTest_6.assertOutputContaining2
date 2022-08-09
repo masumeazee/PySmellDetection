@@ -1,0 +1,1 @@
+void#assertOutputContaining#(#String#substring#)#{#assertOutputContaining#(#null#,#substring#)#;#}

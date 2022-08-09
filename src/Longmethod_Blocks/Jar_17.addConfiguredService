@@ -1,0 +1,1 @@
+void#addConfiguredService#(#Service#service#)#{##// Check if the service is configured correctly#service#.#check#(#)#;#serviceList#.#add#(#service#)#;#}

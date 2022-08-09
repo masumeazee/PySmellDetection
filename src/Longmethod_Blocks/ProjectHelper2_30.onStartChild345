@@ -1,0 +1,1 @@
+AntHandler#onStartChild#(#String#uri#,#String#name#,#String#qname#,#Attributes#attrs#,#AntXMLContext#context#)#throws#SAXParseException#{##return#(#name#.#equals#(#"target"#)#||#name#.#equals#(#"extension-point"#)#)#&&#(#uri#.#equals#(#""#)#||#uri#.#equals#(#ANT_CORE_URI#)#)#?#ProjectHelper2#.#targetHandler#:#ProjectHelper2#.#elementHandler#;#}

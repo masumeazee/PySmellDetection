@@ -1,0 +1,1 @@
+void#setExpression#(#String#expression#)#{#this#.#expression#=#expression#;#}##String#getExpression#(#Project#p#)#{#if#(#isReference#(#)#)#{#return#getRef#(#p#)#.#getExpression#(#p#)#;#}#return#expression#;#}##Substitution#getRef#(#Project#p#)#{#return#(#Substitution#)#getCheckedRef#(#p#)#;#}##

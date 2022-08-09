@@ -1,0 +1,1 @@
+boolean#isFollowSymlinks#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#getProject#(#)#)#.#isCaseSensitive#(#)#;#}##dieOnCircularReference#(#)#;##return#followSymlinks#;#}

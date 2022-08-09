@@ -1,0 +1,1 @@
+void#testLineSeparatorCharacter#(#)#throws#IOException#{#reg#.#setPattern#(#"end of text$"#)#;#assertTrue#(#"line-separator character"#,#!#reg#.#matches#(#"end of text\u2028"#)#)#;#}

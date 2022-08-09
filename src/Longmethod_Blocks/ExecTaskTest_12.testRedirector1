@@ -1,0 +1,1 @@
+void#testRedirector1#(#)#{#executeTarget#(#"init"#)#;##if#(#getProject#(#)#.#getProperty#(#"test.can.run"#)#==#null#)#{##return#;#}##expectBuildException#(#"redirector1"#,#"cannot have > 1 nested <redirector>s"#)#;#}

@@ -1,0 +1,1 @@
+void#testFailOnError#(#)#throws#BuildException#{#expectPropertyUnset#(#"testFailOnError"#,#"testFailOnError"#)#;#}

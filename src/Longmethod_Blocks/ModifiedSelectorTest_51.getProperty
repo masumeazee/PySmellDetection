@@ -1,0 +1,1 @@
+String#getProperty#(#String#property#)#{##return#project#.#getProperty#(#property#)#;#}

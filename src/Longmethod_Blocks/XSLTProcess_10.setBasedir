@@ -1,0 +1,1 @@
+void#setBasedir#(#File#dir#)#{#baseDir#=#dir#;#}

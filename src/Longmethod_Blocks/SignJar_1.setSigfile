@@ -1,0 +1,1 @@
+void#setSigfile#(#final#String#sigfile#)#{#this#.#sigfile#=#sigfile#;#}

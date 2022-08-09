@@ -1,0 +1,1 @@
+void#setImplementation#(#String#implementation#)#{#setImplementation#(#new#Classname#(#implementation#)#)#;#}

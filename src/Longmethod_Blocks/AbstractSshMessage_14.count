@@ -1,0 +1,1 @@
+boolean#count#(#long#len#)#{#totalLength#+=#len#;#percentTransmitted#=#trackProgress#(#initFileSize#,#totalLength#,#percentTransmitted#)#;##return#true#;#}

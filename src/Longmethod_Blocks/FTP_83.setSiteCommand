@@ -1,0 +1,1 @@
+void#setSiteCommand#(#String#siteCommand#)#{#this#.#siteCommand#=#siteCommand#;#}

@@ -1,0 +1,1 @@
+boolean#translateFileSep#(#StringBuffer#buffer#,#int#pos#)#{##if#(#buffer#.#charAt#(#pos#)#==#'/'#||#buffer#.#charAt#(#pos#)#==#'\\'#)#{#buffer#.#setCharAt#(#pos#,#File#.#separatorChar#)#;##return#true#;#}##return#false#;#}

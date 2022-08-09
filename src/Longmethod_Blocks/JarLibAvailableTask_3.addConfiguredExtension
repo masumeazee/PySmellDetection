@@ -1,0 +1,1 @@
+void#addConfiguredExtension#(#final#ExtensionAdapter#extension#)#{##if#(#null#!=#requiredExtension#)#{#final#String#message#=#"Can not specify extension to "#+#"search for multiple times."#;#throw#new#BuildException#(#message#)#;#}##requiredExtension#=#extension#;#}

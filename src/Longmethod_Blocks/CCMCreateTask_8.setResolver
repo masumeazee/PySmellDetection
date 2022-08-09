@@ -1,0 +1,1 @@
+void#setResolver#(#String#v#)#{#this#.#resolver#=#v#;#}

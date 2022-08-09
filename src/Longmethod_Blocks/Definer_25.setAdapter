@@ -1,0 +1,1 @@
+void#setAdapter#(#String#adapter#)#{#this#.#adapter#=#adapter#;#}

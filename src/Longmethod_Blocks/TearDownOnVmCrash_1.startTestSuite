@@ -1,0 +1,1 @@
+void#startTestSuite#(#final#JUnitTest#suite#)#{#suiteName#=#suite#.#getName#(#)#;##if#(#suiteName#!=#null#&&#suiteName#.#endsWith#(#JUnitTask#.#NAME_OF_DUMMY_TEST#)#)#{##// no way to know which class caused the timeout#suiteName#=#null#;#}#}

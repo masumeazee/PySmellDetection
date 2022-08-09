@@ -1,0 +1,1 @@
+void#setName#(#String#counter#)#{#this#.#counter#=#counter#;#}

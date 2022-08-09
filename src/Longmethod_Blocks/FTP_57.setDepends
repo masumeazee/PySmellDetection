@@ -1,0 +1,1 @@
+void#setDepends#(#boolean#depends#)#{#this#.#newerOnly#=#depends#;#}

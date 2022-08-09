@@ -1,0 +1,1 @@
+Assertions#getFinalReference#(#)#{##if#(#getRefid#(#)#==#null#)#{##return#this#;#}#else#{#Object#o#=#getRefid#(#)#.#getReferencedObject#(#getProject#(#)#)#;##if#(#!#(#o#instanceof#Assertions#)#)#{#throw#new#BuildException#(#"reference is of wrong type"#)#;#}##return#(#Assertions#)#o#;#}#}

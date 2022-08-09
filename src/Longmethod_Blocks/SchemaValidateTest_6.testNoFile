@@ -1,0 +1,1 @@
+void#testNoFile#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoFile"#,#"no file at file attribute"#,#SchemaValidate#.#SchemaLocation#.#ERROR_NO_FILE#)#;#}

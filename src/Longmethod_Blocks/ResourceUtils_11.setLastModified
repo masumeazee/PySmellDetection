@@ -1,0 +1,1 @@
+void#setLastModified#(#Touchable#t#,#long#time#)#{#t#.#touch#(#(#time#<#0#)#?#System#.#currentTimeMillis#(#)#:#time#)#;#}

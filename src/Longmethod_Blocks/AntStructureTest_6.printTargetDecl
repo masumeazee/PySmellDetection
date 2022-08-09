@@ -1,0 +1,1 @@
+void#printTargetDecl#(#PrintWriter#out#)#{#Assert#.#assertTrue#(#headCalled#)#;#Assert#.#assertTrue#(#!#targetCalled#)#;#Assert#.#assertTrue#(#!#tailCalled#)#;#Assert#.#assertEquals#(#0#,#elementCalled#)#;#targetCalled#=#true#;#}

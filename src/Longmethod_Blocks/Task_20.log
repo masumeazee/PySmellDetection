@@ -1,0 +1,1 @@
+void#log#(#String#msg#,#Throwable#t#,#int#msgLevel#)#{##if#(#getProject#(#)#!=#null#)#{#getProject#(#)#.#log#(#this#,#msg#,#t#,#msgLevel#)#;#}#else#{#super#.#log#(#msg#,#msgLevel#)#;#}#}

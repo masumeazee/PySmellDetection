@@ -1,0 +1,1 @@
+void#setExecuteStreamHandler#(#ExecuteStreamHandler#handler#)#{#this#.#executeStreamHandler#=#handler#;#}

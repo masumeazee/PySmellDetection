@@ -1,0 +1,1 @@
+int#read#(#)#throws#IOException#{##if#(#!#getInitialized#(#)#)#{#initialize#(#)#;#setInitialized#(#true#)#;#}##int#ch#=#-#1#;##if#(#spacesRemaining#>#0#)#{#spacesRemaining#--#;#ch#=#' '#;#}#else#{#ch#=#in#.#read#(#)#;##if#(#ch#==#'\t'#)#{#spacesRemaining#=#tabLength#-#1#;#ch#=#' '#;#}#}##return#ch#;#}

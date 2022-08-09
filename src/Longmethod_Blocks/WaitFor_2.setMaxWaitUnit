@@ -1,0 +1,1 @@
+void#setMaxWaitUnit#(#Unit#unit#)#{#maxWaitMultiplier#=#unit#.#getMultiplier#(#)#;#}

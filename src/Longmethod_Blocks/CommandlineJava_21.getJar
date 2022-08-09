@@ -1,0 +1,1 @@
+String#getJar#(#)#{##if#(#executeJar#)#{##return#javaCommand#.#getExecutable#(#)#;#}##return#null#;#}

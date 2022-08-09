@@ -1,0 +1,1 @@
+void#testMultipleTargets#(#)#{#executeTarget#(#"multipleTargets"#)#;#assertLogContaining#(#"test1-one"#)#;#assertLogContaining#(#"test1-two"#)#;#assertLogContaining#(#"test2-one"#)#;#assertLogContaining#(#"test2-two"#)#;#}

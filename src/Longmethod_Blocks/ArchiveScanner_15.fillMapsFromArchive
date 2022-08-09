@@ -1,0 +1,1 @@
+void#fillMapsFromArchive#(#Resource#archive#,#String#encoding#,#Map#fileEntries#,#Map#matchFileEntries#,#Map#dirEntries#,#Map#matchDirEntries#)#;

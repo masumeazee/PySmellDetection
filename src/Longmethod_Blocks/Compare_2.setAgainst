@@ -1,0 +1,1 @@
+void#setAgainst#(#Quantifier#against#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#against#=#against#;#}

@@ -1,0 +1,1 @@
+void#setCounts#(#long#runs#,#long#failures#,#long#errors#)#{#this#.#runs#=#runs#;#this#.#failures#=#failures#;#this#.#errors#=#errors#;#}

@@ -1,0 +1,1 @@
+URL#newURL#(#String#u#)#{#try#{##return#new#URL#(#u#)#;#}##catch#(#MalformedURLException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

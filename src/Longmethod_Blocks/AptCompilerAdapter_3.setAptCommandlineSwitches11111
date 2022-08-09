@@ -1,0 +1,1 @@
+void#setAptCommandlineSwitches#(#Commandline#cmd#)#{#Apt#apt#=#getApt#(#)#;#setAptCommandlineSwitches#(#apt#,#cmd#)#;#}

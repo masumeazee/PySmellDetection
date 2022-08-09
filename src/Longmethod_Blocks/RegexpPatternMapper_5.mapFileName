@@ -1,0 +1,1 @@
+String#[#]#mapFileName#(#String#sourceFileName#)#{##if#(#handleDirSep#)#{##if#(#sourceFileName#.#indexOf#(#"\\"#)#!=#-#1#)#{#sourceFileName#=#sourceFileName#.#replace#(#'\\'#,#'/'#)#;#}#}##if#(#reg#==#null#||#to#==#null#||#!#reg#.#matches#(#sourceFileName#,#regexpOptions#)#)#{##return#null#;#}##return#new#String#[#]#{#replaceReferences#(#sourceFileName#)#}#;#}

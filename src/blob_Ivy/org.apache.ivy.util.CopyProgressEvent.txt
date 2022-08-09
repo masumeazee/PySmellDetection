@@ -1,0 +1,1 @@
+CopyProgressEvent#update#(#byte#[#]#buffer#,#int#read#,#long#total#)#{#this#.#buffer#=#buffer#;#this#.#readBytes#=#read#;#this#.#totalReadBytes#=#total#;#return#this#;#}##long#getTotalReadBytes#(#)#{#return#totalReadBytes#;#}##byte#[#]#getBuffer#(#)#{#return#buffer#;#}##int#getReadBytes#(#)#{#return#readBytes#;#}##

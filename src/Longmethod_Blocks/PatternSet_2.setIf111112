@@ -1,0 +1,1 @@
+void#setIf#(#Object#cond#)#{#ifCond#=#cond#;#}

@@ -1,0 +1,1 @@
+void#close#(#)#throws#IOException#{#// do not close the stream#}##PrintStream#wrapSystemOut#(#)#{#return#wrap#(#System#.#out#)#;#}##PrintStream#wrapSystemErr#(#)#{#return#wrap#(#System#.#err#)#;#}##PrintStream#wrap#(#PrintStream#ps#)#{#return#new#PrintStream#(#new#KeepAliveOutputStream#(#ps#)#)#;#}##

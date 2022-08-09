@@ -1,0 +1,1 @@
+void#testEmpty#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testEmpty"#,#ParserSupports#.#ERROR_NO_ATTRIBUTES#,#ParserSupports#.#ERROR_NO_ATTRIBUTES#)#;#}

@@ -1,0 +1,1 @@
+void#testRespondsToError#(#)#{#BaseSelector#s#=#getInstance#(#)#;##if#(#s#==#null#)#{##return#;#}##s#.#setError#(#"test error"#)#;##try#{#s#.#isSelected#(#beddir#,#filenames#[#0#]#,#files#[#0#]#)#;#fail#(#"Cannot cause BuildException when setError() is called"#)#;#}##catch#(#BuildException#be#)#{#assertEquals#(#"test error"#,#be#.#getMessage#(#)#)#;#}#}

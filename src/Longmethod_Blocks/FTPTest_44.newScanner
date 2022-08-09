@@ -1,0 +1,1 @@
+FTP#.#FTPDirectoryScanner#newScanner#(#FTPClient#client#)#{##return#new#FTP#.#FTPDirectoryScanner#(#client#)#;#}

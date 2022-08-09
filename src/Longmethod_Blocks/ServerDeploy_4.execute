@@ -1,0 +1,1 @@
+void#execute#(#)#throws#BuildException#{#for#(#Enumeration#e#=#vendorTools#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#HotDeploymentTool#tool#=#(#HotDeploymentTool#)#e#.#nextElement#(#)#;#tool#.#validateAttributes#(#)#;#tool#.#deploy#(#)#;#}#}

@@ -1,0 +1,1 @@
+boolean#isJavaVersion#(#String#version#)#{##return#javaVersion#.#equals#(#version#)#;#}

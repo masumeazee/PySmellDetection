@@ -1,0 +1,1 @@
+void#setViewPath#(#String#viewPath#)#{#mviewPath#=#viewPath#;#}

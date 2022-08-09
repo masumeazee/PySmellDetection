@@ -1,0 +1,1 @@
+void#addText#(#String#data#)#{##if#(#data#.#length#(#)#==#0#)#{##return#;#}##characters#=#(#characters#==#null#)#?#new#StringBuffer#(#data#)#:#characters#.#append#(#data#)#;#}

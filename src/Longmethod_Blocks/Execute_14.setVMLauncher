@@ -1,0 +1,1 @@
+void#setVMLauncher#(#boolean#useVMLauncher#)#{#this#.#useVMLauncher#=#useVMLauncher#;#}

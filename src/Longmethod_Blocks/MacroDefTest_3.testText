@@ -1,0 +1,1 @@
+void#testText#(#)#{#expectLog#(#"text"#,#"Inner Text"#)#;#}

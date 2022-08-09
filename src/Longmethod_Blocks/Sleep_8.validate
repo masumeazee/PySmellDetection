@@ -1,0 +1,1 @@
+void#validate#(#)#throws#BuildException#{##if#(#getSleepTime#(#)#<#0#)#{#throw#new#BuildException#(#"Negative sleep periods are not "#+#"supported"#)#;#}#}

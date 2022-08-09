@@ -1,0 +1,1 @@
+void#testCaseSensitive#(#)#{#Equals#eq#=#new#Equals#(#)#;#eq#.#setArg1#(#"a"#)#;#eq#.#setArg2#(#"A"#)#;#assertTrue#(#!#eq#.#eval#(#)#)#;#eq#.#setCasesensitive#(#false#)#;#assertTrue#(#eq#.#eval#(#)#)#;#}

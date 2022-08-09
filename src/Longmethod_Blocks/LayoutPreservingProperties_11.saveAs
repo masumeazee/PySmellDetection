@@ -1,0 +1,1 @@
+void#saveAs#(#File#dest#)#throws#IOException#{#FileOutputStream#fos#=#new#FileOutputStream#(#dest#)#;#store#(#fos#,#null#)#;#fos#.#close#(#)#;#}

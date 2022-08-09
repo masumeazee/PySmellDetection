@@ -1,0 +1,1 @@
+void#setImplementation#(#String#impl#)#{#this#.#impl#=#impl#;#}

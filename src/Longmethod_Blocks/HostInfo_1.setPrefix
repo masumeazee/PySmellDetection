@@ -1,0 +1,1 @@
+void#setPrefix#(#String#aPrefix#)#{#prefix#=#aPrefix#;##if#(#!#prefix#.#endsWith#(#"."#)#)#{#prefix#+=#"."#;#}#}

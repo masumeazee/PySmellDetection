@@ -1,0 +1,1 @@
+void#testLogBlankEcho#(#)#{#Project#p#=#new#Project#(#)#;#p#.#init#(#)#;#EchoTestLogger#logger#=#new#EchoTestLogger#(#)#;#p#.#addBuildListener#(#logger#)#;#Echo#echo#=#new#Echo#(#)#;#echo#.#setProject#(#p#)#;#echo#.#setTaskName#(#"testLogBlankEcho"#)#;#echo#.#execute#(#)#;#assertEquals#(#"[testLogBlankEcho] "#,#logger#.#lastLoggedMessage#)#;#}

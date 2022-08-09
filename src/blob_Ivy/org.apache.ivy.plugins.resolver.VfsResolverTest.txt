@@ -1,0 +1,1 @@
+void#setUp#(#)#{#resolver#=#new#VfsResolver#(#)#;#}##void#tearDown#(#)#{#resolver#=#null#;#}##void#testInit#(#)#{#assertEquals#(#resolver#.#getClass#(#)#,#VfsResolver#.#class#)#;#}##void#testTypeName#(#)#{#assertEquals#(#resolver#.#getTypeName#(#)#,#"vfs"#)#;#}##

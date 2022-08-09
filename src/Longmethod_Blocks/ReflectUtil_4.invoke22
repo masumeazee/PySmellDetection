@@ -1,0 +1,1 @@
+Object#invoke#(#Object#obj#,#String#methodName#,#Class#argType#,#Object#arg#)#{#try#{#Method#method#;#method#=#obj#.#getClass#(#)#.#getMethod#(#methodName#,#new#Class#[#]#{#argType#}#)#;##return#method#.#invoke#(#obj#,#new#Object#[#]#{#arg#}#)#;#}##catch#(#Exception#t#)#{#throwBuildException#(#t#)#;##return#null#;##// NotReached#}#}

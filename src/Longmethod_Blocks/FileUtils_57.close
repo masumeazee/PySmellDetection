@@ -1,0 +1,1 @@
+void#close#(#URLConnection#conn#)#{##if#(#conn#!=#null#)#{#try#{##if#(#conn#instanceof#JarURLConnection#)#{#JarURLConnection#juc#=#(#JarURLConnection#)#conn#;#JarFile#jf#=#juc#.#getJarFile#(#)#;#jf#.#close#(#)#;#jf#=#null#;#}#else##if#(#conn#instanceof#HttpURLConnection#)#{#(#(#HttpURLConnection#)#conn#)#.#disconnect#(#)#;#}#}##catch#(#IOException#exc#)#{##//ignore#}#}#}

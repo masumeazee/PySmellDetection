@@ -1,0 +1,1 @@
+File#getResourceSource#(#ClassLoader#c#,#String#resource#)#{##if#(#c#==#null#)#{#c#=#LoaderUtils#.#class#.#getClassLoader#(#)#;#}##return#normalizeSource#(#Locator#.#getResourceSource#(#c#,#resource#)#)#;#}

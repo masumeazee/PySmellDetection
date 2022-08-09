@@ -1,0 +1,1 @@
+boolean#isSigned#(#File#file#)#{#try#{##return#IsSigned#.#isSigned#(#file#,#sigfile#==#null#?#alias#:#sigfile#)#;#}##catch#(#IOException#e#)#{##//just log this#log#(#e#.#toString#(#)#,#Project#.#MSG_VERBOSE#)#;##return#false#;#}#}

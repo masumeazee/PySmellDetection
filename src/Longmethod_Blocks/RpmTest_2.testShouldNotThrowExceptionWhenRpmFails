@@ -1,0 +1,1 @@
+void#testShouldNotThrowExceptionWhenRpmFails#(#)#throws#Exception#{#Rpm#rpm#=#new#MyRpm#(#)#;#rpm#.#execute#(#)#;#}

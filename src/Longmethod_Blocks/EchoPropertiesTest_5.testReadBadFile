@@ -1,0 +1,1 @@
+void#testReadBadFile#(#)#{#expectBuildExceptionContaining#(#"testReadBadFile"#,#"srcfile is a directory"#,#"srcfile is a directory!"#)#;#}

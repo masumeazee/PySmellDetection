@@ -1,0 +1,1 @@
+boolean#isAtLeastJavaVersion#(#String#version#)#{##return#javaVersion#.#compareTo#(#version#)#>=#0#;#}

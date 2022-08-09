@@ -1,0 +1,1 @@
+void#testBadPropertyExists#(#)#{#expectBuildExceptionContaining#(#"test-bad-property-exists"#,#"property-exits"#,#"Property 'jar.classpath' already set!"#)#;#assertPropertyEquals#(#"jar.classpath"#,#"exists"#)#;#}

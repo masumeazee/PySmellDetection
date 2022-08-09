@@ -1,0 +1,1 @@
+void#addDataTypeDefinition#(#String#typeName#,#Class#typeClass#)#{#AntTypeDefinition#def#=#new#AntTypeDefinition#(#)#;#def#.#setName#(#typeName#)#;#def#.#setClass#(#typeClass#)#;#updateDataTypeDefinition#(#def#)#;#project#.#log#(#" +User datatype: "#+#typeName#+#"     "#+#typeClass#.#getName#(#)#,#Project#.#MSG_DEBUG#)#;#}

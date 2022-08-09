@@ -1,0 +1,1 @@
+void#setLongfile#(#String#mode#)#{#log#(#"DEPRECATED - The setLongfile(String) method has been deprecated."#+#" Use setLongfile(Tar.TarLongFileMode) instead."#)#;#this#.#longFileMode#=#new#TarLongFileMode#(#)#;#longFileMode#.#setValue#(#mode#)#;#}

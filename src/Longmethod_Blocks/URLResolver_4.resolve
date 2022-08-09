@@ -1,0 +1,1 @@
+File#resolve#(#final#Extension#extension#,#final#Project#project#)#throws#BuildException#{#validate#(#)#;#final#File#file#=#getDest#(#)#;#final#Get#get#=#new#Get#(#)#;#get#.#setProject#(#project#)#;#get#.#setDest#(#file#)#;#get#.#setSrc#(#url#)#;#get#.#execute#(#)#;##return#file#;#}

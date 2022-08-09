@@ -1,0 +1,1 @@
+void#setOutfile#(#String#outfile#)#{##if#(#outfile#==#null#)#{##return#;#}##this#.#outfile#=#outfile#;#}

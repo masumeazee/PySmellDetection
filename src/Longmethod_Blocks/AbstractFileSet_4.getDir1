@@ -1,0 +1,1 @@
+File#getDir#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#getDir#(#p#)#;#}##dieOnCircularReference#(#)#;##return#dir#;#}

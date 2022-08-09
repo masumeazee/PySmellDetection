@@ -1,0 +1,1 @@
+void#checkOptions#(#Commandline#cmd#)#{##// ClearCase items##if#(#getKeepCopy#(#)#)#{##// -keep#cmd#.#createArgument#(#)#.#setValue#(#FLAG_KEEPCOPY#)#;#}#else#{##// -rm#cmd#.#createArgument#(#)#.#setValue#(#FLAG_RM#)#;#}##// viewpath#cmd#.#createArgument#(#)#.#setValue#(#getViewPath#(#)#)#;#}

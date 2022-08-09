@@ -1,0 +1,1 @@
+void#testDefaultGranted#(#)#{#perms#.#setSecurityManager#(#)#;##try#{#String#s#=#System#.#getProperty#(#"line.separator"#)#;#}##finally#{#perms#.#restoreSecurityManager#(#)#;#}#}

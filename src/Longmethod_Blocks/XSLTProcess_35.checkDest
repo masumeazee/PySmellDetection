@@ -1,0 +1,1 @@
+void#checkDest#(#)#{##if#(#destDir#==#null#)#{#handleError#(#"destdir attributes must be set!"#)#;#}#}

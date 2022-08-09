@@ -1,0 +1,1 @@
+void#addConfigured#(#ResourceCollection#a#)#{#checkChildrenAllowed#(#)#;##if#(#a#.#size#(#)#!=#1#)#{#throw#new#BuildException#(#"only single argument resource collections"#+#" are supported as archives"#)#;#}##setSrcResource#(#(#Resource#)#a#.#iterator#(#)#.#next#(#)#)#;#}

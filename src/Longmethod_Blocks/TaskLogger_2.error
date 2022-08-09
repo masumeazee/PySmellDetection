@@ -1,0 +1,1 @@
+void#error#(#final#String#message#)#{#task#.#log#(#message#,#Project#.#MSG_ERR#)#;#}

@@ -1,0 +1,1 @@
+void#extractExtensions#(#final#Project#project#,#final#List#libraries#,#final#List#fileset#)#throws#BuildException#{##if#(#!#fileset#.#isEmpty#(#)#)#{#final#Extension#[#]#extensions#=#getExtensions#(#project#,#fileset#)#;##for#(#int#i#=#0#;##i#<#extensions#.#length#;#i#++#)#{#libraries#.#add#(#extensions#[#i#]#)#;#}#}#}

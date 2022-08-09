@@ -1,0 +1,1 @@
+void#setKeepGoingMode#(#boolean#keepGoingMode#)#{#this#.#keepGoingMode#=#keepGoingMode#;#}

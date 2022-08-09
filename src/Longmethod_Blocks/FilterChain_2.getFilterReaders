@@ -1,0 +1,1 @@
+Vector#getFilterReaders#(#)#{##if#(#isReference#(#)#)#{##return#(#(#FilterChain#)#getCheckedRef#(#)#)#.#getFilterReaders#(#)#;#}##dieOnCircularReference#(#)#;##return#filterReaders#;#}

@@ -1,0 +1,1 @@
+void#addIgnoreBlank#(#TokenFilter#.#IgnoreBlank#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

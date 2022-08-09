@@ -1,0 +1,1 @@
+boolean#asBoolean#(#)#{#String#v#=#getValue#(#)#;##return#"true"#.#equals#(#v#)#||#"on"#.#equals#(#v#)#||#"yes"#.#equals#(#v#)#||#"withOutAndErr"#.#equals#(#v#)#;#}

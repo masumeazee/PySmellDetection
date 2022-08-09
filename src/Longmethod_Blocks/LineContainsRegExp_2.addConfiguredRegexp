@@ -1,0 +1,1 @@
+void#addConfiguredRegexp#(#final#RegularExpression#regExp#)#{#this#.#regexps#.#addElement#(#regExp#)#;#}

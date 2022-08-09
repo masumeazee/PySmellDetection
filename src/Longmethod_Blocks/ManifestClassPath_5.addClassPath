@@ -1,0 +1,1 @@
+void#addClassPath#(#Path#path#)#{#this#.#path#=#path#;#}

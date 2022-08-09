@@ -1,0 +1,1 @@
+void#setProject#(#Project#project#)#{#this#.#project#=#project#;#antTypeTable#=#new#AntTypeTable#(#project#)#;#}

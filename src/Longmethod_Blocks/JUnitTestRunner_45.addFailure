@@ -1,0 +1,1 @@
+void#addFailure#(#Test#test#,#Throwable#t#)#{##// pre-3.4##if#(#t#instanceof#AssertionFailedError#)#{#testListener#.#addFailure#(#test#,#(#AssertionFailedError#)#t#)#;#}#else#{#testListener#.#addError#(#test#,#t#)#;#}#}

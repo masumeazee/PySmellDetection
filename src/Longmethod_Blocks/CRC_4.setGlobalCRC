@@ -1,0 +1,1 @@
+void#setGlobalCRC#(#int#newCrc#)#{#globalCrc#=#newCrc#;#}

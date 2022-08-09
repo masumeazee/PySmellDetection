@@ -1,0 +1,1 @@
+void#waitFor#(#)#throws#InterruptedException#{#while#(#!#isFinished#(#)#)#{#wait#(#)#;#}#}

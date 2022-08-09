@@ -1,0 +1,1 @@
+void#buildFinished#(#BuildEvent#event#)#{##if#(#event#.#getException#(#)#==#null#&&#fileSuccess#!=#null#)#{##// build successfull!#play#(#event#.#getProject#(#)#,#fileSuccess#,#loopsSuccess#,#durationSuccess#)#;#}#else##if#(#event#.#getException#(#)#!=#null#&&#fileFail#!=#null#)#{#play#(#event#.#getProject#(#)#,#fileFail#,#loopsFail#,#durationFail#)#;#}#}

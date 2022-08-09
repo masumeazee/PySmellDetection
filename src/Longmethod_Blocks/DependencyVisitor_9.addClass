@@ -1,0 +1,1 @@
+void#addClass#(#String#classname#)#{#dependencies#.#put#(#classname#,#classname#)#;#}

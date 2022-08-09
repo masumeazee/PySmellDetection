@@ -1,0 +1,1 @@
+void#addConfiguredSysproperty#(#Environment#.#Variable#sysp#)#{##// get a build exception if there is a missing key or value##// see bugzilla report 21684#String#testString#=#sysp#.#getContent#(#)#;#getProject#(#)#.#log#(#"sysproperty added : "#+#testString#,#Project#.#MSG_DEBUG#)#;#getCommandline#(#)#.#addSysproperty#(#sysp#)#;#}

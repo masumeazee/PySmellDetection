@@ -1,0 +1,1 @@
+void#setIncludeUrl#(#boolean#includeURL#)#{#this#.#includeURL#=#includeURL#;#}##void#setIncludeImpl#(#boolean#includeImpl#)#{#this#.#includeImpl#=#includeImpl#;#}##void#setUrlBase#(#String#urlBase#)#{#this#.#urlBase#=#urlBase#;#}##boolean#isIncludeURL#(#)#{#return#includeURL#;#}##boolean#isIncludeImpl#(#)#{#return#includeImpl#;#}##String#getUrlBase#(#)#{#return#urlBase#;#}##

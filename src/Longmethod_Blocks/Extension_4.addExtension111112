@@ -1,0 +1,1 @@
+void#addExtension#(#final#Extension#extension#,#final#Attributes#attributes#)#{#addExtension#(#extension#,#""#,#attributes#)#;#}

@@ -1,0 +1,1 @@
+int#frequency#(#Collection#c#,#Object#o#)#{##// same as Collections.frequency introduced with JDK 1.5#int#freq#=#0#;##if#(#c#!=#null#)#{#for#(#Iterator#i#=#c#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Object#test#=#i#.#next#(#)#;##if#(#o#==#null#?#test#==#null#:#o#.#equals#(#test#)#)#{#freq#++#;#}#}#}##return#freq#;#}

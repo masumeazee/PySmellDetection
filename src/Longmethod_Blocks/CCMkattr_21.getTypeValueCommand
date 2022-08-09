@@ -1,0 +1,1 @@
+void#getTypeValueCommand#(#Commandline#cmd#)#{#String#typevl#=#getTypeValue#(#)#;##if#(#typevl#!=#null#)#{##if#(#Os#.#isFamily#(#"windows"#)#)#{#typevl#=#"\\\""#+#typevl#+#"\\\""#;##// Windows quoting of the value#}#else#{#typevl#=#"\""#+#typevl#+#"\""#;#}##cmd#.#createArgument#(#)#.#setValue#(#typevl#)#;#}#}

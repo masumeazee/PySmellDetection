@@ -1,0 +1,1 @@
+void#read#(#DataInputStream#cpStream#)#throws#IOException#{#setValue#(#new#Double#(#cpStream#.#readDouble#(#)#)#)#;#}##String#toString#(#)#{#return#"Double Constant Pool Entry: "#+#getValue#(#)#;#}##

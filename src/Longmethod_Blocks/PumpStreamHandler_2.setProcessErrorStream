@@ -1,0 +1,1 @@
+void#setProcessErrorStream#(#InputStream#is#)#{##if#(#err#!=#null#)#{#createProcessErrorPump#(#is#,#err#)#;#}#}

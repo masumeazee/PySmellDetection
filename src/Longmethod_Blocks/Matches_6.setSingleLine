@@ -1,0 +1,1 @@
+void#setSingleLine#(#boolean#b#)#{#singleLine#=#b#;#}

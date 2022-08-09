@@ -1,0 +1,1 @@
+void#endPrefixMapping#(#String#prefix#)#{#List#list#=#(#List#)#prefixMapping#.#get#(#prefix#)#;##if#(#list#==#null#||#list#.#size#(#)#==#0#)#{##return#;##// Should not happen#}##list#.#remove#(#list#.#size#(#)#-#1#)#;#}

@@ -1,0 +1,1 @@
+void#setUp#(#)#{#p#=#new#Project#(#)#;#p#.#setBasedir#(#projectBasedir#)#;#ih#=#IntrospectionHelper#.#getHelper#(#getClass#(#)#)#;#}

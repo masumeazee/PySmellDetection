@@ -1,0 +1,1 @@
+void#setExt#(#String#ext#)#{#this#.#extension#=#ext#;#}

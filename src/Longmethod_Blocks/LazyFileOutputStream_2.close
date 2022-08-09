@@ -1,0 +1,1 @@
+void#close#(#)#throws#IOException#{##if#(#alwaysCreate#&&#!#closed#)#{#ensureOpened#(#)#;#}##if#(#opened#)#{#fos#.#close#(#)#;#}##closed#=#true#;#}

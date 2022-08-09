@@ -1,0 +1,1 @@
+Enumeration#selectorElements#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#selectorElements#(#)#;#}##return#super#.#selectorElements#(#)#;#}

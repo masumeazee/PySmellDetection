@@ -1,0 +1,1 @@
+void#setUp#(#)#{#configureProject#(#"src/etc/testcases/core/loaderref/loaderref.xml"#)#;#}##void#tearDown#(#)#{#executeTarget#(#"clean"#)#;#}##void#testBadRef#(#)#{#expectBuildExceptionContaining#(#"testbadref"#,#"Should fail due to ref "#+#"not being a class loader"#,#"does not reference a class loader"#)#;#}##

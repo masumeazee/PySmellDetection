@@ -1,0 +1,1 @@
+Path#createPath#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##Path#result#=#new#Path#(#getProject#(#)#)#;#add#(#result#)#;##return#result#;#}

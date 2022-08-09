@@ -1,0 +1,1 @@
+void#testDefaultRevoked#(#)#{#perms#.#setSecurityManager#(#)#;##try#{#System#.#getProperty#(#"os.name"#)#;#fail#(#"Could perform an action that should have been forbidden."#)#;#}##catch#(#SecurityException#e#)#{##// Was expected, test passes#}##finally#{#perms#.#restoreSecurityManager#(#)#;#}#}

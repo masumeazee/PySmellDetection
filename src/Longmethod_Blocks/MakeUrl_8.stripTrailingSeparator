@@ -1,0 +1,1 @@
+String#stripTrailingSeparator#(#StringBuffer#urls#,#int#count#)#{##if#(#count#>#0#)#{#urls#.#delete#(#urls#.#length#(#)#-#separator#.#length#(#)#,#urls#.#length#(#)#)#;##return#new#String#(#urls#)#;#}#else#{##return#""#;#}#}

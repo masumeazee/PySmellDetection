@@ -1,0 +1,1 @@
+void#testTsaLocalhost#(#)#{##//only test on java1.5+##if#(#JavaEnvUtils#.#getJavaVersionNumber#(#)#>=#15#)#{#expectBuildException#(#"testTsaLocalhost"#,#"no TSA at localhost:0"#)#;#assertLogContaining#(#"java.net.ConnectException"#)#;#}#}

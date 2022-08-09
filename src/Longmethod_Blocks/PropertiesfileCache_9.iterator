@@ -1,0 +1,1 @@
+Iterator#iterator#(#)#{#Vector#v#=#new#java#.#util#.#Vector#(#)#;#Enumeration#en#=#cache#.#propertyNames#(#)#;##while#(#en#.#hasMoreElements#(#)#)#{#v#.#add#(#en#.#nextElement#(#)#)#;#}##return#v#.#iterator#(#)#;#}

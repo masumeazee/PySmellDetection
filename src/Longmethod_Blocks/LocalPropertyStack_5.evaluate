@@ -1,0 +1,1 @@
+Object#evaluate#(#String#property#,#PropertyHelper#helper#)#{#for#(#Iterator#i#=#stack#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Map#map#=#(#Map#)#i#.#next#(#)#;#Object#ret#=#map#.#get#(#property#)#;##if#(#ret#!=#null#)#{##return#ret#;#}#}##return#null#;#}

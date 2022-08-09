@@ -1,0 +1,1 @@
+Enumeration#fromArray#(#Object#[#]#array#)#{#return#new#ArrayEnumeration#(#array#)#;#}##Enumeration#fromCompound#(#Enumeration#[#]#enums#)#{#return#new#CompoundEnumeration#(#enums#)#;#}##

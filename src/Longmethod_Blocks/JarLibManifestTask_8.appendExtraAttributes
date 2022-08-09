@@ -1,0 +1,1 @@
+void#appendExtraAttributes#(#final#Attributes#attributes#)#{#final#Iterator#iterator#=#extraAttributes#.#iterator#(#)#;##while#(#iterator#.#hasNext#(#)#)#{#final#ExtraAttribute#attribute#=#(#ExtraAttribute#)#iterator#.#next#(#)#;#attributes#.#putValue#(#attribute#.#getName#(#)#,#attribute#.#getValue#(#)#)#;#}#}

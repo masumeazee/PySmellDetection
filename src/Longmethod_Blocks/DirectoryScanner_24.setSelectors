@@ -1,0 +1,1 @@
+void#setSelectors#(#FileSelector#[#]#selectors#)#{#this#.#selectors#=#selectors#;#}

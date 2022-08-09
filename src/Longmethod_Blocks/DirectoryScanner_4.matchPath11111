@@ -1,0 +1,1 @@
+boolean#matchPath#(#String#pattern#,#String#str#,#boolean#isCaseSensitive#)#{##return#SelectorUtils#.#matchPath#(#pattern#,#str#,#isCaseSensitive#)#;#}

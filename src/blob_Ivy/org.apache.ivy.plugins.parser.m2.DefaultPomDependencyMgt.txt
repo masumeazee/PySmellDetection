@@ -1,0 +1,1 @@
+String#getScope#(#)#{#return#scope#;#}##String#getGroupId#(#)#{#return#groupId#;#}##String#getArtifactId#(#)#{#return#artifactId#;#}##String#getVersion#(#)#{#return#version#;#}##List#/*<ModuleId>*/#getExcludedModules#(#)#{#return#excludedModules#;#}##

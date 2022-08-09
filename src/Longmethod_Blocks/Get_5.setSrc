@@ -1,0 +1,1 @@
+void#setSrc#(#URL#u#)#{#add#(#new#URLResource#(#u#)#)#;#}

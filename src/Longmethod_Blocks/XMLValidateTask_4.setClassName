@@ -1,0 +1,1 @@
+void#setClassName#(#String#className#)#{#readerClassName#=#className#;#}

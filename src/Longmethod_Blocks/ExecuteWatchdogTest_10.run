@@ -1,0 +1,1 @@
+void#run#(#)#{#try#{#process#.#waitFor#(#)#;#}##catch#(#InterruptedException#e#)#{##// not very nice but will do the job#fail#(#"process interrupted in thread"#)#;#}#}

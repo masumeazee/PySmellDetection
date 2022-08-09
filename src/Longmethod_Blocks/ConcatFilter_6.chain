@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#ConcatFilter#newFilter#=#new#ConcatFilter#(#rdr#)#;#newFilter#.#setPrepend#(#getPrepend#(#)#)#;#newFilter#.#setAppend#(#getAppend#(#)#)#;##// Usually the initialized is set to true. But here it must not.##// Because the prepend and append readers have to be instantiated##// on runtime##//newFilter.setInitialized(true);##return#newFilter#;#}

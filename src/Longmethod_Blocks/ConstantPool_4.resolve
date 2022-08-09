@@ -1,0 +1,1 @@
+void#resolve#(#)#{#for#(#Enumeration#i#=#entries#.#elements#(#)#;##i#.#hasMoreElements#(#)#;#)#{#ConstantPoolEntry#poolInfo#=#(#ConstantPoolEntry#)#i#.#nextElement#(#)#;##if#(#poolInfo#!=#null#&&#!#poolInfo#.#isResolved#(#)#)#{#poolInfo#.#resolve#(#this#)#;#}#}#}

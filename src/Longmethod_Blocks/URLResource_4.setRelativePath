@@ -1,0 +1,1 @@
+void#setRelativePath#(#String#r#)#{#checkAttributesAllowed#(#)#;##if#(#url#!=#null#)#{#throw#new#BuildException#(#"can't define URL and relativePath"#+#" attribute"#)#;#}##relPath#=#r#;#}

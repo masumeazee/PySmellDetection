@@ -1,0 +1,1 @@
+void#testEndsWithEmptyString#(#)#{#assertTrue#(#StringUtils#.#endsWith#(#new#StringBuffer#(#"12234545"#)#,#""#)#)#;#}

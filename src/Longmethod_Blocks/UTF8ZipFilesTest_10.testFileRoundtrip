@@ -1,0 +1,1 @@
+void#testFileRoundtrip#(#String#encoding#,#boolean#withEFS#,#boolean#withExplicitUnicodeExtra#)#throws#IOException#{#File#file#=#File#.#createTempFile#(#encoding#+#"-test"#,#".zip"#)#;##try#{#createTestFile#(#file#,#encoding#,#withEFS#,#withExplicitUnicodeExtra#)#;#testFile#(#file#,#encoding#)#;#}##finally#{##if#(#file#.#exists#(#)#)#{#file#.#delete#(#)#;#}#}#}

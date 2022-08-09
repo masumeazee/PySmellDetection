@@ -1,0 +1,1 @@
+String#getElementName#(#Project#p#,#Object#o#,#boolean#brief#)#{##if#(#p#==#null#)#{#p#=#Project#.#getProject#(#o#)#;#}##return#p#==#null#?#getUnmappedElementName#(#o#.#getClass#(#)#,#brief#)#:#getComponentHelper#(#p#)#.#getElementName#(#o#,#brief#)#;#}

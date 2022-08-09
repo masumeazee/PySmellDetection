@@ -1,0 +1,1 @@
+boolean#evalAsBooleanOrPropertyName#(#Object#value#)#{#Boolean#b#=#toBoolean#(#value#)#;##if#(#b#!=#null#)#{##return#b#.#booleanValue#(#)#;#}##return#getProperty#(#String#.#valueOf#(#value#)#)#!=#null#;#}

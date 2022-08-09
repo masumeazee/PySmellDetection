@@ -1,0 +1,1 @@
+void#executeOperation#(#)#throws#BuildException#{#for#(#Enumeration#e#=#entries#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#Entry#entry#=#(#Entry#)#e#.#nextElement#(#)#;#entry#.#executeOn#(#properties#)#;#}#}

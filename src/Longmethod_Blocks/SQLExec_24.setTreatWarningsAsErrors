@@ -1,0 +1,1 @@
+void#setTreatWarningsAsErrors#(#boolean#b#)#{#treatWarningsAsErrors#=#b#;#}

@@ -1,0 +1,1 @@
+Filter#getOp1#(#)#{#return#op1#;#}##Filter#getOp2#(#)#{#return#op2#;#}##boolean#accept#(#Object#o#)#{#return#op1#.#accept#(#o#)#||#op2#.#accept#(#o#)#;#}##

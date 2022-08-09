@@ -1,0 +1,1 @@
+String#getPostToken#(#)#{##if#(#includeDelims#)#{##return#""#;#}##return#lineEnd#;#}

@@ -1,0 +1,1 @@
+Matcher#newMatcher#(#String#expression#)#{#return#new#ExactMatcher#(#expression#)#;#}##boolean#matches#(#String#input#)#{#if#(#input#==#null#)#{#throw#new#NullPointerException#(#)#;#}#return#input#.#equals#(#expression#)#;#}##boolean#isExact#(#)#{#return#true#;#}##

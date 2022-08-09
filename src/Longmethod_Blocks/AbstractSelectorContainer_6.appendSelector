@@ -1,0 +1,1 @@
+void#appendSelector#(#FileSelector#selector#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##selectorsList#.#addElement#(#selector#)#;#setChecked#(#false#)#;#}

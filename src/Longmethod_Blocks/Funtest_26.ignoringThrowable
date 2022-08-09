@@ -1,0 +1,1 @@
+void#ignoringThrowable#(#String#type#,#Throwable#thrown#)#{#log#(#type#+#": "#+#thrown#.#toString#(#)#,#thrown#,#Project#.#MSG_WARN#)#;#}

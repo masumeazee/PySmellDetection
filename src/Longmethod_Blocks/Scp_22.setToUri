@@ -1,0 +1,1 @@
+void#setToUri#(#String#toUri#)#{##if#(#this#.#toUri#!=#null#)#{#throw#exactlyOne#(#TO_ATTRS#)#;#}##this#.#toUri#=#toUri#;#}

@@ -1,0 +1,1 @@
+void#assertPropertySet#(#String#property#)#{#assertPropertyEquals#(#property#,#"true"#)#;#}

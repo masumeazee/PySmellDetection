@@ -1,0 +1,1 @@
+void#setCheckEveryUnit#(#Unit#unit#)#{#checkEveryMultiplier#=#unit#.#getMultiplier#(#)#;#}

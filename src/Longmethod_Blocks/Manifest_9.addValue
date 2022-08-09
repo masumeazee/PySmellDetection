@@ -1,0 +1,1 @@
+void#addValue#(#String#value#)#{#currentIndex#++#;#setValue#(#value#)#;#}

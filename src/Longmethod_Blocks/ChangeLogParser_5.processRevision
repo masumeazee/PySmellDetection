@@ -1,0 +1,1 @@
+void#processRevision#(#final#String#line#)#{##if#(#line#.#startsWith#(#"revision"#)#)#{##// CheckStyle:MagicNumber OFF#revision#=#line#.#substring#(#9#)#;##// CheckStyle:MagicNumber ON#status#=#GET_DATE#;#}#else##if#(#line#.#startsWith#(#"======"#)#)#{##//There were no revisions in this changelog##//entry so lets move onto next file#status#=#GET_FILE#;#}#}

@@ -1,0 +1,1 @@
+void#testNoDoubleSchemaLocation#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoDoubleSchemaLocation"#,#"two locations for schemas"#,#SchemaValidate#.#SchemaLocation#.#ERROR_TWO_LOCATIONS#)#;#}

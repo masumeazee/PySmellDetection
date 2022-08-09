@@ -1,0 +1,1 @@
+void#setFollowSymlinks#(#boolean#followSymlinks#)#{#fileset#.#setFollowSymlinks#(#followSymlinks#)#;#}

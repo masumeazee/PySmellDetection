@@ -1,0 +1,1 @@
+void#setOutputfile#(#String#outputFile#)#{#this#.#outputFile#=#outputFile#;#}

@@ -1,0 +1,1 @@
+void#addContains#(#Contains#test#)#{#conditions#.#addElement#(#test#)#;#}

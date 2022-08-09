@@ -1,0 +1,1 @@
+void#addAnd#(#AndSelector#selector#)#{#fileset#.#addAnd#(#selector#)#;#}

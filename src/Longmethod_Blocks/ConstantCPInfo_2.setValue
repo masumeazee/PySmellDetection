@@ -1,0 +1,1 @@
+void#setValue#(#Object#newValue#)#{#value#=#newValue#;#}

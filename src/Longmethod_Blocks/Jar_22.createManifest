@@ -1,0 +1,7 @@
+Manifest#createManifest#(#)#throws#BuildException#{#try#{#Manifest#finalManifest#=#Manifest#.#getDefaultManifest#(#)#;##if#(#manifest#==#null#)#{##if#(#manifestFile#!=#null#)#{##// if we haven't got the manifest yet, attempt to##// get it now and have manifest be the final merge#manifest#=#getManifest#(#manifestFile#)#;#}#}##/*
+             * Precedence: manifestFile wins over inline manifest,
+             * over manifests read from the filesets over the original
+             * manifest.
+             *
+             * merge with null argument is a no-op
+             */##if#(#isInUpdateMode#(#)#)#{#finalManifest#.#merge#(#originalManifest#,#false#,#mergeClassPaths#)#;#}##finalManifest#.#merge#(#filesetManifest#,#false#,#mergeClassPaths#)#;#finalManifest#.#merge#(#configuredManifest#,#!#mergeManifestsMain#,#mergeClassPaths#)#;#finalManifest#.#merge#(#manifest#,#!#mergeManifestsMain#,#mergeClassPaths#)#;##return#finalManifest#;#}##catch#(#ManifestException#e#)#{#log#(#"Manifest is invalid: "#+#e#.#getMessage#(#)#,#Project#.#MSG_ERR#)#;#throw#new#BuildException#(#"Invalid Manifest"#,#e#,#getLocation#(#)#)#;#}#}

@@ -1,0 +1,1 @@
+File#[#]#restrictAsFiles#(#String#[#]#files#,#File#srcDir#,#File#destDir#,#FileNameMapper#mapper#)#{##return#restrictAsFiles#(#files#,#srcDir#,#destDir#,#mapper#,#FILE_UTILS#.#getFileTimestampGranularity#(#)#)#;#}

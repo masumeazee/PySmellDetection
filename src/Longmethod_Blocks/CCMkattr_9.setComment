@@ -1,0 +1,1 @@
+void#setComment#(#String#comment#)#{#mComment#=#comment#;#}

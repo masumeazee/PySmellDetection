@@ -1,0 +1,1 @@
+void#setType#(#HandlerType#type#)#{#this#.#type#=#type#;#}

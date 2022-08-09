@@ -1,0 +1,1 @@
+boolean#hasMoreTokens#(#)#{##if#(#lookahead#!=#null#)#{##return#true#;#}##return#tokenizer#.#hasMoreTokens#(#)#;#}

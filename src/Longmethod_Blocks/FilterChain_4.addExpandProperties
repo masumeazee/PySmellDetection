@@ -1,0 +1,1 @@
+void#addExpandProperties#(#final#ExpandProperties#expandProperties#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#expandProperties#)#;#}

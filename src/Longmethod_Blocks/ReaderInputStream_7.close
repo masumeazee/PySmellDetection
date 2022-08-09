@@ -1,0 +1,1 @@
+void#close#(#)#throws#IOException#{##if#(#in#!=#null#)#{#in#.#close#(#)#;#slack#=#null#;#in#=#null#;#}#}

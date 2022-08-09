@@ -1,0 +1,1 @@
+Manifest#getJarManifest#(#File#container#)#throws#IOException#{##if#(#container#.#isDirectory#(#)#)#{##return#null#;#}##JarFile#jarFile#=#null#;##try#{#jarFile#=#new#JarFile#(#container#)#;##return#jarFile#.#getManifest#(#)#;#}##finally#{##if#(#jarFile#!=#null#)#{#jarFile#.#close#(#)#;#}#}#}

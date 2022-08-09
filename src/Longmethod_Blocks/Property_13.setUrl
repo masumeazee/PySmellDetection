@@ -1,0 +1,1 @@
+void#setUrl#(#URL#url#)#{#this#.#url#=#url#;#}

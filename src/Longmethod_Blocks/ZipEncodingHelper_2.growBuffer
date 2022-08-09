@@ -1,0 +1,1 @@
+ByteBuffer#growBuffer#(#ByteBuffer#b#,#int#newCapacity#)#{#b#.#limit#(#b#.#position#(#)#)#;#b#.#rewind#(#)#;#int#c2#=#b#.#capacity#(#)#*#2#;#ByteBuffer#on#=#ByteBuffer#.#allocate#(#c2#<#newCapacity#?#newCapacity#:#c2#)#;#on#.#put#(#b#)#;##return#on#;#}

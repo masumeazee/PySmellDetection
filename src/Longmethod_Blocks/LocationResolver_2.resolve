@@ -1,0 +1,1 @@
+File#resolve#(#final#Extension#extension#,#final#Project#project#)#throws#BuildException#{##if#(#null#==#location#)#{#final#String#message#=#"No location specified for resolver"#;#throw#new#BuildException#(#message#)#;#}##return#project#.#resolveFile#(#location#)#;#}

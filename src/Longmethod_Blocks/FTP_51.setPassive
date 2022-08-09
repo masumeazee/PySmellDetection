@@ -1,0 +1,1 @@
+void#setPassive#(#boolean#passive#)#{#this#.#passive#=#passive#;#}

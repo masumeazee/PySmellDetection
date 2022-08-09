@@ -1,0 +1,1 @@
+void#main#(#String#[#]#args#)#{#new#ProcessDestroyerTest#(#"testProcessDestroyer"#)#.#testProcessDestroyer#(#)#;##try#{#Thread#.#sleep#(#60000#)#;#}##catch#(#InterruptedException#ie#)#{#ie#.#printStackTrace#(#)#;#}#}

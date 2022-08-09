@@ -1,0 +1,1 @@
+void#setProperty#(#String#name#,#String#value#)#{##if#(#launchDiag#)#{#System#.#out#.#println#(#"Setting \""#+#name#+#"\" to \""#+#value#+#"\""#)#;#}##System#.#setProperty#(#name#,#value#)#;#}

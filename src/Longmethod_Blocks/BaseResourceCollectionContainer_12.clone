@@ -1,0 +1,1 @@
+Object#clone#(#)#{#try#{#BaseResourceCollectionContainer#c#=#(#BaseResourceCollectionContainer#)#super#.#clone#(#)#;#c#.#rc#=#new#ArrayList#(#rc#)#;#c#.#coll#=#null#;##return#c#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

@@ -1,0 +1,1 @@
+void#testNoFiles#(#)#{#expectBuildExceptionContaining#(#"testNoFiles"#,#"no files"#,#SignJar#.#ERROR_NO_SOURCE#)#;#}

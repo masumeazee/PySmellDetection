@@ -1,0 +1,1 @@
+void#handleError#(#String#msg#)#{##if#(#failOnError#)#{#throw#new#BuildException#(#msg#,#getLocation#(#)#)#;#}##log#(#msg#,#Project#.#MSG_WARN#)#;#}

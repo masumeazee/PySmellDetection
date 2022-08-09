@@ -1,0 +1,1 @@
+AntTypeDefinition#getDefinition#(#String#key#)#{##return#(#AntTypeDefinition#)#(#super#.#get#(#key#)#)#;#}

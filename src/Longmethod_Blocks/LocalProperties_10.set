@@ -1,0 +1,1 @@
+boolean#set#(#String#property#,#Object#value#,#PropertyHelper#propertyHelper#)#{##return#current#(#)#.#set#(#property#,#value#,#propertyHelper#)#;#}

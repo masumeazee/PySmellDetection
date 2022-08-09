@@ -1,0 +1,1 @@
+Object#create#(#Project#project#,#Object#parent#,#Object#ignore#)#throws#InvocationTargetException#,#IllegalAccessException#{##if#(#!#getMethod#(#)#.#getName#(#)#.#endsWith#(#"Configured"#)#)#{#getMethod#(#)#.#invoke#(#parent#,#new#Object#[#]#{#realObject#}#)#;#}##return#nestedObject#;#}

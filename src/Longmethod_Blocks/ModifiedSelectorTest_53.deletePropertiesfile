@@ -1,0 +1,1 @@
+void#deletePropertiesfile#(#)#{##if#(#!#isConfigured#)#setUp#(#)#;##new#File#(#getProject#(#)#.#getBaseDir#(#)#,#propfile#)#.#delete#(#)#;#}

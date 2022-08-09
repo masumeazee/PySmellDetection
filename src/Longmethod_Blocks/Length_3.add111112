@@ -1,0 +1,1 @@
+void#add#(#FileSet#fs#)#{#add#(#(#ResourceCollection#)#fs#)#;#}

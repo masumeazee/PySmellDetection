@@ -1,0 +1,1 @@
+void#setCompressionLevel#(#int#level#)#{#this#.#compression#=#level#;#}

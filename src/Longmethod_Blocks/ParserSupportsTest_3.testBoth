@@ -1,0 +1,1 @@
+void#testBoth#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testBoth"#,#ParserSupports#.#ERROR_BOTH_ATTRIBUTES#,#ParserSupports#.#ERROR_BOTH_ATTRIBUTES#)#;#}

@@ -1,0 +1,1 @@
+void#setToken#(#String#token#)#{#createReplaceToken#(#)#.#addText#(#token#)#;#}

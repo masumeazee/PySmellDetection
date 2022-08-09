@@ -1,0 +1,1 @@
+void#addBuildFailedSound#(#File#fileFail#,#int#loopsFail#,#Long#durationFail#)#{#this#.#fileFail#=#fileFail#;#this#.#loopsFail#=#loopsFail#;#this#.#durationFail#=#durationFail#;#}

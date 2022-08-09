@@ -1,0 +1,1 @@
+String#[#]#mapFileName#(#String#s#)#{##return#new#String#[#]#{#"fred colon"#,#"carrot ironfoundersson"#}#;#}

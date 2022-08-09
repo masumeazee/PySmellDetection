@@ -1,0 +1,1 @@
+void#testUnixNetworkPath#(#)#throws#Exception#{#resolveTo#(#"file://cluster/home/ant/lib"#,#"//cluster/home/ant/lib"#,#"\\\\cluster\\home\\ant\\lib"#)#;#}

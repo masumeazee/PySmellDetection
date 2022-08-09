@@ -1,0 +1,1 @@
+ConditionBase#createCondition#(#)#{#logOverride#(#"condition"#,#condition#)#;#condition#=#new#NestedCondition#(#)#;##return#condition#;#}

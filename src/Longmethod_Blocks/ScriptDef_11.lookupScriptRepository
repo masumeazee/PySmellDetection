@@ -1,0 +1,1 @@
+Map#lookupScriptRepository#(#)#{#Map#scriptRepository#=#null#;#Project#p#=#getProject#(#)#;##synchronized#(#p#)#{#scriptRepository#=#(#Map#)#p#.#getReference#(#MagicNames#.#SCRIPT_REPOSITORY#)#;##if#(#scriptRepository#==#null#)#{#scriptRepository#=#new#HashMap#(#)#;#p#.#addReference#(#MagicNames#.#SCRIPT_REPOSITORY#,#scriptRepository#)#;#}#}##return#scriptRepository#;#}

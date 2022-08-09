@@ -1,0 +1,1 @@
+String#getSSCommand#(#)#{##if#(#ssDir#==#null#)#{##return#SS_EXE#;#}##return#ssDir#.#endsWith#(#File#.#separator#)#?#ssDir#+#SS_EXE#:#ssDir#+#File#.#separator#+#SS_EXE#;#}

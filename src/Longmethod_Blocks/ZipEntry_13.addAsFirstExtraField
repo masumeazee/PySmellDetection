@@ -1,0 +1,1 @@
+void#addAsFirstExtraField#(#ZipExtraField#ze#)#{#LinkedHashMap#copy#=#extraFields#;#extraFields#=#new#LinkedHashMap#(#)#;#extraFields#.#put#(#ze#.#getHeaderId#(#)#,#ze#)#;##if#(#copy#!=#null#)#{#copy#.#remove#(#ze#.#getHeaderId#(#)#)#;#extraFields#.#putAll#(#copy#)#;#}##setExtra#(#)#;#}

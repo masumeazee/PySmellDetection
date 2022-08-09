@@ -1,0 +1,1 @@
+void#setExtensionName#(#final#String#extensionName#)#{#verifyNotAReference#(#)#;#this#.#extensionName#=#extensionName#;#}

@@ -1,0 +1,1 @@
+void#setCurrentProjectName#(#String#name#)#{#this#.#currentProjectName#=#name#;#}

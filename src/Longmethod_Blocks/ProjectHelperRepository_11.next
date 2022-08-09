@@ -1,0 +1,1 @@
+Object#next#(#)#{#Constructor#c#=#(#Constructor#)#nested#.#next#(#)#;##try#{##return#c#.#newInstance#(#NO_OBJECT#)#;#}##catch#(#Exception#e#)#{#throw#new#BuildException#(#"Failed to invoke no-arg constructor"#+#" on "#+#c#.#getName#(#)#)#;#}#}

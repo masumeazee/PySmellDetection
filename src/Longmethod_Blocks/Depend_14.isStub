@@ -1,0 +1,1 @@
+boolean#isStub#(#String#affectedClass#,#String#baseClass#,#String#suffix#)#{##return#(#baseClass#+#suffix#)#.#equals#(#affectedClass#)#;#}

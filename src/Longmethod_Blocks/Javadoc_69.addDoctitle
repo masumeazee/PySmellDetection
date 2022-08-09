@@ -1,0 +1,1 @@
+void#addDoctitle#(#Html#text#)#{#doctitle#=#text#;#}

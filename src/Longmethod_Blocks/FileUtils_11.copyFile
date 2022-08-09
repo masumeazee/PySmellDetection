@@ -1,0 +1,1 @@
+void#copyFile#(#File#sourceFile#,#File#destFile#)#throws#IOException#{#copyFile#(#sourceFile#,#destFile#,#null#,#false#,#false#)#;#}

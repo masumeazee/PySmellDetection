@@ -1,0 +1,1 @@
+void#setProxy#(#Object#proxy#)#{#wrappedObject#=#proxy#;#proxyConfigured#=#false#;#}

@@ -1,0 +1,1 @@
+void#setAccount#(#String#pAccount#)#{#this#.#account#=#pAccount#;#}

@@ -1,0 +1,1 @@
+void#setErrorProperty#(#String#errorProperty#)#{#this#.#errorProperty#=#errorProperty#;#}

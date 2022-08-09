@@ -1,0 +1,1 @@
+DependencyResolver#getResolver#(#)#{#return#resolver#;#}##ArtifactOrigin#getOrigin#(#)#{#return#origin#;#}##

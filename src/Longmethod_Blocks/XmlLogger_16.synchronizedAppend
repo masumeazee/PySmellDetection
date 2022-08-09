@@ -1,0 +1,1 @@
+void#synchronizedAppend#(#Node#parent#,#Node#child#)#{#synchronized#(#parent#)#{#parent#.#appendChild#(#child#)#;#}#}

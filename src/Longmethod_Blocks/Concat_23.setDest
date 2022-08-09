@@ -1,0 +1,1 @@
+void#setDest#(#Resource#dest#)#{#this#.#dest#=#dest#;#}

@@ -1,0 +1,1 @@
+InputStream#wrapStream#(#InputStream#in#)#throws#IOException#{#return#new#GZIPInputStream#(#in#)#;#}##OutputStream#wrapStream#(#OutputStream#out#)#throws#IOException#{#return#new#GZIPOutputStream#(#out#)#;#}##String#getCompressionName#(#)#{#return#"GZip"#;#}##

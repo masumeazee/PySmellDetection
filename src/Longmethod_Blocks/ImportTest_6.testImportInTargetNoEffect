@@ -1,0 +1,1 @@
+void#testImportInTargetNoEffect#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/import/subdir/importintarget.xml"#)#;#expectPropertyUnset#(#"no-import"#,#"foo"#)#;#assertTrue#(#null#==#getProject#(#)#.#getReference#(#"baz"#)#)#;#}

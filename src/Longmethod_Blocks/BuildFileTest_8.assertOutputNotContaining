@@ -1,0 +1,1 @@
+void#assertOutputNotContaining#(#String#message#,#String#substring#)#{#String#realOutput#=#getOutput#(#)#;#String#realMessage#=#(#message#!=#null#)#?#message#:#"expecting output to not contain \""#+#substring#+#"\" output was \""#+#realOutput#+#"\""#;#assertFalse#(#realMessage#,#realOutput#.#indexOf#(#substring#)#>=#0#)#;#}

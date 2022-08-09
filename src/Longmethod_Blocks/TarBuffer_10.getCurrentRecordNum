@@ -1,0 +1,1 @@
+int#getCurrentRecordNum#(#)#{##return#currRecIdx#-#1#;#}

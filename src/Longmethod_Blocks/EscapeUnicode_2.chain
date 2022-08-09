@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#EscapeUnicode#newFilter#=#new#EscapeUnicode#(#rdr#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

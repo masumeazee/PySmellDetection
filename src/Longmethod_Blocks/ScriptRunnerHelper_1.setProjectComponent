@@ -1,0 +1,1 @@
+void#setProjectComponent#(#ProjectComponent#component#)#{#this#.#projectComponent#=#component#;#}

@@ -1,0 +1,1 @@
+void#setInternalOutputFilename#(#final#String#outputFileName#)#{#this#.#outputFileName#=#outputFileName#;#}

@@ -1,0 +1,1 @@
+String#getHostname#(#)#{#try#{##return#InetAddress#.#getLocalHost#(#)#.#getHostName#(#)#;#}##catch#(#UnknownHostException#e#)#{##return#"localhost"#;#}#}

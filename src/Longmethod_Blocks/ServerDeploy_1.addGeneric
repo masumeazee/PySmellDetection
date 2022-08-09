@@ -1,0 +1,1 @@
+void#addGeneric#(#GenericHotDeploymentTool#tool#)#{#tool#.#setTask#(#this#)#;#vendorTools#.#addElement#(#tool#)#;#}

@@ -1,0 +1,1 @@
+String#removeExtraneousAuthority#(#String#uri#)#{#String#prefix#=#"file:///"#;##if#(#uri#.#startsWith#(#prefix#)#)#{##return#"file:/"#+#uri#.#substring#(#prefix#.#length#(#)#)#;#}#else#{##return#uri#;#}#}

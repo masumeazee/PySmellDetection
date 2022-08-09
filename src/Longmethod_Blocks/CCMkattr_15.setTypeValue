@@ -1,0 +1,1 @@
+void#setTypeValue#(#String#tv#)#{#mTypeValue#=#tv#;#}

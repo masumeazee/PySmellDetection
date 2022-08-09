@@ -1,0 +1,1 @@
+boolean#contentsExcluded#(#TokenizedPath#path#)#{#for#(#int#i#=#0#;##i#<#excludePatterns#.#length#;#i#++#)#{##if#(#excludePatterns#[#i#]#.#endsWith#(#SelectorUtils#.#DEEP_TREE_MATCH#)#&&#excludePatterns#[#i#]#.#withoutLastToken#(#)#.#matchPath#(#path#,#isCaseSensitive#(#)#)#)#{##return#true#;#}#}##return#false#;#}

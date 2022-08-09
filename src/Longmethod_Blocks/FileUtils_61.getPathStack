@@ -1,0 +1,1 @@
+String#[#]#getPathStack#(#String#path#)#{#String#normalizedPath#=#path#.#replace#(#File#.#separatorChar#,#'/'#)#;##return#normalizedPath#.#split#(#"/"#)#;#}

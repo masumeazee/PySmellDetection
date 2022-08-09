@@ -1,0 +1,1 @@
+int#compareTo#(#Object#another#)#{##return#this#.#equals#(#another#)#?#0#:#super#.#compareTo#(#another#)#;#}

@@ -1,0 +1,1 @@
+void#addText#(#String#sql#)#{##if#(#sql#!=#null#)#{#this#.#tSqlCommand#+=#sql#;#}#}

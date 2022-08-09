@@ -1,0 +1,1 @@
+void#setClass#(#Class#c#)#{##if#(#clazz#!=#null#)#{#throw#new#BuildException#(#"The class attribute has already been set."#)#;#}##clazz#=#c#;#}

@@ -1,0 +1,1 @@
+void#setSignedjar#(#final#File#signedjar#)#{#this#.#signedjar#=#signedjar#;#}

@@ -1,0 +1,1 @@
+String#getNamespaceParserLocation#(#)#{#try#{#XMLReader#reader#=#JAXPUtils#.#getNamespaceXMLReader#(#)#;#URL#location#=#getClassLocation#(#reader#.#getClass#(#)#)#;##return#location#!=#null#?#location#.#toString#(#)#:#null#;#}##catch#(#BuildException#e#)#{##//ignore#ignoreThrowable#(#e#)#;##return#null#;#}#}

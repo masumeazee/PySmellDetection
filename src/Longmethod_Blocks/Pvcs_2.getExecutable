@@ -1,0 +1,1 @@
+String#getExecutable#(#String#exe#)#{#StringBuffer#correctedExe#=#new#StringBuffer#(#)#;##if#(#getPvcsbin#(#)#!=#null#)#{##if#(#pvcsbin#.#endsWith#(#File#.#separator#)#)#{#correctedExe#.#append#(#pvcsbin#)#;#}#else#{#correctedExe#.#append#(#pvcsbin#)#.#append#(#File#.#separator#)#;#}#}##return#correctedExe#.#append#(#exe#)#.#toString#(#)#;#}

@@ -1,0 +1,1 @@
+void#testPreample#(#)#throws#Exception#{#byte#[#]#bytes#=#""#.#getBytes#(#"utf-16"#)#;#System#.#out#.#println#(#"Preample len is "#+#bytes#.#length#)#;#}

@@ -1,0 +1,1 @@
+void#setCommentFile#(#String#cfile#)#{#mCfile#=#cfile#;#}

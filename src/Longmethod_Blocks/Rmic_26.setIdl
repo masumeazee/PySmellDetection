@@ -1,0 +1,1 @@
+void#setIdl#(#boolean#idl#)#{#this#.#idl#=#idl#;#}

@@ -1,0 +1,1 @@
+void#addApplication#(#Sequential#sequence#)#{#logOverride#(#"application"#,#application#)#;#application#=#sequence#;#}

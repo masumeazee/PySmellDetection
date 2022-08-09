@@ -1,0 +1,1 @@
+void#setLocator#(#Locator#locator#)#{#this#.#locator#=#locator#;#}

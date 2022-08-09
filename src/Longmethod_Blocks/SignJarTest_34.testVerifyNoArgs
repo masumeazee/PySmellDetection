@@ -1,0 +1,1 @@
+void#testVerifyNoArgs#(#)#{#expectBuildExceptionContaining#(#"testVerifyNoArgs"#,#"no args"#,#AbstractJarSignerTask#.#ERROR_NO_SOURCE#)#;#}

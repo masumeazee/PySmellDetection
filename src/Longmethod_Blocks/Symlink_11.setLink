@@ -1,0 +1,1 @@
+void#setLink#(#String#lnk#)#{#this#.#link#=#lnk#;#}

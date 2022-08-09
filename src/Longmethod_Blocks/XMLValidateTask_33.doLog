@@ -1,0 +1,1 @@
+void#doLog#(#SAXParseException#e#,#int#logLevel#)#{#log#(#getMessage#(#e#)#,#logLevel#)#;#}

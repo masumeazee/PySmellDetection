@@ -1,0 +1,1 @@
+void#setParallel#(#boolean#parallel#)#{#this#.#parallel#=#parallel#;#}

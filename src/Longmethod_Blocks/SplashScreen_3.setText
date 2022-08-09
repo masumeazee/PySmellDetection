@@ -1,0 +1,1 @@
+void#setText#(#String#txt#)#{#text#.#setText#(#txt#)#;#}

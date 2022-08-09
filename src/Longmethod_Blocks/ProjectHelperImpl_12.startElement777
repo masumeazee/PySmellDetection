@@ -1,0 +1,1 @@
+void#startElement#(#String#name#,#AttributeList#attrs#)#throws#SAXParseException#{#handleElement#(#helperImpl#,#this#,#target#,#name#,#attrs#)#;#}

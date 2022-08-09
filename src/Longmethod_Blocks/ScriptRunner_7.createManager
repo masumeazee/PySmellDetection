@@ -1,0 +1,1 @@
+BSFManager#createManager#(#)#throws#BSFException#{##if#(#manager#!=#null#)#{##return#manager#;#}##BSFManager#m#=#new#BSFManager#(#)#;#m#.#setClassLoader#(#getScriptClassLoader#(#)#)#;##if#(#getKeepEngine#(#)#)#{#BSFEngine#e#=#manager#.#loadScriptingEngine#(#getLanguage#(#)#)#;#this#.#manager#=#m#;#this#.#engine#=#e#;#}##return#m#;#}

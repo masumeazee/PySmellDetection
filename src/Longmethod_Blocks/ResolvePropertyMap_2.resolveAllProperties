@@ -1,0 +1,1 @@
+void#resolveAllProperties#(#Map#map#)#{#this#.#map#=#map#;##// The map gets used in the getProperty callback#for#(#Iterator#i#=#map#.#keySet#(#)#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#String#key#=#(#String#)#i#.#next#(#)#;#Object#result#=#getProperty#(#key#)#;#String#value#=#result#==#null#?#""#:#result#.#toString#(#)#;#map#.#put#(#key#,#value#)#;#}#}

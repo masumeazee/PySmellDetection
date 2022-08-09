@@ -1,0 +1,1 @@
+void#setAutoresponse#(#String#response#)#{#super#.#setInternalAutoResponse#(#response#)#;#}

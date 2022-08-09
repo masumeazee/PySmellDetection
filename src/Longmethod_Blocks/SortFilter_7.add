@@ -1,0 +1,1 @@
+void#add#(#Comparator#comparator#)#{##if#(#this#.#comparator#!=#null#&&#comparator#!=#null#)#{#throw#new#BuildException#(#"can't have more than one comparator"#)#;#}##setComparator#(#comparator#)#;#}

@@ -1,0 +1,1 @@
+void#setAttribute#(#String#name#,#Object#value#)#{#final#Object#[#]#pair#=#new#Object#[#]#{#name#,#value#}#;#attributes#.#addElement#(#pair#)#;#}

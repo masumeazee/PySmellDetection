@@ -1,0 +1,1 @@
+void#setWASClasspath#(#Path#wasClasspath#)#{#this#.#wasClasspath#=#wasClasspath#;#}

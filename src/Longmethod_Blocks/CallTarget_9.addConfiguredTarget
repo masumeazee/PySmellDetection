@@ -1,0 +1,1 @@
+void#addConfiguredTarget#(#Ant#.#TargetElement#t#)#{##if#(#callee#==#null#)#{#init#(#)#;#}##callee#.#addConfiguredTarget#(#t#)#;#targetSet#=#true#;#}

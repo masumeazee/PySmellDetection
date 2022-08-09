@@ -1,0 +1,1 @@
+void#testGetResourcesUsingFactory#(#)#throws#IOException#{#AntClassLoader#acl#=#AntClassLoader#.#newAntClassLoader#(#new#EmptyLoader#(#)#,#null#,#new#Path#(#null#)#,#true#)#;#assertNull#(#acl#.#getResource#(#"META-INF/MANIFEST.MF"#)#)#;#assertFalse#(#acl#.#getResources#(#"META-INF/MANIFEST.MF"#)#.#hasMoreElements#(#)#)#;#}

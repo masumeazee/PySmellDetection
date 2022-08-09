@@ -1,0 +1,1 @@
+String#evalName#(#Project#p#)#{##return#valid#(#p#)#?#name#:#null#;#}

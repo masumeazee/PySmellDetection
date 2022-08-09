@@ -1,0 +1,1 @@
+void#handleErrorFlush#(#String#output#)#{#handleErrorOutput#(#output#)#;#}

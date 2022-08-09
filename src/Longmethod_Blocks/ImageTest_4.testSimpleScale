@@ -1,0 +1,1 @@
+void#testSimpleScale#(#)#{#expectLogContaining#(#"testSimpleScale"#,#"Processing File"#)#;#File#f#=#createRelativeFile#(#"/dest/"#+#LARGEIMAGE#)#;#assertTrue#(#"Did not create "#+#f#.#getAbsolutePath#(#)#,#f#.#exists#(#)#)#;#}

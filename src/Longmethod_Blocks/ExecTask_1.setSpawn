@@ -1,0 +1,1 @@
+void#setSpawn#(#boolean#spawn#)#{#this#.#spawn#=#spawn#;#}

@@ -1,0 +1,1 @@
+String#[#]#getValues#(#)#{##return#new#String#[#]#{#"true"#,#"yes"#,#"false"#,#"no"#,#"on"#,#"off"#,#"withOutAndErr"#}#;#}

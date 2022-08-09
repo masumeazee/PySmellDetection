@@ -1,0 +1,1 @@
+void#setCurrentExtraFields#(#ZipExtraField#[#]#extra#)#{#currentZipExtra#.#set#(#extra#)#;#}

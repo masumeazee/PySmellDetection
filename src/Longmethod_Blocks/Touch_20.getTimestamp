@@ -1,0 +1,1 @@
+long#getTimestamp#(#)#{##return#(#millis#<#0#)#?#System#.#currentTimeMillis#(#)#:#millis#;#}

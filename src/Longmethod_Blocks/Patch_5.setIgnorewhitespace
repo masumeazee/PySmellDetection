@@ -1,0 +1,1 @@
+void#setIgnorewhitespace#(#boolean#ignore#)#{##if#(#ignore#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-l"#)#;#}#}

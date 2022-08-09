@@ -1,0 +1,1 @@
+ZipEntry#getEntry#(#String#name#)#{##return#(#ZipEntry#)#nameMap#.#get#(#name#)#;#}

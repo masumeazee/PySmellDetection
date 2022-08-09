@@ -1,0 +1,1 @@
+void#setUp#(#)#{#project#=#new#Project#(#)#;#project#.#setBasedir#(#System#.#getProperty#(#"root"#)#)#;#project#.#setProperty#(#"build.sysclasspath"#,#"ignore"#)#;#cloneVm#=#System#.#getProperty#(#"ant.build.clonevm"#)#;##if#(#cloneVm#!=#null#)#{#System#.#setProperty#(#"ant.build.clonevm"#,#"false"#)#;#}#}

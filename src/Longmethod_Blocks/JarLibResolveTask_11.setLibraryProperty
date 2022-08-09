@@ -1,0 +1,1 @@
+void#setLibraryProperty#(#final#File#file#)#{#getProject#(#)#.#setNewProperty#(#propertyName#,#file#.#getAbsolutePath#(#)#)#;#}

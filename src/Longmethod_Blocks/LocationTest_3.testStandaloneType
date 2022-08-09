@@ -1,0 +1,1 @@
+void#testStandaloneType#(#)#{#executeTarget#(#"testStandaloneType"#)#;#Echo#e#=#(#Echo#)#getProject#(#)#.#getReference#(#"echo2"#)#;#FileSet#f#=#(#FileSet#)#getProject#(#)#.#getReference#(#"fs"#)#;#assertFalse#(#f#.#getLocation#(#)#==#Location#.#UNKNOWN_LOCATION#)#;#assertEquals#(#e#.#getLocation#(#)#.#getLineNumber#(#)#+#1#,#f#.#getLocation#(#)#.#getLineNumber#(#)#)#;#}

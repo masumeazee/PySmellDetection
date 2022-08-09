@@ -1,0 +1,1 @@
+void#endElement#(#String#name#)#throws#SAXException#{##// Let parent resume handling SAX events#helperImpl#.#parser#.#setDocumentHandler#(#parentHandler#)#;#}

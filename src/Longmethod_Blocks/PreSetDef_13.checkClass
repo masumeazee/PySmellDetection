@@ -1,0 +1,1 @@
+void#checkClass#(#Project#project#)#{#parent#.#checkClass#(#project#)#;#}

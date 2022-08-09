@@ -1,0 +1,1 @@
+String#replaceTokens#(#String#line#)#{#String#replacedLine#=#line#;##for#(#Enumeration#e#=#filterSets#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#FilterSet#filterSet#=#(#FilterSet#)#e#.#nextElement#(#)#;#replacedLine#=#filterSet#.#replaceTokens#(#replacedLine#)#;#}##return#replacedLine#;#}

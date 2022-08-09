@@ -1,0 +1,1 @@
+void#doMultipleCalls#(#int#calls#,#int#database#,#boolean#caching#,#boolean#catchexception#)#{#Properties#props#=#getProperties#(#database#)#;##for#(#int#i#=#0#;##i#<#calls#;#i#++#)#{#SQLExec#sql#=#createTask#(#props#)#;#sql#.#setCaching#(#caching#)#;##try#{#sql#.#execute#(#)#;#}##catch#(#BuildException#e#)#{##if#(#!#catchexception#)#{#throw#e#;#}#}#}#}

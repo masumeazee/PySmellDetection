@@ -1,0 +1,1 @@
+void#setError#(#File#error#)#{#this#.#error#=#error#;#}

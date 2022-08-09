@@ -1,0 +1,1 @@
+void#execute#(#)#throws#BuildException#{#checkAttributes#(#)#;##try#{#setupFTPDelegate#(#)#;#delegate#.#doFTP#(#)#;#}##finally#{##if#(#mirrorLoader#instanceof#SplitClassLoader#)#{#(#(#SplitClassLoader#)#mirrorLoader#)#.#cleanup#(#)#;#}##mirrorLoader#=#null#;#}#}

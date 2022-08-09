@@ -1,0 +1,1 @@
+boolean#equals#(#Object#rhs#)#{##if#(#rhs#==#null#||#rhs#.#getClass#(#)#!=#getClass#(#)#)#{##return#false#;#}##if#(#rhs#==#this#)#{##return#true#;#}##Section#rhsSection#=#(#Section#)#rhs#;##return#attributes#.#equals#(#rhsSection#.#attributes#)#;#}

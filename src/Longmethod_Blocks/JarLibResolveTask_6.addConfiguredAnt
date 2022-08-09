@@ -1,0 +1,1 @@
+void#addConfiguredAnt#(#final#AntResolver#ant#)#{#resolvers#.#add#(#ant#)#;#}

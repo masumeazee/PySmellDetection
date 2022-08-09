@@ -1,0 +1,1 @@
+void#parsePropertyString#(#String#value#,#Vector#fragments#,#Vector#propertyRefs#)#throws#BuildException#{#parsePropertyStringDefault#(#value#,#fragments#,#propertyRefs#)#;#}

@@ -1,0 +1,1 @@
+PathElement#createPathElement#(#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##PathElement#pe#=#new#PathElement#(#)#;#add#(#pe#)#;##return#pe#;#}

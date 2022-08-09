@@ -1,0 +1,1 @@
+void#testfixlastline#(#)#throws#IOException#{#expectFileContains#(#"testfixlastline"#,#"concat.line4"#,#"end of line"#+#System#.#getProperty#(#"line.separator"#)#+#"This has"#)#;#}

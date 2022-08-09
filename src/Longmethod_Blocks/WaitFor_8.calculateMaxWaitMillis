@@ -1,0 +1,1 @@
+long#calculateMaxWaitMillis#(#)#{##return#maxWait#*#maxWaitMultiplier#;#}

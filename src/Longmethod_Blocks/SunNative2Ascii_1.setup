@@ -1,0 +1,1 @@
+void#setup#(#Commandline#cmd#,#Native2Ascii#args#)#throws#BuildException#{##if#(#args#.#getReverse#(#)#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-reverse"#)#;#}##super#.#setup#(#cmd#,#args#)#;#}

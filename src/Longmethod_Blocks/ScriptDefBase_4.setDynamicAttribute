@@ -1,0 +1,1 @@
+void#setDynamicAttribute#(#String#name#,#String#value#)#{#ScriptDef#definition#=#getScript#(#)#;##if#(#!#definition#.#isAttributeSupported#(#name#)#)#{#throw#new#BuildException#(#"<"#+#getTaskType#(#)#+#"> does not support the \""#+#name#+#"\" attribute"#)#;#}##attributes#.#put#(#name#,#value#)#;#}

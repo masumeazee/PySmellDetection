@@ -1,0 +1,1 @@
+void#setScanIncludedDirectories#(#boolean#b#)#{#performDirectoryScan#=#b#;#}

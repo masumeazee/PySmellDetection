@@ -1,0 +1,1 @@
+void#setLinksource#(#boolean#b#)#{#this#.#linksource#=#b#;#}

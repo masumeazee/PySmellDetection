@@ -1,0 +1,1 @@
+void#setKeysize#(#final#String#keysize#)#throws#BuildException#{#try#{#this#.#keysize#=#Integer#.#parseInt#(#keysize#)#;#}##catch#(#final#NumberFormatException#nfe#)#{#throw#new#BuildException#(#"KeySize attribute should be a integer"#)#;#}#}

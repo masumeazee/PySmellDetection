@@ -1,0 +1,1 @@
+void#setPlatform#(#int#platform#)#{#this#.#platform#=#platform#;#}

@@ -1,0 +1,1 @@
+boolean#similarDefinition#(#AntTypeDefinition#other#,#Project#project#)#{##if#(#!#super#.#similarDefinition#(#other#,#project#)#)#{##return#false#;#}##MyAntTypeDefinition#otherDef#=#(#MyAntTypeDefinition#)#other#;##return#macroDef#.#similar#(#otherDef#.#macroDef#)#;#}

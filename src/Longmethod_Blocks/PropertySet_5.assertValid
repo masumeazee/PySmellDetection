@@ -1,0 +1,1 @@
+void#assertValid#(#String#attr#,#String#value#)#{##if#(#value#==#null#||#value#.#length#(#)#<#1#)#{#throw#new#BuildException#(#"Invalid attribute: "#+#attr#)#;#}##if#(#++#count#!=#1#)#{#throw#new#BuildException#(#"Attributes name, regex, and "#+#"prefix are mutually exclusive"#)#;#}#}

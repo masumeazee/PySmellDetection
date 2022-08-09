@@ -1,0 +1,1 @@
+void#init#(#)#throws#BuildException#{##// Instantiate it#myCopy#=#new#MyCopy#(#)#;#configureTask#(#myCopy#)#;##// Default config of <mycopy> for our purposes.#myCopy#.#setFiltering#(#false#)#;#myCopy#.#setIncludeEmptyDirs#(#false#)#;#myCopy#.#setPreserveLastModified#(#true#)#;#}

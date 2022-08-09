@@ -1,0 +1,1 @@
+void#assertJavaFileCreated#(#String#filename#)#throws#Exception#{#File#file#=#getOutputFile#(#filename#)#;#assertTrue#(#"file "#+#filename#+#" not found"#,#file#.#exists#(#)#)#;#assertTrue#(#"file "#+#filename#+#" is empty"#,#file#.#length#(#)#>#0#)#;#}

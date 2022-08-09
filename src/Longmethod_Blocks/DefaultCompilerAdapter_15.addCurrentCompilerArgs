@@ -1,0 +1,1 @@
+void#addCurrentCompilerArgs#(#Commandline#cmd#)#{#cmd#.#addArguments#(#getJavac#(#)#.#getCurrentCompilerArgs#(#)#)#;#}

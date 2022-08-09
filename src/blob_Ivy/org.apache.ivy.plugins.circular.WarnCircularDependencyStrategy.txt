@@ -1,0 +1,1 @@
+CircularDependencyStrategy#getInstance#(#)#{#return#INSTANCE#;#}##void#logCircularDependency#(#ModuleRevisionId#[#]#mrids#)#{#Message#.#warn#(#"circular dependency found: "#+#CircularDependencyHelper#.#formatMessage#(#mrids#)#)#;#}##

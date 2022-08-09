@@ -1,0 +1,1 @@
+void#log#(#String#message#)#{#buffer#.#append#(#message#)#.#append#(#StringUtils#.#LINE_SEP#)#;#}

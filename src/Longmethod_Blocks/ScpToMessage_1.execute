@@ -1,0 +1,1 @@
+void#execute#(#)#throws#IOException#,#JSchException#{##if#(#directoryList#!=#null#)#{#doMultipleTransfer#(#)#;#}##if#(#localFile#!=#null#)#{#doSingleTransfer#(#)#;#}##log#(#"done.\n"#)#;#}

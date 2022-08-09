@@ -1,0 +1,1 @@
+void#testSingle#(#)#{##if#(#supportsSymlinks#)#{#executeTarget#(#"test-single"#)#;#p#=#getProject#(#)#;#assertNotNull#(#"Failed to create file"#,#p#.#getProperty#(#"test.single.file.created"#)#)#;#assertNotNull#(#"Failed to create link"#,#p#.#getProperty#(#"test.single.link.created"#)#)#;#}#}

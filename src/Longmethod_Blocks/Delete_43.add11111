@@ -1,0 +1,1 @@
+void#add#(#FileSelector#selector#)#{#usedMatchingTask#=#true#;#super#.#add#(#selector#)#;#}

@@ -1,0 +1,1 @@
+String#getFileString#(#String#filename#)#throws#IOException#{#String#result#=#null#;#FileReader#reader#=#null#;##try#{#reader#=#new#FileReader#(#getProject#(#)#.#resolveFile#(#filename#)#)#;#result#=#FileUtils#.#readFully#(#reader#)#;#}##catch#(#IOException#eyeOhEx#)#{#}##finally#{#FileUtils#.#close#(#reader#)#;#}##return#result#;#}

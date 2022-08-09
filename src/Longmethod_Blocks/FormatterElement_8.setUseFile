@@ -1,0 +1,1 @@
+void#setUseFile#(#boolean#useFile#)#{#this#.#useFile#=#useFile#;#}

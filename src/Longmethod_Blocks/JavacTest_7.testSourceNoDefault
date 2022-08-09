@@ -1,0 +1,1 @@
+void#testSourceNoDefault#(#)#{#assertNull#(#javac#.#getSource#(#)#)#;#}

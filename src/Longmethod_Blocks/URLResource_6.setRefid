@@ -1,0 +1,1 @@
+void#setRefid#(#Reference#r#)#{##//not using the accessor in this case to avoid side effects##if#(#url#!=#null#||#baseURL#!=#null#||#relPath#!=#null#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#r#)#;#}

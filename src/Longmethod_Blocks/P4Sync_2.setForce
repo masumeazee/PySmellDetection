@@ -1,0 +1,1 @@
+void#setForce#(#String#force#)#throws#BuildException#{##if#(#force#==#null#&&#!#label#.#equals#(#""#)#)#{#throw#new#BuildException#(#"P4Sync: If you want to force, set force to non-null string!"#)#;#}##P4CmdOpts#=#"-f"#;#}

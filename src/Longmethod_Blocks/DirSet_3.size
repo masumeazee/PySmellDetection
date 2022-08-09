@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#DirSet#)#getRef#(#getProject#(#)#)#)#.#size#(#)#;#}##return#getDirectoryScanner#(#getProject#(#)#)#.#getIncludedDirsCount#(#)#;#}

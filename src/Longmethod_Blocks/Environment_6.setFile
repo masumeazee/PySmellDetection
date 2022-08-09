@@ -1,0 +1,1 @@
+void#setFile#(#java#.#io#.#File#file#)#{#this#.#value#=#file#.#getAbsolutePath#(#)#;#}

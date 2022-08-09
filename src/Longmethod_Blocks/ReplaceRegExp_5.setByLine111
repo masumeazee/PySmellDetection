@@ -1,0 +1,1 @@
+void#setByLine#(#String#byline#)#{#Boolean#res#=#Boolean#.#valueOf#(#byline#)#;##if#(#res#==#null#)#{#res#=#Boolean#.#FALSE#;#}##this#.#byline#=#res#.#booleanValue#(#)#;#}

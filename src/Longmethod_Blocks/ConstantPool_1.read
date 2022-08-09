@@ -1,0 +1,1 @@
+void#read#(#DataInputStream#classStream#)#throws#IOException#{#int#numEntries#=#classStream#.#readUnsignedShort#(#)#;##for#(#int#i#=#1#;##i#<#numEntries#;#)#{#ConstantPoolEntry#nextEntry#=#ConstantPoolEntry#.#readEntry#(#classStream#)#;#i#+=#nextEntry#.#getNumEntries#(#)#;#addEntry#(#nextEntry#)#;#}#}

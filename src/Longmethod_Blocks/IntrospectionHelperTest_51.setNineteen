@@ -1,0 +1,1 @@
+void#setNineteen#(#double#d#)#{#double#diff#=#d#-#19#;#assertTrue#(#"Expected 19, received "#+#d#,#diff#>#-#1e-6#&&#diff#<#1e-6#)#;#}

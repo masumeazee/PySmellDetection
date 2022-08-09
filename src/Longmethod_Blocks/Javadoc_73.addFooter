@@ -1,0 +1,1 @@
+void#addFooter#(#Html#text#)#{#footer#=#text#;#}

@@ -1,0 +1,1 @@
+void#setParentName#(#String#name#)#{#this#.#parentName#=#name#;#}

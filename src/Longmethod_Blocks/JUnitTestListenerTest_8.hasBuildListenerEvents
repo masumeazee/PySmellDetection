@@ -1,0 +1,1 @@
+boolean#hasBuildListenerEvents#(#String#log#)#{##return#log#.#indexOf#(#JUnitTask#.#TESTLISTENER_PREFIX#)#>=#0#;#}

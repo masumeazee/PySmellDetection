@@ -1,0 +1,1 @@
+void#setLabel#(#String#label#)#{#super#.#setInternalLabel#(#label#)#;#}

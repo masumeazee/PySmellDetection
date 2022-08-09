@@ -1,0 +1,1 @@
+void#setProperty#(#String#name#,#String#value#)#{##if#(#name#!=#null#)#{#getProject#(#)#.#setNewProperty#(#name#,#value#)#;#}#}

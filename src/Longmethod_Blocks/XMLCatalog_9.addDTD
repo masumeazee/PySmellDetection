@@ -1,0 +1,1 @@
+void#addDTD#(#ResourceLocation#dtd#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##getElements#(#)#.#addElement#(#dtd#)#;#setChecked#(#false#)#;#}

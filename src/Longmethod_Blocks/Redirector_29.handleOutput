@@ -1,0 +1,1 @@
+void#handleOutput#(#String#output#)#{#synchronized#(#outMutex#)#{##if#(#outPrintStream#==#null#)#{#outPrintStream#=#new#PrintStream#(#outputStream#)#;#}##outPrintStream#.#print#(#output#)#;#}#}

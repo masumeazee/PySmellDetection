@@ -1,0 +1,1 @@
+void#setCaseSensitive#(#boolean#caseSensitive#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#caseSensitive#=#caseSensitive#;#directoryScanner#=#null#;#}

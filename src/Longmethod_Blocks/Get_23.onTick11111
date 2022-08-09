@@ -1,0 +1,1 @@
+void#onTick#(#)#{#out#.#print#(#"."#)#;##if#(#dots#++#>#DOTS_PER_LINE#)#{#out#.#flush#(#)#;#dots#=#0#;#}#}

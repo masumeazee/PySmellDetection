@@ -1,0 +1,1 @@
+BuildException#tooManyAttributes#(#)#{##return#new#BuildException#(#"You must not specify more than one "#+#"attribute when using refid"#)#;#}

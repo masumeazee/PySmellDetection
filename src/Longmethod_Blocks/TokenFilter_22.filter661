@@ -1,0 +1,1 @@
+String#filter#(#String#string#)#{##if#(#contains#==#null#)#{#throw#new#BuildException#(#"Missing contains in containsstring"#)#;#}##if#(#string#.#indexOf#(#contains#)#>#-#1#)#{##return#string#;#}##return#null#;#}

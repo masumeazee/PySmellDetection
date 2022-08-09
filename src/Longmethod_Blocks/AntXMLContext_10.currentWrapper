@@ -1,0 +1,1 @@
+RuntimeConfigurable#currentWrapper#(#)#{##if#(#wStack#.#size#(#)#<#1#)#{##return#null#;#}##return#(#RuntimeConfigurable#)#wStack#.#elementAt#(#wStack#.#size#(#)#-#1#)#;#}

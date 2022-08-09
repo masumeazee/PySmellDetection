@@ -1,0 +1,1 @@
+void#doEndTest2#(#String#text#)#{#reg#.#setPattern#(#"Line4$"#)#;#assertTrue#(#"Line4$ in default mode"#,#reg#.#matches#(#text#)#)#;#assertTrue#(#"Line4$ in single line mode"#,#reg#.#matches#(#text#,#RegexpMatcher#.#MATCH_SINGLELINE#)#)#;#assertTrue#(#"Line4$ in multi line mode"#,#reg#.#matches#(#text#,#RegexpMatcher#.#MATCH_MULTILINE#)#)#;#}

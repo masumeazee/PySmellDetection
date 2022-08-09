@@ -1,0 +1,1 @@
+String#getTarget#(#)#{##return#targetAttribute#!=#null#?#targetAttribute#:#getProject#(#)#.#getProperty#(#MagicNames#.#BUILD_JAVAC_TARGET#)#;#}

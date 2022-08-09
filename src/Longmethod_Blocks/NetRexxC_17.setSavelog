@@ -1,0 +1,1 @@
+void#setSavelog#(#boolean#savelog#)#{#this#.#savelog#=#savelog#;#}

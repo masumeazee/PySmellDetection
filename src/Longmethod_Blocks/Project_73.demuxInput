@@ -1,0 +1,1 @@
+int#demuxInput#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{#Task#task#=#getThreadTask#(#Thread#.#currentThread#(#)#)#;##if#(#task#==#null#)#{##return#defaultInput#(#buffer#,#offset#,#length#)#;#}#else#{##return#task#.#handleInput#(#buffer#,#offset#,#length#)#;#}#}

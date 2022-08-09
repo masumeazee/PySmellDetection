@@ -1,0 +1,1 @@
+void#setClass#(#String#aClass#)#{#className#=#aClass#.#trim#(#)#;#}

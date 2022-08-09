@@ -1,0 +1,1 @@
+void#setSeven#(#String#s#)#{#assertEquals#(#"2"#,#s#)#;#}

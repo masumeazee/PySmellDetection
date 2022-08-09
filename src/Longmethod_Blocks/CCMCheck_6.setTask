@@ -1,0 +1,1 @@
+void#setTask#(#String#v#)#{#this#.#task#=#v#;#}

@@ -1,0 +1,1 @@
+void#setInputString#(#String#inputString#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#usingInput#)#{#throw#new#BuildException#(#"The \"input\" and \"inputstring\" "#+#"attributes cannot both be specified"#)#;#}##this#.#inputString#=#inputString#;#}

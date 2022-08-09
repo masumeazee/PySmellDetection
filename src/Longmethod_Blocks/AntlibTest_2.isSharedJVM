@@ -1,0 +1,1 @@
+boolean#isSharedJVM#(#)#{#String#property#=#System#.#getProperty#(#"tests.and.ant.share.classloader"#)#;##return#property#!=#null#&&#Project#.#toBoolean#(#property#)#;#}

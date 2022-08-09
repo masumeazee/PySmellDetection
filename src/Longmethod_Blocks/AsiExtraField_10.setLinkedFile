@@ -1,0 +1,1 @@
+void#setLinkedFile#(#String#name#)#{#link#=#name#;#mode#=#getMode#(#mode#)#;#}

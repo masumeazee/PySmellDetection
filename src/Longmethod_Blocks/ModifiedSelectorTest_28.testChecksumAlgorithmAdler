@@ -1,0 +1,1 @@
+void#testChecksumAlgorithmAdler#(#)#{#ChecksumAlgorithm#algo#=#new#ChecksumAlgorithm#(#)#;#algo#.#setAlgorithm#(#"Adler"#)#;#doTest#(#algo#)#;#}

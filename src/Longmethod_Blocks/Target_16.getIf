@@ -1,0 +1,1 @@
+String#getIf#(#)#{##return#""#.#equals#(#ifCondition#)#?#null#:#ifCondition#;#}

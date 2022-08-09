@@ -1,0 +1,1 @@
+long#getSize#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getSize#(#)#;#}##if#(#!#isExists#(#false#)#)#{##return#0L#;#}##try#{#connect#(#)#;#long#contentlength#=#conn#.#getContentLength#(#)#;#close#(#)#;##return#contentlength#;#}##catch#(#IOException#e#)#{##return#UNKNOWN_SIZE#;#}#}

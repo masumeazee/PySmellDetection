@@ -1,0 +1,1 @@
+void#logTimeout#(#FormatterElement#[#]#feArray#,#JUnitTest#test#,#String#testCase#)#{#logVmExit#(#feArray#,#test#,#TIMEOUT_MESSAGE#,#testCase#)#;#}

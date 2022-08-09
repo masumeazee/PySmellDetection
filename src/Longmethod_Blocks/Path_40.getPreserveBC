@@ -1,0 +1,1 @@
+boolean#getPreserveBC#(#)#{##if#(#preserveBC#==#null#)#{#preserveBC#=#delegateIteratorToList#(#)#?#Boolean#.#TRUE#:#Boolean#.#FALSE#;#}##return#preserveBC#.#booleanValue#(#)#;#}

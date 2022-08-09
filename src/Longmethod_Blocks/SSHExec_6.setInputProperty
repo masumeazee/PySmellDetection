@@ -1,0 +1,1 @@
+void#setInputProperty#(#String#inputProperty#)#{#this#.#inputProperty#=#inputProperty#;#}

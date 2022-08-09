@@ -1,0 +1,1 @@
+void#setFeatureIfSupported#(#String#feature#,#boolean#value#)#{#try#{#getXmlReader#(#)#.#setFeature#(#feature#,#value#)#;#}##catch#(#SAXNotRecognizedException#e#)#{#log#(#"Not recognizied: "#+#feature#,#Project#.#MSG_VERBOSE#)#;#}##catch#(#SAXNotSupportedException#e#)#{#log#(#"Not supported: "#+#feature#,#Project#.#MSG_VERBOSE#)#;#}#}

@@ -1,0 +1,1 @@
+void#addFile#(#final#String#file#,#final#String#revision#)#{#files#.#addElement#(#new#RCSFile#(#file#,#revision#)#)#;#}

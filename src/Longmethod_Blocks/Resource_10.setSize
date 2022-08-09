@@ -1,0 +1,1 @@
+void#setSize#(#long#size#)#{#checkAttributesAllowed#(#)#;#this#.#size#=#new#Long#(#size#>#UNKNOWN_SIZE#?#size#:#UNKNOWN_SIZE#)#;#}

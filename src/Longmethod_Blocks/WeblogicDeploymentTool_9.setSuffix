@@ -1,0 +1,1 @@
+void#setSuffix#(#String#inString#)#{#this#.#jarSuffix#=#inString#;#}

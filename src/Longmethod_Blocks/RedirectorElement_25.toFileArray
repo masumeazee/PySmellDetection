@@ -1,0 +1,1 @@
+File#[#]#toFileArray#(#String#[#]#name#)#{##if#(#name#==#null#)#{##return#null#;#}##//remove any null elements#ArrayList#list#=#new#ArrayList#(#name#.#length#)#;##for#(#int#i#=#0#;##i#<#name#.#length#;#i#++#)#{##if#(#name#[#i#]#!=#null#)#{#list#.#add#(#getProject#(#)#.#resolveFile#(#name#[#i#]#)#)#;#}#}##return#(#File#[#]#)#(#list#.#toArray#(#new#File#[#list#.#size#(#)#]#)#)#;#}

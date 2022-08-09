@@ -1,0 +1,1 @@
+void#testInnerClosure#(#)#{#executeTarget#(#"testinnerclosure"#)#;#assertEquals#(#"Depend did not leave correct number of files"#,#4#,#getResultFiles#(#)#.#size#(#)#)#;#}

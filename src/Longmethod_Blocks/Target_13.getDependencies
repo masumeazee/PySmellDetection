@@ -1,0 +1,1 @@
+Enumeration#getDependencies#(#)#{##return#Collections#.#enumeration#(#dependencies#==#null#?#Collections#.#EMPTY_LIST#:#dependencies#)#;#}

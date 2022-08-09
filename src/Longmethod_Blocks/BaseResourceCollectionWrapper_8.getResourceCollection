@@ -1,0 +1,1 @@
+ResourceCollection#getResourceCollection#(#)#{#dieOnCircularReference#(#)#;##if#(#rc#==#null#)#{#throw#oneNested#(#)#;#}##return#rc#;#}

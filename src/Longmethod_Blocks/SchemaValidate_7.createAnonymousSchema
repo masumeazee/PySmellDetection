@@ -1,0 +1,1 @@
+void#createAnonymousSchema#(#)#{##if#(#anonymousSchema#==#null#)#{#anonymousSchema#=#new#SchemaLocation#(#)#;#}##anonymousSchema#.#setNamespace#(#"(no namespace)"#)#;#}

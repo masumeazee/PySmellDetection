@@ -1,0 +1,1 @@
+void#appendName#(#String#name#)#{#PropertyRef#r#=#new#PropertyRef#(#)#;#r#.#setName#(#name#)#;#addPropertyref#(#r#)#;#}

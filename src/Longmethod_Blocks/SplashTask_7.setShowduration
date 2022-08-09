@@ -1,0 +1,1 @@
+void#setShowduration#(#int#duration#)#{#this#.#showDuration#=#duration#;#}

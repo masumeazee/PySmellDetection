@@ -1,0 +1,1 @@
+void#testCloseArray#(#)#throws#IOException#{#writeByteArray#(#)#;#stream#.#close#(#)#;#stream#.#assertInvoked#(#)#;#stream#=#null#;#}

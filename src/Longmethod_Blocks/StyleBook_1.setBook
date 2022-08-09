@@ -1,0 +1,1 @@
+void#setBook#(#final#File#book#)#{#m_book#=#book#;#}

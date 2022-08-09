@@ -1,0 +1,1 @@
+void#setInternalDateFormat#(#final#DateFormat#dateFormat#)#{#this#.#dateFormat#=#dateFormat#;#}

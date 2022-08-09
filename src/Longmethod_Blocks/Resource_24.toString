@@ -1,0 +1,1 @@
+String#toString#(#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#toString#(#)#;#}##String#n#=#getName#(#)#;##return#n#==#null#?#"(anonymous)"#:#n#;#}

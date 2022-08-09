@@ -1,0 +1,1 @@
+void#test5#(#)#{#executeTarget#(#"test5"#)#;#java#.#io#.#File#f#=#new#java#.#io#.#File#(#getProjectDir#(#)#,#"copyfile.tmp"#)#;##if#(#f#.#exists#(#)#)#{#f#.#delete#(#)#;#}#else#{#fail#(#"Copy failed"#)#;#}#}

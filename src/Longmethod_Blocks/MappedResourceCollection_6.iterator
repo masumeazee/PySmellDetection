@@ -1,0 +1,1 @@
+Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#(#(#MappedResourceCollection#)#getCheckedRef#(#)#)#.#iterator#(#)#;#}##checkInitialized#(#)#;##return#new#MappedIterator#(#nested#.#iterator#(#)#,#mapper#)#;#}

@@ -1,0 +1,1 @@
+void#testNoTimeOutForked#(#)#throws#Exception#{#Commandline#cmd#=#getCommandline#(#TIME_OUT#/#2#)#;#ej#.#setJavaCommand#(#cmd#)#;#ej#.#fork#(#cp#)#;#assertTrue#(#"process should not have been killed"#,#!#ej#.#killedProcess#(#)#)#;#}

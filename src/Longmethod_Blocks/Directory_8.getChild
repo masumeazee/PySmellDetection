@@ -1,0 +1,1 @@
+Directory#getChild#(#File#dir#)#{#for#(#int#i#=#0#;##i#<#childDirectories#.#size#(#)#;#i#++#)#{#Directory#current#=#(#Directory#)#childDirectories#.#get#(#i#)#;##if#(#current#.#getDirectory#(#)#.#equals#(#dir#)#)#{##return#current#;#}#}##return#null#;#}

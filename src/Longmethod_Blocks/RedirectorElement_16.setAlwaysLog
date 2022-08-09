@@ -1,0 +1,1 @@
+void#setAlwaysLog#(#boolean#alwaysLog#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#alwaysLog#=#(#(#alwaysLog#)#?#Boolean#.#TRUE#:#Boolean#.#FALSE#)#;#}

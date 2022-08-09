@@ -1,0 +1,1 @@
+URL#fileToURL#(#File#file#)#throws#MalformedURLException#{#try#{##return#new#URL#(#encodeURI#(#file#.#toURL#(#)#.#toString#(#)#)#)#;#}##catch#(#UnsupportedEncodingException#ex#)#{#throw#new#MalformedURLException#(#ex#.#toString#(#)#)#;#}#}

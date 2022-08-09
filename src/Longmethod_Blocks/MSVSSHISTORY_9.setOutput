@@ -1,0 +1,1 @@
+void#setOutput#(#File#outfile#)#{##if#(#outfile#!=#null#)#{#super#.#setInternalOutputFilename#(#outfile#.#getAbsolutePath#(#)#)#;#}#}

@@ -1,0 +1,1 @@
+String#getTypeSpecifier#(#)#{#String#typenm#=#null#;#typenm#=#getTypeName#(#)#;##if#(#getVOB#(#)#!=#null#)#{#typenm#+=#"@"#+#getVOB#(#)#;#}##return#typenm#;#}

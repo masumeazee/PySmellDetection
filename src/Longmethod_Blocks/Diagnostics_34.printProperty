@@ -1,0 +1,1 @@
+void#printProperty#(#PrintStream#out#,#String#key#)#{#String#value#=#getProperty#(#key#)#;##if#(#value#!=#null#)#{#out#.#print#(#key#)#;#out#.#print#(#" = "#)#;#out#.#print#(#'"'#)#;#out#.#print#(#value#)#;#out#.#println#(#'"'#)#;#}#}

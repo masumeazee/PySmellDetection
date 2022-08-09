@@ -1,0 +1,1 @@
+void#setSectionsonly#(#final#boolean#sectionsonly#)#{#this#.#sectionsonly#=#sectionsonly#;#}

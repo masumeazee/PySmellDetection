@@ -1,0 +1,1 @@
+void#start#(#)#{#outputThread#.#start#(#)#;#errorThread#.#start#(#)#;##if#(#inputPump#!=#null#)#{#Thread#inputThread#=#new#Thread#(#inputPump#)#;#inputThread#.#setDaemon#(#true#)#;#inputThread#.#start#(#)#;#}#}

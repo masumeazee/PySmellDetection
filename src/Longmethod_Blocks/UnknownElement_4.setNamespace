@@ -1,0 +1,1 @@
+void#setNamespace#(#String#namespace#)#{##if#(#namespace#.#equals#(#ProjectHelper#.#ANT_CURRENT_URI#)#)#{#ComponentHelper#helper#=#ComponentHelper#.#getComponentHelper#(#getProject#(#)#)#;#namespace#=#helper#.#getCurrentAntlibUri#(#)#;#}##this#.#namespace#=#namespace#==#null#?#""#:#namespace#;#}

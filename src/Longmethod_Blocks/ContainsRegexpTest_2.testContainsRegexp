@@ -1,0 +1,1 @@
+void#testContainsRegexp#(#)#{#TaskdefForRegexpTest#MyTask#=#new#TaskdefForRegexpTest#(#"containsregexp"#)#;##try#{#MyTask#.#setUp#(#)#;#MyTask#.#test#(#)#;#}##finally#{#MyTask#.#tearDown#(#)#;#}#}

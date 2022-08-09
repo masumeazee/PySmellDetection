@@ -1,0 +1,1 @@
+void#copyFile#(#String#sourceFile#,#String#destFile#,#boolean#filtering#,#boolean#overwrite#)#throws#IOException#{#FILE_UTILS#.#copyFile#(#sourceFile#,#destFile#,#filtering#?#globalFilters#:#null#,#overwrite#)#;#}

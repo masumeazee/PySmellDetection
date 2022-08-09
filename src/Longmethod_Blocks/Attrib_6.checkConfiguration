@@ -1,0 +1,1 @@
+void#checkConfiguration#(#)#{##if#(#!#haveAttr#(#)#)#{#throw#new#BuildException#(#"Missing attribute parameter"#,#getLocation#(#)#)#;#}##super#.#checkConfiguration#(#)#;#}

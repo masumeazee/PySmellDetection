@@ -1,0 +1,1 @@
+String#toString#(#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#toString#(#)#;#}##if#(#file#==#null#)#{##return#"(unbound file resource)"#;#}##String#absolutePath#=#file#.#getAbsolutePath#(#)#;##return#FILE_UTILS#.#normalize#(#absolutePath#)#.#getAbsolutePath#(#)#;#}

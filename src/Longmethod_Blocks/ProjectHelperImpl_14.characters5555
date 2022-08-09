@@ -1,0 +1,1 @@
+void#characters#(#char#[#]#buf#,#int#start#,#int#count#)#{#String#text#=#new#String#(#buf#,#start#,#count#)#;#String#currentDescription#=#helperImpl#.#project#.#getDescription#(#)#;##if#(#currentDescription#==#null#)#{#helperImpl#.#project#.#setDescription#(#text#)#;#}#else#{#helperImpl#.#project#.#setDescription#(#currentDescription#+#text#)#;#}#}

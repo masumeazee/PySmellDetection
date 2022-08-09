@@ -1,0 +1,1 @@
+void#removeAttribute#(#String#attributeName#)#{#String#key#=#attributeName#.#toLowerCase#(#)#;#attributes#.#remove#(#key#)#;#attributeIndex#.#removeElement#(#key#)#;#}

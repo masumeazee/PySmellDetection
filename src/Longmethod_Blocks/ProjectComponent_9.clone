@@ -1,0 +1,1 @@
+Object#clone#(#)#throws#CloneNotSupportedException#{#ProjectComponent#pc#=#(#ProjectComponent#)#super#.#clone#(#)#;#pc#.#setLocation#(#getLocation#(#)#)#;#pc#.#setProject#(#getProject#(#)#)#;##return#pc#;#}

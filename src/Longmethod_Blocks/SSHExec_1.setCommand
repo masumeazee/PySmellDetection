@@ -1,0 +1,1 @@
+void#setCommand#(#String#command#)#{#this#.#command#=#command#;#}

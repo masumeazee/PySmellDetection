@@ -1,0 +1,1 @@
+void#fireMessageLogged#(#Task#task#,#String#message#,#Throwable#throwable#,#int#priority#)#{#BuildEvent#event#=#new#BuildEvent#(#task#)#;#event#.#setException#(#throwable#)#;#fireMessageLoggedEvent#(#event#,#message#,#priority#)#;#}

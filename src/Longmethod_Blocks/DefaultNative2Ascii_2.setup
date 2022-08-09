@@ -1,0 +1,1 @@
+void#setup#(#Commandline#cmd#,#Native2Ascii#args#)#throws#BuildException#{##if#(#args#.#getEncoding#(#)#!=#null#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-encoding"#)#;#cmd#.#createArgument#(#)#.#setValue#(#args#.#getEncoding#(#)#)#;#}##cmd#.#addArguments#(#args#.#getCurrentArgs#(#)#)#;#}

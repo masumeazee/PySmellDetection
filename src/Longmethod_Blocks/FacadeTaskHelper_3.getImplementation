@@ -1,0 +1,1 @@
+String#getImplementation#(#)#{##return#userChoice#!=#null#?#userChoice#:#(#magicValue#!=#null#?#magicValue#:#defaultValue#)#;#}

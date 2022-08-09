@@ -1,0 +1,5 @@
+ResourceSelector#getTargetSelectorForSource#(#final#Resource#sr#)#{##return#new#ResourceSelector#(#)#{#public#boolean#isSelected#(#Resource#target#)#{##/* Extra I/O, probably wasted:
+                               if (target.isDirectory()) {
+                               return false;
+                               }
+                            */##return#SelectorUtils#.#isOutOfDate#(#sr#,#target#,#granularity#)#;#}#}#;#}

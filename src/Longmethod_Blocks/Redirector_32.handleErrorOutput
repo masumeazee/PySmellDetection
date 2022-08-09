@@ -1,0 +1,1 @@
+void#handleErrorOutput#(#String#output#)#{#synchronized#(#errMutex#)#{##if#(#errorPrintStream#==#null#)#{#errorPrintStream#=#new#PrintStream#(#errorStream#)#;#}##errorPrintStream#.#print#(#output#)#;#}#}

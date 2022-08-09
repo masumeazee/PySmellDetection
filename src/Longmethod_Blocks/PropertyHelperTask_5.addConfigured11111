@@ -1,0 +1,1 @@
+void#addConfigured#(#PropertyHelper#.#Delegate#delegate#)#{#getAddDelegateList#(#)#.#add#(#delegate#)#;#}

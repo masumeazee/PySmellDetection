@@ -1,0 +1,1 @@
+Process#launch#(#Project#project#,#String#[#]#command#,#String#[#]#env#,#File#dir#,#boolean#useVM#)#throws#IOException#{##if#(#dir#!=#null#&&#!#dir#.#exists#(#)#)#{#throw#new#BuildException#(#dir#+#" doesn't exist."#)#;#}##CommandLauncher#launcher#=#(#(#useVM#&&#vmLauncher#!=#null#)#?#vmLauncher#:#shellLauncher#)#;##return#launcher#.#exec#(#project#,#command#,#env#,#dir#)#;#}

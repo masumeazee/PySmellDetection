@@ -1,0 +1,1 @@
+void#setToplinkdescriptor#(#String#inString#)#{#this#.#toplinkDescriptor#=#inString#;#}

@@ -1,0 +1,1 @@
+void#setTrace#(#boolean#enable#)#{#trace#=#enable#;#}

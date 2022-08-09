@@ -1,0 +1,1 @@
+Reader#getReader#(#)#throws#IOException#{##if#(#reader#==#null#&&#readerSources#.#hasNext#(#)#)#{#reader#=#factory#.#getReader#(#readerSources#.#next#(#)#)#;#Arrays#.#fill#(#lastChars#,#(#char#)#0#)#;#}##return#reader#;#}

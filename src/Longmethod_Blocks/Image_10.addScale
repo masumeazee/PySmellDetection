@@ -1,0 +1,1 @@
+void#addScale#(#Scale#instr#)#{#instructions#.#add#(#instr#)#;#}

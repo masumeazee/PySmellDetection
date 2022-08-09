@@ -1,0 +1,7 @@
+Map#getExpectedAttributes#(#)#{#Map#attrMap#=#new#Hashtable#(#)#;#attrMap#.#put#(#"seven"#,#String#.#class#)#;#attrMap#.#put#(#"eight"#,#Integer#.#TYPE#)#;#attrMap#.#put#(#"nine"#,#Integer#.#class#)#;#attrMap#.#put#(#"ten"#,#File#.#class#)#;#attrMap#.#put#(#"eleven"#,#Boolean#.#TYPE#)#;#attrMap#.#put#(#"twelve"#,#Boolean#.#class#)#;#attrMap#.#put#(#"thirteen"#,#Class#.#class#)#;#attrMap#.#put#(#"fourteen"#,#StringBuffer#.#class#)#;#attrMap#.#put#(#"fifteen"#,#Character#.#TYPE#)#;#attrMap#.#put#(#"sixteen"#,#Character#.#class#)#;#attrMap#.#put#(#"seventeen"#,#Byte#.#TYPE#)#;#attrMap#.#put#(#"eightteen"#,#Short#.#TYPE#)#;#attrMap#.#put#(#"nineteen"#,#Double#.#TYPE#)#;##/*
+         * JUnit 3.7 adds a getName method to TestCase - so we now
+         * have a name attribute in IntrospectionHelperTest if we run
+         * under JUnit 3.7 but not in earlier versions.
+         *
+         * Simply add it here and remove it after the tests.
+         */#attrMap#.#put#(#"name"#,#String#.#class#)#;##return#attrMap#;#}

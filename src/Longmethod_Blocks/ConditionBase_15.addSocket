@@ -1,0 +1,1 @@
+void#addSocket#(#Socket#s#)#{#conditions#.#addElement#(#s#)#;#}

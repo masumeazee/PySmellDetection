@@ -1,0 +1,1 @@
+Object#clone#(#)#{##if#(#isReference#(#)#)#{##return#(#(#TarFileSet#)#getRef#(#getProject#(#)#)#)#.#clone#(#)#;#}#else#{##return#super#.#clone#(#)#;#}#}

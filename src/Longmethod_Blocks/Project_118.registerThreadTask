@@ -1,0 +1,1 @@
+void#registerThreadTask#(#Thread#thread#,#Task#task#)#{#synchronized#(#threadTasks#)#{##if#(#task#!=#null#)#{#threadTasks#.#put#(#thread#,#task#)#;#threadGroupTasks#.#put#(#thread#.#getThreadGroup#(#)#,#task#)#;#}#else#{#threadTasks#.#remove#(#thread#)#;#threadGroupTasks#.#remove#(#thread#.#getThreadGroup#(#)#)#;#}#}#}

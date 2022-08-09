@@ -1,0 +1,1 @@
+void#setChangelist#(#int#changelist#)#throws#BuildException#{##if#(#changelist#<=#0#)#{#throw#new#BuildException#(#"P4Add: Changelist# should be a positive number"#)#;#}##this#.#changelist#=#changelist#;#}

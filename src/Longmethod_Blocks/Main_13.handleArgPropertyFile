@@ -1,0 +1,1 @@
+int#handleArgPropertyFile#(#String#[#]#args#,#int#pos#)#{#try#{#propertyFiles#.#addElement#(#args#[#++#pos#]#)#;#}##catch#(#ArrayIndexOutOfBoundsException#aioobe#)#{#String#msg#=#"You must specify a property filename when "#+#"using the -propertyfile argument"#;#throw#new#BuildException#(#msg#)#;#}##return#pos#;#}

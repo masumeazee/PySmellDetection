@@ -1,0 +1,1 @@
+void#test4#(#)#{##if#(#Os#.#isFamily#(#"netware"#)#||#Os#.#isFamily#(#"dos"#)#)#{##return#;#}##executeTarget#(#"test4"#)#;#String#filesep#=#System#.#getProperty#(#"file.separator"#)#;#String#expected#=#filesep#+#"usr"#+#filesep#+#"local"#;#String#checkprop#=#project#.#getProperty#(#"local.dir"#)#;##if#(#!#checkprop#.#equals#(#expected#)#)#{#fail#(#"dirname failed"#)#;#}#}

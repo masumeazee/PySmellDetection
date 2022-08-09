@@ -1,0 +1,1 @@
+void#setClassname#(#String#classname#)#{#this#.#classname#=#classname#;##if#(#XML_FORMATTER_CLASS_NAME#.#equals#(#classname#)#)#{#setExtension#(#".xml"#)#;#}#else##if#(#PLAIN_FORMATTER_CLASS_NAME#.#equals#(#classname#)#)#{#setExtension#(#".txt"#)#;#}#else##if#(#BRIEF_FORMATTER_CLASS_NAME#.#equals#(#classname#)#)#{#setExtension#(#".txt"#)#;#}#}

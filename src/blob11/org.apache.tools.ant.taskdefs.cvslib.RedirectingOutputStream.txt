@@ -1,0 +1,1 @@
+void#processLine#(#final#String#line#)#{#parser#.#stdout#(#line#)#;#}##

@@ -1,0 +1,1 @@
+String#stripStart#(#String#s#,#String#chars#)#{##if#(#s#==#null#)#{##return#null#;#}##int#i#=#0#;##for#(#;##i#<#s#.#length#(#)#;#i#++#)#{##if#(#chars#.#indexOf#(#s#.#charAt#(#i#)#)#==#-#1#)#{#break#;#}#}##if#(#i#==#s#.#length#(#)#)#{##return#""#;#}##return#s#.#substring#(#i#)#;#}

@@ -1,0 +1,1 @@
+void#replaceChild#(#Task#el#,#Task#o#)#{#int#index#;##while#(#(#index#=#children#.#indexOf#(#el#)#)#>=#0#)#{#children#.#set#(#index#,#o#)#;#}#}

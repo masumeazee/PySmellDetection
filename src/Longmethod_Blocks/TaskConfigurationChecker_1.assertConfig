@@ -1,0 +1,1 @@
+void#assertConfig#(#boolean#condition#,#String#errormessage#)#{##if#(#!#condition#)#{#errors#.#add#(#errormessage#)#;#}#}

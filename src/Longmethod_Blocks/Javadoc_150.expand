@@ -1,0 +1,1 @@
+String#expand#(#String#content#)#{##return#getProject#(#)#.#replaceProperties#(#content#)#;#}

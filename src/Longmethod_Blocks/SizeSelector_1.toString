@@ -1,0 +1,1 @@
+String#toString#(#)#{#StringBuffer#buf#=#new#StringBuffer#(#"{sizeselector value: "#)#;#buf#.#append#(#sizelimit#)#;#buf#.#append#(#"compare: "#)#.#append#(#when#.#getValue#(#)#)#;#buf#.#append#(#"}"#)#;##return#buf#.#toString#(#)#;#}

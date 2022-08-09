@@ -1,0 +1,1 @@
+void#setEnableMultipleMappings#(#boolean#enableMultipleMappings#)#{#this#.#enableMultipleMappings#=#enableMultipleMappings#;#}

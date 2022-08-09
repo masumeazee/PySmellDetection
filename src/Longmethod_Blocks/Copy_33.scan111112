@@ -1,0 +1,1 @@
+void#scan#(#File#fromDir#,#File#toDir#,#String#[#]#files#,#String#[#]#dirs#)#{#FileNameMapper#mapper#=#getMapper#(#)#;#buildMap#(#fromDir#,#toDir#,#files#,#mapper#,#fileCopyMap#)#;##if#(#includeEmpty#)#{#buildMap#(#fromDir#,#toDir#,#dirs#,#mapper#,#dirCopyMap#)#;#}#}

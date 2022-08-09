@@ -1,0 +1,1 @@
+void#compareFiles#(#File#src#,#File#dest#)#{#FilesMatch#match#=#new#FilesMatch#(#)#;#match#.#setFile1#(#src#)#;#match#.#setFile2#(#dest#)#;#assertTrue#(#"Assert files are equal."#,#match#.#eval#(#)#)#;#}

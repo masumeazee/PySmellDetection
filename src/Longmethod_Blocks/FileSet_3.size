@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#FileSet#)#getRef#(#getProject#(#)#)#)#.#size#(#)#;#}##return#getDirectoryScanner#(#getProject#(#)#)#.#getIncludedFilesCount#(#)#;#}

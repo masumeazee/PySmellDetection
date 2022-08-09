@@ -1,0 +1,1 @@
+void#testSplit#(#)#{#final#String#data#=#"a,b,,"#;#Vector#res#=#StringUtils#.#split#(#data#,#','#)#;#assertEquals#(#4#,#res#.#size#(#)#)#;#assertEquals#(#"a"#,#res#.#elementAt#(#0#)#)#;#assertEquals#(#"b"#,#res#.#elementAt#(#1#)#)#;#assertEquals#(#""#,#res#.#elementAt#(#2#)#)#;#assertEquals#(#""#,#res#.#elementAt#(#3#)#)#;#}

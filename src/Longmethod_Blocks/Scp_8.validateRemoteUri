@@ -1,0 +1,1 @@
+void#validateRemoteUri#(#String#type#,#String#aToUri#)#{##if#(#!#isRemoteUri#(#aToUri#)#)#{#throw#new#BuildException#(#type#+#" '"#+#aToUri#+#"' is invalid. "#+#"The 'remoteToDir' attribute must "#+#"have syntax like the "#+#"following: user:password@host:/path"#+#" - the :password part is optional"#)#;#}#}

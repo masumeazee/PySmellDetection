@@ -1,0 +1,1 @@
+void#scandir#(#File#dir#,#String#vpath#,#boolean#fast#)#{#scandir#(#dir#,#new#TokenizedPath#(#vpath#)#,#fast#)#;#}

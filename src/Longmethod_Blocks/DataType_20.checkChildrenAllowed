@@ -1,0 +1,1 @@
+void#checkChildrenAllowed#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}#}

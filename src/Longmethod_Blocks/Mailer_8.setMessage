@@ -1,0 +1,1 @@
+void#setMessage#(#Message#m#)#{#this#.#message#=#m#;#}

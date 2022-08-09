@@ -1,0 +1,1 @@
+String#getBeginToken#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#getBeginToken#(#)#;#}##return#startOfToken#;#}

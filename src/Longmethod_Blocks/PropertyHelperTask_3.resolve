@@ -1,0 +1,1 @@
+PropertyHelper#.#Delegate#resolve#(#)#{##if#(#refid#==#null#)#{#throw#new#BuildException#(#"refid required for generic delegate"#)#;#}##return#(#PropertyHelper#.#Delegate#)#getProject#(#)#.#getReference#(#refid#)#;#}

@@ -1,0 +1,1 @@
+void#setAppend#(#boolean#append#)#{#synchronized#(#outMutex#)#{#appendOut#=#append#;#}##synchronized#(#errMutex#)#{#appendErr#=#append#;#}#}

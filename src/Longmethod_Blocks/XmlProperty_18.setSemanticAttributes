@@ -1,0 +1,1 @@
+void#setSemanticAttributes#(#boolean#semanticAttributes#)#{#this#.#semanticAttributes#=#semanticAttributes#;#}

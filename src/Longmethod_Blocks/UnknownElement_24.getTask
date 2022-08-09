@@ -1,0 +1,1 @@
+Task#getTask#(#)#{##if#(#realThing#instanceof#Task#)#{##return#(#Task#)#realThing#;#}##return#null#;#}

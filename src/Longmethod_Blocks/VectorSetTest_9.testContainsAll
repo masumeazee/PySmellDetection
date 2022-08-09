@@ -1,0 +1,1 @@
+void#testContainsAll#(#)#{#assertFalse#(#v#.#containsAll#(#Arrays#.#asList#(#new#Object#[#]#{#O#,#O#}#)#)#)#;#v#.#add#(#O#)#;#assertTrue#(#v#.#containsAll#(#Arrays#.#asList#(#new#Object#[#]#{#O#,#O#}#)#)#)#;#assertFalse#(#v#.#containsAll#(#Arrays#.#asList#(#new#Object#[#]#{#O#,#null#}#)#)#)#;#}

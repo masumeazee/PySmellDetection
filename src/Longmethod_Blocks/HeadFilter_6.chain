@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#HeadFilter#newFilter#=#new#HeadFilter#(#rdr#)#;#newFilter#.#setLines#(#getLines#(#)#)#;#newFilter#.#setSkip#(#getSkip#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

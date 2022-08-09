@@ -1,0 +1,1 @@
+void#maybeConfigure#(#Project#p#)#throws#BuildException#{#maybeConfigure#(#p#,#true#)#;#}

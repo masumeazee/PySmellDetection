@@ -1,0 +1,1 @@
+boolean#evaluate#(#long#t1#,#long#t2#,#long#g#)#{#int#cmp#=#getIndex#(#)#;##if#(#cmp#==#-#1#)#{#throw#new#BuildException#(#"TimeComparison value not set."#)#;#}##if#(#cmp#==#0#)#{##return#t1#-#g#<#t2#;#}##if#(#cmp#==#1#)#{##return#t1#+#g#>#t2#;#}##return#Math#.#abs#(#t1#-#t2#)#<=#g#;#}

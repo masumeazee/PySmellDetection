@@ -1,0 +1,1 @@
+ZipShort#getLocalFileDataLength#(#)#{##return#new#ZipShort#(#localData#.#length#)#;#}

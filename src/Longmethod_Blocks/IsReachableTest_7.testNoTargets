@@ -1,0 +1,1 @@
+void#testNoTargets#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoTargets"#,#"no params"#,#IsReachable#.#ERROR_NO_HOSTNAME#)#;#}

@@ -1,0 +1,1 @@
+void#setCloneVm#(#boolean#cloneVm#)#{#getCommandLine#(#)#.#setCloneVm#(#cloneVm#)#;#}

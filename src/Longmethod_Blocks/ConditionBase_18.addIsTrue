@@ -1,0 +1,1 @@
+void#addIsTrue#(#IsTrue#test#)#{#conditions#.#addElement#(#test#)#;#}

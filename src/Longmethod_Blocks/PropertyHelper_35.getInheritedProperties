@@ -1,0 +1,1 @@
+Hashtable#getInheritedProperties#(#)#{##//avoid concurrent modification:#synchronized#(#inheritedProperties#)#{##return#new#Hashtable#(#inheritedProperties#)#;#}#}

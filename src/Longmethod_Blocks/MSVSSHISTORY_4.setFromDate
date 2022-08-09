@@ -1,0 +1,1 @@
+void#setFromDate#(#String#fromDate#)#{#super#.#setInternalFromDate#(#fromDate#)#;#}

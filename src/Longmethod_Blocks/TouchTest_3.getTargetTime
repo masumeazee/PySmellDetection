@@ -1,0 +1,1 @@
+long#getTargetTime#(#)#{#File#file#=#new#File#(#System#.#getProperty#(#"root"#)#,#TOUCH_FILE#)#;##if#(#!#file#.#exists#(#)#)#{#throw#new#BuildException#(#"failed to touch file "#+#file#)#;#}##return#file#.#lastModified#(#)#;#}

@@ -1,0 +1,1 @@
+void#setTrim#(#boolean#b#)#{#trim#=#b#;#}

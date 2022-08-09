@@ -1,0 +1,1 @@
+void#setParent#(#ClassLoader#parent#)#{#this#.#parent#=#parent#==#null#?#AntClassLoader#.#class#.#getClassLoader#(#)#:#parent#;#}

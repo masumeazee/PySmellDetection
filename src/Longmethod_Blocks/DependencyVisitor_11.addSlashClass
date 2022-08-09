@@ -1,0 +1,1 @@
+void#addSlashClass#(#String#classname#)#{#addClass#(#classname#.#replace#(#'/'#,#'.'#)#)#;#}

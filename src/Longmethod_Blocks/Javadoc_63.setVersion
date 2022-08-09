@@ -1,0 +1,1 @@
+void#setVersion#(#boolean#b#)#{#this#.#version#=#b#;#}

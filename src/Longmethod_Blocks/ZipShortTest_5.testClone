@@ -1,0 +1,1 @@
+void#testClone#(#)#{#ZipShort#s1#=#new#ZipShort#(#42#)#;#ZipShort#s2#=#(#ZipShort#)#s1#.#clone#(#)#;#assertNotSame#(#s1#,#s2#)#;#assertEquals#(#s1#,#s2#)#;#assertEquals#(#s1#.#getValue#(#)#,#s2#.#getValue#(#)#)#;#}

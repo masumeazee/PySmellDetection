@@ -1,0 +1,1 @@
+String#[#]#mapFileName#(#final#String#source_file_name#)#{##return#new#String#[#]#{#source_file_name#,#source_file_name#+#".copy2"#}#;#}

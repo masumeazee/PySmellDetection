@@ -1,0 +1,1 @@
+void#setApplication#(#String#application#)#{#this#.#application#=#application#;#}

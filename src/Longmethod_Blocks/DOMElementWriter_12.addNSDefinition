@@ -1,0 +1,1 @@
+void#addNSDefinition#(#Element#element#,#String#uri#)#{#ArrayList#al#=#(#ArrayList#)#nsURIByElement#.#get#(#element#)#;##if#(#al#==#null#)#{#al#=#new#ArrayList#(#)#;#nsURIByElement#.#put#(#element#,#al#)#;#}##al#.#add#(#uri#)#;#}

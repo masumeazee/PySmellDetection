@@ -1,0 +1,1 @@
+void#addConfiguredTarget#(#TargetElement#t#)#{#String#name#=#t#.#getName#(#)#;##if#(#""#.#equals#(#name#)#)#{#throw#new#BuildException#(#"target name must not be empty"#)#;#}##targets#.#add#(#t#)#;#}

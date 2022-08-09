@@ -1,0 +1,1 @@
+InputStream#getInputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getInputStream#(#)#;#}##throw#new#UnsupportedOperationException#(#)#;#}

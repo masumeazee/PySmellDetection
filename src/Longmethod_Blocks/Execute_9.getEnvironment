@@ -1,0 +1,1 @@
+String#[#]#getEnvironment#(#)#{##return#(#env#==#null#||#newEnvironment#)#?#env#:#patchEnvironment#(#)#;#}

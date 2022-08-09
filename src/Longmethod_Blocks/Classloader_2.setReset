@@ -1,0 +1,1 @@
+void#setReset#(#boolean#b#)#{#this#.#reset#=#b#;#}

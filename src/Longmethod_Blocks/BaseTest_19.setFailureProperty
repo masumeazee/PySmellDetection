@@ -1,0 +1,1 @@
+void#setFailureProperty#(#String#failureProperty#)#{#this#.#failureProperty#=#failureProperty#;#}

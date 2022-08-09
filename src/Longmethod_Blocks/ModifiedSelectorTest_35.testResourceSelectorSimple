@@ -1,0 +1,1 @@
+void#testResourceSelectorSimple#(#)#{#BFT#bft#=#new#BFT#(#"modifiedselector"#)#;#bft#.#doTarget#(#"modifiedselectortest-ResourceSimple"#)#;#bft#.#deleteCachefile#(#)#;##//new File("src/etc/testcases/types/resources/selectors/cache.properties").delete();#}

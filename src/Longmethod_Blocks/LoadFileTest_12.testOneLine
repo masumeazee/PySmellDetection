@@ -1,0 +1,1 @@
+void#testOneLine#(#)#throws#BuildException#{#expectPropertySet#(#"testOneLine"#,#"testOneLine"#,#"1,2,3,4"#)#;#}

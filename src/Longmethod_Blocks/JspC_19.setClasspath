@@ -1,0 +1,1 @@
+void#setClasspath#(#Path#cp#)#{##if#(#classpath#==#null#)#{#classpath#=#cp#;#}#else#{#classpath#.#append#(#cp#)#;#}#}

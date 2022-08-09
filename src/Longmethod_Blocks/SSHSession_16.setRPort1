@@ -1,0 +1,1 @@
+void#setRPort#(#int#rport#)#{#Integer#portKey#=#new#Integer#(#rport#)#;##if#(#remotePortsUsed#.#contains#(#portKey#)#)#throw#new#BuildException#(#"Multiple remote tunnels defined to"#+#" use same remote port "#+#rport#)#;##remotePortsUsed#.#add#(#portKey#)#;#this#.#rport#=#rport#;#}

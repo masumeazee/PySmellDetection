@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Path#)#getCheckedRef#(#)#)#.#size#(#)#;#}##dieOnCircularReference#(#)#;##return#union#==#null#?#0#:#assertFilesystemOnly#(#union#)#.#size#(#)#;#}

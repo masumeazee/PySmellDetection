@@ -1,0 +1,1 @@
+String#resolve#(#String#filelist#)#{#StringBuffer#sb#=#new#StringBuffer#(#)#;#int#min#=#(#filenames#.#length#>#filelist#.#length#(#)#)#?#filelist#.#length#(#)#:#filenames#.#length#;##for#(#int#i#=#0#;##i#<#min#;#i#++#)#{##if#(#'X'#==#filelist#.#charAt#(#i#)#)#{#sb#.#append#(#filenames#[#i#]#)#;#sb#.#append#(#";"#)#;#}#}##return#sb#.#toString#(#)#;#}

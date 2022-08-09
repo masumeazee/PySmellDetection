@@ -1,0 +1,1 @@
+void#addParam#(#String#name#,#String#value#)#{#params#.#put#(#name#,#value#)#;#}

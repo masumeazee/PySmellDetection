@@ -1,0 +1,1 @@
+Reader#chain#(#final#Reader#rdr#)#{#ReplaceTokens#newFilter#=#new#ReplaceTokens#(#rdr#)#;#newFilter#.#setBeginToken#(#getBeginToken#(#)#)#;#newFilter#.#setEndToken#(#getEndToken#(#)#)#;#newFilter#.#setTokens#(#getTokens#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

@@ -1,0 +1,1 @@
+int#hashCode#(#)#{##return#super#.#hashCode#(#)#*#(#getArchive#(#)#==#null#?#NULL_ARCHIVE#:#getArchive#(#)#.#hashCode#(#)#)#;#}

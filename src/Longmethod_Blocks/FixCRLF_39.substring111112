@@ -1,0 +1,1 @@
+String#substring#(#int#begin#)#{##return#line#.#substring#(#begin#)#;#}

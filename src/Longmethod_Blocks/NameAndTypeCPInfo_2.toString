@@ -1,0 +1,1 @@
+String#toString#(#)#{#String#value#;##if#(#isResolved#(#)#)#{#value#=#"Name = "#+#name#+#", type = "#+#type#;#}#else#{#value#=#"Name index = "#+#nameIndex#+#", descriptor index = "#+#descriptorIndex#;#}##return#value#;#}

@@ -1,0 +1,1 @@
+void#assertResultFileExists#(#String#classNameFragment#,#String#ext#)#{#assertTrue#(#"result for "#+#classNameFragment#+#"Test"#+#ext#+#" exists"#,#getProject#(#)#.#resolveFile#(#"out/TEST-org.apache.tools.ant."#+#"taskdefs.optional.junit."#+#classNameFragment#+#"Test"#+#ext#)#.#exists#(#)#)#;#}

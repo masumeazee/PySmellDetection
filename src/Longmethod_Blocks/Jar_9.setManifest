@@ -1,0 +1,1 @@
+void#setManifest#(#File#manifestFile#)#{##if#(#!#manifestFile#.#exists#(#)#)#{#throw#new#BuildException#(#"Manifest file: "#+#manifestFile#+#" does not exist."#,#getLocation#(#)#)#;#}##this#.#manifestFile#=#manifestFile#;#}

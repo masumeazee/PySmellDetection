@@ -1,0 +1,1 @@
+void#appendTextElement#(#Element#parent#,#String#name#,#String#content#)#{#Element#e#=#createChildElement#(#parent#,#name#)#;#appendText#(#e#,#content#)#;#}

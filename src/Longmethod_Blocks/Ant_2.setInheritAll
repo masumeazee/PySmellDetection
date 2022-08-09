@@ -1,0 +1,1 @@
+void#setInheritAll#(#boolean#value#)#{#inheritAll#=#value#;#}

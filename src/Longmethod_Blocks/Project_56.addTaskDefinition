@@ -1,0 +1,1 @@
+void#addTaskDefinition#(#String#taskName#,#Class#taskClass#)#throws#BuildException#{#ComponentHelper#.#getComponentHelper#(#this#)#.#addTaskDefinition#(#taskName#,#taskClass#)#;#}

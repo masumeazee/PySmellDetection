@@ -1,0 +1,1 @@
+AntTypeDefinition#getDefinition#(#String#componentName#)#{#checkNamespace#(#componentName#)#;##return#antTypeTable#.#getDefinition#(#componentName#)#;#}

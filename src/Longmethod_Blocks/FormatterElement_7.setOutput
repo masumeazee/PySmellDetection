@@ -1,0 +1,1 @@
+void#setOutput#(#OutputStream#out#)#{##if#(#out#==#System#.#out#||#out#==#System#.#err#)#{#out#=#new#KeepAliveOutputStream#(#out#)#;#}##this#.#out#=#out#;#}

@@ -1,0 +1,1 @@
+void#enterAntLib#(#String#uri#)#{#antLibCurrentUri#=#uri#;#antLibStack#.#push#(#uri#)#;#}

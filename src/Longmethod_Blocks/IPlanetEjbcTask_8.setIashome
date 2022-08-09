@@ -1,0 +1,1 @@
+void#setIashome#(#File#iashome#)#{#this#.#iashome#=#iashome#;#}

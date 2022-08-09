@@ -1,0 +1,1 @@
+Properties#getProperties#(#Resource#r#)#{#InputStream#in#=#null#;#Properties#props#=#new#Properties#(#)#;##try#{#in#=#r#.#getInputStream#(#)#;#props#.#load#(#in#)#;#}##catch#(#IOException#ioe#)#{#ioe#.#printStackTrace#(#)#;#}##finally#{#FileUtils#.#close#(#in#)#;#}##return#props#;#}

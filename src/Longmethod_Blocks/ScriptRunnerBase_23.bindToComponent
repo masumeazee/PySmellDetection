@@ -1,0 +1,1 @@
+void#bindToComponent#(#ProjectComponent#component#)#{#project#=#component#.#getProject#(#)#;#addBeans#(#project#.#getProperties#(#)#)#;#addBeans#(#project#.#getUserProperties#(#)#)#;#addBeans#(#project#.#getTargets#(#)#)#;#addBeans#(#project#.#getReferences#(#)#)#;#addBean#(#"project"#,#project#)#;#addBean#(#"self"#,#component#)#;#}

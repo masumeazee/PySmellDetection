@@ -1,0 +1,1 @@
+void#logOverride#(#String#name#,#Object#definition#)#{##if#(#definition#!=#null#)#{#log#(#WARN_OVERRIDING#+#'<'#+#name#+#'>'#,#Project#.#MSG_INFO#)#;#}#}

@@ -1,0 +1,1 @@
+void#checkAttributesAllowed#(#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}#}

@@ -1,0 +1,1 @@
+void#setCvsRsh#(#String#rsh#)#{##// Check if not real cvsrsh => set it to null##if#(#rsh#!=#null#)#{##if#(#rsh#.#trim#(#)#.#equals#(#""#)#)#{#rsh#=#null#;#}#}##this#.#cvsRsh#=#rsh#;#}

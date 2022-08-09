@@ -1,0 +1,1 @@
+Collection#asCollection#(#final#Iterator#iter#)#{#List#l#=#new#ArrayList#(#)#;##while#(#iter#.#hasNext#(#)#)#{#l#.#add#(#iter#.#next#(#)#)#;#}##return#l#;#}

@@ -1,0 +1,1 @@
+void#performTasks#(#)#{#RuntimeException#thrown#=#null#;#project#.#fireTargetStarted#(#this#)#;##try#{#execute#(#)#;#}##catch#(#RuntimeException#exc#)#{#thrown#=#exc#;#throw#exc#;#}##finally#{#project#.#fireTargetFinished#(#this#,#thrown#)#;#}#}

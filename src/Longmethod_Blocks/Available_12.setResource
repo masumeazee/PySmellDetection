@@ -1,0 +1,1 @@
+void#setResource#(#String#resource#)#{#this#.#resource#=#resource#;#}

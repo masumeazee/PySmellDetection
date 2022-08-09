@@ -1,0 +1,1 @@
+void#setVmversion#(#String#value#)#{#vmVersion#=#value#;#}

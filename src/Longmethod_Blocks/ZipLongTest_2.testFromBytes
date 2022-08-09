@@ -1,0 +1,1 @@
+void#testFromBytes#(#)#{#byte#[#]#val#=#new#byte#[#]#{#0x78#,#0x56#,#0x34#,#0x12#}#;#ZipLong#zl#=#new#ZipLong#(#val#)#;#assertEquals#(#"value from bytes"#,#0x12345678#,#zl#.#getValue#(#)#)#;#}

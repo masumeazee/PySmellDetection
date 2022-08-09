@@ -1,0 +1,1 @@
+int#size#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#)#.#size#(#)#;#}##ensureDirectoryScannerSetup#(#)#;#ds#.#scan#(#)#;##return#ds#.#getIncludedFilesCount#(#)#+#ds#.#getIncludedDirsCount#(#)#;#}

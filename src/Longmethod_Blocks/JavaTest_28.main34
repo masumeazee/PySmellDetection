@@ -1,0 +1,1 @@
+void#main#(#String#[#]#argv#)#{#throw#new#NullPointerException#(#"Exception raised inside called program"#)#;#}

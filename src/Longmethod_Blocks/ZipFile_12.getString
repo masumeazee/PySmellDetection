@@ -1,0 +1,1 @@
+String#getString#(#byte#[#]#bytes#)#throws#ZipException#{#try#{##return#ZipEncodingHelper#.#getZipEncoding#(#encoding#)#.#decode#(#bytes#)#;#}##catch#(#IOException#ex#)#{#throw#new#ZipException#(#"Failed to decode name: "#+#ex#.#getMessage#(#)#)#;#}#}

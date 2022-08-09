@@ -1,0 +1,1 @@
+void#setLookahead#(#int#lookahead#)#{#this#.#lookahead#=#lookahead#;#}

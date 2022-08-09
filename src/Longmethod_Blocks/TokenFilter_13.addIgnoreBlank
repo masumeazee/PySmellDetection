@@ -1,0 +1,1 @@
+void#addIgnoreBlank#(#IgnoreBlank#filter#)#{#filters#.#addElement#(#filter#)#;#}

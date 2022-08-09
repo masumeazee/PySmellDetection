@@ -1,0 +1,1 @@
+RegularExpression#createRegexp#(#)#{##if#(#regex#!=#null#)#{#throw#new#BuildException#(#"Only one regular expression is allowed."#)#;#}##regex#=#new#RegularExpression#(#)#;##return#regex#;#}

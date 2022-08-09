@@ -1,0 +1,1 @@
+void#handleErrorFlush#(#String#output#)#{##if#(#systemError#!=#null#)#{#systemError#.#print#(#output#)#;#}#}

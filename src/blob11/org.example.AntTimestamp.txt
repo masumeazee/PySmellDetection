@@ -1,0 +1,1 @@
+long#when#(#)#throws#RemoteException#{#Calendar#cal#=#Calendar#.#getInstance#(#)#;#return#DateUtils#.#getPhaseOfMoon#(#cal#)#;#}##

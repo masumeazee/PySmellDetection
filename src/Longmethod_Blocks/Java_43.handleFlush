@@ -1,0 +1,1 @@
+void#handleFlush#(#String#output#)#{##if#(#redirector#.#getOutputStream#(#)#!=#null#)#{#redirector#.#handleFlush#(#output#)#;#}#else#{#super#.#handleFlush#(#output#)#;#}#}

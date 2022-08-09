@@ -1,0 +1,1 @@
+void#addIsFileSelected#(#IsFileSelected#test#)#{#conditions#.#addElement#(#test#)#;#}

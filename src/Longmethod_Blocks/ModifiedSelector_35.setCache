@@ -1,0 +1,1 @@
+void#setCache#(#CacheName#name#)#{#cacheName#=#name#;#}

@@ -1,0 +1,1 @@
+boolean#matchStartOf#(#TokenizedPath#path#,#boolean#caseSensitive#)#{##return#SelectorUtils#.#matchPatternStart#(#tokenizedPattern#,#path#.#getTokens#(#)#,#caseSensitive#)#;#}

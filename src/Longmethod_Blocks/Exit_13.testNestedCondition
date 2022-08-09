@@ -1,0 +1,1 @@
+boolean#testNestedCondition#(#)#{#boolean#result#=#nestedConditionPresent#(#)#;##if#(#result#&&#ifCondition#!=#null#||#unlessCondition#!=#null#)#{#throw#new#BuildException#(#"Nested conditions "#+#"not permitted in conjunction with if/unless attributes"#)#;#}##return#result#&&#nestedCondition#.#eval#(#)#;#}

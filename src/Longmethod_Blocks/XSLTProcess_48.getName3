@@ -1,0 +1,1 @@
+String#getName#(#)#throws#BuildException#{##if#(#name#==#null#)#{#throw#new#BuildException#(#"Name attribute is missing."#)#;#}##return#name#;#}

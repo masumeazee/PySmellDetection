@@ -1,0 +1,1 @@
+void#setExcludesfile#(#File#excludesFile#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##createExcludesFile#(#)#.#setName#(#excludesFile#.#getAbsolutePath#(#)#)#;#}

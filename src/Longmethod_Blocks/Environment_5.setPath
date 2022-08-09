@@ -1,0 +1,1 @@
+void#setPath#(#Path#path#)#{#this#.#value#=#path#.#toString#(#)#;#}

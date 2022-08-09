@@ -1,0 +1,1 @@
+void#didntReach#(#Address#addr#,#String#category#,#MessagingException#ex#)#{#String#msg#=#"Failed to send mail to "#+#category#+#" address "#+#addr#+#" because of "#+#ex#.#getMessage#(#)#;##if#(#task#!=#null#)#{#task#.#log#(#msg#,#Project#.#MSG_WARN#)#;#}#else#{#System#.#err#.#println#(#msg#)#;#}#}

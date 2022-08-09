@@ -1,0 +1,1 @@
+boolean#isGnuMode#(#)#{##return#GNU#.#equalsIgnoreCase#(#getValue#(#)#)#;#}

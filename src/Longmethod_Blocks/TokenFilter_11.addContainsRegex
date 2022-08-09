@@ -1,0 +1,1 @@
+void#addContainsRegex#(#ContainsRegex#filter#)#{#filters#.#addElement#(#filter#)#;#}

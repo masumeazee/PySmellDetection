@@ -1,0 +1,1 @@
+String#getName#(#)#{##if#(#name#==#null#)#{##if#(#implementation#==#null#)#{##return#"[unnamed]"#;#}#else#{##return#implementation#.#getClassName#(#)#;#}#}##return#name#;#}

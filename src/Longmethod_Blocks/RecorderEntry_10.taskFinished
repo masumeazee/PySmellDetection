@@ -1,0 +1,1 @@
+void#taskFinished#(#BuildEvent#event#)#{#log#(#"<<< TASK FINISHED -- "#+#event#.#getTask#(#)#,#Project#.#MSG_DEBUG#)#;#flush#(#)#;#}

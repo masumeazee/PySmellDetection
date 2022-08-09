@@ -1,0 +1,1 @@
+void#reset#(#)#throws#IOException#{##if#(#in#==#null#)#{#throw#new#IOException#(#"Stream Closed"#)#;#}##slack#=#null#;#in#.#reset#(#)#;#}

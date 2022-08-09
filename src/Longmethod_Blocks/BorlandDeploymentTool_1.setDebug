@@ -1,0 +1,1 @@
+void#setDebug#(#boolean#debug#)#{#this#.#java2iiopdebug#=#debug#;#}

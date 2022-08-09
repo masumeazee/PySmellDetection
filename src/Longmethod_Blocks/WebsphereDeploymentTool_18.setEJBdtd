@@ -1,0 +1,1 @@
+void#setEJBdtd#(#String#inString#)#{#this#.#ejb11DTD#=#inString#;#}

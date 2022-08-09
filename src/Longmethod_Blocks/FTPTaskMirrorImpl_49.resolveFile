@@ -1,0 +1,1 @@
+String#resolveFile#(#String#file#)#{##return#file#.#replace#(#System#.#getProperty#(#"file.separator"#)#.#charAt#(#0#)#,#task#.#getSeparator#(#)#.#charAt#(#0#)#)#;#}

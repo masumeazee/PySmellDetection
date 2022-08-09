@@ -1,0 +1,1 @@
+void#setBootclasspath#(#Path#src#)#{##if#(#bootclasspath#==#null#)#{#bootclasspath#=#src#;#}#else#{#bootclasspath#.#append#(#src#)#;#}#}

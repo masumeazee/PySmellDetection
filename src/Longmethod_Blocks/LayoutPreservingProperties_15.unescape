@@ -1,0 +1,11 @@
+String#unescape#(#String#s#)#{##/*
+         * The following combinations are converted:
+         * \n  newline
+         * \r  carraige return
+         * \f  form feed
+         * \t  tab
+         * \\  backslash
+         * \u0000  unicode character
+         * Any other slash is ignored, so
+         * \b  becomes 'b'.
+         */#char#[#]#ch#=#new#char#[#s#.#length#(#)#+#1#]#;#s#.#getChars#(#0#,#s#.#length#(#)#,#ch#,#0#)#;#ch#[#s#.#length#(#)#]#=#'\n'#;#StringBuffer#buffy#=#new#StringBuffer#(#s#.#length#(#)#)#;##for#(#int#i#=#0#;##i#<#ch#.#length#;#i#++#)#{#char#c#=#ch#[#i#]#;##if#(#c#==#'\n'#)#{##// we have hit out end-of-string marker#break#;#}#else##if#(#c#==#'\\'#)#{##// possibly an escape sequence#c#=#ch#[#++#i#]#;##if#(#c#==#'n'#)#buffy#.#append#(#'\n'#)#;##else##if#(#c#==#'r'#)#buffy#.#append#(#'\r'#)#;##else##if#(#c#==#'f'#)#buffy#.#append#(#'\f'#)#;##else##if#(#c#==#'t'#)#buffy#.#append#(#'\t'#)#;##else##if#(#c#==#'u'#)#{##// handle unicode escapes#c#=#unescapeUnicode#(#ch#,#i#+#1#)#;#i#+=#4#;#buffy#.#append#(#c#)#;#}#else#buffy#.#append#(#c#)#;#}#else#{#buffy#.#append#(#c#)#;#}#}##return#buffy#.#toString#(#)#;#}

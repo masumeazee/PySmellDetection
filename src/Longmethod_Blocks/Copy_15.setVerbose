@@ -1,0 +1,1 @@
+void#setVerbose#(#boolean#verbose#)#{#this#.#verbosity#=#verbose#?#Project#.#MSG_INFO#:#Project#.#MSG_VERBOSE#;#}

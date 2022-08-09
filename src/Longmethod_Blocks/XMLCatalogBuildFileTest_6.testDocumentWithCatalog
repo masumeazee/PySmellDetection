@@ -1,0 +1,1 @@
+void#testDocumentWithCatalog#(#)#{#configureProject#(#"src/etc/testcases/types/xmlcatalog.xml"#)#;#expectPropertySet#(#"testdocumentwithcatalog"#,#"val4"#,#"No news is good news"#)#;#}

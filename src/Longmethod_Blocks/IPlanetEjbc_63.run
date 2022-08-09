@@ -1,0 +1,1 @@
+void#run#(#)#{#BufferedReader#reader#=#new#BufferedReader#(#new#InputStreamReader#(#stream#)#)#;#String#text#;##try#{#while#(#(#text#=#reader#.#readLine#(#)#)#!=#null#)#{#System#.#out#.#println#(#text#)#;#}#}##catch#(#IOException#e#)#{#e#.#printStackTrace#(#)#;#}##finally#{#try#{#reader#.#close#(#)#;#}##catch#(#IOException#e#)#{##// Do nothing#}#}#}

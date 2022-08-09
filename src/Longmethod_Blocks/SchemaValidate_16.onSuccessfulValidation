@@ -1,0 +1,1 @@
+void#onSuccessfulValidation#(#int#fileProcessed#)#{#log#(#fileProcessed#+#MESSAGE_FILES_VALIDATED#,#Project#.#MSG_VERBOSE#)#;#}

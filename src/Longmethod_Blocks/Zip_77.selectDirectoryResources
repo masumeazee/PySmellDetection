@@ -1,0 +1,1 @@
+Resource#[#]#selectDirectoryResources#(#Resource#[#]#orig#)#{##return#selectResources#(#orig#,#new#ResourceSelector#(#)#{#public#boolean#isSelected#(#Resource#r#)#{##return#r#.#isDirectory#(#)#;#}#}#)#;#}

@@ -1,0 +1,1 @@
+void#setSrc#(#String#fileName#)#{#helper#.#setSrc#(#new#File#(#fileName#)#)#;#}

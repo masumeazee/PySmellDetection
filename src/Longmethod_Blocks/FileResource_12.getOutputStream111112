@@ -1,0 +1,1 @@
+OutputStream#getOutputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#FileResource#)#getCheckedRef#(#)#)#.#getOutputStream#(#)#;#}##return#getOutputStream#(#false#)#;#}

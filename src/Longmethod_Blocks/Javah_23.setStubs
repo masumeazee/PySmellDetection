@@ -1,0 +1,1 @@
+void#setStubs#(#boolean#stubs#)#{#this#.#stubs#=#stubs#;#}

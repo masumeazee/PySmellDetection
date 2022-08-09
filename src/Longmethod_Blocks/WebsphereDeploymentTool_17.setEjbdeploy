@@ -1,0 +1,1 @@
+void#setEjbdeploy#(#boolean#ejbdeploy#)#{#this#.#ejbdeploy#=#ejbdeploy#;#}

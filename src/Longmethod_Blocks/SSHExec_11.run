@@ -1,0 +1,1 @@
+void#run#(#)#{#while#(#!#channel#.#isClosed#(#)#)#{##if#(#thread#==#null#)#{##return#;#}##try#{#sleep#(#RETRY_INTERVAL#)#;#}##catch#(#Exception#e#)#{##// ignored#}#}#}

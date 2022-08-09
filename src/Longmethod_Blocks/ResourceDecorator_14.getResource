@@ -1,0 +1,1 @@
+Resource#getResource#(#)#{##if#(#isReference#(#)#)#{##return#(#Resource#)#getCheckedRef#(#)#;#}##if#(#resource#==#null#)#{#throw#new#BuildException#(#"no resource specified"#)#;#}##dieOnCircularReference#(#)#;##return#resource#;#}

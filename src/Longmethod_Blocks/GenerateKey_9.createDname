@@ -1,0 +1,1 @@
+DistinguishedName#createDname#(#)#throws#BuildException#{##if#(#null#!=#expandedDname#)#{#throw#new#BuildException#(#"DName sub-element can only be "#+#"specified once."#)#;#}##if#(#null#!=#dname#)#{#throw#new#BuildException#(#"It is not possible to specify dname "#+#" both as attribute and element."#)#;#}##expandedDname#=#new#DistinguishedName#(#)#;##return#expandedDname#;#}

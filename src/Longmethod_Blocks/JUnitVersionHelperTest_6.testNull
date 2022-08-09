@@ -1,0 +1,1 @@
+void#testNull#(#)#{#assertEquals#(#"unknown"#,#JUnitVersionHelper#.#getTestCaseName#(#null#)#)#;#}

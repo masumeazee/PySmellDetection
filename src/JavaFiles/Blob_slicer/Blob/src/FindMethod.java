@@ -75,7 +75,7 @@ public class FindMethod {
 
 
             try {
-                File fp = new File("e:/long_methods/blocked_files/blob/"+Blob.packageName+"."+Blob.ClassName+".txt");
+                File fp = new File("/blocked_files/blob/"+Blob.packageName+"."+Blob.ClassName+".txt");
                 FileWriter w = new FileWriter(fp,true);
                 for (i = 0; !(Blob.methodContext[i].equals("")); i++) {
                     w.write(Blob.methodContext[i]);

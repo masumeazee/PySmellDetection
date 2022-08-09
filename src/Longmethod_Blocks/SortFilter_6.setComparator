@@ -1,1 +1,0 @@
-void#setComparator#(#Comparator#comparator#)#{#this#.#comparator#=#comparator#;#}

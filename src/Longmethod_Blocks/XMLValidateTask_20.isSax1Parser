@@ -1,1 +1,0 @@
-boolean#isSax1Parser#(#)#{##return#(#xmlReader#instanceof#ParserAdapter#)#;#}

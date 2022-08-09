@@ -1,1 +1,0 @@
-void#setChoiceambiguitycheck#(#int#choiceAmbiguityCheck#)#{#optionalAttrs#.#put#(#CHOICE_AMBIGUITY_CHECK#,#new#Integer#(#choiceAmbiguityCheck#)#)#;#}

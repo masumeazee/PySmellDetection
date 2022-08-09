@@ -1,1 +1,0 @@
-void#testEndsWithSameString#(#)#{#assertTrue#(#StringUtils#.#endsWith#(#new#StringBuffer#(#"123"#)#,#"123"#)#)#;#}

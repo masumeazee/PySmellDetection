@@ -1,1 +1,0 @@
-void#setTofile#(#File#destFile#)#{#this#.#destFile#=#destFile#;#}

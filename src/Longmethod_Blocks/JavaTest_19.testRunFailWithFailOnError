@@ -1,1 +1,0 @@
-void#testRunFailWithFailOnError#(#)#{#expectBuildExceptionContaining#(#"testRunFailWithFailOnError"#,#"non zero return code"#,#"Java returned:"#)#;#}

@@ -1,1 +1,0 @@
-OutputStream#getOutputStream#(#)#throws#IOException#{##if#(#AggregateTransformer#.#FRAMES#.#equals#(#caller#.#format#)#)#{##// dummy output for the framed report##// it's all done by extension...##return#new#ByteArrayOutputStream#(#)#;#}#else#{##return#new#BufferedOutputStream#(#new#FileOutputStream#(#new#File#(#caller#.#toDir#,#"junit-noframes.html"#)#)#)#;#}#}

@@ -1,1 +1,0 @@
-Hashtable#getUserProperties#(#)#{##//avoid concurrent modification:#synchronized#(#userProperties#)#{##return#new#Hashtable#(#userProperties#)#;#}#}

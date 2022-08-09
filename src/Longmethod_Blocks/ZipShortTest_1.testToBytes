@@ -1,1 +1,0 @@
-void#testToBytes#(#)#{#ZipShort#zs#=#new#ZipShort#(#0x1234#)#;#byte#[#]#result#=#zs#.#getBytes#(#)#;#assertEquals#(#"length getBytes"#,#2#,#result#.#length#)#;#assertEquals#(#"first byte getBytes"#,#0x34#,#result#[#0#]#)#;#assertEquals#(#"second byte getBytes"#,#0x12#,#result#[#1#]#)#;#}

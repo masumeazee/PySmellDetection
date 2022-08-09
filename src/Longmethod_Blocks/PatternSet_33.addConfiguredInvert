@@ -1,1 +1,0 @@
-void#addConfiguredInvert#(#PatternSet#p#)#{#addConfiguredPatternset#(#new#InvertedPatternSet#(#p#)#)#;#}

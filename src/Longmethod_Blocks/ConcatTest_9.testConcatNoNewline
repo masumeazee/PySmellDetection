@@ -1,1 +1,0 @@
-void#testConcatNoNewline#(#)#{#expectLog#(#"testConcatNoNewline"#,#"ab"#)#;#}

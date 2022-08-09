@@ -1,1 +1,0 @@
-void#setDoclet#(#String#docletName#)#{##if#(#doclet#==#null#)#{#doclet#=#new#DocletInfo#(#)#;#doclet#.#setProject#(#getProject#(#)#)#;#}##doclet#.#setName#(#docletName#)#;#}

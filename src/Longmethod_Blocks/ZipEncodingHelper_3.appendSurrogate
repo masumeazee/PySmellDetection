@@ -1,1 +1,0 @@
-void#appendSurrogate#(#ByteBuffer#bb#,#char#c#)#{#bb#.#put#(#(#byte#)#'%'#)#;#bb#.#put#(#(#byte#)#'U'#)#;#bb#.#put#(#HEX_DIGITS#[#(#c#>#>#12#)#&#0x0f#]#)#;#bb#.#put#(#HEX_DIGITS#[#(#c#>#>#8#)#&#0x0f#]#)#;#bb#.#put#(#HEX_DIGITS#[#(#c#>#>#4#)#&#0x0f#]#)#;#bb#.#put#(#HEX_DIGITS#[#c#&#0x0f#]#)#;#}

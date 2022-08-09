@@ -1,1 +1,0 @@
-boolean#add#(#Process#process#)#{#synchronized#(#processes#)#{##// if this list is empty, register the shutdown hook##if#(#processes#.#size#(#)#==#0#)#{#addShutdownHook#(#)#;#}##processes#.#addElement#(#process#)#;##return#processes#.#contains#(#process#)#;#}#}

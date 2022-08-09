@@ -1,1 +1,0 @@
-void#processFlush#(#ByteArrayOutputStream#buffer#)#{#String#output#=#buffer#.#toString#(#)#;#project#.#demuxFlush#(#output#,#isErrorStream#)#;#resetBufferInfo#(#)#;#}

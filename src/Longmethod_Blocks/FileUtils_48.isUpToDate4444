@@ -1,1 +1,0 @@
-boolean#isUpToDate#(#File#source#,#File#dest#,#long#granularity#)#{##//do a check for the destination file existing##if#(#!#dest#.#exists#(#)#)#{##//if it does not, then the file is not up to date.##return#false#;#}##long#sourceTime#=#source#.#lastModified#(#)#;#long#destTime#=#dest#.#lastModified#(#)#;##return#isUpToDate#(#sourceTime#,#destTime#,#granularity#)#;#}

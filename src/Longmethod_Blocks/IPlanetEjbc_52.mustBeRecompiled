@@ -1,1 +1,0 @@
-boolean#mustBeRecompiled#(#File#destDir#)#{#long#sourceModified#=#sourceClassesModified#(#destDir#)#;#long#destModified#=#destClassesModified#(#destDir#)#;##return#(#destModified#<#sourceModified#)#;#}

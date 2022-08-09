@@ -1,1 +1,0 @@
-void#logWithModificationTime#(#Resource#r#,#String#what#)#{#log#(#r#.#toLongString#(#)#+#" is "#+#what#+#", modified at "#+#new#Date#(#r#.#getLastModified#(#)#)#,#verbose#?#Project#.#MSG_INFO#:#Project#.#MSG_VERBOSE#)#;#}

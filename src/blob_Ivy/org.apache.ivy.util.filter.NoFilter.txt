@@ -1,1 +1,0 @@
-boolean#accept#(#Object#o#)#{#return#true#;#}##String#toString#(#)#{#return#"NoFilter"#;#}##

@@ -1,1 +1,0 @@
-void#setExtension#(#String#name#)#{#targetExtension#=#name#;#}

@@ -1,1 +1,0 @@
-void#testNoFileWithoutWrite#(#)#throws#IOException#{#los#.#close#(#)#;#assertTrue#(#f#+#" has not been written."#,#!#f#.#exists#(#)#)#;#}

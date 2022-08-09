@@ -1,1 +1,0 @@
-int#handleInput#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{##return#getProject#(#)#.#defaultInput#(#buffer#,#offset#,#length#)#;#}

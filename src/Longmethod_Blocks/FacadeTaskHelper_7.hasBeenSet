@@ -1,1 +1,0 @@
-boolean#hasBeenSet#(#)#{##return#userChoice#!=#null#||#magicValue#!=#null#;#}

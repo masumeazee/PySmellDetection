@@ -1,1 +1,0 @@
-void#testFindJarNameNoClasspath#(#)#{#assertEquals#(#"foo"#,#Jar#.#findJarName#(#"foo"#,#null#)#)#;#assertEquals#(#"foo"#,#Jar#.#findJarName#(#"lib"#+#File#.#separatorChar#+#"foo"#,#null#)#)#;#}

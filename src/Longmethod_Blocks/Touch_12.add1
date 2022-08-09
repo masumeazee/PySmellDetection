@@ -1,1 +1,0 @@
-void#add#(#FileNameMapper#fileNameMapper#)#throws#BuildException#{##if#(#this#.#fileNameMapper#!=#null#)#{#throw#new#BuildException#(#"Only one mapper may be added to the "#+#getTaskName#(#)#+#" task."#)#;#}##this#.#fileNameMapper#=#fileNameMapper#;#}

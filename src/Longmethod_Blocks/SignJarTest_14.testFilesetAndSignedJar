@@ -1,1 +1,0 @@
-void#testFilesetAndSignedJar#(#)#{#expectBuildExceptionContaining#(#"testFilesetAndSignedJar"#,#"incompatible attributes"#,#SignJar#.#ERROR_SIGNEDJAR_AND_PATHS#)#;#}

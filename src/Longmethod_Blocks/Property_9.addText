@@ -1,1 +1,0 @@
-void#addText#(#String#msg#)#{##if#(#!#valueAttributeUsed#)#{#msg#=#getProject#(#)#.#replaceProperties#(#msg#)#;#String#currentValue#=#getValue#(#)#;##if#(#currentValue#!=#null#)#{#msg#=#currentValue#+#msg#;#}##internalSetValue#(#msg#)#;#}#else##if#(#msg#.#trim#(#)#.#length#(#)#>#0#)#{#throw#new#BuildException#(#"can't combine nested text with value"#+#" attribute"#)#;#}#}

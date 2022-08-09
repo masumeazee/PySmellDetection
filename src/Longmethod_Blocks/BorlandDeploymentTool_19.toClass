@@ -1,1 +1,0 @@
-String#toClass#(#String#filename#)#{##//remove the .class#String#classname#=#filename#.#substring#(#0#,#filename#.#lastIndexOf#(#".class"#)#)#;#classname#=#classname#.#replace#(#'\\'#,#'.'#)#;##return#classname#;#}

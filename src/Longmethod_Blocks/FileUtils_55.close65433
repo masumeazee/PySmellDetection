@@ -1,1 +1,0 @@
-void#close#(#InputStream#device#)#{##if#(#null#!=#device#)#{#try#{#device#.#close#(#)#;#}##catch#(#IOException#e#)#{##//ignore#}#}#}

@@ -1,1 +1,0 @@
-String#toURI#(#String#path#)#{##return#new#File#(#path#)#.#getAbsoluteFile#(#)#.#toURI#(#)#.#toASCIIString#(#)#;#}

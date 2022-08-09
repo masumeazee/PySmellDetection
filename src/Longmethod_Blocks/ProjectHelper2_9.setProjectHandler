@@ -1,1 +1,0 @@
-void#setProjectHandler#(#AntHandler#handler#)#{#projectHandler#=#handler#;#}

@@ -1,1 +1,0 @@
-void#setMaxmemory#(#String#max#)#{#this#.#maxMemory#=#max#;#}

@@ -1,1 +1,0 @@
-void#setNocopynewtargetfiles#(#boolean#nocopynewtargetfiles#)#{#this#.#nocopynewtargetfiles#=#nocopynewtargetfiles#;#}

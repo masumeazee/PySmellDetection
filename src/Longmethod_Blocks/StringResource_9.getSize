@@ -1,1 +1,0 @@
-long#getSize#(#)#{##return#isReference#(#)#?#(#(#Resource#)#getCheckedRef#(#)#)#.#getSize#(#)#:#getContent#(#)#.#length#(#)#;#}

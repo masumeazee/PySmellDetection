@@ -1,1 +1,0 @@
-void#addTitle#(#Html#text#)#{#title#=#text#;#}

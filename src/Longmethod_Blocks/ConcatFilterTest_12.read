@@ -1,1 +1,0 @@
-String#read#(#String#filename#)#{#String#content#=#null#;##try#{#File#file#=#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#filename#)#;#java#.#io#.#FileReader#rdr#=#new#java#.#io#.#FileReader#(#file#)#;#content#=#FileUtils#.#readFully#(#rdr#)#;#rdr#.#close#(#)#;#rdr#=#null#;#}##catch#(#Exception#e#)#{#e#.#printStackTrace#(#)#;#}##return#content#;#}

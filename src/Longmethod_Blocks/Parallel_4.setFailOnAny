@@ -1,1 +1,0 @@
-void#setFailOnAny#(#boolean#failOnAny#)#{#this#.#failOnAny#=#failOnAny#;#}

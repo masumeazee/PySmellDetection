@@ -1,1 +1,0 @@
-void#setMode#(#int#mode#)#{#checkAttributesAllowed#(#)#;#this#.#mode#=#mode#;#modeSet#=#true#;#}

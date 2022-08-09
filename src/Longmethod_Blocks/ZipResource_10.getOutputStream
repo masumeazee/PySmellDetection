@@ -1,1 +1,0 @@
-OutputStream#getOutputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getOutputStream#(#)#;#}##throw#new#UnsupportedOperationException#(#"Use the zip task for zip output."#)#;#}

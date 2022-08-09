@@ -1,1 +1,0 @@
-Collection#cacheCollection#(#)#{##if#(#coll#==#null#||#!#isCache#(#)#)#{#coll#=#getCollection#(#)#;#}##return#coll#;#}

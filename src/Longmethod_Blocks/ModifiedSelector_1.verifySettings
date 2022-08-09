@@ -1,1 +1,0 @@
-void#verifySettings#(#)#{#configure#(#)#;##if#(#cache#==#null#)#{#setError#(#"Cache must be set."#)#;#}#else##if#(#algorithm#==#null#)#{#setError#(#"Algorithm must be set."#)#;#}#else##if#(#!#cache#.#isValid#(#)#)#{#setError#(#"Cache must be proper configured."#)#;#}#else##if#(#!#algorithm#.#isValid#(#)#)#{#setError#(#"Algorithm must be proper configured."#)#;#}#}

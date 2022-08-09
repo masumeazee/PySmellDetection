@@ -1,1 +1,0 @@
-void#setUp#(#)#{#ej#=#new#ExecuteJava#(#)#;#ej#.#setTimeout#(#new#Long#(#TIME_OUT#)#)#;#project#=#new#Project#(#)#;#project#.#setBasedir#(#"."#)#;#project#.#setProperty#(#MagicNames#.#ANT_HOME#,#System#.#getProperty#(#MagicNames#.#ANT_HOME#)#)#;#cp#=#new#Path#(#project#,#getTestClassPath#(#)#)#;#ej#.#setClasspath#(#cp#)#;#}

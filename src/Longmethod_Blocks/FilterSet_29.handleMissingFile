@@ -1,1 +1,0 @@
-void#handleMissingFile#(#String#message#)#{#switch#(#onMissingFiltersFile#.#getIndex#(#)#)#{#case#OnMissing#.#IGNORE_INDEX#:##return#;##case#OnMissing#.#FAIL_INDEX#:#throw#new#BuildException#(#message#)#;#case#OnMissing#.#WARN_INDEX#:#log#(#message#,#Project#.#MSG_WARN#)#;##return#;##default#:#throw#new#BuildException#(#"Invalid value for onMissingFiltersFile"#)#;#}#}

@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{#resources#=#resources#==#null#?#new#Union#(#)#:#resources#;#resources#.#add#(#rc#)#;#}

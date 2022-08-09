@@ -1,1 +1,0 @@
-void#verbose#(#String#message#)#{#getProject#(#)#.#log#(#LOG_PREFIX#+#" "#+#message#,#Project#.#MSG_VERBOSE#)#;#}

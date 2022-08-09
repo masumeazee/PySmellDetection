@@ -1,1 +1,0 @@
-void#setFilesonly#(#boolean#f#)#{#doFilesonly#=#f#;#}

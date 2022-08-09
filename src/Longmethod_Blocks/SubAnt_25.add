@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{#getBuildpath#(#)#.#add#(#rc#)#;#}

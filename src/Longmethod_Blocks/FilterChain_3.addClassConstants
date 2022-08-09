@@ -1,1 +1,0 @@
-void#addClassConstants#(#final#ClassConstants#classConstants#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#classConstants#)#;#}

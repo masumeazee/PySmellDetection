@@ -1,1 +1,0 @@
-void#testUnless#(#)#{#expectBuildException#(#"testUnless"#,#"testUnless must fail unless foo has been set"#)#;#project#.#setProperty#(#"foo"#,#""#)#;##try#{#executeTarget#(#"testUnless"#)#;#}##catch#(#BuildException#be#)#{#fail#(#"foo has been defined, testUnless must not fail"#)#;#}#}

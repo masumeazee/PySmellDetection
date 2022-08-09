@@ -1,1 +1,0 @@
-void#setCache#(#boolean#b#)#{#cache#=#b#;#}

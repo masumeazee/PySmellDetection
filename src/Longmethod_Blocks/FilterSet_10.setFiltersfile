@@ -1,1 +1,0 @@
-void#setFiltersfile#(#File#filtersFile#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##filtersFiles#.#add#(#filtersFile#)#;#}

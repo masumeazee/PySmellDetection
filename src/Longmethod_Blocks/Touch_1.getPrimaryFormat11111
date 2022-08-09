@@ -1,1 +1,0 @@
-DateFormat#getPrimaryFormat#(#)#{##return#DateFormat#.#getDateTimeInstance#(#DateFormat#.#SHORT#,#DateFormat#.#SHORT#,#Locale#.#US#)#;#}

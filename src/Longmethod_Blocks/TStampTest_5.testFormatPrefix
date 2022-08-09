@@ -1,1 +1,0 @@
-void#testFormatPrefix#(#)#throws#Exception#{#Tstamp#.#CustomFormat#format#=#tstamp#.#createFormat#(#)#;#format#.#setProperty#(#"format"#)#;#format#.#setPattern#(#"HH:mm:ss z"#)#;#format#.#setTimezone#(#"GMT"#)#;#tstamp#.#setPrefix#(#"prefix"#)#;#tstamp#.#execute#(#)#;#String#prop#=#project#.#getProperty#(#"prefix.format"#)#;#assertNotNull#(#prop#)#;#}

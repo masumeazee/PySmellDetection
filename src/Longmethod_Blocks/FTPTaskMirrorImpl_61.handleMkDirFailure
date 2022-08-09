@@ -1,1 +1,0 @@
-void#handleMkDirFailure#(#FTPClient#ftp#)#throws#BuildException#{#int#rc#=#ftp#.#getReplyCode#(#)#;##if#(#!#(#task#.#isIgnoreNoncriticalErrors#(#)#&&#(#rc#==#FTPReply#.#CODE_550#||#rc#==#FTPReply#.#CODE_553#||#rc#==#CODE_521#)#)#)#{#throw#new#BuildException#(#"could not create directory: "#+#ftp#.#getReplyString#(#)#)#;#}#}

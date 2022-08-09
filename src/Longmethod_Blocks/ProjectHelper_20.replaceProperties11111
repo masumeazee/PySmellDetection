@@ -1,1 +1,0 @@
-String#replaceProperties#(#Project#project#,#String#value#,#Hashtable#keys#)#throws#BuildException#{#PropertyHelper#ph#=#PropertyHelper#.#getPropertyHelper#(#project#)#;##return#ph#.#replaceProperties#(#null#,#value#,#keys#)#;#}

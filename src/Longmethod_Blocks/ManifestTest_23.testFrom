@@ -1,1 +1,0 @@
-void#testFrom#(#)#{#expectLogContaining#(#"testFrom"#,#Manifest#.#ERROR_FROM_FORBIDDEN#)#;#}

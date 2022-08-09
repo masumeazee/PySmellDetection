@@ -1,1 +1,0 @@
-Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceList#)#getCheckedRef#(#)#)#.#iterator#(#)#;#}##return#cache#(#)#.#iterator#(#)#;#}

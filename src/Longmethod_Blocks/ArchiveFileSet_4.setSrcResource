@@ -1,1 +1,0 @@
-void#setSrcResource#(#Resource#src#)#{#checkArchiveAttributesAllowed#(#)#;##if#(#hasDir#)#{#throw#new#BuildException#(#ERROR_DIR_AND_SRC_ATTRIBUTES#)#;#}##this#.#src#=#src#;#setChecked#(#false#)#;#}

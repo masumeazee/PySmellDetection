@@ -1,1 +1,0 @@
-String#[#]#getArguments#(#)#{#List#result#=#new#ArrayList#(#arguments#.#size#(#)#*#2#)#;#addArgumentsToList#(#result#.#listIterator#(#)#)#;#String#[#]#res#=#new#String#[#result#.#size#(#)#]#;##return#(#String#[#]#)#result#.#toArray#(#res#)#;#}

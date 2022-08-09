@@ -1,1 +1,0 @@
-String#getReplaceValue#(#)#{##if#(#property#!=#null#)#{##return#properties#.#getProperty#(#property#)#;#}#else##if#(#value#!=#null#)#{##return#value#.#getText#(#)#;#}#else##if#(#Replace#.#this#.#value#!=#null#)#{##return#Replace#.#this#.#value#.#getText#(#)#;#}#else#{##//Default is empty string##return#""#;#}#}

@@ -1,1 +1,0 @@
-void#addContainsString#(#ContainsString#filter#)#{#filters#.#addElement#(#filter#)#;#}

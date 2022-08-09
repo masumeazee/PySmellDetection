@@ -1,1 +1,0 @@
-Vector#getDirectoryEntries#(#File#directory#)#{#Vector#files#=#new#Vector#(#)#;##// File[] filesInDir = directory.listFiles();#String#[#]#filesInDir#=#directory#.#list#(#)#;##if#(#filesInDir#!=#null#)#{#int#length#=#filesInDir#.#length#;##for#(#int#i#=#0#;##i#<#length#;#++#i#)#{#files#.#addElement#(#new#File#(#directory#,#filesInDir#[#i#]#)#)#;#}#}##return#files#;#}

@@ -1,1 +1,0 @@
-void#handleOutput#(#String#output#)#{##if#(#realThing#instanceof#Task#)#{#(#(#Task#)#realThing#)#.#handleOutput#(#output#)#;#}#else#{#super#.#handleOutput#(#output#)#;#}#}

@@ -1,1 +1,0 @@
-void#logPath#(#String#name#,#File#path#)#{##if#(#launchDiag#)#{#System#.#out#.#println#(#name#+#"= \""#+#path#+#"\""#)#;#}#}

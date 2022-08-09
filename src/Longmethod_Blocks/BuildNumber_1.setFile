@@ -1,1 +1,0 @@
-void#setFile#(#final#File#file#)#{#myFile#=#file#;#}

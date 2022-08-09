@@ -1,1 +1,0 @@
-void#setDir#(#File#d#)#{#this#.#dir#=#d#;#}

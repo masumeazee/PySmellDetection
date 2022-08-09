@@ -1,1 +1,0 @@
-void#setEnableBaselessMerges#(#boolean#setrest#)#{#this#.#enablebaselessmerges#=#setrest#;#}

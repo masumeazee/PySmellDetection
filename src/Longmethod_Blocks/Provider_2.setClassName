@@ -1,1 +1,0 @@
-void#setClassName#(#String#type#)#{#this#.#type#=#type#;#}

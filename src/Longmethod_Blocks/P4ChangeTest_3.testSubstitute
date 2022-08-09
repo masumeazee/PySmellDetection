@@ -1,1 +1,0 @@
-void#testSubstitute#(#)#{#Perl5Util#util#=#new#Perl5Util#(#)#;#String#tosubstitute#=#"xx<here>xx"#;#String#input#=#P4Change#.#backslash#(#"/a/b/c/"#)#;#String#output#=#util#.#substitute#(#"s/<here>/"#+#input#+#"/"#,#tosubstitute#)#;#assertEquals#(#"xx/a/b/c/xx"#,#output#)#;#}

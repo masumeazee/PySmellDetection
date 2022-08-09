@@ -1,1 +1,0 @@
-void#main#(#String#[#]#args#)#{#System#.#out#.#println#(#"MAIN"#)#;#System#.#out#.#println#(#a#)#;#}

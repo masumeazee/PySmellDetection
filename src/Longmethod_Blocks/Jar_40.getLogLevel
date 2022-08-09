@@ -1,1 +1,0 @@
-int#getLogLevel#(#)#{##return#(#getValue#(#)#.#equals#(#"ignore"#)#)#?#Project#.#MSG_VERBOSE#:#Project#.#MSG_WARN#;#}

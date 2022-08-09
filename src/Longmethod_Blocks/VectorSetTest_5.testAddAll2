@@ -1,1 +1,0 @@
-void#testAddAll2#(#)#{#assertTrue#(#v#.#addAll#(#0#,#Arrays#.#asList#(#new#Object#[#]#{#O#,#O#}#)#)#)#;#assertEquals#(#1#,#v#.#size#(#)#)#;#}

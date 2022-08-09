@@ -1,1 +1,0 @@
-boolean#isHardError#(#Throwable#t#)#{##if#(#t#instanceof#BuildException#)#{##return#isHardError#(#t#.#getCause#(#)#)#;#}#else##if#(#t#instanceof#OutOfMemoryError#)#{##return#true#;#}#else##if#(#t#instanceof#ThreadDeath#)#{##return#true#;#}#else#{##// incl. t == null##return#false#;#}#}

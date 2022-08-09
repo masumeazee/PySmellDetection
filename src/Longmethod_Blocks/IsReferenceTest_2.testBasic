@@ -1,1 +1,0 @@
-void#testBasic#(#)#{#expectPropertySet#(#"basic"#,#"global-path"#)#;#assertPropertySet#(#"target-path"#)#;#assertPropertyUnset#(#"undefined"#)#;#}

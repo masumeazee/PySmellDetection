@@ -1,1 +1,0 @@
-void#checkProxyClass#(#Class#proxyClass#)#{#getExecuteMethod#(#proxyClass#)#;#}

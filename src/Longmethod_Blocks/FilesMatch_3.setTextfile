@@ -1,1 +1,0 @@
-void#setTextfile#(#boolean#textfile#)#{#this#.#textfile#=#textfile#;#}

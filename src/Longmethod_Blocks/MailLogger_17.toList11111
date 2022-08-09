@@ -1,1 +1,0 @@
-Values#toList#(#String#toList#)#{#this#.#toList#=#toList#;##return#this#;#}

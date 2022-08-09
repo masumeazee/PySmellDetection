@@ -1,1 +1,0 @@
-void#doTarget#(#String#target#)#{##if#(#!#isConfigured#)#setUp#(#)#;##executeTarget#(#target#)#;#}

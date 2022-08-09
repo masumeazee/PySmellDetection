@@ -1,1 +1,0 @@
-void#deleteClassLoader#(#)#{##if#(#classLoader#!=#null#)#{#classLoader#.#cleanup#(#)#;#classLoader#=#null#;#}##if#(#mirrorLoader#instanceof#SplitClassLoader#)#{#(#(#SplitClassLoader#)#mirrorLoader#)#.#cleanup#(#)#;#}##mirrorLoader#=#null#;#}

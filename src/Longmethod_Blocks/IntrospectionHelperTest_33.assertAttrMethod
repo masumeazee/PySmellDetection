@@ -1,1 +1,0 @@
-void#assertAttrMethod#(#String#attrName#,#String#methodName#,#Class#methodArg#,#Object#arg#,#Object#badArg#)#{#Method#m#=#ih#.#getAttributeMethod#(#attrName#)#;#assertMethod#(#m#,#methodName#,#methodArg#,#arg#,#badArg#)#;#}

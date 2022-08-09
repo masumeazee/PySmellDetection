@@ -1,1 +1,0 @@
-void#testIncompleteFile#(#)#throws#Exception#{#expectReportWithText#(#"testIncompleteFile"#,#XMLResultAggregator#.#WARNING_IS_POSSIBLY_CORRUPTED#)#;#}

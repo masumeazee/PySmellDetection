@@ -1,1 +1,0 @@
-long#getLastModified#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getLastModified#(#)#;#}##if#(#!#isExists#(#false#)#)#{##return#0L#;#}##return#conn#.#getLastModified#(#)#;#}

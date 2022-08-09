@@ -1,1 +1,0 @@
-InputStream#loadBaseResource#(#String#name#)#{##return#parent#==#null#?#super#.#getResourceAsStream#(#name#)#:#parent#.#getResourceAsStream#(#name#)#;#}

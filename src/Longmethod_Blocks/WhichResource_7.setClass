@@ -1,1 +1,0 @@
-void#setClass#(#String#classname#)#{#this#.#classname#=#classname#;#}

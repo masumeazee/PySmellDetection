@@ -1,1 +1,0 @@
-void#addConfiguredMapper#(#Mapper#mapper#)#{#add#(#mapper#.#getImplementation#(#)#)#;#}

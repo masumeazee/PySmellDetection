@@ -1,1 +1,0 @@
-void#addText#(#Project#project#,#Object#target#,#char#[#]#buf#,#int#start#,#int#count#)#throws#BuildException#{#addText#(#project#,#target#,#new#String#(#buf#,#start#,#count#)#)#;#}

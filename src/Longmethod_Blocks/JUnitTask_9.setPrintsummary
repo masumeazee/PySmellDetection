@@ -1,1 +1,0 @@
-void#setPrintsummary#(#SummaryAttribute#value#)#{#summaryValue#=#value#.#getValue#(#)#;#summary#=#value#.#asBoolean#(#)#;#}

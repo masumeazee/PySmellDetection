@@ -1,1 +1,0 @@
-String#getName#(#)#{#return#name#;#}##String#getRevision#(#)#{#return#revision#;#}##String#getPreviousRevision#(#)#{#return#previousRevision#;#}##

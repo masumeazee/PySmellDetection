@@ -1,1 +1,0 @@
-DownloadStatus#fromString#(#String#status#)#{#if#(#NO#.#name#.#equals#(#status#)#)#{#return#NO#;#}#if#(#SUCCESSFUL#.#name#.#equals#(#status#)#)#{#return#SUCCESSFUL#;#}#if#(#FAILED#.#name#.#equals#(#status#)#)#{#return#FAILED#;#}#throw#new#IllegalArgumentException#(#"unknown download status '"#+#status#+#"'"#)#;#}##String#toString#(#)#{#return#name#;#}##

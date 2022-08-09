@@ -1,1 +1,0 @@
-void#setTrim#(#boolean#trim#)#{#this#.#trim#=#trim#?#Boolean#.#TRUE#:#Boolean#.#FALSE#;#}

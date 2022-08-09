@@ -1,1 +1,0 @@
-RmicAdapter#getRmic#(#String#rmicType#,#Task#task#)#throws#BuildException#{##return#getRmic#(#rmicType#,#task#,#null#)#;#}

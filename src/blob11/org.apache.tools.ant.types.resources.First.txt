@@ -1,1 +1,0 @@
-Collection#getCollection#(#)#{#int#ct#=#getValidCount#(#)#;#Iterator#iter#=#getResourceCollection#(#)#.#iterator#(#)#;#ArrayList#al#=#new#ArrayList#(#ct#)#;#for#(#int#i#=#0#;#i#<#ct#&&#iter#.#hasNext#(#)#;#i#++#)#{#al#.#add#(#iter#.#next#(#)#)#;#}#return#al#;#}##

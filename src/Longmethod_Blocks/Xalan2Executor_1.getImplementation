@@ -1,1 +1,0 @@
-String#getImplementation#(#)#throws#BuildException#{##return#tfactory#.#getClass#(#)#.#getName#(#)#;#}

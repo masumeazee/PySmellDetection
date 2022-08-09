@@ -1,1 +1,0 @@
-void#testTestCaseSubClass#(#)#{#assertEquals#(#"overridden getName"#,#JUnitVersionHelper#.#getTestCaseName#(#new#Foo5#(#)#)#)#;#}

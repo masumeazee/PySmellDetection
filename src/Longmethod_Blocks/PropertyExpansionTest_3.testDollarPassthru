@@ -1,1 +1,0 @@
-void#testDollarPassthru#(#)#{#assertExpandsTo#(#"$-"#,#"$-"#)#;#assertExpandsTo#(#"Class$subclass"#,#"Class$subclass"#)#;#assertExpandsTo#(#"$$$-"#,#"$$-"#)#;#assertExpandsTo#(#"$$$$$"#,#"$$$"#)#;#assertExpandsTo#(#"${unassigned.property}"#,#"${unassigned.property}"#)#;#assertExpandsTo#(#"a$b"#,#"a$b"#)#;#assertExpandsTo#(#"$}}"#,#"$}}"#)#;#}

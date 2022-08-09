@@ -1,1 +1,0 @@
-void#logHeadless#(#Throwable#e#)#{#log#(#"failed to display SplashScreen, caught "#+#e#.#getClass#(#)#.#getName#(#)#+#" with message: "#+#e#.#getMessage#(#)#,#Project#.#MSG_WARN#)#;#}

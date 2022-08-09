@@ -1,1 +1,0 @@
-void#testConditionType#(#)#{#expectLogContaining#(#"condition.type"#,#"beforeafter"#)#;#}

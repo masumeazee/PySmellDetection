@@ -1,1 +1,0 @@
-Reader#chain#(#final#Reader#rdr#)#{#TabsToSpaces#newFilter#=#new#TabsToSpaces#(#rdr#)#;#newFilter#.#setTablength#(#getTablength#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

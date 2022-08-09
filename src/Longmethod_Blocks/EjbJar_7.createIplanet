@@ -1,1 +1,0 @@
-IPlanetDeploymentTool#createIplanet#(#)#{#log#(#"iPlanet Application Server deployment tools"#,#Project#.#MSG_VERBOSE#)#;#IPlanetDeploymentTool#tool#=#new#IPlanetDeploymentTool#(#)#;#addDeploymentTool#(#tool#)#;##return#tool#;#}

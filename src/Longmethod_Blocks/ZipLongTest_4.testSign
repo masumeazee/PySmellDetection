@@ -1,1 +1,0 @@
-void#testSign#(#)#{#ZipLong#zl#=#new#ZipLong#(#new#byte#[#]#{#(#byte#)#0xFF#,#(#byte#)#0xFF#,#(#byte#)#0xFF#,#(#byte#)#0xFF#}#)#;#assertEquals#(#0x00000000FFFFFFFFl#,#zl#.#getValue#(#)#)#;#}

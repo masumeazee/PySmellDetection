@@ -1,1 +1,0 @@
-void#setHtml#(#boolean#enable#)#{#html#=#enable#;#}

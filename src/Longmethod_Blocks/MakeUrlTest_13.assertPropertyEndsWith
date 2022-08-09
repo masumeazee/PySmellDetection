@@ -1,1 +1,0 @@
-void#assertPropertyEndsWith#(#String#property#,#String#ending#)#{#String#result#=#getProperty#(#property#)#;#String#substring#=#result#.#substring#(#result#.#length#(#)#-#ending#.#length#(#)#)#;#assertEquals#(#ending#,#substring#)#;#}

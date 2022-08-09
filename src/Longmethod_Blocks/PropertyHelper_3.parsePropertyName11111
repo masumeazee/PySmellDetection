@@ -1,1 +1,0 @@
-String#parsePropertyName#(#String#s#,#ParsePosition#pos#,#ParseNextProperty#notUsed#)#{#int#index#=#pos#.#getIndex#(#)#;##if#(#s#.#indexOf#(#"$$"#,#index#)#==#index#)#{#pos#.#setIndex#(#++#index#)#;#}##return#null#;#}

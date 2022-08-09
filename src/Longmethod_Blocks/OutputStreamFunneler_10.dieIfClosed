@@ -1,1 +1,0 @@
-void#dieIfClosed#(#)#throws#IOException#{##if#(#closed#)#{#throw#new#IOException#(#"The funneled OutputStream has been closed."#)#;#}#}

@@ -1,1 +1,0 @@
-boolean#couldHoldIncluded#(#TokenizedPath#tokenizedName#,#TokenizedPattern#tokenizedInclude#)#{##return#tokenizedInclude#.#matchStartOf#(#tokenizedName#,#isCaseSensitive#(#)#)#&&#isMorePowerfulThanExcludes#(#tokenizedName#.#toString#(#)#)#&&#isDeeper#(#tokenizedInclude#,#tokenizedName#)#;#}

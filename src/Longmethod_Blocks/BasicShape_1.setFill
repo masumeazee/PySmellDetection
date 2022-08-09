@@ -1,1 +1,0 @@
-void#setFill#(#String#col#)#{#fill#=#col#;#}

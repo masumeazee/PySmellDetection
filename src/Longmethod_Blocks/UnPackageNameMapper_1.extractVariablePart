@@ -1,1 +1,0 @@
-String#extractVariablePart#(#String#name#)#{#String#var#=#name#.#substring#(#prefixLength#,#name#.#length#(#)#-#postfixLength#)#;##return#var#.#replace#(#'.'#,#File#.#separatorChar#)#;#}

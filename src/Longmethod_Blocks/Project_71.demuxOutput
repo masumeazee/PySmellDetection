@@ -1,1 +1,0 @@
-void#demuxOutput#(#String#output#,#boolean#isWarning#)#{#Task#task#=#getThreadTask#(#Thread#.#currentThread#(#)#)#;##if#(#task#==#null#)#{#log#(#output#,#isWarning#?#MSG_WARN#:#MSG_INFO#)#;#}#else#{##if#(#isWarning#)#{#task#.#handleErrorOutput#(#output#)#;#}#else#{#task#.#handleOutput#(#output#)#;#}#}#}

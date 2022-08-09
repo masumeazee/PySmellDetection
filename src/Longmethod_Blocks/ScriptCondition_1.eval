@@ -1,1 +1,0 @@
-boolean#eval#(#)#throws#BuildException#{#initScriptRunner#(#)#;#executeScript#(#"ant_condition"#)#;##return#getValue#(#)#;#}

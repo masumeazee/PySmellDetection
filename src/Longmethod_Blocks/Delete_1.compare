@@ -1,1 +1,0 @@
-int#compare#(#Object#foo#,#Object#bar#)#{##return#(#(#Comparable#)#foo#)#.#compareTo#(#bar#)#*#-#1#;#}

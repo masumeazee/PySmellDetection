@@ -1,1 +1,0 @@
-boolean#scanDir#(#File#srcDir#,#String#[#]#files#)#{#SourceFileScanner#sfs#=#new#SourceFileScanner#(#this#)#;#FileNameMapper#mapper#=#getMapper#(#)#;#File#dir#=#srcDir#;##if#(#mapperElement#==#null#)#{#dir#=#null#;#}##return#sfs#.#restrict#(#files#,#srcDir#,#dir#,#mapper#)#.#length#==#0#;#}

@@ -1,1 +1,0 @@
-String#getCompiler#(#)#{#String#compilerImpl#=#getCompilerVersion#(#)#;##if#(#fork#)#{##if#(#isJdkCompiler#(#compilerImpl#)#)#{#compilerImpl#=#"extJavac"#;#}#else#{#log#(#"Since compiler setting isn't classic or modern, "#+#"ignoring fork setting."#,#Project#.#MSG_WARN#)#;#}#}##return#compilerImpl#;#}

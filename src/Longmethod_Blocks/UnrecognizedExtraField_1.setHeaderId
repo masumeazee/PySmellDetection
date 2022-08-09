@@ -1,1 +1,0 @@
-void#setHeaderId#(#ZipShort#headerId#)#{#this#.#headerId#=#headerId#;#}

@@ -1,1 +1,0 @@
-boolean#isSelected#(#Resource#r#)#{#boolean#none#=#true#;#for#(#Iterator#i#=#getSelectors#(#)#;#none#&&#i#.#hasNext#(#)#;#)#{#none#=#!#(#(#ResourceSelector#)#i#.#next#(#)#)#.#isSelected#(#r#)#;#}#return#none#;#}##

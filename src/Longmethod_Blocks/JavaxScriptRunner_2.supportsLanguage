@@ -1,1 +1,0 @@
-boolean#supportsLanguage#(#)#{##if#(#engine#!=#null#)#{##return#true#;#}##checkLanguage#(#)#;#ClassLoader#origLoader#=#replaceContextLoader#(#)#;##try#{##return#createEngine#(#)#!=#null#;#}##catch#(#Exception#ex#)#{##return#false#;#}##finally#{#restoreContextLoader#(#origLoader#)#;#}#}

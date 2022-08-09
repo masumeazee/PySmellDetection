@@ -1,1 +1,0 @@
-Filter#getOp#(#)#{#return#op#;#}##boolean#accept#(#Object#o#)#{#return#!#op#.#accept#(#o#)#;#}##

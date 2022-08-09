@@ -1,1 +1,0 @@
-void#execP4Add#(#StringBuffer#list#)#{#log#(#"Execing add "#+#P4CmdOpts#+#" "#+#addCmd#+#list#,#Project#.#MSG_INFO#)#;#execP4Command#(#"-s add "#+#P4CmdOpts#+#" "#+#addCmd#+#list#,#new#SimpleP4OutputHandler#(#this#)#)#;#}

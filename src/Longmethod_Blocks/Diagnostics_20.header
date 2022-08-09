@@ -1,1 +1,0 @@
-void#header#(#PrintStream#out#,#String#section#)#{#out#.#println#(#)#;#out#.#println#(#"-------------------------------------------"#)#;#out#.#print#(#" "#)#;#out#.#println#(#section#)#;#out#.#println#(#"-------------------------------------------"#)#;#}

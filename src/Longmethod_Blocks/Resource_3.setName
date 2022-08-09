@@ -1,1 +1,0 @@
-void#setName#(#String#name#)#{#checkAttributesAllowed#(#)#;#this#.#name#=#name#;#}

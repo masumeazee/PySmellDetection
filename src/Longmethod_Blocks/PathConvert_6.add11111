@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##getPath#(#)#.#add#(#rc#)#;#}

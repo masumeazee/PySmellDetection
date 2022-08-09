@@ -1,1 +1,0 @@
-void#throwBuildException#(#Exception#t#)#throws#BuildException#{#throw#toBuildException#(#t#)#;#}

@@ -1,1 +1,0 @@
-String#getNodeAttribute#(#Node#node#,#String#name#)#{##if#(#node#instanceof#Element#)#{#Element#element#=#(#Element#)#node#;##return#element#.#getAttribute#(#name#)#;#}##return#null#;#}

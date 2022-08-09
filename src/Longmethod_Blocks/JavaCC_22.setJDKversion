@@ -1,1 +1,0 @@
-void#setJDKversion#(#String#jdkVersion#)#{#optionalAttrs#.#put#(#JDK_VERSION#,#jdkVersion#)#;#}

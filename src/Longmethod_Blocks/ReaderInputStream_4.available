@@ -1,1 +1,0 @@
-int#available#(#)#throws#IOException#{##if#(#in#==#null#)#{#throw#new#IOException#(#"Stream Closed"#)#;#}##if#(#slack#!=#null#)#{##return#slack#.#length#-#begin#;#}##if#(#in#.#ready#(#)#)#{##return#1#;#}##return#0#;#}

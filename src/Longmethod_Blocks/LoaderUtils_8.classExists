@@ -1,1 +1,0 @@
-boolean#classExists#(#ClassLoader#loader#,#String#className#)#{##return#loader#.#getResource#(#classNameToResource#(#className#)#)#!=#null#;#}

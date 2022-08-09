@@ -1,1 +1,0 @@
-void#testGetAddTextMethod#(#)#{#Method#m#=#ih#.#getAddTextMethod#(#)#;#assertMethod#(#m#,#"addText"#,#String#.#class#,#"test"#,#"bing!"#)#;#ih#=#IntrospectionHelper#.#getHelper#(#String#.#class#)#;##try#{#m#=#ih#.#getAddTextMethod#(#)#;#}##catch#(#BuildException#e#)#{#}#}

@@ -1,1 +1,0 @@
-void#read#(#DataInputStream#cpStream#)#throws#IOException#{#classIndex#=#cpStream#.#readUnsignedShort#(#)#;#nameAndTypeIndex#=#cpStream#.#readUnsignedShort#(#)#;#}

@@ -1,1 +1,0 @@
-void#setBccList#(#String#list#)#{#StringTokenizer#tokens#=#new#StringTokenizer#(#list#,#","#)#;##while#(#tokens#.#hasMoreTokens#(#)#)#{#bccList#.#addElement#(#new#EmailAddress#(#tokens#.#nextToken#(#)#)#)#;#}#}

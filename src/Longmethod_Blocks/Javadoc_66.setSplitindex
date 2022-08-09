@@ -1,1 +1,0 @@
-void#setSplitindex#(#boolean#b#)#{#addArgIf#(#b#,#"-splitindex"#)#;#}

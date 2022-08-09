@@ -1,1 +1,0 @@
-boolean#hasFilters#(#)#{#for#(#Enumeration#e#=#filterSets#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#FilterSet#filterSet#=#(#FilterSet#)#e#.#nextElement#(#)#;##if#(#filterSet#.#hasFilters#(#)#)#{##return#true#;#}#}##return#false#;#}

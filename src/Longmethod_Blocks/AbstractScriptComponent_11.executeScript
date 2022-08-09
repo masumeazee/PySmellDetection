@@ -1,1 +1,0 @@
-void#executeScript#(#String#execName#)#{#getRunner#(#)#.#executeScript#(#execName#)#;#}

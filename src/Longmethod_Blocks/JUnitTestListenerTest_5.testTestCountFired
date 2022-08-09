@@ -1,1 +1,0 @@
-void#testTestCountFired#(#)#{#executeTarget#(#PASS_TEST_TARGET#)#;#assertTrue#(#"expecting test count message"#,#hasEventMessage#(#JUnitTask#.#TESTLISTENER_PREFIX#+#"tests to run: "#)#)#;#}

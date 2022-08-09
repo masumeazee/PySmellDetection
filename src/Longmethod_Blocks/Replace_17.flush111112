@@ -1,1 +1,0 @@
-void#flush#(#)#{#replace#(#)#;#outputBuffer#.#append#(#inputBuffer#)#;#inputBuffer#.#delete#(#0#,#inputBuffer#.#length#(#)#)#;#}

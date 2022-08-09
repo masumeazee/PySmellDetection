@@ -1,1 +1,0 @@
-void#setEjbdescriptor#(#File#ejbdescriptor#)#{#this#.#ejbdescriptor#=#ejbdescriptor#;#}

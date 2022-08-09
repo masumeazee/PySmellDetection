@@ -1,1 +1,0 @@
-void#testInfiniteFilter#(#)#{#executeTarget#(#"infinitetest"#)#;#assertTrue#(#getOutput#(#)#.#indexOf#(#"loop in tokens"#)#!=#-#1#)#;#}

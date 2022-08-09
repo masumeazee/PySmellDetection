@@ -1,1 +1,0 @@
-void#addFailure#(#Test#test#,#AssertionFailedError#error#)#{#failedTests#.#add#(#new#TestInfos#(#test#)#)#;#}

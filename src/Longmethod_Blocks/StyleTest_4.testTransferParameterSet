@@ -1,1 +1,0 @@
-void#testTransferParameterSet#(#)#throws#Exception#{#expectFileContains#(#"testTransferParameterSet"#,##// target#"out/out.xml"#,##// file#"set='myvalue'"#)#;##// exptected string#}

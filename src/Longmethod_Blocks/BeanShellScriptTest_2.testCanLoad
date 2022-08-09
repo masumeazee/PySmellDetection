@@ -1,1 +1,0 @@
-void#testCanLoad#(#)#{#expectLog#(#"useBeanshell"#,#"I'm here"#)#;#}

@@ -1,1 +1,0 @@
-void#addReplaceRegex#(#ReplaceRegex#filter#)#{#filters#.#addElement#(#filter#)#;#}

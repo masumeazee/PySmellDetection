@@ -1,1 +1,0 @@
-void#setOutputEncoding#(#String#outputEncoding#)#{##if#(#outputEncoding#==#null#)#{#throw#new#IllegalArgumentException#(#"outputEncoding must not be null"#)#;#}##synchronized#(#outMutex#)#{#this#.#outputEncoding#=#outputEncoding#;#}#}

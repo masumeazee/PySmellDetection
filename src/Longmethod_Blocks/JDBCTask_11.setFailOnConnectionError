@@ -1,1 +1,0 @@
-void#setFailOnConnectionError#(#boolean#b#)#{#failOnConnectionError#=#b#;#}

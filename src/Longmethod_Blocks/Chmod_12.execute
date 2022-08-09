@@ -1,6 +1,0 @@
-void#execute#(#)#throws#BuildException#{##/*
-         * In Ant 1.1, <chmod dir="foo" /> means, change the permissions
-         * of directory foo, not anything inside of it.  This is the case the
-         * second branch of the if statement below catches for backwards
-         * compatibility.
-         */##if#(#defaultSetDefined#||#defaultSet#.#getDir#(#getProject#(#)#)#==#null#)#{#try#{#super#.#execute#(#)#;#}##finally#{##if#(#defaultSetDefined#&&#defaultSet#.#getDir#(#getProject#(#)#)#!=#null#)#{#filesets#.#removeElement#(#defaultSet#)#;#}#}#}#else##if#(#isValidOs#(#)#)#{##// we are chmodding the given directory#Execute#execute#=#prepareExec#(#)#;#Commandline#cloned#=#(#Commandline#)#cmdl#.#clone#(#)#;#cloned#.#createArgument#(#)#.#setValue#(#defaultSet#.#getDir#(#getProject#(#)#)#.#getPath#(#)#)#;##try#{#execute#.#setCommandline#(#cloned#.#getCommandline#(#)#)#;#runExecute#(#execute#)#;#}##catch#(#IOException#e#)#{#throw#new#BuildException#(#"Execute failed: "#+#e#,#e#,#getLocation#(#)#)#;#}##finally#{##// close the output file if required#logFlush#(#)#;#}#}#}

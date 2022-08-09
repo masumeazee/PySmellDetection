@@ -1,1 +1,0 @@
-boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#{#validate#(#)#;##return#(#file#.#isDirectory#(#)#&&#!#includeDirs#)#||#when#.#evaluate#(#file#.#lastModified#(#)#,#millis#,#granularity#)#;#}

@@ -1,1 +1,0 @@
-void#setSosHome#(#String#sosHome#)#{#this#.#sosHome#=#sosHome#;#}

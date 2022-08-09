@@ -1,1 +1,0 @@
-void#setIncludeSemanticAttribute#(#boolean#includeSemanticAttribute#)#{#this#.#includeSemanticAttribute#=#includeSemanticAttribute#;#}

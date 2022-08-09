@@ -1,1 +1,0 @@
-void#testTrim#(#)#{#Equals#eq#=#new#Equals#(#)#;#eq#.#setArg1#(#"a"#)#;#eq#.#setArg2#(#" a"#)#;#assertTrue#(#!#eq#.#eval#(#)#)#;#eq#.#setTrim#(#true#)#;#assertTrue#(#eq#.#eval#(#)#)#;#eq#.#setArg2#(#"a\t"#)#;#assertTrue#(#eq#.#eval#(#)#)#;#}

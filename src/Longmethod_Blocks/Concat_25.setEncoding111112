@@ -1,1 +1,0 @@
-void#setEncoding#(#String#encoding#)#{#this#.#encoding#=#encoding#;##if#(#outputEncoding#==#null#)#{#outputEncoding#=#encoding#;#}#}

@@ -1,1 +1,0 @@
-void#deleteSymlink#(#File#linkfil#)#throws#IOException#{#SYMLINK_UTILS#.#deleteSymbolicLink#(#linkfil#,#null#)#;#}

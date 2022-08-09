@@ -1,1 +1,0 @@
-void#targetFinished#(#BuildEvent#event#)#{#Date#start#=#(#Date#)#profileData#.#remove#(#event#.#getTarget#(#)#)#;#String#name#=#"Target "#+#event#.#getTarget#(#)#.#getName#(#)#;#logFinish#(#event#,#start#,#name#)#;#}

@@ -1,1 +1,0 @@
-boolean#isUpToDate#(#ResourceCollection#c#)#{##if#(#dest#==#null#||#forceOverwrite#)#{##return#false#;#}##for#(#Iterator#i#=#c#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Resource#r#=#(#Resource#)#i#.#next#(#)#;##if#(#SelectorUtils#.#isOutOfDate#(#r#,#dest#,#FILE_UTILS#.#getFileTimestampGranularity#(#)#)#)#{##return#false#;#}#}##return#true#;#}

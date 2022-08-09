@@ -1,1 +1,0 @@
-void#assertNotReference#(#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##noAttributeSet#=#false#;#}

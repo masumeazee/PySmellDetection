@@ -1,1 +1,0 @@
-void#execute#(#)#throws#BuildException#{#int#result#=#0#;#buildCmdLine#(#)#;#result#=#run#(#commandLine#)#;##if#(#result#==#ERROR_EXIT_STATUS#)#{##// This is the exit status#String#msg#=#"Failed executing: "#+#commandLine#.#toString#(#)#;#throw#new#BuildException#(#msg#,#getLocation#(#)#)#;#}#}

@@ -1,1 +1,0 @@
-void#setPattern#(#String#pattern#)#{##if#(#regularExpression#!=#null#)#{#throw#new#BuildException#(#"Only one regular expression is allowed."#)#;#}##regularExpression#=#new#RegularExpression#(#)#;#regularExpression#.#setPattern#(#pattern#)#;#}

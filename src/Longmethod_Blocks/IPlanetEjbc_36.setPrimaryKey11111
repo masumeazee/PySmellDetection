@@ -1,1 +1,0 @@
-void#setPrimaryKey#(#Classname#primaryKey#)#{#this#.#primaryKey#=#primaryKey#;#}

@@ -1,1 +1,0 @@
-boolean#matches#(#String#input#)#{#if#(#input#==#null#)#{#throw#new#NullPointerException#(#)#;#}#return#false#;#}##boolean#isExact#(#)#{#return#true#;#}##

@@ -1,1 +1,0 @@
-void#testKeepGoingSingleCheck#(#)#{#try#{#getProject#(#SINGLE_CHECK#,#true#,#true#)#.#executeTargets#(#TARGET_NAMES#)#;#fail#(#"should fail"#)#;#}##catch#(#BuildException#e#)#{#assertTrue#(#e#.#getMessage#(#)#.#equals#(#"failfoo"#)#)#;#assertEquals#(#1#,#targetCount#)#;#}#}

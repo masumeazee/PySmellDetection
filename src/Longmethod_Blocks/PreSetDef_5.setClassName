@@ -1,1 +1,0 @@
-void#setClassName#(#String#className#)#{#throw#new#BuildException#(#"Not supported"#)#;#}

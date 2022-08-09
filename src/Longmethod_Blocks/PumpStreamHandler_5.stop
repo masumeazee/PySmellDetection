@@ -1,1 +1,0 @@
-void#stop#(#)#{#finish#(#outputThread#)#;#finish#(#errorThread#)#;##if#(#inputPump#!=#null#)#{#inputPump#.#stop#(#)#;#}##try#{#err#.#flush#(#)#;#}##catch#(#IOException#e#)#{##// ignore#}##try#{#out#.#flush#(#)#;#}##catch#(#IOException#e#)#{##// ignore#}#}

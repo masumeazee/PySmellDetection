@@ -1,1 +1,0 @@
-void#setHelpfile#(#File#f#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-helpfile"#)#;#cmd#.#createArgument#(#)#.#setFile#(#f#)#;#}

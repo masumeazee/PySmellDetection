@@ -1,1 +1,0 @@
-boolean#hasMoreLines#(#String#line#)#{##// CheckStyle:MagicNumber OFF##return#line#.#length#(#)#>#3#&&#line#.#charAt#(#3#)#==#'-'#;##// CheckStyle:MagicNumber ON#}

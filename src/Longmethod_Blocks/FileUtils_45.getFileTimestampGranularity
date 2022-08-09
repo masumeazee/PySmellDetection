@@ -1,1 +1,0 @@
-long#getFileTimestampGranularity#(#)#{##if#(#ON_WIN9X#)#{##return#FAT_FILE_TIMESTAMP_GRANULARITY#;#}##if#(#ON_WINDOWS#)#{##return#NTFS_FILE_TIMESTAMP_GRANULARITY#;#}##if#(#ON_DOS#)#{##return#FAT_FILE_TIMESTAMP_GRANULARITY#;#}##return#UNIX_FILE_TIMESTAMP_GRANULARITY#;#}

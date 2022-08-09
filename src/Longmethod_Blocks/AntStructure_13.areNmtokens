@@ -1,1 +1,0 @@
-boolean#areNmtokens#(#String#[#]#s#)#{##return#DTDPrinter#.#areNmtokens#(#s#)#;#}

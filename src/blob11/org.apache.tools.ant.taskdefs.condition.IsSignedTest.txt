@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/conditions/issigned.xml"#)#;#}##void#testPass#(#)#{#executeTarget#(#"pass"#)#;#}##void#testPassword#(#)#{#executeTarget#(#"password"#)#;#}##void#testAPassword#(#)#{#executeTarget#(#"apassword"#)#;#}##void#testAllSigned#(#)#{#executeTarget#(#"allsigned"#)#;#}##

@@ -1,1 +1,0 @@
-boolean#assumeJava11#(#)#{##return#"javac1.1"#.#equals#(#attributes#.#getCompilerVersion#(#)#)#;#}

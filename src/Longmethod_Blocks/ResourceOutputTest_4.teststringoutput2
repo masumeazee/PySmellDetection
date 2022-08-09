@@ -1,1 +1,0 @@
-void#teststringoutput2#(#)#{#StringResource#r#=#new#StringResource#(#"bar"#)#;##try#{#testoutput#(#r#)#;#fail#(#"should have caught ImmutableResourceException"#)#;#}##catch#(#ImmutableResourceException#e#)#{#}##catch#(#IOException#e#)#{#fail#(#"caught some other IOException: "#+#e#)#;#}##assertEquals#(#"bar"#,#r#.#getValue#(#)#)#;#}

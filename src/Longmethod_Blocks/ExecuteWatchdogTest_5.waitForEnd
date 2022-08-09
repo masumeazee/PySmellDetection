@@ -1,1 +1,0 @@
-int#waitForEnd#(#Process#p#)#throws#Exception#{#int#retcode#=#p#.#waitFor#(#)#;##if#(#retcode#!=#0#)#{#String#err#=#getErrorOutput#(#p#)#;##if#(#err#.#length#(#)#>#0#)#{#System#.#err#.#println#(#"ERROR:"#)#;#System#.#err#.#println#(#err#)#;#}#}##return#retcode#;#}

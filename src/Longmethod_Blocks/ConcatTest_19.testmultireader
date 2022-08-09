@@ -1,1 +1,0 @@
-void#testmultireader#(#)#{#executeTarget#(#"testmultireader"#)#;#assertTrue#(#getLog#(#)#.#indexOf#(#"Bye"#)#>#-#1#)#;#assertTrue#(#getLog#(#)#.#indexOf#(#"Hello"#)#==#-#1#)#;#}

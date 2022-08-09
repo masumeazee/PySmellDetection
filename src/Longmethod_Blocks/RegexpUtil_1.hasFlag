@@ -1,1 +1,0 @@
-boolean#hasFlag#(#int#options#,#int#flag#)#{##return#(#(#options#&#flag#)#>#0#)#;#}

@@ -1,1 +1,0 @@
-void#setMessage#(#String#s#)#{#message#=#s#;#}##Echo#createEcho#(#)#{#echo#=#new#Echo#(#)#;#return#echo#;#}##void#execute#(#)#{#log#(#"simpletask: "#+#echo#.#message#,#Project#.#MSG_INFO#)#;#}##

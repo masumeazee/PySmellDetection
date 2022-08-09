@@ -1,1 +1,0 @@
-void#tearDown#(#)#{##if#(#supportsSymlinks#)#{#executeTarget#(#"teardown"#)#;#}#}

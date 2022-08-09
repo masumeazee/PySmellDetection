@@ -1,1 +1,0 @@
-void#setOutputDir#(#File#outputDir#)#{#this#.#outputDir#=#outputDir#;#}

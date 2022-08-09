@@ -1,1 +1,0 @@
-void#setPath#(#Path#path#)#{##if#(#this#.#path#==#null#)#{#this#.#path#=#path#;#}#else#{#this#.#path#.#append#(#path#)#;#}#}

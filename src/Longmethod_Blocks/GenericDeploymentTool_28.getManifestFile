@@ -1,1 +1,0 @@
-File#getManifestFile#(#String#prefix#)#{#File#manifestFile#=#new#File#(#getConfig#(#)#.#descriptorDir#,#prefix#+#"manifest.mf"#)#;##if#(#manifestFile#.#exists#(#)#)#{##return#manifestFile#;#}##if#(#config#.#manifest#!=#null#)#{##return#config#.#manifest#;#}##return#null#;#}

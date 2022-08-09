@@ -1,1 +1,0 @@
-void#execute#(#)#throws#BuildException#{#isCondition#=#false#;#boolean#value#=#validateAndExecute#(#)#;##if#(#verifyProperty#!=#null#)#{#getProject#(#)#.#setNewProperty#(#verifyProperty#,#(#value#?#Boolean#.#TRUE#.#toString#(#)#:#Boolean#.#FALSE#.#toString#(#)#)#)#;#}#}

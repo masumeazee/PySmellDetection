@@ -1,1 +1,0 @@
-void#addTimeoutObserver#(#TimeoutObserver#to#)#{##//no need to synchronize, as Vector is always synchronized#observers#.#addElement#(#to#)#;#}

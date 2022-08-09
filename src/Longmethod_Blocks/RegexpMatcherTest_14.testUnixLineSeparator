@@ -1,1 +1,0 @@
-void#testUnixLineSeparator#(#)#throws#IOException#{#reg#.#setPattern#(#"end of text$"#)#;#assertTrue#(#"Unix line separator"#,#reg#.#matches#(#"end of text\n"#)#)#;#}

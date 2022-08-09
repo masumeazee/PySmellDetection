@@ -1,1 +1,0 @@
-boolean#isValidName#(#String#name#)#{##if#(#name#.#length#(#)#==#0#)#{##return#false#;#}##for#(#int#i#=#0#;##i#<#name#.#length#(#)#;#++#i#)#{##if#(#!#isValidNameCharacter#(#name#.#charAt#(#i#)#)#)#{##return#false#;#}#}##return#true#;#}

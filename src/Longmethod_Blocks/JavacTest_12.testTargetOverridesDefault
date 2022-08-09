@@ -1,1 +1,0 @@
-void#testTargetOverridesDefault#(#)#{#project#.#setNewProperty#(#"ant.build.javac.target"#,#"1.4"#)#;#javac#.#setTarget#(#"1.5"#)#;#assertEquals#(#"1.5"#,#javac#.#getTarget#(#)#)#;#}

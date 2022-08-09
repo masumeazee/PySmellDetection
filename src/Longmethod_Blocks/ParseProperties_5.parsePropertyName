@@ -1,1 +1,0 @@
-String#parsePropertyName#(#String#value#,#ParsePosition#pos#)#{#for#(#Iterator#iter#=#expanders#.#iterator#(#)#;##iter#.#hasNext#(#)#;#)#{#String#propertyName#=#(#(#PropertyExpander#)#iter#.#next#(#)#)#.#parsePropertyName#(#value#,#pos#,#this#)#;##if#(#propertyName#==#null#)#{#continue#;#}##return#propertyName#;#}##return#null#;#}

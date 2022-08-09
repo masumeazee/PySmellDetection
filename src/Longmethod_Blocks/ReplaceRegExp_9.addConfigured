@@ -1,1 +1,0 @@
-void#addConfigured#(#ResourceCollection#rc#)#{##if#(#!#rc#.#isFilesystemOnly#(#)#)#{#throw#new#BuildException#(#"only filesystem resources are supported"#)#;#}##if#(#resources#==#null#)#{#resources#=#new#Union#(#)#;#}##resources#.#add#(#rc#)#;#}

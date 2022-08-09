@@ -1,1 +1,0 @@
-void#testListAnnotationTypes#(#)#{#executeTarget#(#"testListAnnotationTypes"#)#;#assertLogContaining#(#"Set of annotations found:"#)#;#assertLogContaining#(#"Distributed"#)#;#}

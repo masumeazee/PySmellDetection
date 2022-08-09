@@ -1,1 +1,0 @@
-void#setUp#(#)#throws#Exception#{#project#=#new#Project#(#)#;#project#.#setBasedir#(#"."#)#;#}

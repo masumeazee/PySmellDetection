@@ -1,1 +1,0 @@
-BuildException#circularReference#(#)#{##return#new#BuildException#(#"This data type contains a circular "#+#"reference."#)#;#}

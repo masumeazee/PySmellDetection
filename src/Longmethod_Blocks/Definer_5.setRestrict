@@ -1,1 +1,0 @@
-void#setRestrict#(#boolean#restrict#)#{#this#.#restrict#=#restrict#;#}

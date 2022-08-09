@@ -1,1 +1,0 @@
-void#setIncludesfile#(#File#includesFile#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##createIncludesFile#(#)#.#setName#(#includesFile#.#getAbsolutePath#(#)#)#;#}

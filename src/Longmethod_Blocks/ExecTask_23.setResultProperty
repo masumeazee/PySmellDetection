@@ -1,1 +1,0 @@
-void#setResultProperty#(#String#resultProperty#)#{#this#.#resultProperty#=#resultProperty#;#incompatibleWithSpawn#=#true#;#}

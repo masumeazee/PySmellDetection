@@ -1,1 +1,0 @@
-String#getLabel#(#)#{#String#shortLabel#=#""#;##if#(#label#!=#null#&&#label#.#length#(#)#>#0#)#{#shortLabel#=#FLAG_LABEL#+#getShortLabel#(#)#;#}##return#shortLabel#;#}

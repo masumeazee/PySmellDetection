@@ -1,1 +1,0 @@
-void#startElement#(#String#name#,#AttributeList#attrs#)#throws#SAXParseException#{#new#NestedElementHandler#(#helperImpl#,#this#,#element#,#wrapper#,#target#)#.#init#(#name#,#attrs#)#;#}

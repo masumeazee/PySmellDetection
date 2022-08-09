@@ -1,1 +1,0 @@
-void#setFlags#(#String#flags#)#{#this#.#flags#=#flags#;#}

@@ -1,1 +1,0 @@
-boolean#supportsNestedElement#(#String#parentUri#,#String#elementName#,#Project#project#,#Object#parent#)#{##if#(#addTypeMethods#.#size#(#)#>#0#&&#createAddTypeCreator#(#project#,#parent#,#elementName#)#!=#null#)#{##return#true#;#}##return#isDynamic#(#)#||#supportsReflectElement#(#parentUri#,#elementName#)#;#}

@@ -1,1 +1,0 @@
-void#testTextOptional#(#)#{#expectLog#(#"text.optional"#,#"MyTextoverride text"#)#;#}

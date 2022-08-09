@@ -1,1 +1,0 @@
-void#doCompilation#(#JspCompilerAdapter#compiler#)#throws#BuildException#{##// now we need to populate the compiler adapter#compiler#.#setJspc#(#this#)#;##// finally, lets execute the compiler!!##if#(#!#compiler#.#execute#(#)#)#{##if#(#failOnError#)#{#throw#new#BuildException#(#FAIL_MSG#,#getLocation#(#)#)#;#}#else#{#log#(#FAIL_MSG#,#Project#.#MSG_ERR#)#;#}#}#}

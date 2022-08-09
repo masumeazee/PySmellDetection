@@ -1,1 +1,0 @@
-void#addChild#(#RuntimeConfigurable#child#)#{#children#=#(#children#==#null#)#?#new#ArrayList#(#)#:#children#;#children#.#add#(#child#)#;#}

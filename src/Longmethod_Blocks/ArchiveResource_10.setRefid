@@ -1,1 +1,0 @@
-void#setRefid#(#Reference#r#)#{##if#(#archive#!=#null#||#modeSet#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#r#)#;#}

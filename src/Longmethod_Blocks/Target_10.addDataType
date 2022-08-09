@@ -1,1 +1,0 @@
-void#addDataType#(#RuntimeConfigurable#r#)#{#children#.#add#(#r#)#;#}

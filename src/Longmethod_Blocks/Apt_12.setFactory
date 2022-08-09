@@ -1,1 +1,0 @@
-void#setFactory#(#String#factory#)#{#this#.#factory#=#factory#;#}

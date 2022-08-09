@@ -1,1 +1,0 @@
-SAXParserFactory#getParserFactory#(#)#throws#BuildException#{##if#(#parserFactory#==#null#)#{#parserFactory#=#newParserFactory#(#)#;#}##return#parserFactory#;#}

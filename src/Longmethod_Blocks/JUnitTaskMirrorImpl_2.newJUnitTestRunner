@@ -1,1 +1,0 @@
-JUnitTaskMirror#.#JUnitTestRunnerMirror#newJUnitTestRunner#(#JUnitTest#test#,#boolean#haltOnError#,#boolean#filterTrace#,#boolean#haltOnFailure#,#boolean#showOutput#,#boolean#logTestListenerEvents#,#AntClassLoader#classLoader#)#{##return#new#JUnitTestRunner#(#test#,#haltOnError#,#filterTrace#,#haltOnFailure#,#showOutput#,#logTestListenerEvents#,#classLoader#)#;#}

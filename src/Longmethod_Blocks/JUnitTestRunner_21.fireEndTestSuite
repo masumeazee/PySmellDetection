@@ -1,1 +1,0 @@
-void#fireEndTestSuite#(#)#{#for#(#int#i#=#0#;##i#<#formatters#.#size#(#)#;#i#++#)#{#(#(#JUnitResultFormatter#)#formatters#.#elementAt#(#i#)#)#.#endTestSuite#(#junitTest#)#;#}#}

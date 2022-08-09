@@ -1,1 +1,0 @@
-void#executeTargets#(#Vector#names#)#throws#BuildException#{#setUserProperty#(#MagicNames#.#PROJECT_INVOKED_TARGETS#,#CollectionUtils#.#flattenToString#(#names#)#)#;#getExecutor#(#)#.#executeTargets#(#this#,#(#String#[#]#)#(#names#.#toArray#(#new#String#[#names#.#size#(#)#]#)#)#)#;#}

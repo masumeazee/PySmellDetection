@@ -1,1 +1,0 @@
-void#sanitizeText#(#)#{##if#(#textBuffer#!=#null#&&#""#.#equals#(#textBuffer#.#toString#(#)#.#trim#(#)#)#)#{#textBuffer#=#null#;#}#}

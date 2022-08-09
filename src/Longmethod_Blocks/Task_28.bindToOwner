@@ -1,1 +1,0 @@
-void#bindToOwner#(#Task#owner#)#{#setProject#(#owner#.#getProject#(#)#)#;#setOwningTarget#(#owner#.#getOwningTarget#(#)#)#;#setTaskName#(#owner#.#getTaskName#(#)#)#;#setDescription#(#owner#.#getDescription#(#)#)#;#setLocation#(#owner#.#getLocation#(#)#)#;#setTaskType#(#owner#.#getTaskType#(#)#)#;#}

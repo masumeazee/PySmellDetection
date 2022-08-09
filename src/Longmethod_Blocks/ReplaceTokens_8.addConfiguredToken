@@ -1,1 +1,0 @@
-void#addConfiguredToken#(#final#Token#token#)#{#hash#.#put#(#token#.#getKey#(#)#,#token#.#getValue#(#)#)#;#}

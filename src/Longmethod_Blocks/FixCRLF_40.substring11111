@@ -1,1 +1,0 @@
-String#substring#(#int#begin#,#int#end#)#{##return#line#.#substring#(#begin#,#end#)#;#}

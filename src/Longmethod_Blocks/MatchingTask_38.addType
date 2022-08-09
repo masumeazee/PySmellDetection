@@ -1,1 +1,0 @@
-void#addType#(#TypeSelector#selector#)#{#fileset#.#addType#(#selector#)#;#}

@@ -1,1 +1,0 @@
-void#addLineTokenizer#(#LineTokenizer#tokenizer#)#{#add#(#tokenizer#)#;#}

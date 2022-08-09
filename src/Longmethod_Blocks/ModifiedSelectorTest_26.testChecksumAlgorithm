@@ -1,1 +1,0 @@
-void#testChecksumAlgorithm#(#)#{#ChecksumAlgorithm#algo#=#new#ChecksumAlgorithm#(#)#;#doTest#(#algo#)#;#}

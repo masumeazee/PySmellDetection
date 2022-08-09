@@ -1,1 +1,0 @@
-Iterator#asIterator#(#final#Enumeration#e#)#{##return#new#Iterator#(#)#{#public#boolean#hasNext#(#)#{##return#e#.#hasMoreElements#(#)#;#}##public#Object#next#(#)#{##return#e#.#nextElement#(#)#;#}##public#void#remove#(#)#{#throw#new#UnsupportedOperationException#(#)#;#}#}#;#}

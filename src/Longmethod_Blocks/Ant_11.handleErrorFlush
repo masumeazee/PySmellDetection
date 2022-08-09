@@ -1,1 +1,0 @@
-void#handleErrorFlush#(#String#errorOutputToFlush#)#{##if#(#newProject#!=#null#)#{#newProject#.#demuxFlush#(#errorOutputToFlush#,#true#)#;#}#else#{#super#.#handleErrorFlush#(#errorOutputToFlush#)#;#}#}

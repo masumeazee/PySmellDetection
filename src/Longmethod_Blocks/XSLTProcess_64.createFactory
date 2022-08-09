@@ -1,1 +1,0 @@
-Factory#createFactory#(#)#throws#BuildException#{##if#(#factory#!=#null#)#{#handleError#(#"'factory' element must be unique"#)#;#}#else#{#factory#=#new#Factory#(#)#;#}##return#factory#;#}

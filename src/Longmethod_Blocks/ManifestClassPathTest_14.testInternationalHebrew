@@ -1,1 +1,0 @@
-void#testInternationalHebrew#(#)#{##if#(#!#Os#.#isFamily#(#"windows"#)#)#{#executeTarget#(#"international-hebrew"#)#;#expectLogContaining#(#"run-two-jars"#,#"beta alpha"#)#;#}#else#{#System#.#out#.#println#(#"Test with hebrew path not attempted under Windows"#)#;#}#}

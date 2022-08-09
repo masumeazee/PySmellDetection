@@ -1,1 +1,0 @@
-void#assertExpandsTo#(#String#source#,#String#expected#)#{#String#actual#=#project#.#replaceProperties#(#source#)#;#assertEquals#(#source#,#expected#,#actual#)#;#}

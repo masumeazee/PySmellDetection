@@ -1,1 +1,0 @@
-boolean#isResponseOK#(#String#response#,#int#[#]#ok#)#{##// Check that the response is one of the valid codes#for#(#int#i#=#0#;##i#<#ok#.#length#;#i#++#)#{##if#(#response#.#startsWith#(#""#+#ok#[#i#]#)#)#{##return#true#;#}#}##return#false#;#}

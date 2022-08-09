@@ -1,1 +1,0 @@
-void#setKeepCompression#(#boolean#keep#)#{#keepCompression#=#keep#;#}

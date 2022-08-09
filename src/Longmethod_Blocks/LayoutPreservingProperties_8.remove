@@ -1,1 +1,0 @@
-Object#remove#(#Object#key#)#{#Object#obj#=#super#.#remove#(#key#)#;#Integer#i#=#(#Integer#)#keyedPairLines#.#remove#(#key#)#;##if#(#null#!=#i#)#{##if#(#removeComments#)#{#removeCommentsEndingAt#(#i#.#intValue#(#)#)#;#}##logicalLines#.#set#(#i#.#intValue#(#)#,#null#)#;#}##return#obj#;#}

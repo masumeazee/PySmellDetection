@@ -1,1 +1,0 @@
-void#removeNSDefinitions#(#Element#element#)#{#ArrayList#al#=#(#ArrayList#)#nsURIByElement#.#get#(#element#)#;##if#(#al#!=#null#)#{#Iterator#iter#=#al#.#iterator#(#)#;##while#(#iter#.#hasNext#(#)#)#{#nsPrefixMap#.#remove#(#iter#.#next#(#)#)#;#}##nsURIByElement#.#remove#(#element#)#;#}#}

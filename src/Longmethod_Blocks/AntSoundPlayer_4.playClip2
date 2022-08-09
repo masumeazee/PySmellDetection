@@ -1,1 +1,0 @@
-void#playClip#(#Clip#clip#,#int#loops#)#{#clip#.#loop#(#loops#)#;##do#{#try#{#long#timeLeft#=#(#clip#.#getMicrosecondLength#(#)#-#clip#.#getMicrosecondPosition#(#)#)#/#1000#;##if#(#timeLeft#>#0#)#{#Thread#.#sleep#(#timeLeft#)#;#}#}##catch#(#InterruptedException#e#)#{#break#;#}#}##while#(#clip#.#isRunning#(#)#)#;##if#(#clip#.#isRunning#(#)#)#{#clip#.#stop#(#)#;#}#}

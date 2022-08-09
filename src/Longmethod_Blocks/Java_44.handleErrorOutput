@@ -1,1 +1,0 @@
-void#handleErrorOutput#(#String#output#)#{##if#(#redirector#.#getErrorStream#(#)#!=#null#)#{#redirector#.#handleErrorOutput#(#output#)#;#}#else#{#super#.#handleErrorOutput#(#output#)#;#}#}

@@ -1,1 +1,0 @@
-void#setParameters#(#Parameter#[#]#parameters#)#{#this#.#parameters#=#parameters#;#}

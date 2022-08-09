@@ -1,1 +1,0 @@
-void#setOs#(#String#os#)#{#this#.#os#=#os#;#}

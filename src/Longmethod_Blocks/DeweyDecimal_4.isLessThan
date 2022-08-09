@@ -1,1 +1,0 @@
-boolean#isLessThan#(#final#DeweyDecimal#other#)#{##return#!#isGreaterThanOrEqual#(#other#)#;#}

@@ -1,1 +1,0 @@
-void#setClassname#(#String#classname#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#classname#=#classname#;#}

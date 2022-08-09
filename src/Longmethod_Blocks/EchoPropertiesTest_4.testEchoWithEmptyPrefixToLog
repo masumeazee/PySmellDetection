@@ -1,1 +1,0 @@
-void#testEchoWithEmptyPrefixToLog#(#)#{#expectLogContaining#(#"testEchoWithEmptyPrefixToLog"#,#"test.property="#+#TEST_VALUE#)#;#}

@@ -1,1 +1,0 @@
-void#setFile#(#File#file#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##setDir#(#file#.#getParentFile#(#)#)#;#createInclude#(#)#.#setName#(#file#.#getName#(#)#)#;#}

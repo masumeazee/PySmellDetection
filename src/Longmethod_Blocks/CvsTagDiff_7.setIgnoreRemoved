@@ -1,1 +1,0 @@
-void#setIgnoreRemoved#(#boolean#b#)#{#ignoreRemoved#=#b#;#}

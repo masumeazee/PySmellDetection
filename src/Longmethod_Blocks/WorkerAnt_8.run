@@ -1,1 +1,0 @@
-void#run#(#)#{#try#{##if#(#task#!=#null#)#{#task#.#execute#(#)#;#}#}##catch#(#Throwable#thrown#)#{#caught#(#thrown#)#;#}##finally#{#synchronized#(#notify#)#{#finished#=#true#;##//reset the task.##//wake up our owner, if it is waiting#notify#.#notifyAll#(#)#;#}#}#}

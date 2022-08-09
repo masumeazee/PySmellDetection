@@ -1,1 +1,0 @@
-void#start#(#String#[#]#args#,#Properties#additionalUserProperties#,#ClassLoader#coreLoader#)#{#Main#m#=#new#Main#(#)#;#m#.#startAnt#(#args#,#additionalUserProperties#,#coreLoader#)#;#}

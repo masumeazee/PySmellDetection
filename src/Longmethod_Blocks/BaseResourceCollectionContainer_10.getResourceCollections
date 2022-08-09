@@ -1,1 +1,0 @@
-List#getResourceCollections#(#)#{#dieOnCircularReference#(#)#;##return#Collections#.#unmodifiableList#(#rc#)#;#}

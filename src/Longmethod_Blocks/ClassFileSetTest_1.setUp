@@ -1,1 +1,0 @@
-void#setUp#(#)#{##// share the setup for testing the depend task#configureProject#(#"src/etc/testcases/taskdefs/optional/depend/depend.xml"#)#;#}

@@ -1,1 +1,0 @@
-void#setTaskName#(#String#name#)#{#this#.#taskName#=#name#;#}

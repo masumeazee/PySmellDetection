@@ -1,1 +1,0 @@
-File#getDestinationFile#(#)#{##if#(#toFile#==#null#)#{#toFile#=#DEFAULT_FILENAME#;#}##if#(#toDir#==#null#)#{#toDir#=#getProject#(#)#.#resolveFile#(#DEFAULT_DIR#)#;#}##return#new#File#(#toDir#,#toFile#)#;#}

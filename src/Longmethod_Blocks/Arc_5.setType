@@ -1,1 +1,0 @@
-void#setType#(#String#strType#)#{##if#(#strType#.#toLowerCase#(#)#.#equals#(#"open"#)#)#{#type#=#Arc2D#.#OPEN#;#}#else##if#(#strType#.#toLowerCase#(#)#.#equals#(#"pie"#)#)#{#type#=#Arc2D#.#PIE#;#}#else##if#(#strType#.#toLowerCase#(#)#.#equals#(#"chord"#)#)#{#type#=#Arc2D#.#CHORD#;#}#}

@@ -1,1 +1,0 @@
-Scp#createTask#(#)#{#Scp#scp#=#new#Scp#(#)#;#Project#p#=#new#Project#(#)#;#p#.#init#(#)#;#scp#.#setProject#(#p#)#;##if#(#knownHosts#!=#null#)#{#scp#.#setKnownhosts#(#knownHosts#)#;#}#else#{#scp#.#setTrust#(#true#)#;#}##scp#.#setPort#(#port#)#;##return#scp#;#}

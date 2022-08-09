@@ -1,1 +1,0 @@
-void#processLine#(#String#line#,#int#level#)#{##if#(#line#.#startsWith#(#TESTLISTENER_PREFIX#)#)#{#task#.#log#(#line#,#Project#.#MSG_VERBOSE#)#;#}#else#{#super#.#processLine#(#line#,#level#)#;#}#}

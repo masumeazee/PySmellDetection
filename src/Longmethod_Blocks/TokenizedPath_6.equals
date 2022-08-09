@@ -1,1 +1,0 @@
-boolean#equals#(#Object#o#)#{##return#o#instanceof#TokenizedPath#&&#path#.#equals#(#(#(#TokenizedPath#)#o#)#.#path#)#;#}

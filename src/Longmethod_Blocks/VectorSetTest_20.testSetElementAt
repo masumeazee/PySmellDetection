@@ -1,1 +1,0 @@
-void#testSetElementAt#(#)#{#v#.#add#(#O#)#;#Object#a#=#new#Object#(#)#;#v#.#setElementAt#(#a#,#0#)#;#assertSame#(#a#,#v#.#get#(#0#)#)#;#assertEquals#(#1#,#v#.#size#(#)#)#;#}

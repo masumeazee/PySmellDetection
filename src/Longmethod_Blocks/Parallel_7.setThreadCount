@@ -1,1 +1,0 @@
-void#setThreadCount#(#int#numThreads#)#{#this#.#numThreads#=#numThreads#;#}

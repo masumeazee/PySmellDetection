@@ -1,1 +1,0 @@
-void#setManagingTask#(#Task#task#)#{#setManagingComponent#(#task#)#;#}

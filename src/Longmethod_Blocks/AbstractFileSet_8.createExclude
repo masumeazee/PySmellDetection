@@ -1,1 +1,0 @@
-PatternSet#.#NameEntry#createExclude#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##directoryScanner#=#null#;##return#defaultPatterns#.#createExclude#(#)#;#}

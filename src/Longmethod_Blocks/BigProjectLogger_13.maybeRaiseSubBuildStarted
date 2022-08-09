@@ -1,1 +1,0 @@
-void#maybeRaiseSubBuildStarted#(#BuildEvent#event#)#{##// double checked locking should be OK since the flag is write-once##if#(#!#subBuildStartedRaised#)#{#synchronized#(#subBuildLock#)#{##if#(#!#subBuildStartedRaised#)#{#subBuildStartedRaised#=#true#;#subBuildStarted#(#event#)#;#}#}#}#}

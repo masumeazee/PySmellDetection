@@ -1,1 +1,0 @@
-void#setWidth#(#String#width#)#{#widthStr#=#width#;#}

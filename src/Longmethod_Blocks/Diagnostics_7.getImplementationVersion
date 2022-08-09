@@ -1,1 +1,0 @@
-String#getImplementationVersion#(#Class#clazz#)#{##return#clazz#.#getPackage#(#)#.#getImplementationVersion#(#)#;#}

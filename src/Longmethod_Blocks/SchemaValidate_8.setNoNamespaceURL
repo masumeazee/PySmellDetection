@@ -1,1 +1,0 @@
-void#setNoNamespaceURL#(#String#defaultSchemaURL#)#{#createAnonymousSchema#(#)#;#this#.#anonymousSchema#.#setUrl#(#defaultSchemaURL#)#;#}

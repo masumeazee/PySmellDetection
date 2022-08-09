@@ -1,1 +1,0 @@
-void#setSystemTypeKey#(#FTPSystemType#systemKey#)#{##if#(#systemKey#!=#null#&&#!#systemKey#.#getValue#(#)#.#equals#(#""#)#)#{#this#.#systemTypeKey#=#systemKey#;#configurationHasBeenSet#(#)#;#}#}

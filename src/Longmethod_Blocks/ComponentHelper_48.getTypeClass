@@ -1,1 +1,0 @@
-Class#getTypeClass#(#String#name#)#{#AntTypeDefinition#def#=#getDefinition#(#name#)#;##return#(#def#==#null#)#?#null#:#def#.#getTypeClass#(#project#)#;#}

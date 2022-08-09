@@ -1,1 +1,0 @@
-void#setFrom#(#String#from#)#{#throw#new#UnsupportedAttributeException#(#"filtermapper doesn't support the \"from\" attribute."#,#"from"#)#;#}

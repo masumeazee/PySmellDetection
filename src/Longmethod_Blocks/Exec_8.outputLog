@@ -1,1 +1,0 @@
-void#outputLog#(#String#line#,#int#messageLevel#)#{##if#(#fos#==#null#)#{#log#(#line#,#messageLevel#)#;#}#else#{#fos#.#println#(#line#)#;#}#}

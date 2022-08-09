@@ -1,1 +1,0 @@
-void#printValue#(#ResultSet#rs#,#int#col#,#PrintStream#out#)#throws#SQLException#{##if#(#rawBlobs#&&#rs#.#getMetaData#(#)#.#getColumnType#(#col#)#==#Types#.#BLOB#)#{#Blob#blob#=#rs#.#getBlob#(#col#)#;##if#(#blob#!=#null#)#{#new#StreamPumper#(#rs#.#getBlob#(#col#)#.#getBinaryStream#(#)#,#out#)#.#run#(#)#;#}#}#else#{#out#.#print#(#maybeQuote#(#rs#.#getString#(#col#)#)#)#;#}#}

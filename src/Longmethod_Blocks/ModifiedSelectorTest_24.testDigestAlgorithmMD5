@@ -1,1 +1,0 @@
-void#testDigestAlgorithmMD5#(#)#{#DigestAlgorithm#algo#=#new#DigestAlgorithm#(#)#;#algo#.#setAlgorithm#(#"MD5"#)#;#doTest#(#algo#)#;#}

@@ -1,1 +1,0 @@
-void#setName#(#String#name#)#throws#BuildException#{#throw#new#BuildException#(#"you can't change the name of a "#+#getDataTypeName#(#)#)#;#}

@@ -1,1 +1,0 @@
-boolean#passesConditions#(#)#{#PropertyHelper#ph#=#PropertyHelper#.#getPropertyHelper#(#getProject#(#)#)#;##return#ph#.#testIfCondition#(#ifCondition#)#&&#ph#.#testUnlessCondition#(#unlessCondition#)#;#}

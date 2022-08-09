@@ -1,1 +1,0 @@
-void#setErrorOnMissingArchive#(#boolean#errorOnMissingArchive#)#{#checkAttributesAllowed#(#)#;#this#.#errorOnMissingArchive#=#errorOnMissingArchive#;#}

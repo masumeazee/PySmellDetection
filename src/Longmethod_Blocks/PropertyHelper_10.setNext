@@ -1,1 +1,0 @@
-void#setNext#(#PropertyHelper#next#)#{#this#.#next#=#next#;#}

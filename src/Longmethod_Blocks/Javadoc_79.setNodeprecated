@@ -1,1 +1,0 @@
-void#setNodeprecated#(#boolean#b#)#{#addArgIf#(#b#,#"-nodeprecated"#)#;#}

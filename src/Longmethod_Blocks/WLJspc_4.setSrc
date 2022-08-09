@@ -1,1 +1,0 @@
-void#setSrc#(#File#dirName#)#{#sourceDirectory#=#dirName#;#}

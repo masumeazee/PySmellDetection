@@ -1,1 +1,0 @@
-String#getContentType#(#)#{##if#(#type#!=#null#&&#type#.#indexOf#(#"charset"#)#>#0#&&#type#.#startsWith#(#"text/"#)#)#{##return#type#;#}##// Must be like "text/plain; charset=windows-1251"##return#new#StringBuffer#(#type#!=#null#?#type#:#"text/plain"#)#.#append#(#"; charset="#)#.#append#(#charset#)#.#toString#(#)#;#}

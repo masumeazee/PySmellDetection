@@ -1,1 +1,0 @@
-void#setResource#(#String#r#)#{#this#.#resource#=#new#FileResource#(#new#File#(#r#)#)#;#}

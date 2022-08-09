@@ -1,1 +1,0 @@
-void#targetStarted#(#BuildEvent#event#)#{##if#(#initialized#)#{#Logger#log#=#Logger#.#getLogger#(#Target#.#class#.#getName#(#)#)#;#log#.#info#(#"Target \""#+#event#.#getTarget#(#)#.#getName#(#)#+#"\" started."#)#;#}#}

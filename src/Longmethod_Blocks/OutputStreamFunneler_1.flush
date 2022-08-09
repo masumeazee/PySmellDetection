@@ -1,1 +1,0 @@
-void#flush#(#)#throws#IOException#{#synchronized#(#OutputStreamFunneler#.#this#)#{#dieIfClosed#(#)#;#out#.#flush#(#)#;#}#}

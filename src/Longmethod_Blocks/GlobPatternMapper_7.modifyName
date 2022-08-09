@@ -1,1 +1,0 @@
-String#modifyName#(#String#name#)#{##if#(#!#caseSensitive#)#{#name#=#name#.#toLowerCase#(#)#;#}##if#(#handleDirSep#)#{##if#(#name#.#indexOf#(#'\\'#)#!=#-#1#)#{#name#=#name#.#replace#(#'\\'#,#'/'#)#;#}#}##return#name#;#}

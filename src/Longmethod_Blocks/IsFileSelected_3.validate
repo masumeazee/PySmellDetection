@@ -1,1 +1,0 @@
-void#validate#(#)#{##if#(#selectorCount#(#)#!=#1#)#{#throw#new#BuildException#(#"Only one selector allowed"#)#;#}##super#.#validate#(#)#;#}

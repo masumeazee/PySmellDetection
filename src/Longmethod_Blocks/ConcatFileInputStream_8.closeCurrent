@@ -1,1 +1,0 @@
-void#closeCurrent#(#)#{#FileUtils#.#close#(#currentStream#)#;#currentStream#=#null#;#}

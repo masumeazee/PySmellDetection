@@ -1,1 +1,0 @@
-void#testPropcacheInvalid#(#)#{#Cache#cache#=#new#PropertiesfileCache#(#)#;##if#(#cache#.#isValid#(#)#)#fail#(#"PropertyfilesCache does not check its configuration."#)#;#}

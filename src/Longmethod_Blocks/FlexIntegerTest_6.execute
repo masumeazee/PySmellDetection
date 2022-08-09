@@ -1,1 +1,0 @@
-void#execute#(#)#{##if#(#propName#==#null#||#value#==#null#)#{#throw#new#BuildException#(#"name and value required"#)#;#}##taskProject#.#setNewProperty#(#propName#,#value#.#toString#(#)#)#;#}

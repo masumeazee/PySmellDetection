@@ -1,1 +1,0 @@
-void#setDynamicAttribute#(#String#name#,#String#value#)#{#map#.#put#(#name#,#value#)#;#}

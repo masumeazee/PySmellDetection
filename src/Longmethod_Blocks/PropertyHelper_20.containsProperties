@@ -1,1 +1,0 @@
-boolean#containsProperties#(#String#value#)#{##return#new#ParseProperties#(#getProject#(#)#,#getExpanders#(#)#,#this#)#.#containsProperties#(#value#)#;#}

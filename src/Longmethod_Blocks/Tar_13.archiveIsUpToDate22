@@ -1,1 +1,0 @@
-boolean#archiveIsUpToDate#(#String#[#]#files#,#File#dir#)#{#SourceFileScanner#sfs#=#new#SourceFileScanner#(#this#)#;#MergingMapper#mm#=#new#MergingMapper#(#)#;#mm#.#setTo#(#tarFile#.#getAbsolutePath#(#)#)#;##return#sfs#.#restrict#(#files#,#dir#,#null#,#mm#)#.#length#==#0#;#}

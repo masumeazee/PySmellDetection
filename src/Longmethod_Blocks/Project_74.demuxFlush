@@ -1,1 +1,0 @@
-void#demuxFlush#(#String#output#,#boolean#isError#)#{#Task#task#=#getThreadTask#(#Thread#.#currentThread#(#)#)#;##if#(#task#==#null#)#{#fireMessageLogged#(#this#,#output#,#isError#?#MSG_ERR#:#MSG_INFO#)#;#}#else#{##if#(#isError#)#{#task#.#handleErrorFlush#(#output#)#;#}#else#{#task#.#handleFlush#(#output#)#;#}#}#}

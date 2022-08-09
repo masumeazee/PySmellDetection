@@ -1,1 +1,0 @@
-FileResource#nextResource#(#)#{##if#(#!#hasNext#(#)#)#{#throw#new#NoSuchElementException#(#)#;#}##FileResource#result#=#new#FileResource#(#basedir#,#files#[#pos#++#]#)#;#result#.#setProject#(#project#)#;##return#result#;#}

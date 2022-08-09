@@ -1,1 +1,0 @@
-URL#[#]#getLocationURLs#(#File#location#)#throws#MalformedURLException#{##return#getLocationURLs#(#location#,#new#String#[#]#{#".jar"#}#)#;#}

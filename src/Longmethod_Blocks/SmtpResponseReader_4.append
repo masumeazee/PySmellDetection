@@ -1,1 +1,0 @@
-void#append#(#String#line#)#{##// CheckStyle:MagicNumber OFF##if#(#line#.#length#(#)#>#4#)#{#result#.#append#(#line#.#substring#(#4#)#)#;#result#.#append#(#" "#)#;#}##// CheckStyle:MagicNumber ON#}

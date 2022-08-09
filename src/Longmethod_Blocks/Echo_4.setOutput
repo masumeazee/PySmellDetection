@@ -1,1 +1,0 @@
-void#setOutput#(#Resource#output#)#{##if#(#this#.#output#!=#null#)#{#throw#new#BuildException#(#"Cannot set > 1 output target"#)#;#}##this#.#output#=#output#;#FileProvider#fp#=#(#FileProvider#)#output#.#as#(#FileProvider#.#class#)#;#this#.#file#=#fp#!=#null#?#fp#.#getFile#(#)#:#null#;#}

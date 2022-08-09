@@ -1,1 +1,0 @@
-void#setTypeKind#(#String#tk#)#{#mTypeKind#=#tk#;#}

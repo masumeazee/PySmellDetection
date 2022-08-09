@@ -1,1 +1,0 @@
-boolean#haveClasspath#(#)#{#Path#fullClasspath#=#classpath#!=#null#?#classpath#.#concatSystemClasspath#(#"ignore"#)#:#null#;##return#fullClasspath#!=#null#&&#fullClasspath#.#toString#(#)#.#trim#(#)#.#length#(#)#>#0#;#}

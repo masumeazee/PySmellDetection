@@ -1,1 +1,0 @@
-OutputStream#getDefaultOutput#(#)#{##return#new#LogOutputStream#(#this#,#Project#.#MSG_INFO#)#;#}

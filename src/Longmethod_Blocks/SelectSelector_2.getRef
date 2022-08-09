@@ -1,1 +1,0 @@
-SelectSelector#getRef#(#)#{#Object#o#=#getCheckedRef#(#this#.#getClass#(#)#,#"SelectSelector"#)#;##return#(#SelectSelector#)#o#;#}

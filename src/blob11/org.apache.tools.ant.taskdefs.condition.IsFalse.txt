@@ -1,1 +1,0 @@
-void#setValue#(#boolean#value#)#{#this#.#value#=#value#?#Boolean#.#TRUE#:#Boolean#.#FALSE#;#}##boolean#eval#(#)#throws#BuildException#{#if#(#value#==#null#)#{#throw#new#BuildException#(#"Nothing to test for falsehood"#)#;#}#return#!#value#.#booleanValue#(#)#;#}##

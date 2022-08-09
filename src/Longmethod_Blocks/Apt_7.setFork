@@ -1,1 +1,0 @@
-void#setFork#(#boolean#fork#)#{##if#(#!#fork#)#{#log#(#WARNING_IGNORING_FORK#,#Project#.#MSG_WARN#)#;#}#}

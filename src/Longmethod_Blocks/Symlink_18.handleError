@@ -1,1 +1,0 @@
-void#handleError#(#String#msg#)#{##if#(#failonerror#)#{#throw#new#BuildException#(#msg#)#;#}##log#(#msg#)#;#}

@@ -1,1 +1,0 @@
-Object#clone#(#)#{#Object#dolly#=#null#;##try#{#dolly#=#super#.#clone#(#)#;#}##catch#(#CloneNotSupportedException#e#)#{##// should be fine#e#.#printStackTrace#(#)#;#}##return#dolly#;#}

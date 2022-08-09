@@ -1,1 +1,0 @@
-void#bsFinishedWithStream#(#)#throws#IOException#{#while#(#this#.#bsLive#>#0#)#{#int#ch#=#this#.#bsBuff#>#>#24#;#this#.#out#.#write#(#ch#)#;##// write 8-bit#this#.#bsBuff#<<=#8#;#this#.#bsLive#-=#8#;#}#}

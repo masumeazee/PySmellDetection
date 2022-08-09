@@ -1,1 +1,0 @@
-void#setConsole#(#boolean#console#)#{#this#.#console#=#console#;#}

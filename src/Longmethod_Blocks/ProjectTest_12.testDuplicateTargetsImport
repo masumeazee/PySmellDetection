@@ -1,1 +1,0 @@
-void#testDuplicateTargetsImport#(#)#{##// overriding target from imported buildfile is allowed#BFT#bft#=#new#BFT#(#""#,#"core/duplicate-target2.xml"#)#;#bft#.#expectLog#(#"once"#,#"once from buildfile"#)#;#}

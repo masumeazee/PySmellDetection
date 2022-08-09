@@ -1,1 +1,0 @@
-void#testReplaceTokens#(#)#throws#IOException#{#executeTarget#(#"testReplaceTokens"#)#;#File#expected#=#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"expected/replacetokens.test"#)#;#File#result#=#FILE_UTILS#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"result/replacetokens.test"#)#;#assertTrue#(#FILE_UTILS#.#contentEquals#(#expected#,#result#)#)#;#}

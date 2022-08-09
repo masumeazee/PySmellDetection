@@ -1,1 +1,0 @@
-void#setDestfile#(#File#file#)#{##if#(#file#!=#null#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-o"#)#;#cmd#.#createArgument#(#)#.#setFile#(#file#)#;#}#}

@@ -1,1 +1,0 @@
-boolean#addAll#(#int#index#,#Collection#c#)#{#boolean#changed#=#false#;##for#(#Iterator#i#=#c#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Object#o#=#i#.#next#(#)#;##if#(#!#set#.#contains#(#o#)#)#{#doAdd#(#index#++#,#o#)#;#changed#=#true#;#}#}##return#changed#;#}

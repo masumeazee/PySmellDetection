@@ -1,1 +1,0 @@
-Vector#lineSplit#(#String#data#)#{##return#split#(#data#,#'\n'#)#;#}

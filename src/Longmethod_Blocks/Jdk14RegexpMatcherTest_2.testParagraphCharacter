@@ -1,1 +1,0 @@
-void#testParagraphCharacter#(#)#throws#IOException#{#try#{#super#.#testParagraphCharacter#(#)#;#fail#(#"Should trigger once fixed. {@since JDK 1.4RC1}"#)#;#}##catch#(#AssertionFailedError#e#)#{#}#}

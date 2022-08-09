@@ -1,1 +1,0 @@
-void#setMessage#(#String#message#)#{##if#(#this#.#message#!=#null#)#{#throw#new#BuildException#(#"Only one message can be sent in an "#+#"email"#)#;#}##this#.#message#=#new#Message#(#message#)#;#this#.#message#.#setProject#(#getProject#(#)#)#;#}

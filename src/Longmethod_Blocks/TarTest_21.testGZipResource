@@ -1,1 +1,0 @@
-void#testGZipResource#(#)#throws#IOException#{#executeTarget#(#"testGZipResource"#)#;#assertTrue#(#FileUtils#.#getFileUtils#(#)#.#contentEquals#(#getProject#(#)#.#resolveFile#(#"../asf-logo.gif"#)#,#getProject#(#)#.#resolveFile#(#"testout/asf-logo.gif.gz"#)#)#)#;#}

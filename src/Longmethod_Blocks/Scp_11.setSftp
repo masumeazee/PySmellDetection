@@ -1,1 +1,0 @@
-void#setSftp#(#boolean#yesOrNo#)#{#isSftp#=#yesOrNo#;#}

@@ -1,1 +1,0 @@
-void#testBoth#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testBoth"#,#"error on two targets"#,#IsReachable#.#ERROR_BOTH_TARGETS#)#;#}

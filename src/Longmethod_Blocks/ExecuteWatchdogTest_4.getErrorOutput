@@ -1,1 +1,0 @@
-String#getErrorOutput#(#Process#p#)#throws#Exception#{#BufferedReader#err#=#new#BufferedReader#(#new#InputStreamReader#(#p#.#getErrorStream#(#)#)#)#;#StringBuffer#buf#=#new#StringBuffer#(#)#;#String#line#;##while#(#(#line#=#err#.#readLine#(#)#)#!=#null#)#{#buf#.#append#(#line#)#;#}##return#buf#.#toString#(#)#;#}

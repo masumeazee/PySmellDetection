@@ -1,1 +1,0 @@
-void#readFilters#(#)#throws#BuildException#{#log#(#"Reading filters from "#+#filtersFile#,#Project#.#MSG_VERBOSE#)#;#getProject#(#)#.#getGlobalFilterSet#(#)#.#readFiltersFromFile#(#filtersFile#)#;#}

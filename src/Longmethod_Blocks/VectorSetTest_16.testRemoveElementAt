@@ -1,1 +1,0 @@
-void#testRemoveElementAt#(#)#{#v#.#add#(#O#)#;#v#.#removeElementAt#(#0#)#;#assertEquals#(#0#,#v#.#size#(#)#)#;##try#{#v#.#removeElementAt#(#0#)#;#fail#(#"expected an AIOBE"#)#;#}##catch#(#ArrayIndexOutOfBoundsException#e#)#{##// expected#}#}

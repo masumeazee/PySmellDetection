@@ -1,1 +1,0 @@
-void#add#(#B#el#)#{#log#(#"add B called"#)#;#}

@@ -1,1 +1,0 @@
-void#waitFor#(#Process#process#)#{#try#{#process#.#waitFor#(#)#;#setExitValue#(#process#.#exitValue#(#)#)#;#}##catch#(#InterruptedException#e#)#{#process#.#destroy#(#)#;#}#}

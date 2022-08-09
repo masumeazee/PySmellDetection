@@ -1,1 +1,0 @@
-InputStream#getInputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getInputStream#(#)#;#}##return#isExists#(#)#?#new#ByteArrayInputStream#(#getValue#(#)#.#getBytes#(#)#)#:#UNSET#;#}

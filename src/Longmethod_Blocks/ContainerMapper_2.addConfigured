@@ -1,1 +1,0 @@
-void#addConfigured#(#FileNameMapper#fileNameMapper#)#{#add#(#fileNameMapper#)#;#}

@@ -1,1 +1,0 @@
-String#getPrefixMapping#(#String#prefix#)#{#List#list#=#(#List#)#prefixMapping#.#get#(#prefix#)#;##if#(#list#==#null#||#list#.#size#(#)#==#0#)#{##return#null#;#}##return#(#String#)#list#.#get#(#list#.#size#(#)#-#1#)#;#}

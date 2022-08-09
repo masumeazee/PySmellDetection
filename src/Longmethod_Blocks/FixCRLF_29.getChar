@@ -1,1 +1,0 @@
-char#getChar#(#int#i#)#{##return#line#.#charAt#(#i#)#;#}

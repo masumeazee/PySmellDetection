@@ -1,1 +1,0 @@
-String#getFilteredTrace#(#Throwable#t#)#{#String#trace#=#StringUtils#.#getStackTrace#(#t#)#;##return#JUnitTestRunner#.#filterStack#(#trace#)#;#}

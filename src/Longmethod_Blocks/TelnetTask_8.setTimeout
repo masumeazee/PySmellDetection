@@ -1,1 +1,0 @@
-void#setTimeout#(#Integer#i#)#{#this#.#defaultTimeout#=#i#;#}

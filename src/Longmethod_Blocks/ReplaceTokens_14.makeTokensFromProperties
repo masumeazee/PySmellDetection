@@ -1,1 +1,0 @@
-void#makeTokensFromProperties#(#Resource#r#)#{#Properties#props#=#getProperties#(#r#)#;##for#(#Enumeration#e#=#props#.#keys#(#)#;##e#.#hasMoreElements#(#)#;#)#{#String#key#=#(#String#)#e#.#nextElement#(#)#;#String#value#=#props#.#getProperty#(#key#)#;#hash#.#put#(#key#,#value#)#;#}#}

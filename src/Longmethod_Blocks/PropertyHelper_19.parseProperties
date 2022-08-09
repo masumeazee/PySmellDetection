@@ -1,1 +1,0 @@
-Object#parseProperties#(#String#value#)#throws#BuildException#{##return#new#ParseProperties#(#getProject#(#)#,#getExpanders#(#)#,#this#)#.#parseProperties#(#value#)#;#}

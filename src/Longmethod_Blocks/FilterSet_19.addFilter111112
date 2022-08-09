@@ -1,1 +1,0 @@
-void#addFilter#(#Filter#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##filters#.#addElement#(#filter#)#;#filterHash#=#null#;#}

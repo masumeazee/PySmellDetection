@@ -1,1 +1,0 @@
-void#main#(#String#[#]#args#)#{#junit#.#textui#.#TestRunner#.#run#(#JUnitTestRunnerTest#.#class#)#;#}

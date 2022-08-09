@@ -1,1 +1,0 @@
-void#testTextTrim#(#)#{#expectLogContaining#(#"text.trim"#,#"[Hello world]"#)#;#}

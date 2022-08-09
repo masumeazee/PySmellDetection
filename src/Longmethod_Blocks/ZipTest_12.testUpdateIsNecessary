@@ -1,1 +1,0 @@
-void#testUpdateIsNecessary#(#)#{#expectLogContaining#(#"testUpdateIsNecessary"#,#"Updating"#)#;#}

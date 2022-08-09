@@ -1,1 +1,0 @@
-void#setPrivate#(#boolean#b#)#{#addArgIf#(#b#,#"-private"#)#;#}

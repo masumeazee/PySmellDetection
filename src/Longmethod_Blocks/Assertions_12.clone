@@ -1,1 +1,0 @@
-Object#clone#(#)#throws#CloneNotSupportedException#{#Assertions#that#=#(#Assertions#)#super#.#clone#(#)#;#that#.#assertionList#=#(#ArrayList#)#assertionList#.#clone#(#)#;##return#that#;#}

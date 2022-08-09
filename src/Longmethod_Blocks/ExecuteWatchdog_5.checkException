@@ -1,1 +1,0 @@
-void#checkException#(#)#throws#BuildException#{##if#(#caught#!=#null#)#{#throw#new#BuildException#(#"Exception in ExecuteWatchdog.run: "#+#caught#.#getMessage#(#)#,#caught#)#;#}#}

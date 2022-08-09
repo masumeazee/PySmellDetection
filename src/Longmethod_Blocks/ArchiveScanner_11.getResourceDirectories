@@ -1,1 +1,0 @@
-Iterator#getResourceDirectories#(#Project#project#)#{##if#(#src#==#null#)#{##return#new#FileResourceIterator#(#project#,#getBasedir#(#)#,#getIncludedDirectories#(#)#)#;#}##scanme#(#)#;##return#matchDirEntries#.#values#(#)#.#iterator#(#)#;#}

@@ -1,1 +1,0 @@
-void#setFileext#(#String#fileext#)#{#this#.#fileext#=#fileext#;#}

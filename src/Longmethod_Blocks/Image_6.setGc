@@ -1,1 +1,0 @@
-void#setGc#(#boolean#gc#)#{#garbage_collect#=#gc#;#}

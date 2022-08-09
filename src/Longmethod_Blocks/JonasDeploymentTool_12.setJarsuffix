@@ -1,1 +1,0 @@
-void#setJarsuffix#(#String#aString#)#{#suffix#=#aString#;#}

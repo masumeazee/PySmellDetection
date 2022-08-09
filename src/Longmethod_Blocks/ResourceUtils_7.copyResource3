@@ -1,1 +1,0 @@
-void#copyResource#(#Resource#source#,#Resource#dest#)#throws#IOException#{#copyResource#(#source#,#dest#,#null#)#;#}

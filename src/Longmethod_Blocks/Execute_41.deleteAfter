@@ -1,1 +1,0 @@
-void#deleteAfter#(#final#File#f#,#final#Process#p#)#{#new#Thread#(#)#{#public#void#run#(#)#{#try#{#p#.#waitFor#(#)#;#}##catch#(#InterruptedException#e#)#{##//ignore#}##FileUtils#.#delete#(#f#)#;#}#}##.#start#(#)#;#}

@@ -1,1 +1,0 @@
-void#cleanup#(#)#{#for#(#Enumeration#e#=#zipFiles#.#elements#(#)#;##e#.#hasMoreElements#(#)#;#)#{#ZipFile#zipFile#=#(#ZipFile#)#e#.#nextElement#(#)#;##try#{#zipFile#.#close#(#)#;#}##catch#(#IOException#ioe#)#{##// ignore#}#}##zipFiles#=#new#Hashtable#(#)#;##if#(#project#!=#null#)#{#project#.#removeBuildListener#(#this#)#;#}##project#=#null#;#}

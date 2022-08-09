@@ -1,1 +1,0 @@
-void#addProperty#(#String#n#,#String#v#)#{#addProperty#(#n#,#(#Object#)#v#)#;#}

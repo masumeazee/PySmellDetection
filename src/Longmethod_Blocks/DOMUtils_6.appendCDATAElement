@@ -1,1 +1,0 @@
-void#appendCDATAElement#(#Element#parent#,#String#name#,#String#content#)#{#Element#e#=#createChildElement#(#parent#,#name#)#;#appendCDATA#(#e#,#content#)#;#}

@@ -1,1 +1,0 @@
-boolean#isSemanticAttribute#(#String#attributeName#)#{#for#(#int#i#=#0#;##i#<#ATTRIBUTES#.#length#;#i#++#)#{##if#(#attributeName#.#equals#(#ATTRIBUTES#[#i#]#)#)#{##return#true#;#}#}##return#false#;#}

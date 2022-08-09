@@ -1,1 +1,0 @@
-void#setDisplayText#(#String#displayText#)#{#this#.#displayText#=#displayText#;#}

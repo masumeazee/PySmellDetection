@@ -1,1 +1,0 @@
-boolean#matches#(#String#input#,#int#options#)#throws#BuildException#{##return#matches#(#input#,#getCompiledPattern#(#options#)#)#;#}

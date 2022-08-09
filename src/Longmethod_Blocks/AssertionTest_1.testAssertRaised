@@ -1,1 +1,0 @@
-void#testAssertRaised#(#)#{#try#{#assert#true#==#false#;#fail#(#"expected an assertion"#)#;#}##catch#(#AssertionError#asserto#)#{##//if we got here, all was well#}#}

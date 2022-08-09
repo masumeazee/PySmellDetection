@@ -1,1 +1,0 @@
-void#setErrorStream#(#OutputStream#errorStream#)#{#this#.#errorStream#=#errorStream#;#}

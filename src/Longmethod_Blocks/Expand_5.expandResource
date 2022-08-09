@@ -1,1 +1,0 @@
-void#expandResource#(#Resource#srcR#,#File#dir#)#{#throw#new#BuildException#(#"only filesystem based resources are"#+#" supported by this task."#)#;#}

@@ -1,1 +1,0 @@
-void#setInputStream#(#InputStream#inputStream#)#{#synchronized#(#inMutex#)#{#this#.#inputStream#=#inputStream#;#}#}

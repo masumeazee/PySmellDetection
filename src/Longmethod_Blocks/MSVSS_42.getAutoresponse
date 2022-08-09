@@ -1,1 +1,0 @@
-String#getAutoresponse#(#)#{##if#(#autoResponse#==#null#)#{##return#FLAG_AUTORESPONSE_DEF#;#}#else##if#(#autoResponse#.#equalsIgnoreCase#(#"Y"#)#)#{##return#FLAG_AUTORESPONSE_YES#;#}#else##if#(#autoResponse#.#equalsIgnoreCase#(#"N"#)#)#{##return#FLAG_AUTORESPONSE_NO#;#}#else#{##return#FLAG_AUTORESPONSE_DEF#;#}#}

@@ -1,1 +1,0 @@
-void#endElement#(#String#uri#,#String#name#,#String#qName#)#throws#SAXException#{#currentHandler#.#onEndElement#(#uri#,#name#,#context#)#;#AntHandler#prev#=#(#AntHandler#)#antHandlers#.#pop#(#)#;#currentHandler#=#prev#;##if#(#currentHandler#!=#null#)#{#currentHandler#.#onEndChild#(#uri#,#name#,#qName#,#context#)#;#}#}

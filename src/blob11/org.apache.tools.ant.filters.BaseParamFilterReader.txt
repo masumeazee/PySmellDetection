@@ -1,1 +1,0 @@
-void#setParameters#(#final#Parameter#[#]#parameters#)#{#this#.#parameters#=#parameters#;#setInitialized#(#false#)#;#}##Parameter#[#]#getParameters#(#)#{#return#parameters#;#}##

@@ -1,1 +1,0 @@
-void#setUp#(#)#throws#Exception#{#configureProject#(#"src/etc/testcases/taskdefs/style/build.xml"#)#;##//executeTarget("setup");##//commented out for performance while target is empty#}

@@ -1,1 +1,0 @@
-void#setWarfile#(#File#warFile#)#{#setDestFile#(#warFile#)#;#}

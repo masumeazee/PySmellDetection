@@ -1,1 +1,0 @@
-int#handleArgListener#(#String#[#]#args#,#int#pos#)#{#try#{#listeners#.#addElement#(#args#[#pos#+#1#]#)#;#pos#++#;#}##catch#(#ArrayIndexOutOfBoundsException#aioobe#)#{#String#msg#=#"You must specify a classname when "#+#"using the -listener argument"#;#throw#new#BuildException#(#msg#)#;#}##return#pos#;#}

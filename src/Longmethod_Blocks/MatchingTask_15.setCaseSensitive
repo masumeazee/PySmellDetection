@@ -1,1 +1,0 @@
-void#setCaseSensitive#(#boolean#isCaseSensitive#)#{#fileset#.#setCaseSensitive#(#isCaseSensitive#)#;#}

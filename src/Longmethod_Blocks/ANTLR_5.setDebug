@@ -1,1 +1,0 @@
-void#setDebug#(#boolean#enable#)#{#this#.#debug#=#enable#;#}

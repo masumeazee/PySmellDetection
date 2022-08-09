@@ -1,1 +1,0 @@
-DocumentBuilderFactory#getDocumentBuilderFactory#(#)#throws#BuildException#{##if#(#builderFactory#==#null#)#{#try#{#builderFactory#=#DocumentBuilderFactory#.#newInstance#(#)#;#}##catch#(#FactoryConfigurationError#e#)#{#throw#new#BuildException#(#"Document builder factory has not "#+#"been configured correctly: "#+#e#.#getMessage#(#)#,#e#)#;#}#}##return#builderFactory#;#}

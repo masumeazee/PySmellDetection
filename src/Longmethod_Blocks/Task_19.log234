@@ -1,1 +1,0 @@
-void#log#(#Throwable#t#,#int#msgLevel#)#{##if#(#t#!=#null#)#{#log#(#t#.#getMessage#(#)#,#t#,#msgLevel#)#;#}#}

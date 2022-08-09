@@ -1,1 +1,0 @@
-Object#newInstance#(#)#{##return#ClasspathUtils#.#newInstance#(#this#.#className#,#getClassLoader#(#)#)#;#}

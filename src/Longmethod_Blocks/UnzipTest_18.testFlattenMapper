@@ -1,1 +1,0 @@
-void#testFlattenMapper#(#)#{#executeTarget#(#"testFlattenMapper"#)#;#assertFileMissing#(#"1/foo is not flattened"#,#"unziptestout/1/foo"#)#;#assertFileExists#(#"foo is flattened"#,#"unziptestout/foo"#)#;#}

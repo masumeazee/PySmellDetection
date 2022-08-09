@@ -1,1 +1,0 @@
-void#setError#(#File#error#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#error#==#null#)#{#throw#new#IllegalArgumentException#(#"error file specified as null"#)#;#}##usingError#=#true#;#errorMapper#=#createMergeMapper#(#error#)#;#}

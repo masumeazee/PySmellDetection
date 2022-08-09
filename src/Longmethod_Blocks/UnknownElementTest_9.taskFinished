@@ -1,1 +1,0 @@
-void#taskFinished#(#BuildEvent#event#)#{#assertTaskProperties#(#event#.#getTask#(#)#)#;#}

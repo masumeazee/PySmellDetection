@@ -1,1 +1,0 @@
-void#setEol#(#FixCRLF#.#CrLf#crlf#)#{#String#s#=#crlf#.#getValue#(#)#;##if#(#s#.#equals#(#"cr"#)#||#s#.#equals#(#"mac"#)#)#{#eolString#=#"\r"#;#}#else##if#(#s#.#equals#(#"lf"#)#||#s#.#equals#(#"unix"#)#)#{#eolString#=#"\n"#;#}#else##if#(#s#.#equals#(#"crlf"#)#||#s#.#equals#(#"dos"#)#)#{#eolString#=#"\r\n"#;#}#}

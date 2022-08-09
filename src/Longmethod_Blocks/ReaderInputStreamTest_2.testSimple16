@@ -1,1 +1,0 @@
-void#testSimple16#(#)#throws#Exception#{#compareBytes#(#"a"#,#"utf-16"#)#;#}

@@ -1,1 +1,0 @@
-String#[#]#getValues#(#)#{##return#new#String#[#]#{#TIME_CURRENT#,#TIME_MODIFIED#,#TIME_UPDATED#}#;#}

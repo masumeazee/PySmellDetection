@@ -1,1 +1,0 @@
-void#testHello#(#)#{#System#.#out#.#println#(#"Hello From Test"#)#;#}##

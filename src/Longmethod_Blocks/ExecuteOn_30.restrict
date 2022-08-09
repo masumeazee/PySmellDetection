@@ -1,1 +1,0 @@
-String#[#]#restrict#(#String#[#]#s#,#File#baseDir#)#{##return#(#mapper#==#null#||#force#)#?#s#:#new#SourceFileScanner#(#this#)#.#restrict#(#s#,#baseDir#,#destDir#,#mapper#)#;#}

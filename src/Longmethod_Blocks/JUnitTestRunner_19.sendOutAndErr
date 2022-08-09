@@ -1,1 +1,0 @@
-void#sendOutAndErr#(#String#out#,#String#err#)#{#for#(#int#i#=#0#;##i#<#formatters#.#size#(#)#;#i#++#)#{#JUnitResultFormatter#formatter#=#(#(#JUnitResultFormatter#)#formatters#.#elementAt#(#i#)#)#;#formatter#.#setSystemOutput#(#out#)#;#formatter#.#setSystemError#(#err#)#;#}#}

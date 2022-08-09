@@ -1,1 +1,0 @@
-void#testGranted#(#)#{#perms#.#setSecurityManager#(#)#;##try#{#String#s#=#System#.#getProperty#(#"user.name"#)#;#System#.#setProperty#(#"user.name"#,#s#)#;#}##finally#{#perms#.#restoreSecurityManager#(#)#;#}#}

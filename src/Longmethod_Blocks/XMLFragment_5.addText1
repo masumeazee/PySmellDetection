@@ -1,1 +1,0 @@
-void#addText#(#String#s#)#{#XMLFragment#.#this#.#addText#(#e#,#s#)#;#}

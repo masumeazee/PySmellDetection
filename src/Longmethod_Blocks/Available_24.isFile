@@ -1,1 +1,0 @@
-boolean#isFile#(#)#{##return#"file"#.#equalsIgnoreCase#(#getValue#(#)#)#;#}

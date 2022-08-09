@@ -1,1 +1,0 @@
-void#pushAndInvokeCircularReferenceCheck#(#DataType#dt#,#Stack#stk#,#Project#p#)#{#stk#.#push#(#dt#)#;#dt#.#dieOnCircularReference#(#stk#,#p#)#;#stk#.#pop#(#)#;#}

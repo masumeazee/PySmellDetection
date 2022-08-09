@@ -1,1 +1,0 @@
-void#closeStreams#(#Process#process#)#{#FileUtils#.#close#(#process#.#getInputStream#(#)#)#;#FileUtils#.#close#(#process#.#getOutputStream#(#)#)#;#FileUtils#.#close#(#process#.#getErrorStream#(#)#)#;#}

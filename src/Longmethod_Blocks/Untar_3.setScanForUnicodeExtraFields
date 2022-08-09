@@ -1,1 +1,0 @@
-void#setScanForUnicodeExtraFields#(#boolean#b#)#{#throw#new#BuildException#(#"The "#+#getTaskName#(#)#+#" task doesn't support the encoding"#+#" attribute"#,#getLocation#(#)#)#;#}

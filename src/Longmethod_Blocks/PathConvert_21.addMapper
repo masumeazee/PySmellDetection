@@ -1,1 +1,0 @@
-void#addMapper#(#Mapper#mapper#)#{##if#(#this#.#mapper#!=#null#)#{#throw#new#BuildException#(#"Cannot define more than one mapper"#)#;#}##this#.#mapper#=#mapper#;#}

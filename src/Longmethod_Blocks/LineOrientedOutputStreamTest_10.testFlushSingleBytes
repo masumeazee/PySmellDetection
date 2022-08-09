@@ -1,1 +1,0 @@
-void#testFlushSingleBytes#(#)#throws#IOException#{#writeSingleBytes#(#)#;#stream#.#flush#(#)#;#stream#.#assertInvoked#(#)#;#}

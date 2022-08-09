@@ -1,7 +1,0 @@
-long#destClassesModified#(#File#destDir#)#{#String#[#]#classnames#=#classesToGenerate#(#)#;##// List of all stubs & skels#long#destClassesModified#=#new#Date#(#)#.#getTime#(#)#;##// Earliest mod time#boolean#allClassesFound#=#true#;##// Has each been found?##/*
-             * Loop through each stub/skeleton class that must be generated, and
-             * determine (if all exist) which file has the most recent timestamp
-             */#for#(#int#i#=#0#;##i#<#classnames#.#length#;#i#++#)#{#String#pathToClass#=#classnames#[#i#]#.#replace#(#'.'#,#File#.#separatorChar#)#+#".class"#;#File#classFile#=#new#File#(#destDir#,#pathToClass#)#;##/*
-                 * Add each stub/skeleton class to the list of EJB files.  Note
-                 * that each class is added even if it doesn't exist now.
-                 */#ejbFiles#.#put#(#pathToClass#,#classFile#)#;#allClassesFound#=#allClassesFound#&&#classFile#.#exists#(#)#;##if#(#allClassesFound#)#{#long#fileMod#=#classFile#.#lastModified#(#)#;##/* Keep track of the oldest modification timestamp */#destClassesModified#=#Math#.#min#(#destClassesModified#,#fileMod#)#;#}#}##return#(#allClassesFound#)#?#destClassesModified#:#-#1#;#}

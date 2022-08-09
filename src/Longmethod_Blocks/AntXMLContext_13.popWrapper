@@ -1,1 +1,0 @@
-void#popWrapper#(#)#{##if#(#wStack#.#size#(#)#>#0#)#{#wStack#.#removeElementAt#(#wStack#.#size#(#)#-#1#)#;#}#}

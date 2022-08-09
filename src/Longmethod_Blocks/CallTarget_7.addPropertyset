@@ -1,1 +1,0 @@
-void#addPropertyset#(#PropertySet#ps#)#{##if#(#callee#==#null#)#{#init#(#)#;#}##callee#.#addPropertyset#(#ps#)#;#}

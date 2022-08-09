@@ -1,1 +1,0 @@
-void#execute#(#)#{#for#(#Iterator#it#=#resources#.#iterator#(#)#;##it#.#hasNext#(#)#;#)#{#Resource#r#=#(#Resource#)#it#.#next#(#)#;#URLProvider#up#=#(#URLProvider#)#r#.#as#(#URLProvider#.#class#)#;##if#(#up#!=#null#)#{#URL#u#=#up#.#getURL#(#)#;##try#{#FileUtils#.#close#(#u#.#openConnection#(#)#)#;#}##catch#(#IOException#ex#)#{##// ignore#}#}#}#}

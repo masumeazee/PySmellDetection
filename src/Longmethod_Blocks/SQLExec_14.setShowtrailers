@@ -1,1 +1,0 @@
-void#setShowtrailers#(#boolean#showtrailers#)#{#this#.#showtrailers#=#showtrailers#;#}

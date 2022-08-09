@@ -1,1 +1,0 @@
-void#sendAndClose#(#)#throws#IOException#{#try#{#sendDot#(#)#;#sendQuit#(#)#;#}##finally#{#disconnect#(#)#;#}#}

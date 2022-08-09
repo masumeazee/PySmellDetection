@@ -1,1 +1,0 @@
-void#setPackagenames#(#String#packages#)#{#StringTokenizer#tok#=#new#StringTokenizer#(#packages#,#","#)#;##while#(#tok#.#hasMoreTokens#(#)#)#{#String#p#=#tok#.#nextToken#(#)#;#PackageName#pn#=#new#PackageName#(#)#;#pn#.#setName#(#p#)#;#addPackage#(#pn#)#;#}#}

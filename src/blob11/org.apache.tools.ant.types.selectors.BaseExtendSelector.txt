@@ -1,1 +1,0 @@
-void#setParameters#(#Parameter#[#]#parameters#)#{#this#.#parameters#=#parameters#;#}##Parameter#[#]#getParameters#(#)#{#return#parameters#;#}##boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#throws#BuildException#;##

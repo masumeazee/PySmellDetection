@@ -1,1 +1,0 @@
-void#setOutput#(#File#out#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#out#==#null#)#{#throw#new#IllegalArgumentException#(#"output file specified as null"#)#;#}##usingOutput#=#true#;#outputMapper#=#createMergeMapper#(#out#)#;#}

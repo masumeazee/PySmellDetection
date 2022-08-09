@@ -1,1 +1,0 @@
-boolean#process#(#)#throws#IOException#{#writer#.#write#(#inputBuffer#.#toString#(#)#)#;#inputBuffer#.#delete#(#0#,#inputBuffer#.#length#(#)#)#;##return#false#;#}

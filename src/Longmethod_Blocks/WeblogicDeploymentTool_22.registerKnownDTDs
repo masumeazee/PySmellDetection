@@ -1,1 +1,0 @@
-void#registerKnownDTDs#(#DescriptorHandler#handler#)#{##// register all the known DTDs#handler#.#registerDTD#(#PUBLICID_EJB11#,#DEFAULT_WL51_EJB11_DTD_LOCATION#)#;#handler#.#registerDTD#(#PUBLICID_EJB11#,#DEFAULT_WL60_EJB11_DTD_LOCATION#)#;#handler#.#registerDTD#(#PUBLICID_EJB11#,#ejb11DTD#)#;#handler#.#registerDTD#(#PUBLICID_EJB20#,#DEFAULT_WL60_EJB20_DTD_LOCATION#)#;#}

@@ -1,1 +1,0 @@
-void#set#(#Project#p#,#Object#parent#,#String#value#)#throws#InvocationTargetException#,#IllegalAccessException#,#BuildException#{#try#{#m#.#invoke#(#parent#,#new#Object#[#]#{#Class#.#forName#(#value#)#}#)#;#}##catch#(#ClassNotFoundException#ce#)#{#throw#new#BuildException#(#ce#)#;#}#}

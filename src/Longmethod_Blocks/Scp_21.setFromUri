@@ -1,1 +1,0 @@
-void#setFromUri#(#String#fromUri#)#{##if#(#this#.#fromUri#!=#null#)#{#throw#exactlyOne#(#FROM_ATTRS#)#;#}##this#.#fromUri#=#fromUri#;#}

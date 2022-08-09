@@ -1,1 +1,0 @@
-void#assertPropertyEquals#(#String#property#,#String#value#)#{#String#result#=#project#.#getProperty#(#property#)#;#assertEquals#(#"property "#+#property#,#value#,#result#)#;#}

@@ -1,1 +1,0 @@
-void#setScriptClassLoader#(#ClassLoader#classLoader#)#{#this#.#scriptLoader#=#classLoader#;#}

@@ -1,1 +1,0 @@
-void#cleanUp#(#)#{#super#.#cleanUp#(#)#;#checkJarSpec#(#)#;##// we want to save this info if we are going to make another pass##if#(#!#doubleFilePass#||#!#skipWriting#)#{#manifest#=#null#;#configuredManifest#=#savedConfiguredManifest#;#filesetManifest#=#null#;#originalManifest#=#null#;#}##rootEntries#.#removeAllElements#(#)#;#}

@@ -1,1 +1,0 @@
-void#testLineSeparatorCharacter#(#)#throws#IOException#{#try#{#super#.#testLineSeparatorCharacter#(#)#;#fail#(#"Should trigger once fixed. {@since JDK 1.4RC1}"#)#;#}##catch#(#AssertionFailedError#e#)#{#}#}

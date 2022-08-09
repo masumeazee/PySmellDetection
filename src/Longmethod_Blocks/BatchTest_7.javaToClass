@@ -1,1 +1,0 @@
-String#javaToClass#(#String#filename#)#{##return#filename#.#replace#(#File#.#separatorChar#,#'.'#)#.#replace#(#'/'#,#'.'#)#.#replace#(#'\\'#,#'.'#)#;#}

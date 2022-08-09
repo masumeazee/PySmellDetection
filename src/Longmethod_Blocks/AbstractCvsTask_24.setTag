@@ -1,1 +1,0 @@
-void#setTag#(#String#p#)#{##// Check if not real tag => set it to null##if#(#p#!=#null#&&#p#.#trim#(#)#.#length#(#)#>#0#)#{#tag#=#p#;#addCommandArgument#(#"-r"#+#p#)#;#}#}

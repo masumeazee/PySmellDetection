@@ -1,1 +1,0 @@
-void#setStatus#(#int#i#)#{#status#=#new#Integer#(#i#)#;#}

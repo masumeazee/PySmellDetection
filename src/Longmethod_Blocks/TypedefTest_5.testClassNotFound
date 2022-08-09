@@ -1,1 +1,0 @@
-void#testClassNotFound#(#)#{#expectBuildException#(#"classNotFound"#,#"classname specified doesn't exist"#)#;#}

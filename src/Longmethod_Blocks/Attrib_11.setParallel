@@ -1,1 +1,0 @@
-void#setParallel#(#boolean#parallel#)#{#throw#new#BuildException#(#getTaskType#(#)#+#" doesn\'t support the parallel attribute"#,#getLocation#(#)#)#;#}

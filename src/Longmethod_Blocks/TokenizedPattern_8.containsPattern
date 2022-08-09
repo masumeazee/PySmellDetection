@@ -1,1 +1,0 @@
-boolean#containsPattern#(#String#pat#)#{#for#(#int#i#=#0#;##i#<#tokenizedPattern#.#length#;#i#++#)#{##if#(#tokenizedPattern#[#i#]#.#equals#(#pat#)#)#{##return#true#;#}#}##return#false#;#}

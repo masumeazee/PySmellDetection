@@ -1,1 +1,0 @@
-void#expectReportWithText#(#String#targetName#,#String#text#)#{#executeTarget#(#targetName#)#;#assertIndexCreated#(#)#;##if#(#text#!=#null#)#{#assertLogContaining#(#text#)#;#}#}

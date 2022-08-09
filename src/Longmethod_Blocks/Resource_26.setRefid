@@ -1,1 +1,0 @@
-void#setRefid#(#Reference#r#)#{##if#(#name#!=#null#||#exists#!=#null#||#lastmodified#!=#null#||#directory#!=#null#||#size#!=#null#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#r#)#;#}

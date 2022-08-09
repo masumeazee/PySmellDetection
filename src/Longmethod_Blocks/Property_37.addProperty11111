@@ -1,1 +1,0 @@
-void#addProperty#(#String#n#,#Object#v#)#{#PropertyHelper#ph#=#PropertyHelper#.#getPropertyHelper#(#getProject#(#)#)#;##if#(#userProperty#)#{##if#(#ph#.#getUserProperty#(#n#)#==#null#)#{#ph#.#setInheritedProperty#(#n#,#v#)#;#}#else#{#log#(#"Override ignored for "#+#n#,#Project#.#MSG_VERBOSE#)#;#}#}#else#{#ph#.#setNewProperty#(#n#,#v#)#;#}#}

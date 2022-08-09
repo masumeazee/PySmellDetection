@@ -1,1 +1,0 @@
-void#testModes#(#)#{#AsiExtraField#a#=#new#AsiExtraField#(#)#;#a#.#setMode#(#0123#)#;#assertEquals#(#"plain file"#,#0100123#,#a#.#getMode#(#)#)#;#a#.#setDirectory#(#true#)#;#assertEquals#(#"directory"#,#040123#,#a#.#getMode#(#)#)#;#a#.#setLinkedFile#(#"test"#)#;#assertEquals#(#"symbolic link"#,#0120123#,#a#.#getMode#(#)#)#;#}

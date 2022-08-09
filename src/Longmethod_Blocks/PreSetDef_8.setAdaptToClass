@@ -1,1 +1,0 @@
-void#setAdaptToClass#(#Class#adaptToClass#)#{#throw#new#BuildException#(#"Not supported"#)#;#}

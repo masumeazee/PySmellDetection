@@ -1,1 +1,0 @@
-void#add#(#Tokenizer#tokenizer#)#{##if#(#this#.#tokenizer#!=#null#)#{#throw#new#BuildException#(#"Only one tokenizer allowed"#)#;#}##this#.#tokenizer#=#tokenizer#;#}

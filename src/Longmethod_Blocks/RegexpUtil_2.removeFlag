@@ -1,1 +1,0 @@
-int#removeFlag#(#int#options#,#int#flag#)#{##return#(#options#&#(#0xFFFFFFFF#-#flag#)#)#;#}

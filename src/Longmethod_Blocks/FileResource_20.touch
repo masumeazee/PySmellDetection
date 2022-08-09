@@ -1,1 +1,0 @@
-void#touch#(#long#modTime#)#{##if#(#isReference#(#)#)#{#(#(#FileResource#)#getCheckedRef#(#)#)#.#touch#(#modTime#)#;##return#;#}##getNotNullFile#(#)#.#setLastModified#(#modTime#)#;#}

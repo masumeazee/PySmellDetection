@@ -1,1 +1,0 @@
-void#addConfiguredTarget#(#TargetElement#t#)#{##if#(#targetAttributeSet#)#{#throw#new#BuildException#(#"nested target is incompatible with the target attribute"#)#;#}##String#name#=#t#.#getName#(#)#;##if#(#name#.#equals#(#""#)#)#{#throw#new#BuildException#(#"target name must not be empty"#)#;#}##targets#.#add#(#name#)#;#}

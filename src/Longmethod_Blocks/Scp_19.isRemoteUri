@@ -1,1 +1,0 @@
-boolean#isRemoteUri#(#String#uri#)#{#boolean#isRemote#=#true#;#int#indexOfAt#=#uri#.#indexOf#(#'@'#)#;##if#(#indexOfAt#<#0#)#{#isRemote#=#false#;#}##return#isRemote#;#}

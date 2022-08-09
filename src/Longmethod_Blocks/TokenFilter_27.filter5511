@@ -1,1 +1,0 @@
-String#filter#(#String#line#)#{#initialize#(#)#;##if#(#!#regexp#.#matches#(#line#,#options#)#)#{##return#line#;#}##return#regexp#.#substitute#(#line#,#substitution#.#getExpression#(#getProject#(#)#)#,#options#)#;#}

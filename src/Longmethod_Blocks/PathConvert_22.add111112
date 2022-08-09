@@ -1,1 +1,0 @@
-void#add#(#FileNameMapper#fileNameMapper#)#{#Mapper#m#=#new#Mapper#(#getProject#(#)#)#;#m#.#add#(#fileNameMapper#)#;#addMapper#(#m#)#;#}

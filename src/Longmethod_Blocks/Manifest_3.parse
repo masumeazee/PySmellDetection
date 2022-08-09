@@ -1,1 +1,0 @@
-void#parse#(#String#line#)#throws#ManifestException#{#int#index#=#line#.#indexOf#(#": "#)#;##if#(#index#==#-#1#)#{#throw#new#ManifestException#(#"Manifest line \""#+#line#+#"\" is not valid as it does not "#+#"contain a name and a value separated by ': ' "#)#;#}##name#=#line#.#substring#(#0#,#index#)#;#setValue#(#line#.#substring#(#index#+#2#)#)#;#}

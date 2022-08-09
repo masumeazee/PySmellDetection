@@ -1,1 +1,0 @@
-void#testNonForkedCapture#(#)#throws#IOException#{#executeTarget#(#"capture"#)#;#assertNoPrint#(#getLog#(#)#,#"log"#)#;#assertNoPrint#(#getFullLog#(#)#,#"debug log"#)#;#}

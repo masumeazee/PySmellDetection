@@ -1,1 +1,0 @@
-void#setArg1Internal#(#Object#arg1#)#{#this#.#arg1#=#arg1#;#args#|=#1#;#}

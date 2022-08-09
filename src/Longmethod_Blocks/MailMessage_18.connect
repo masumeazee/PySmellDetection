@@ -1,1 +1,0 @@
-void#connect#(#)#throws#IOException#{#socket#=#new#Socket#(#host#,#port#)#;#out#=#new#MailPrintStream#(#new#BufferedOutputStream#(#socket#.#getOutputStream#(#)#)#)#;#in#=#new#SmtpResponseReader#(#socket#.#getInputStream#(#)#)#;#getReady#(#)#;#}

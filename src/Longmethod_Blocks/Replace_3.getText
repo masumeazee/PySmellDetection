@@ -1,1 +1,0 @@
-String#getText#(#)#{#String#s#=#buf#.#toString#(#)#;##return#expandProperties#?#getProject#(#)#.#replaceProperties#(#s#)#:#s#;#}

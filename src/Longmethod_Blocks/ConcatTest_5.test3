@@ -1,1 +1,0 @@
-void#test3#(#)#{#File#file#=#new#File#(#getProjectDir#(#)#,#tempFile#)#;##if#(#file#.#exists#(#)#)#{#file#.#delete#(#)#;#}##executeTarget#(#"test3"#)#;#assertTrue#(#file#.#exists#(#)#)#;#}

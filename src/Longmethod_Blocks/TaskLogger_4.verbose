@@ -1,1 +1,0 @@
-void#verbose#(#final#String#message#)#{#task#.#log#(#message#,#Project#.#MSG_VERBOSE#)#;#}

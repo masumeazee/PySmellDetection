@@ -1,1 +1,0 @@
-String#getRevision#(#)#{#return#rev#;#}##Resource#getResource#(#)#{#return#res#;#}##String#toString#(#)#{#return#res#+#" ("#+#rev#+#")"#;#}##long#getLastModified#(#)#{#return#getResource#(#)#.#getLastModified#(#)#;#}##

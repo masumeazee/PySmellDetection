@@ -1,1 +1,0 @@
-void#setLogError#(#boolean#logError#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#logError#=#(#(#logError#)#?#Boolean#.#TRUE#:#Boolean#.#FALSE#)#;#}

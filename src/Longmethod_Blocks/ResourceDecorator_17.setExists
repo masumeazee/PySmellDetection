@@ -1,1 +1,0 @@
-void#setExists#(#boolean#exists#)#{#throw#new#BuildException#(#"you can't change the exists state of a "#+#getDataTypeName#(#)#)#;#}

@@ -1,1 +1,0 @@
-void#cleanupBed#(#)#{##if#(#tbed#!=#null#)#{#tbed#.#tearDown#(#)#;#tbed#=#null#;#}#}

@@ -1,1 +1,0 @@
-void#setStrictimport#(#boolean#strictimport#)#{#this#.#strictimport#=#strictimport#;#}

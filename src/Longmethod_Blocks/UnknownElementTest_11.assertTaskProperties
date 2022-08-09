@@ -1,1 +1,0 @@
-void#assertTaskProperties#(#Task#ue#)#{#assertNotNull#(#ue#)#;#assertTrue#(#ue#instanceof#UnknownElement#)#;#Task#t#=#(#(#UnknownElement#)#ue#)#.#getTask#(#)#;#assertNotNull#(#t#)#;#assertEquals#(#"org.apache.tools.ant.taskdefs.Echo"#,#t#.#getClass#(#)#.#getName#(#)#)#;#}

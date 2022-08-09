@@ -1,1 +1,0 @@
-void#setRefid#(#Reference#r#)#throws#BuildException#{##if#(#!#parameters#.#isEmpty#(#)#||#className#!=#null#||#classpath#!=#null#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#r#)#;#}

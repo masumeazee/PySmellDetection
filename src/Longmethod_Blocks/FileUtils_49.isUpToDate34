@@ -1,1 +1,0 @@
-boolean#isUpToDate#(#File#source#,#File#dest#)#{##return#isUpToDate#(#source#,#dest#,#getFileTimestampGranularity#(#)#)#;#}

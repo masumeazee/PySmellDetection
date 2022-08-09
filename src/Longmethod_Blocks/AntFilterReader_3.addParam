@@ -1,1 +1,0 @@
-void#addParam#(#final#Parameter#param#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##parameters#.#addElement#(#param#)#;#}

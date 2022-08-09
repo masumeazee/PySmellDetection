@@ -1,1 +1,0 @@
-void#testDefaultMapper#(#String#target#)#throws#Exception#{#assertTrue#(#!#(#FileUtils#.#getFileUtils#(#)#.#resolveFile#(#getProject#(#)#.#getBaseDir#(#)#,#"out/data.html"#)#)#.#exists#(#)#)#;#expectFileContains#(#target#,#"out/data.html"#,#"set='myvalue'"#)#;#}

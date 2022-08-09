@@ -1,1 +1,0 @@
-void#copyInheritedProperties#(#Project#other#)#{#PropertyHelper#.#getPropertyHelper#(#this#)#.#copyInheritedProperties#(#other#)#;#}

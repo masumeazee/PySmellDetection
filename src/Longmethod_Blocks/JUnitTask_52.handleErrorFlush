@@ -1,1 +1,0 @@
-void#handleErrorFlush#(#String#output#)#{##if#(#runner#!=#null#)#{#runner#.#handleErrorFlush#(#output#)#;##if#(#showOutput#)#{#super#.#handleErrorFlush#(#output#)#;#}#}#else#{#super#.#handleErrorFlush#(#output#)#;#}#}

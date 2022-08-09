@@ -1,1 +1,0 @@
-void#validateFile#(#File#fileToCheck#)#{##if#(#validate#&&#!#fileToCheck#.#exists#(#)#)#{#throw#new#BuildException#(#ERROR_MISSING_FILE#+#fileToCheck#.#toString#(#)#)#;#}#}

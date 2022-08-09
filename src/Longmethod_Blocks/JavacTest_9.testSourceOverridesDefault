@@ -1,1 +1,0 @@
-void#testSourceOverridesDefault#(#)#{#project#.#setNewProperty#(#"ant.build.javac.source"#,#"1.4"#)#;#javac#.#setSource#(#"1.5"#)#;#assertEquals#(#"1.5"#,#javac#.#getSource#(#)#)#;#}

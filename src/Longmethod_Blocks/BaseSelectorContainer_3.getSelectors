@@ -1,1 +1,0 @@
-FileSelector#[#]#getSelectors#(#Project#p#)#{#dieOnCircularReference#(#)#;#FileSelector#[#]#result#=#new#FileSelector#[#selectorsList#.#size#(#)#]#;#selectorsList#.#copyInto#(#result#)#;##return#result#;#}

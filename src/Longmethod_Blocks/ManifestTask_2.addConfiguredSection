@@ -1,1 +1,0 @@
-void#addConfiguredSection#(#Manifest#.#Section#section#)#throws#ManifestException#{#Enumeration#attributeKeys#=#section#.#getAttributeKeys#(#)#;##while#(#attributeKeys#.#hasMoreElements#(#)#)#{#Attribute#attribute#=#section#.#getAttribute#(#(#String#)#attributeKeys#.#nextElement#(#)#)#;#checkAttribute#(#attribute#)#;#}##nestedManifest#.#addConfiguredSection#(#section#)#;#}

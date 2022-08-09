@@ -1,1 +1,0 @@
-boolean#isSelected#(#String#name#,#File#file#)#{##if#(#selectors#!=#null#)#{#for#(#int#i#=#0#;##i#<#selectors#.#length#;#i#++#)#{##if#(#!#selectors#[#i#]#.#isSelected#(#basedir#,#name#,#file#)#)#{##return#false#;#}#}#}##return#true#;#}

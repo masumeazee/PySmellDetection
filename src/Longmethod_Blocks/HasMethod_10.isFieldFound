@@ -1,1 +1,0 @@
-boolean#isFieldFound#(#Class#clazz#)#{#Field#[#]#fields#=#clazz#.#getDeclaredFields#(#)#;##for#(#int#i#=#0#;##i#<#fields#.#length#;#i#++#)#{#Field#fieldEntry#=#fields#[#i#]#;##if#(#fieldEntry#.#getName#(#)#.#equals#(#field#)#)#{##return#true#;#}#}##return#false#;#}

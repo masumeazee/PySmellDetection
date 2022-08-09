@@ -1,1 +1,0 @@
-void#testIgnoreDependenciesFailure#(#)#{##//no foo failure; foo is never executed as dependencies are ignored!#getProject#(#IGNORE_DEPS#,#true#)#.#executeTargets#(#TARGET_NAMES#)#;#}

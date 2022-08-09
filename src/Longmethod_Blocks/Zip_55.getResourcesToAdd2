@@ -1,8 +1,0 @@
-ArchiveState#getResourcesToAdd#(#ResourceCollection#[#]#rcs#,#File#zipFile#,#boolean#needsUpdate#)#throws#BuildException#{#ArrayList#filesets#=#new#ArrayList#(#)#;#ArrayList#rest#=#new#ArrayList#(#)#;##for#(#int#i#=#0#;##i#<#rcs#.#length#;#i#++#)#{##if#(#rcs#[#i#]#instanceof#FileSet#)#{#filesets#.#add#(#rcs#[#i#]#)#;#}#else#{#rest#.#add#(#rcs#[#i#]#)#;#}#}##ResourceCollection#[#]#rc#=#(#ResourceCollection#[#]#)#rest#.#toArray#(#new#ResourceCollection#[#rest#.#size#(#)#]#)#;#ArchiveState#as#=#getNonFileSetResourcesToAdd#(#rc#,#zipFile#,#needsUpdate#)#;#FileSet#[#]#fs#=#(#FileSet#[#]#)#filesets#.#toArray#(#new#FileSet#[#filesets#.#size#(#)#]#)#;#ArchiveState#as2#=#getResourcesToAdd#(#fs#,#zipFile#,#as#.#isOutOfDate#(#)#)#;##if#(#!#as#.#isOutOfDate#(#)#&&#as2#.#isOutOfDate#(#)#)#{##/*
-             * Bad luck.
-             *
-             * There are resources in the filesets that make the
-             * archive out of date, but not in the non-fileset
-             * resources. We need to rescan the non-FileSets to grab
-             * all of them now.
-             */#as#=#getNonFileSetResourcesToAdd#(#rc#,#zipFile#,#true#)#;#}##Resource#[#]#[#]#toAdd#=#new#Resource#[#rcs#.#length#]#[#]#;#int#fsIndex#=#0#;#int#restIndex#=#0#;##for#(#int#i#=#0#;##i#<#rcs#.#length#;#i#++#)#{##if#(#rcs#[#i#]#instanceof#FileSet#)#{#toAdd#[#i#]#=#as2#.#getResourcesToAdd#(#)#[#fsIndex#++#]#;#}#else#{#toAdd#[#i#]#=#as#.#getResourcesToAdd#(#)#[#restIndex#++#]#;#}#}##return#new#ArchiveState#(#as2#.#isOutOfDate#(#)#,#toAdd#)#;#}

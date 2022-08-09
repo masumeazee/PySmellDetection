@@ -1,1 +1,0 @@
-void#test#(#)#{#File#dir#=#null#;#File#[#]#files#=#null#;#int#filecount#;#executeTarget#(#"containsregexp"#)#;#dir#=#new#File#(#getProjectDir#(#)#+#"/regexpseltestdest/"#)#;#files#=#dir#.#listFiles#(#)#;#filecount#=#files#.#length#;##if#(#filecount#!=#1#)#assertEquals#(#"ContainsRegexp test should have copied 1 file"#,#1#,#files#.#length#)#;#}

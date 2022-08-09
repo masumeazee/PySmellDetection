@@ -1,1 +1,0 @@
-String#getUser#(#)#{##return#user#!=#null#?#FLAG_USER#+#user#:#""#;#}

@@ -1,1 +1,0 @@
-Reader#chain#(#final#Reader#rdr#)#{#PrefixLines#newFilter#=#new#PrefixLines#(#rdr#)#;#newFilter#.#setPrefix#(#getPrefix#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

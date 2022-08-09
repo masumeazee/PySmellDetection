@@ -1,1 +1,0 @@
-Method#getAddTextMethod#(#)#throws#BuildException#{##if#(#!#supportsCharacters#(#)#)#{#throw#new#BuildException#(#"Class "#+#bean#.#getName#(#)#+#" doesn't support nested text data."#)#;#}##return#addText#;#}

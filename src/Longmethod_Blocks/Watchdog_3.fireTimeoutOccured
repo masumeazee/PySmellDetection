@@ -1,1 +1,0 @@
-void#fireTimeoutOccured#(#)#{#Enumeration#e#=#observers#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#(#(#TimeoutObserver#)#e#.#nextElement#(#)#)#.#timeoutOccured#(#this#)#;#}#}

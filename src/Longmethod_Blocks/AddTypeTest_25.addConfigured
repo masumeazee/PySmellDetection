@@ -1,1 +1,0 @@
-void#addConfigured#(#MyValue#value#)#{#log#(#"value is "#+#value#)#;#this#.#value#=#value#;#}

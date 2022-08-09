@@ -1,1 +1,0 @@
-void#run#(#)#{#long#now#=#System#.#currentTimeMillis#(#)#;#final#long#until#=#now#+#timeout#;##try#{#while#(#!#stopped#&&#until#>#now#)#{#wait#(#until#-#now#)#;#now#=#System#.#currentTimeMillis#(#)#;#}#}##catch#(#InterruptedException#e#)#{##// Ignore exception#}##if#(#!#stopped#)#{#fireTimeoutOccured#(#)#;#}#}

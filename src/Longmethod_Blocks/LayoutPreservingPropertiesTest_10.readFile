@@ -1,1 +1,0 @@
-String#readFile#(#File#f#)#throws#IOException#{#FileInputStream#fis#=#new#FileInputStream#(#f#)#;#InputStreamReader#isr#=#new#InputStreamReader#(#fis#)#;#String#s#=#FileUtils#.#readFully#(#isr#)#;#isr#.#close#(#)#;#fis#.#close#(#)#;##return#s#;#}

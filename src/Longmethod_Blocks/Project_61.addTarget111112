@@ -1,1 +1,0 @@
-void#addTarget#(#Target#target#)#throws#BuildException#{#addTarget#(#target#.#getName#(#)#,#target#)#;#}

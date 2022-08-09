@@ -1,1 +1,0 @@
-ArchiveFileSet#configureArchive#(#ArchiveFileSet#afs#,#Resource#src#)#{#afs#.#setProject#(#getProject#(#)#)#;#afs#.#setSrcResource#(#src#)#;##return#afs#;#}

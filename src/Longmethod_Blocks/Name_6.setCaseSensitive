@@ -1,1 +1,0 @@
-void#setCaseSensitive#(#boolean#b#)#{#cs#=#b#;#}

@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{#int#lookAhead2#=#super#.#read#(#)#;##// If source at EOF and lookAhead is ctrl-z, return EOF (NOT ctrl-z)##if#(#lookAhead2#==#-#1#&&#lookAhead#==#CTRLZ#)#{##return#-#1#;#}##// Return current look-ahead#int#i#=#lookAhead#;#lookAhead#=#lookAhead2#;##return#i#;#}

@@ -1,1 +1,0 @@
-void#testTimeout#(#)#{#expectLogContaining#(#"fork-timeout"#,#"JDepend FAILED - Timed out"#)#;#}

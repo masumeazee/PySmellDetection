@@ -1,1 +1,0 @@
-void#setAction#(#String#action#)#throws#BuildException#{#log#(#"DEPRECATED - The setAction(String) method has been deprecated."#+#" Use setAction(FTP.Action) instead."#)#;#Action#a#=#new#Action#(#)#;#a#.#setValue#(#action#)#;#this#.#action#=#a#.#getAction#(#)#;#}

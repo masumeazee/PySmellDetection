@@ -1,1 +1,0 @@
-void#setUp#(#)#{#p#=#new#Project#(#)#;#p#.#init#(#)#;#root#=#new#File#(#File#.#separator#)#.#getAbsolutePath#(#)#.#toUpperCase#(#)#;#mbl#=#new#MockBuildListener#(#p#)#;#}

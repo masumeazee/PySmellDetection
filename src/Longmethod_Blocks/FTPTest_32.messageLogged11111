@@ -1,1 +1,0 @@
-void#messageLogged#(#BuildEvent#event#)#{#String#message#=#event#.#getMessage#(#)#;#Integer#mcnt#=#(#Integer#)#searchMap#.#get#(#message#)#;##if#(#null#!=#mcnt#)#{#searchMap#.#put#(#message#,#new#Integer#(#mcnt#.#intValue#(#)#+#1#)#)#;#}##super#.#messageLogged#(#event#)#;#}

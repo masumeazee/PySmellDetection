@@ -1,1 +1,0 @@
-void#addPathElement#(#String#pathElement#)#throws#BuildException#{#File#pathComponent#=#project#!=#null#?#project#.#resolveFile#(#pathElement#)#:#new#File#(#pathElement#)#;##try#{#addPathFile#(#pathComponent#)#;#}##catch#(#IOException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

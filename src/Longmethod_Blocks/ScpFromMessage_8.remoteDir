@@ -1,1 +1,0 @@
-String#remoteDir#(#String#remoteFile#)#{#int#index#=#remoteFile#.#lastIndexOf#(#"/"#)#;##if#(#index#<#0#)#{#index#=#remoteFile#.#lastIndexOf#(#"\\"#)#;#}##return#index#>#-#1#?#remoteFile#.#substring#(#0#,#index#+#1#)#:#""#;#}

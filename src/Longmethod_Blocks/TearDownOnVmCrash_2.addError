@@ -1,1 +1,0 @@
-void#addError#(#final#Test#fakeTest#,#final#Throwable#t#)#{##if#(#suiteName#!=#null#&&#fakeTest#instanceof#JUnitTaskMirrorImpl#.#VmExitErrorTest#)#{#tearDown#(#)#;#}#}

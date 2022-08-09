@@ -1,1 +1,0 @@
-void#throwNotSupported#(#Project#project#,#Object#parent#,#String#elementName#)#{#String#msg#=#project#.#getElementName#(#parent#)#+#NOT_SUPPORTED_CHILD_PREFIX#+#elementName#+#NOT_SUPPORTED_CHILD_POSTFIX#;#throw#new#UnsupportedElementException#(#msg#,#elementName#)#;#}

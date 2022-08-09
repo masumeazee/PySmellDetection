@@ -1,1 +1,0 @@
-void#setDefaultexcludes#(#boolean#useDefaultExcludes#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#useDefaultExcludes#=#useDefaultExcludes#;#directoryScanner#=#null#;#}

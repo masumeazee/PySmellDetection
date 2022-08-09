@@ -1,1 +1,0 @@
-String#getError#(#)#{##if#(#error#==#null#)#{##return#""#;#}##StringWriter#sw#=#new#StringWriter#(#)#;#error#.#printStackTrace#(#new#PrintWriter#(#sw#)#)#;##return#sw#.#toString#(#)#;#}

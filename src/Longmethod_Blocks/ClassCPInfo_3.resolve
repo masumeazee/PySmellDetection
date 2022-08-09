@@ -1,1 +1,0 @@
-void#resolve#(#ConstantPool#constantPool#)#{#className#=#(#(#Utf8CPInfo#)#constantPool#.#getEntry#(#index#)#)#.#getValue#(#)#;#super#.#resolve#(#constantPool#)#;#}

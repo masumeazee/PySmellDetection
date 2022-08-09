@@ -1,1 +1,0 @@
-void#resolveProcessor#(#String#proc#)#throws#Exception#{#String#classname#;##if#(#proc#.#equals#(#PROCESSOR_TRAX#)#)#{#classname#=#TRAX_LIAISON_CLASS#;#}#else#{##//anything else is a classname#classname#=#proc#;#}##Class#clazz#=#loadClass#(#classname#)#;#liaison#=#(#XSLTLiaison#)#clazz#.#newInstance#(#)#;#}

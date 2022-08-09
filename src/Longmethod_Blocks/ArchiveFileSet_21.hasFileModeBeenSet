@@ -1,1 +1,0 @@
-boolean#hasFileModeBeenSet#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#getProject#(#)#)#)#.#hasFileModeBeenSet#(#)#;#}##dieOnCircularReference#(#)#;##return#fileModeHasBeenSet#;#}

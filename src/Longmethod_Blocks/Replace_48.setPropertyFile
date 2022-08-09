@@ -1,1 +1,0 @@
-void#setPropertyFile#(#File#propertyFile#)#{#setPropertyResource#(#new#FileResource#(#propertyFile#)#)#;#}

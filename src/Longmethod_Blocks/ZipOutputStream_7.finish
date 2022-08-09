@@ -1,1 +1,0 @@
-void#finish#(#)#throws#IOException#{#closeEntry#(#)#;#cdOffset#=#written#;##for#(#Iterator#i#=#entries#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#writeCentralFileHeader#(#(#ZipEntry#)#i#.#next#(#)#)#;#}##cdLength#=#written#-#cdOffset#;#writeCentralDirectoryEnd#(#)#;#offsets#.#clear#(#)#;#entries#.#clear#(#)#;#}

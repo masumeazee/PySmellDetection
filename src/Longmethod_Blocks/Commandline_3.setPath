@@ -1,1 +1,0 @@
-void#setPath#(#Path#value#)#{#parts#=#new#String#[#]#{#value#.#toString#(#)#}#;#}

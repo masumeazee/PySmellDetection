@@ -1,1 +1,0 @@
-void#addFileTokenizer#(#FileTokenizer#tokenizer#)#{#add#(#tokenizer#)#;#}

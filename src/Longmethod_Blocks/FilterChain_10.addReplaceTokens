@@ -1,1 +1,0 @@
-void#addReplaceTokens#(#final#ReplaceTokens#replaceTokens#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#replaceTokens#)#;#}

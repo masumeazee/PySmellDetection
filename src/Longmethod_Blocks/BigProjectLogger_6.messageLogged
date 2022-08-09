@@ -1,1 +1,0 @@
-void#messageLogged#(#BuildEvent#event#)#{#maybeRaiseSubBuildStarted#(#event#)#;#super#.#messageLogged#(#event#)#;#}

@@ -1,1 +1,0 @@
-void#setEightteen#(#short#s#)#{#assertEquals#(#18#,#s#)#;#}

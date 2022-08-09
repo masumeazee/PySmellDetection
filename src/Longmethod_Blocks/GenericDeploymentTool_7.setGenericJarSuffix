@@ -1,1 +1,0 @@
-void#setGenericJarSuffix#(#String#inString#)#{#this#.#genericJarSuffix#=#inString#;#}

@@ -1,1 +1,0 @@
-DriverPropertyInfo#[#]#getPropertyInfo#(#String#url#,#Properties#info#)#throws#SQLException#{##return#new#DriverPropertyInfo#[#0#]#;#}

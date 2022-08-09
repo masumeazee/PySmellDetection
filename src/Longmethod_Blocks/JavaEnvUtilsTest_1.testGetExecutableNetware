@@ -1,1 +1,0 @@
-void#testGetExecutableNetware#(#)#{##if#(#Os#.#isName#(#"netware"#)#)#{#assertEquals#(#"java"#,#JavaEnvUtils#.#getJreExecutable#(#"java"#)#)#;#assertEquals#(#"javac"#,#JavaEnvUtils#.#getJdkExecutable#(#"javac"#)#)#;#assertEquals#(#"foo"#,#JavaEnvUtils#.#getJreExecutable#(#"foo"#)#)#;#assertEquals#(#"foo"#,#JavaEnvUtils#.#getJdkExecutable#(#"foo"#)#)#;#}#}

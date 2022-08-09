@@ -1,1 +1,0 @@
-void#setRpmBuildCommand#(#String#c#)#{#this#.#rpmBuildCommand#=#c#;#}

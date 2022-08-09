@@ -1,1 +1,0 @@
-void#setIgnoreEmpty#(#boolean#ignoreEmpty#)#{#this#.#ignoreEmpty#=#ignoreEmpty#;#}

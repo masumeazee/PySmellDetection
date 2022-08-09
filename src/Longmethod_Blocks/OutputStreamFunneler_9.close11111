@@ -1,1 +1,0 @@
-void#close#(#)#throws#IOException#{#try#{#dieIfClosed#(#)#;#out#.#close#(#)#;#}##finally#{#closed#=#true#;#}#}

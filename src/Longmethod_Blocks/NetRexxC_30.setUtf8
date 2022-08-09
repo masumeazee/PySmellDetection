@@ -1,1 +1,0 @@
-void#setUtf8#(#boolean#utf8#)#{#this#.#utf8#=#utf8#;#}

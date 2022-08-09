@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#c#)#{##if#(#c#==#null#)#{##return#;#}##resources#=#(#resources#==#null#)#?#new#Resources#(#)#:#resources#;#resources#.#add#(#c#)#;#}

@@ -1,1 +1,0 @@
-void#testXmlnsFile#(#)#{#expectLog#(#"xmlns.file"#,#"MyTask called"#)#;#}

@@ -1,1 +1,0 @@
-FormatterElement#[#]#mergeFormatters#(#JUnitTest#test#)#{#Vector#feVector#=#(#Vector#)#formatters#.#clone#(#)#;#test#.#addFormattersTo#(#feVector#)#;#FormatterElement#[#]#feArray#=#new#FormatterElement#[#feVector#.#size#(#)#]#;#feVector#.#copyInto#(#feArray#)#;##return#feArray#;#}

@@ -1,1 +1,0 @@
-void#testAll#(#)#throws#IOException#{#executeTarget#(#"forked"#)#;#PrintStream#ps#=#System#.#out#;#PrintStream#newps#=#new#PrintStream#(#new#FileOutputStream#(#f2#)#)#;#System#.#setOut#(#newps#)#;#project#.#executeTarget#(#"unforked"#)#;#System#.#setOut#(#ps#)#;#newps#.#close#(#)#;#assertTrue#(#"Forked - non-forked mismatch"#,#FILE_UTILS#.#contentEquals#(#f1#,#f2#)#)#;#}

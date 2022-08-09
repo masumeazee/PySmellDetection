@@ -1,1 +1,0 @@
-void#addURIEntry#(#String#uri#,#String#altURI#,#URL#base#)#{#ResourceLocation#entity#=#new#ResourceLocation#(#)#;#entity#.#setBase#(#base#)#;#entity#.#setPublicId#(#uri#)#;#entity#.#setLocation#(#altURI#)#;#xmlCatalog#.#addEntity#(#entity#)#;#}

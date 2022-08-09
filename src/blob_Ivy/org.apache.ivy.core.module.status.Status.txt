@@ -1,1 +1,0 @@
-boolean#isIntegration#(#)#{#return#integration#;#}##void#setIntegration#(#boolean#integration#)#{#this#.#integration#=#integration#;#}##String#getName#(#)#{#return#name#;#}##void#setName#(#String#name#)#{#this#.#name#=#name#;#}##

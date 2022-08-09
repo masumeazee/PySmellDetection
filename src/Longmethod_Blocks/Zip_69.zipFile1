@@ -1,1 +1,0 @@
-void#zipFile#(#InputStream#in#,#ZipOutputStream#zOut#,#String#vPath#,#long#lastModified#,#File#fromArchive#,#int#mode#,#ZipExtraField#[#]#extra#)#throws#IOException#{#try#{#setCurrentExtraFields#(#extra#)#;#zipFile#(#in#,#zOut#,#vPath#,#lastModified#,#fromArchive#,#mode#)#;#}##finally#{#setCurrentExtraFields#(#null#)#;#}#}

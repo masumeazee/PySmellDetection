@@ -1,1 +1,0 @@
-void#setLogInputString#(#boolean#logInputString#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#logInputString#=#logInputString#?#Boolean#.#TRUE#:#Boolean#.#FALSE#;#}

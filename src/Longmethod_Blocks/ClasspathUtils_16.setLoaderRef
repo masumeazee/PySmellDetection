@@ -1,1 +1,0 @@
-void#setLoaderRef#(#Reference#r#)#{#this#.#loaderId#=#r#.#getRefId#(#)#;#}

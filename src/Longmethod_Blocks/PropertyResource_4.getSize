@@ -1,1 +1,0 @@
-long#getSize#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getSize#(#)#;#}##return#isExists#(#)#?#(#long#)#getValue#(#)#.#length#(#)#:#0L#;#}

@@ -1,1 +1,0 @@
-void#processBuffer#(#ByteArrayOutputStream#buffer#)#{#String#output#=#buffer#.#toString#(#)#;#project#.#demuxOutput#(#output#,#isErrorStream#)#;#resetBufferInfo#(#)#;#}

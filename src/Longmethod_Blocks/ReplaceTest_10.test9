@@ -1,1 +1,0 @@
-void#test9#(#)#throws#IOException#{#executeTarget#(#"test9"#)#;#String#tmpdir#=#project#.#getProperty#(#"tmp.dir"#)#;#assertEqualContent#(#new#File#(#tmpdir#,#"result.txt"#)#,#new#File#(#tmpdir#,#"output.txt"#)#)#;#}

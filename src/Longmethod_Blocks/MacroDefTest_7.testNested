@@ -1,1 +1,0 @@
-void#testNested#(#)#{#expectLog#(#"nested"#,#"A nested element"#)#;#}

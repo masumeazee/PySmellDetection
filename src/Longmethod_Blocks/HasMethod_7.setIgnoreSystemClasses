@@ -1,1 +1,0 @@
-void#setIgnoreSystemClasses#(#boolean#ignoreSystemClasses#)#{#this#.#ignoreSystemClasses#=#ignoreSystemClasses#;#}

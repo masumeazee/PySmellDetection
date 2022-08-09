@@ -1,1 +1,0 @@
-BuildException#convertToBuildException#(#SAXException#e#)#{#Exception#nested#=#e#.#getException#(#)#;##if#(#nested#!=#null#)#{##return#new#BuildException#(#nested#)#;#}#else#{##return#new#BuildException#(#e#)#;#}#}

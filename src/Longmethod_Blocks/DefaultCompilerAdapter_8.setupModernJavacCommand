@@ -1,1 +1,0 @@
-Commandline#setupModernJavacCommand#(#)#{#Commandline#cmd#=#new#Commandline#(#)#;#setupModernJavacCommandlineSwitches#(#cmd#)#;#logAndAddFilesToCompile#(#cmd#)#;##return#cmd#;#}

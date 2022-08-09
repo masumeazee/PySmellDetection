@@ -1,1 +1,0 @@
-void#appendLibraryList#(#final#Attributes#attributes#,#final#String#listPrefix#,#final#ArrayList#extensions#)#throws#BuildException#{#final#int#size#=#extensions#.#size#(#)#;##for#(#int#i#=#0#;##i#<#size#;#i#++#)#{#final#Extension#ext#=#(#Extension#)#extensions#.#get#(#i#)#;#final#String#prefix#=#listPrefix#+#i#+#"-"#;#Extension#.#addExtension#(#ext#,#prefix#,#attributes#)#;#}#}

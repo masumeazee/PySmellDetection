@@ -1,1 +1,0 @@
-String#encode#(#String#s#)#{##return#encode#(#s#.#getBytes#(#)#)#;#}

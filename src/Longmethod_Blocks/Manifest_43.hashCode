@@ -1,1 +1,0 @@
-int#hashCode#(#)#{#int#hashCode#=#0#;##if#(#manifestVersion#!=#null#)#{#hashCode#+=#manifestVersion#.#hashCode#(#)#;#}##hashCode#+=#mainSection#.#hashCode#(#)#;#hashCode#+=#sections#.#hashCode#(#)#;##return#hashCode#;#}

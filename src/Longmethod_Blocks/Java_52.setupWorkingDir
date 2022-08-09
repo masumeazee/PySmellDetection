@@ -1,1 +1,0 @@
-void#setupWorkingDir#(#Execute#exe#)#{##if#(#dir#==#null#)#{#dir#=#getProject#(#)#.#getBaseDir#(#)#;#}#else##if#(#!#dir#.#exists#(#)#||#!#dir#.#isDirectory#(#)#)#{#throw#new#BuildException#(#dir#.#getAbsolutePath#(#)#+#" is not a valid directory"#,#getLocation#(#)#)#;#}##exe#.#setWorkingDirectory#(#dir#)#;#}

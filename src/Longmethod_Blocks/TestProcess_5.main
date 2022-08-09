@@ -1,1 +1,0 @@
-void#main#(#String#[#]#args#)#{#TestProcess#tp#=#new#TestProcess#(#)#;#new#Thread#(#tp#,#"TestProcess thread"#)#.#start#(#)#;#Runtime#.#getRuntime#(#)#.#addShutdownHook#(#tp#.#getShutdownHook#(#)#)#;#}

@@ -1,1 +1,0 @@
-void#visitMethod#(#Method#method#)#{#String#signature#=#method#.#getSignature#(#)#;#int#pos#=#signature#.#indexOf#(#")"#)#;#addClasses#(#signature#.#substring#(#1#,#pos#)#)#;#addClasses#(#signature#.#substring#(#pos#+#1#)#)#;#}

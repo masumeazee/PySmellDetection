@@ -1,1 +1,0 @@
-String#resolve#(#ModuleDescriptor#published#,#String#publishedStatus#,#ModuleRevisionId#depMrid#,#String#status#)#{#return#depMrid#.#getRevision#(#)#;#}##

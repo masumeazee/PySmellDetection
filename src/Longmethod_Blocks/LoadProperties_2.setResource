@@ -1,1 +1,0 @@
-void#setResource#(#String#resource#)#{#getRequiredJavaResource#(#)#.#setName#(#resource#)#;#}

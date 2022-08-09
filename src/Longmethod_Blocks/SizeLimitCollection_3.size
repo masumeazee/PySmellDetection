@@ -1,1 +1,0 @@
-int#size#(#)#{#int#sz#=#getResourceCollection#(#)#.#size#(#)#;#int#ct#=#getValidCount#(#)#;##return#sz#<#ct#?#sz#:#ct#;#}

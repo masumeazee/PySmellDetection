@@ -1,1 +1,0 @@
-int#toType#(#String#type#)#{##if#(#"int"#.#equals#(#type#)#)#{##return#INTEGER_TYPE#;#}#else##if#(#"date"#.#equals#(#type#)#)#{##return#DATE_TYPE#;#}##return#STRING_TYPE#;#}

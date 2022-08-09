@@ -1,1 +1,0 @@
-void#setDname#(#final#String#dname#)#{##if#(#null#!=#expandedDname#)#{#throw#new#BuildException#(#"It is not possible to specify dname "#+#" both as attribute and element."#)#;#}##this#.#dname#=#dname#;#}

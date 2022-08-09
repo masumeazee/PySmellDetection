@@ -1,1 +1,0 @@
-boolean#isSymbolicLink#(#File#parent#,#String#name#)#throws#IOException#{#File#toTest#=#new#File#(#parent#.#getCanonicalPath#(#)#,#name#)#;##return#!#toTest#.#getAbsolutePath#(#)#.#equals#(#toTest#.#getCanonicalPath#(#)#)#;#}

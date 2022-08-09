@@ -1,1 +1,0 @@
-ZipExtraField#getExtraField#(#ZipShort#type#)#{##if#(#extraFields#!=#null#)#{##return#(#ZipExtraField#)#extraFields#.#get#(#type#)#;#}##return#null#;#}

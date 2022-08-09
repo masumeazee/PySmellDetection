@@ -1,1 +1,0 @@
-void#setJava#(#boolean#java#)#{#log#(#"The attribute java is currently unused."#,#Project#.#MSG_WARN#)#;#}

@@ -1,1 +1,0 @@
-void#testNoTimeOut#(#)#throws#Exception#{#Process#process#=#getProcess#(#TIME_OUT#/#2#)#;#watchdog#.#start#(#process#)#;#int#retCode#=#waitForEnd#(#process#)#;#assertTrue#(#"process should not have been killed"#,#!#watchdog#.#killedProcess#(#)#)#;#assertFalse#(#Execute#.#isFailure#(#retCode#)#)#;#}

@@ -1,1 +1,0 @@
-void#setTofile#(#String#tof#)#{#this#.#tofile#=#tof#;#}

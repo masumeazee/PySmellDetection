@@ -1,1 +1,0 @@
-void#writeAsArray#(#char#c#)#throws#IOException#{#stream#.#write#(#new#byte#[#]#{#(#byte#)#c#}##,#0#,#1#)#;#}

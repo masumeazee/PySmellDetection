@@ -1,1 +1,0 @@
-void#execute#(#AntTelnetClient#telnet#)#throws#BuildException#{#telnet#.#waitForString#(#taskString#,#timeout#)#;#}

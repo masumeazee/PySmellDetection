@@ -1,1 +1,0 @@
-void#setInheritall#(#boolean#b#)#{#this#.#inheritAll#=#b#;#}

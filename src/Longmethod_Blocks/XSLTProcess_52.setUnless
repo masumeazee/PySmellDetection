@@ -1,1 +1,0 @@
-void#setUnless#(#Object#unlessCond#)#{#this#.#unlessCond#=#unlessCond#;#}

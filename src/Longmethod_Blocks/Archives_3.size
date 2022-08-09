@@ -1,1 +1,0 @@
-int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Archives#)#getCheckedRef#(#)#)#.#size#(#)#;#}##dieOnCircularReference#(#)#;#int#total#=#0#;##for#(#Iterator#i#=#grabArchives#(#)#;##i#.#hasNext#(#)#;#)#{#total#+=#(#(#ResourceCollection#)#i#.#next#(#)#)#.#size#(#)#;#}##return#total#;#}

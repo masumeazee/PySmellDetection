@@ -1,1 +1,0 @@
-void#setPrefixSeparator#(#String#s#)#{#prefixSeparator#=#s#;#}

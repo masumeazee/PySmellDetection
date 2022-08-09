@@ -1,1 +1,0 @@
-boolean#archiveIsUpToDate#(#Resource#r#)#{##return#SelectorUtils#.#isOutOfDate#(#new#FileResource#(#tarFile#)#,#r#,#FileUtils#.#getFileUtils#(#)#.#getFileTimestampGranularity#(#)#)#;#}

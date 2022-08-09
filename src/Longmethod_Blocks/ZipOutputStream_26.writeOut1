@@ -1,1 +1,0 @@
-void#writeOut#(#byte#[#]#data#,#int#offset#,#int#length#)#throws#IOException#{##if#(#raf#!=#null#)#{#raf#.#write#(#data#,#offset#,#length#)#;#}#else#{#out#.#write#(#data#,#offset#,#length#)#;#}#}

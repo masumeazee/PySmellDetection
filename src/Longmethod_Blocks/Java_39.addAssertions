@@ -1,1 +1,0 @@
-void#addAssertions#(#Assertions#asserts#)#{##if#(#getCommandLine#(#)#.#getAssertions#(#)#!=#null#)#{#throw#new#BuildException#(#"Only one assertion declaration is allowed"#)#;#}##getCommandLine#(#)#.#setAssertions#(#asserts#)#;#}

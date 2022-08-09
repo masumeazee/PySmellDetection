@@ -1,1 +1,0 @@
-void#setEncoding#(#String#enc#)#{#cmd#.#createArgument#(#)#.#setValue#(#"-encoding"#)#;#cmd#.#createArgument#(#)#.#setValue#(#enc#)#;#}

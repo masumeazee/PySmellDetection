@@ -1,1 +1,0 @@
-FileSelector#[#]#getSelectors#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#getRef#(#getProject#(#)#)#.#getSelectors#(#p#)#;#}##dieOnCircularReference#(#p#)#;##return#(#FileSelector#[#]#)#(#selectors#.#toArray#(#new#FileSelector#[#selectors#.#size#(#)#]#)#)#;#}

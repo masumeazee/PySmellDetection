@@ -1,1 +1,0 @@
-void#setArchive#(#boolean#value#)#{#addArg#(#value#,#ATTR_ARCHIVE#)#;#}

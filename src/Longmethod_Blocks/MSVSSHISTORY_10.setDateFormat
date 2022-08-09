@@ -1,1 +1,0 @@
-void#setDateFormat#(#String#dateFormat#)#{#super#.#setInternalDateFormat#(#new#SimpleDateFormat#(#dateFormat#)#)#;#}

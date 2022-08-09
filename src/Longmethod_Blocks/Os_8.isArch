@@ -1,1 +1,0 @@
-boolean#isArch#(#String#arch#)#{##return#isOs#(#null#,#null#,#arch#,#null#)#;#}

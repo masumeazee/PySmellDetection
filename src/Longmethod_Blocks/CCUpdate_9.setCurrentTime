@@ -1,1 +1,0 @@
-void#setCurrentTime#(#boolean#ct#)#{#mCtime#=#ct#;#}

@@ -1,1 +1,0 @@
-void#setName#(#String#name#)#{#PvcsProject#.#this#.#name#=#name#;#}##String#getName#(#)#{#return#name#;#}##

@@ -1,1 +1,0 @@
-int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Restrict#)#getCheckedRef#(#)#)#.#size#(#)#;#}##dieOnCircularReference#(#)#;##return#w#.#size#(#)#;#}

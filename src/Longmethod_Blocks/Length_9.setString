@@ -1,1 +1,0 @@
-void#setString#(#String#string#)#{#this#.#string#=#string#;#this#.#mode#=#STRING#;#}

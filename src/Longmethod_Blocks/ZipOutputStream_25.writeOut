@@ -1,1 +1,0 @@
-void#writeOut#(#byte#[#]#data#)#throws#IOException#{#writeOut#(#data#,#0#,#data#.#length#)#;#}

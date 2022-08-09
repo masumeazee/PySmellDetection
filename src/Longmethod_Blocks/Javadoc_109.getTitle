@@ -1,1 +1,0 @@
-String#getTitle#(#)#{##return#title#!=#null#?#title#.#getText#(#)#:#null#;#}

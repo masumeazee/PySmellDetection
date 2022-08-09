@@ -1,1 +1,0 @@
-Object#get#(#Object#key#)#{##return#getTypeClass#(#(#String#)#key#)#;#}

@@ -1,1 +1,0 @@
-void#setCreateEmptyFiles#(#boolean#createEmptyFiles#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#createEmptyFiles#=#(#(#createEmptyFiles#)#?#Boolean#.#TRUE#:#Boolean#.#FALSE#)#;#}

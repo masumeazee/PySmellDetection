@@ -1,1 +1,0 @@
-File#getClassFile#(#File#directory#)#{#String#pathToFile#=#qualifiedName#.#replace#(#'.'#,#File#.#separatorChar#)#+#".class"#;##return#new#File#(#directory#,#pathToFile#)#;#}

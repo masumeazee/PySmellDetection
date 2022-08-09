@@ -1,1 +1,0 @@
-Commandline#getActualVMCommand#(#)#{#Commandline#actualVMCommand#=#(#Commandline#)#vmCommand#.#clone#(#)#;##if#(#maxMemory#!=#null#)#{##if#(#vmVersion#.#startsWith#(#"1.1"#)#)#{#actualVMCommand#.#createArgument#(#)#.#setValue#(#"-mx"#+#maxMemory#)#;#}#else#{#actualVMCommand#.#createArgument#(#)#.#setValue#(#"-Xmx"#+#maxMemory#)#;#}#}##return#actualVMCommand#;#}

@@ -1,1 +1,0 @@
-void#setStrictargs#(#boolean#strictargs#)#{#this#.#strictargs#=#strictargs#;#}

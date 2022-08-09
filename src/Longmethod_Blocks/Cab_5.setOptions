@@ -1,1 +1,0 @@
-void#setOptions#(#String#options#)#{#cmdOptions#=#options#;#}

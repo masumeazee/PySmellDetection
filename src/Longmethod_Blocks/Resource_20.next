@@ -1,1 +1,0 @@
-Object#next#(#)#{##if#(#done#)#{#throw#new#NoSuchElementException#(#)#;#}##done#=#true#;##return#Resource#.#this#;#}

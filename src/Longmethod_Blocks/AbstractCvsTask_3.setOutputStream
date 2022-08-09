@@ -1,1 +1,0 @@
-void#setOutputStream#(#OutputStream#outputStream#)#{#this#.#outputStream#=#outputStream#;#}

@@ -1,1 +1,0 @@
-void#setEndTag#(#final#String#end#)#{#this#.#endTag#=#end#;#}

@@ -1,1 +1,0 @@
-String#msg#(#Throwable#error#,#boolean#verbose#)#{#StringBuffer#m#=#new#StringBuffer#(#)#;#DefaultLogger#.#throwableMessage#(#m#,#error#,#verbose#)#;##return#m#.#toString#(#)#.#replace#(#StringUtils#.#LINE_SEP#.#charAt#(#0#)#,#'\n'#)#;#}

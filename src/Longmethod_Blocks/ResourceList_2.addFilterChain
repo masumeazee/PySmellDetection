@@ -1,1 +1,0 @@
-void#addFilterChain#(#FilterChain#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##filterChains#.#add#(#filter#)#;#setChecked#(#false#)#;#}

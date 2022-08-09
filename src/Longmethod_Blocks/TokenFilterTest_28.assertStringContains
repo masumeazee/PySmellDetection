@@ -1,1 +1,0 @@
-void#assertStringContains#(#String#string#,#String#contains#)#{#assertTrue#(#"["#+#string#+#"] does not contain ["#+#contains#+#"]"#,#string#.#indexOf#(#contains#)#>#-#1#)#;#}

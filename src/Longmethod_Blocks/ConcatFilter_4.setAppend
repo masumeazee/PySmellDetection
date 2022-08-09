@@ -1,1 +1,0 @@
-void#setAppend#(#final#File#append#)#{#this#.#append#=#append#;#}

@@ -1,1 +1,0 @@
-void#setByLine#(#boolean#byLine#)#{#this#.#byLine#=#byLine#;#}

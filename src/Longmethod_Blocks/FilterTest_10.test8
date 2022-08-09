@@ -1,1 +1,0 @@
-void#test8#(#)#{#executeTarget#(#"test8"#)#;#assertEquals#(#"<%@ include file=\"root/some/include.jsp\"%>"#,#getFilteredFile#(#"8"#,#"taskdefs.tmp/filter2.txt"#)#)#;#}

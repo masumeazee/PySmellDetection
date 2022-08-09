@@ -1,1 +1,0 @@
-String#extractVariablePart#(#String#name#)#{##return#name#.#substring#(#prefixLength#,#name#.#length#(#)#-#postfixLength#)#;#}

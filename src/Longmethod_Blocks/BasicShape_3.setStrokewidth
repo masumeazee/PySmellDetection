@@ -1,1 +1,0 @@
-void#setStrokewidth#(#int#width#)#{#stroke_width#=#width#;#}

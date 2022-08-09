@@ -1,1 +1,0 @@
-void#setMergefiles#(#Path#mergefiles#)#{##if#(#this#.#mergefiles#==#null#)#{#this#.#mergefiles#=#mergefiles#;#}#else#{#this#.#mergefiles#.#append#(#mergefiles#)#;#}#}

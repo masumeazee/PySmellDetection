@@ -1,1 +1,0 @@
-void#setEltype#(#String#eltype#)#{#mEltype#=#eltype#;#}

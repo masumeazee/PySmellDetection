@@ -1,1 +1,0 @@
-void#zipFile#(#File#file#,#OutputStream#zOut#)#throws#IOException#{#zipResource#(#new#FileResource#(#file#)#,#zOut#)#;#}

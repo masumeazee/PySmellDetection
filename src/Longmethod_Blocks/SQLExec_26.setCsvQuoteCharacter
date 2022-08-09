@@ -1,1 +1,0 @@
-void#setCsvQuoteCharacter#(#String#s#)#{##if#(#s#!=#null#&&#s#.#length#(#)#>#1#)#{#throw#new#BuildException#(#"The quote character must be a single"#+#" character."#)#;#}##csvQuoteChar#=#s#;#}

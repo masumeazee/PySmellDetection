@@ -1,1 +1,0 @@
-String#getSosCommand#(#)#{##if#(#sosCmdDir#==#null#)#{##return#COMMAND_SOS_EXE#;#}#else#{##return#sosCmdDir#+#File#.#separator#+#COMMAND_SOS_EXE#;#}#}

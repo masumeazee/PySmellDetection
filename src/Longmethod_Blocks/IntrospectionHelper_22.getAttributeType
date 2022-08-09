@@ -1,1 +1,0 @@
-Class#getAttributeType#(#String#attributeName#)#throws#BuildException#{#Class#at#=#(#Class#)#attributeTypes#.#get#(#attributeName#)#;##if#(#at#==#null#)#{#throw#new#UnsupportedAttributeException#(#"Class "#+#bean#.#getName#(#)#+#" doesn't support the \""#+#attributeName#+#"\" attribute."#,#attributeName#)#;#}##return#at#;#}

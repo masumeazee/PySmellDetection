@@ -1,1 +1,0 @@
-void#put#(#Object#key#,#Object#value#)#{#log#(#".put("#+#key#+#", "#+#value#+#")"#)#;#saved#=#false#;#}

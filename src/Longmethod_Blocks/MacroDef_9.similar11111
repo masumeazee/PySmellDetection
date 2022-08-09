@@ -1,1 +1,0 @@
-boolean#similar#(#NestedSequential#other#)#{##if#(#nested#.#size#(#)#!=#other#.#nested#.#size#(#)#)#{##return#false#;#}##for#(#int#i#=#0#;##i#<#nested#.#size#(#)#;#++#i#)#{#UnknownElement#me#=#(#UnknownElement#)#nested#.#get#(#i#)#;#UnknownElement#o#=#(#UnknownElement#)#other#.#nested#.#get#(#i#)#;##if#(#!#me#.#similar#(#o#)#)#{##return#false#;#}#}##return#true#;#}

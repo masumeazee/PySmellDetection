@@ -1,1 +1,0 @@
-void#fireMessageLogged#(#Target#target#,#String#message#,#Throwable#throwable#,#int#priority#)#{#BuildEvent#event#=#new#BuildEvent#(#target#)#;#event#.#setException#(#throwable#)#;#fireMessageLoggedEvent#(#event#,#message#,#priority#)#;#}

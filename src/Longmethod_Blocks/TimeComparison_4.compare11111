@@ -1,1 +1,0 @@
-int#compare#(#long#t1#,#long#t2#)#{##return#compare#(#t1#,#t2#,#FILE_UTILS#.#getFileTimestampGranularity#(#)#)#;#}

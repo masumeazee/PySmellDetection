@@ -1,1 +1,0 @@
-String#toString#(#)#{#String#d#=#getDescription#(#)#;##return#d#==#null#?#getDataTypeName#(#)#:#getDataTypeName#(#)#+#" "#+#d#;#}

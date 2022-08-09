@@ -1,1 +1,0 @@
-boolean#isCompatibleWith#(#final#Specification#other#)#{##return#(#COMPATIBLE#==#getCompatibilityWith#(#other#)#)#;#}

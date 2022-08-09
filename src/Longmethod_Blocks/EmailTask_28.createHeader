@@ -1,1 +1,0 @@
-Header#createHeader#(#)#{#Header#h#=#new#Header#(#)#;#headers#.#add#(#h#)#;##return#h#;#}

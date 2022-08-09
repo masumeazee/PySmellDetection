@@ -1,1 +1,0 @@
-int#compare#(#long#t1#,#long#t2#,#long#g#)#{#long#diff#=#t1#-#t2#;#long#abs#=#Math#.#abs#(#diff#)#;##return#abs#>#Math#.#abs#(#g#)#?#(#int#)#(#diff#/#abs#)#:#0#;#}

@@ -1,1 +1,0 @@
-void#testOddLowAsciiURI#(#)#throws#Exception#{#assertResolves#(#"hash# and percent%"#)#;#}

@@ -1,1 +1,0 @@
-FTPFile#[#]#listFiles#(#String#directory#)#{##return#listFiles#(#directory#,#true#)#;#}

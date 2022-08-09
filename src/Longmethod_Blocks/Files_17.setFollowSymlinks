@@ -1,1 +1,0 @@
-void#setFollowSymlinks#(#boolean#followSymlinks#)#{#checkAttributesAllowed#(#)#;#this#.#followSymlinks#=#followSymlinks#;#ds#=#null#;#}

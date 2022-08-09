@@ -1,1 +1,0 @@
-Path#getClasspath#(#)#{##if#(#isReference#(#)#)#{##return#(#(#AbstractClasspathResource#)#getCheckedRef#(#)#)#.#getClasspath#(#)#;#}##dieOnCircularReference#(#)#;##return#classpath#;#}

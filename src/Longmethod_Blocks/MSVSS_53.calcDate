@@ -1,1 +1,0 @@
-String#calcDate#(#String#startDate#,#int#daysToAdd#)#throws#ParseException#{#Calendar#calendar#=#new#GregorianCalendar#(#)#;#Date#currentDate#=#dateFormat#.#parse#(#startDate#)#;#calendar#.#setTime#(#currentDate#)#;#calendar#.#add#(#Calendar#.#DATE#,#daysToAdd#)#;##return#dateFormat#.#format#(#calendar#.#getTime#(#)#)#;#}

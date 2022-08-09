@@ -1,1 +1,0 @@
-void#testIgnoreElementCase#(#)#{#expectLog#(#"ignore-element-case"#,#"nested elementnested element"#)#;#}

@@ -1,1 +1,0 @@
-void#addConfiguredExtension#(#final#ExtensionAdapter#extensionAdapter#)#throws#BuildException#{##if#(#null#!=#extension#)#{#throw#new#BuildException#(#"Can not have multiple extensions defined in one library."#)#;#}##extension#=#extensionAdapter#.#toExtension#(#)#;#}

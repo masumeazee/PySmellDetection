@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{##if#(#!#getInitialized#(#)#)#{#initialize#(#)#;#setInitialized#(#true#)#;#}##int#ch#=#in#.#read#(#)#;##while#(#ch#!=#-#1#)#{##if#(#lineBreaks#.#indexOf#(#ch#)#==#-#1#)#{#break#;#}#else#{#ch#=#in#.#read#(#)#;#}#}##return#ch#;#}

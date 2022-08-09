@@ -1,1 +1,0 @@
-void#close#(#)#throws#IOException#{#super#.#close#(#)#;#String#result#=#encoding#==#null#?#baos#.#toString#(#)#:#baos#.#toString#(#encoding#)#;#StringResource#.#this#.#setValueFromOutputStream#(#result#)#;#}

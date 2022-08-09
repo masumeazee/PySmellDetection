@@ -1,1 +1,0 @@
-int#run#(#Commandline#cmd#)#{##return#run#(#cmd#,#new#LogStreamHandler#(#this#,#Project#.#MSG_VERBOSE#,#Project#.#MSG_WARN#)#)#;#}

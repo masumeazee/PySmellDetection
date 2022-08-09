@@ -1,1 +1,0 @@
-void#write#(#byte#[#]#b#,#int#off#,#int#len#)#throws#IOException#{#synchronized#(#OutputStreamFunneler#.#this#)#{#dieIfClosed#(#)#;#out#.#write#(#b#,#off#,#len#)#;#}#}

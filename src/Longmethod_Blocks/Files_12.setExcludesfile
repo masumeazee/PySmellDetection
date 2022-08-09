@@ -1,1 +1,0 @@
-void#setExcludesfile#(#File#excl#)#throws#BuildException#{#checkAttributesAllowed#(#)#;#defaultPatterns#.#setExcludesfile#(#excl#)#;#ds#=#null#;#}

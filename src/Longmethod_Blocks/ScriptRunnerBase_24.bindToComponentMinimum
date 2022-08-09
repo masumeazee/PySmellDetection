@@ -1,1 +1,0 @@
-void#bindToComponentMinimum#(#ProjectComponent#component#)#{#project#=#component#.#getProject#(#)#;#addBean#(#"project"#,#project#)#;#addBean#(#"self"#,#component#)#;#}

@@ -1,1 +1,0 @@
-boolean#isExists#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#isExists#(#)#;#}##dieOnCircularReference#(#)#;#InputStream#is#=#null#;##try#{#is#=#getInputStream#(#)#;##return#is#!=#null#;#}##catch#(#IOException#ex#)#{##return#false#;#}##finally#{#FileUtils#.#close#(#is#)#;#}#}

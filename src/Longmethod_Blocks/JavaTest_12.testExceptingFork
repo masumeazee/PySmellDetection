@@ -1,1 +1,0 @@
-void#testExceptingFork#(#)#{#expectLogContaining#(#"testExceptingFork"#,#"Java Result:"#)#;#}

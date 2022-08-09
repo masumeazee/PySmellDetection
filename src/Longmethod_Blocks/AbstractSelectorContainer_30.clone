@@ -1,1 +1,0 @@
-Object#clone#(#)#{##if#(#isReference#(#)#)#{##return#(#(#AbstractSelectorContainer#)#getCheckedRef#(#)#)#.#clone#(#)#;#}##try#{#AbstractSelectorContainer#sc#=#(#AbstractSelectorContainer#)#super#.#clone#(#)#;#sc#.#selectorsList#=#new#Vector#(#selectorsList#)#;##return#sc#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

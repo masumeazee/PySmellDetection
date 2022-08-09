@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{##if#(#rc#==#null#)#{##return#;#}##if#(#rcs#==#null#)#{#rcs#=#new#Resources#(#)#;#rcs#.#setCache#(#true#)#;#}##rcs#.#add#(#rc#)#;#}

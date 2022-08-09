@@ -1,1 +1,0 @@
-void#verifyBorlandJar#(#File#sourceJar#)#{##if#(#version#==#BAS#)#{#verifyBorlandJarV4#(#sourceJar#)#;##return#;#}##if#(#version#==#BES#)#{#verifyBorlandJarV5#(#sourceJar#)#;##return#;#}##log#(#"verify jar skipped because the version is invalid ["#+#version#+#"]"#,#Project#.#MSG_WARN#)#;#}

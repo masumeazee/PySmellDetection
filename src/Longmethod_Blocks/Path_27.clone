@@ -1,1 +1,0 @@
-Object#clone#(#)#{#try#{#Path#result#=#(#Path#)#super#.#clone#(#)#;#result#.#union#=#union#==#null#?#union#:#(#Union#)#union#.#clone#(#)#;##return#result#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

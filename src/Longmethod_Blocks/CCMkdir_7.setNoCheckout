@@ -1,1 +1,0 @@
-void#setNoCheckout#(#boolean#co#)#{#mNoco#=#co#;#}

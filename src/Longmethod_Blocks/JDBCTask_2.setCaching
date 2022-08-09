@@ -1,1 +1,0 @@
-void#setCaching#(#boolean#enable#)#{#caching#=#enable#;#}

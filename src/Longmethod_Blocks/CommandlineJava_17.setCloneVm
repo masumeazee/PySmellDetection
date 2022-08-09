@@ -1,1 +1,0 @@
-void#setCloneVm#(#boolean#cloneVm#)#{#this#.#cloneVm#=#cloneVm#;#}

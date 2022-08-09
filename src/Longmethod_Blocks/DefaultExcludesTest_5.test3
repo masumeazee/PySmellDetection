@@ -1,1 +1,0 @@
-void#test3#(#)#{#String#[#]#expected#=#{#"**/*~"#,#"**/#*#"#,#"**/.#*"#,#"**/%*%"#,#"**/._*"#,##//CVS missing#"**/CVS/**"#,#"**/.cvsignore"#,#"**/SCCS"#,#"**/SCCS/**"#,#"**/vssver.scc"#,#"**/.svn"#,#"**/.svn/**"#,#"**/.DS_Store"#}#;#project#.#executeTarget#(#"test3"#)#;#assertEquals#(#"current default excludes"#,#expected#,#DirectoryScanner#.#getDefaultExcludes#(#)#)#;#}

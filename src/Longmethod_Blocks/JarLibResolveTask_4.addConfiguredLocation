@@ -1,1 +1,0 @@
-void#addConfiguredLocation#(#final#LocationResolver#loc#)#{#resolvers#.#add#(#loc#)#;#}

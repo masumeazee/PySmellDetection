@@ -1,1 +1,0 @@
-boolean#isFilesystemOnly#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Path#)#getCheckedRef#(#)#)#.#isFilesystemOnly#(#)#;#}##dieOnCircularReference#(#)#;#assertFilesystemOnly#(#union#)#;##return#true#;#}

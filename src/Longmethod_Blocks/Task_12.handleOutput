@@ -1,1 +1,0 @@
-void#handleOutput#(#String#output#)#{#log#(#output#,#Project#.#MSG_INFO#)#;#}

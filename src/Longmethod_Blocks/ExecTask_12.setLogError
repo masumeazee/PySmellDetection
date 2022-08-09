@@ -1,1 +1,0 @@
-void#setLogError#(#boolean#logError#)#{#redirector#.#setLogError#(#logError#)#;#incompatibleWithSpawn#|=#logError#;#}

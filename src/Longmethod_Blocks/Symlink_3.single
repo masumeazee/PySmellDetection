@@ -1,1 +1,0 @@
-void#single#(#)#throws#BuildException#{#try#{##if#(#resource#==#null#)#{#handleError#(#"Must define the resource to symlink to!"#)#;##return#;#}##if#(#link#==#null#)#{#handleError#(#"Must define the link name for symlink!"#)#;##return#;#}##doLink#(#resource#,#link#)#;#}##finally#{#setDefaults#(#)#;#}#}

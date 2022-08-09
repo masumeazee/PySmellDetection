@@ -1,1 +1,0 @@
-void#setNegate#(#boolean#negated#)#{#this#.#negated#=#negated#;#}

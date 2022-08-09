@@ -1,1 +1,0 @@
-void#setShouldDestroy#(#boolean#shouldDestroy#)#{#this#.#shouldDestroy#=#shouldDestroy#;#}

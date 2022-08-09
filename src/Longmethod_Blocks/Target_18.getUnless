@@ -1,1 +1,0 @@
-String#getUnless#(#)#{##return#""#.#equals#(#unlessCondition#)#?#null#:#unlessCondition#;#}

@@ -1,1 +1,0 @@
-void#addMajority#(#MajoritySelector#selector#)#{#usedMatchingTask#=#true#;#super#.#addMajority#(#selector#)#;#}

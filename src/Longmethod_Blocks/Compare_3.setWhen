@@ -1,1 +1,0 @@
-void#setWhen#(#Comparison#when#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#when#=#when#;#}

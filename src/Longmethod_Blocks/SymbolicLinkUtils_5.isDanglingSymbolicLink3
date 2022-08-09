@@ -1,1 +1,0 @@
-boolean#isDanglingSymbolicLink#(#String#name#)#throws#IOException#{##return#isDanglingSymbolicLink#(#new#File#(#name#)#)#;#}

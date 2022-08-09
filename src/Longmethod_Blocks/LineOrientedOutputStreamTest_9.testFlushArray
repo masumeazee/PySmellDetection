@@ -1,1 +1,0 @@
-void#testFlushArray#(#)#throws#IOException#{#writeByteArray#(#)#;#stream#.#flush#(#)#;#stream#.#assertInvoked#(#)#;#}

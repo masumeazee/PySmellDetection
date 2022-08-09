@@ -1,1 +1,0 @@
-void#initScriptRunner#(#)#{##if#(#runner#!=#null#)#{##return#;#}##helper#.#setProjectComponent#(#this#)#;#runner#=#helper#.#getScriptRunner#(#)#;#}

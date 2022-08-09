@@ -1,1 +1,0 @@
-void#addConfiguredCommandline#(#Commandline#c#,#boolean#insertAtStart#)#{##if#(#c#==#null#)#{##return#;#}##this#.#configureCommandline#(#c#)#;##if#(#insertAtStart#)#{#vecCommandlines#.#insertElementAt#(#c#,#0#)#;#}#else#{#vecCommandlines#.#addElement#(#c#)#;#}#}

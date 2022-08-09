@@ -1,1 +1,0 @@
-void#setUp#(#)#{#project#=#new#Project#(#)#;#project#.#init#(#)#;#project#.#setUserProperty#(#"basedir"#,#basedir#.#getAbsolutePath#(#)#)#;#}

@@ -1,1 +1,0 @@
-String#[#]#getValues#(#)#{#return#new#String#[#]#{#"error"#,#"warn"#,#"warning"#,#"info"#,#"verbose"#,#"debug"#}#;#}##int#getLevel#(#)#{#return#levels#[#getIndex#(#)#]#;#}##

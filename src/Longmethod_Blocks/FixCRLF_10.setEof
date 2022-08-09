@@ -1,1 +1,0 @@
-void#setEof#(#AddAsisRemove#attr#)#{#filter#.#setEof#(#FixCrLfFilter#.#AddAsisRemove#.#newInstance#(#attr#.#getValue#(#)#)#)#;#}

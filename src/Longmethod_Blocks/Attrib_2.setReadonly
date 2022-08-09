@@ -1,1 +1,0 @@
-void#setReadonly#(#boolean#value#)#{#addArg#(#value#,#ATTR_READONLY#)#;#}

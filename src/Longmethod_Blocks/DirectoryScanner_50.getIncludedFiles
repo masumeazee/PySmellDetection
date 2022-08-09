@@ -1,1 +1,0 @@
-String#[#]#getIncludedFiles#(#)#{#String#[#]#files#;##synchronized#(#this#)#{##if#(#filesIncluded#==#null#)#{#throw#new#IllegalStateException#(#"Must call scan() first"#)#;#}##files#=#new#String#[#filesIncluded#.#size#(#)#]#;#filesIncluded#.#copyInto#(#files#)#;#}##Arrays#.#sort#(#files#)#;##return#files#;#}

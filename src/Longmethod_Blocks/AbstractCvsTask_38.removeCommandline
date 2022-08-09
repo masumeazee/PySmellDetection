@@ -1,1 +1,0 @@
-void#removeCommandline#(#Commandline#c#)#{#vecCommandlines#.#removeElement#(#c#)#;#}

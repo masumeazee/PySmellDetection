@@ -1,1 +1,0 @@
-void#testUncompressSource#(#)#throws#java#.#io#.#IOException#{#executeTarget#(#"uncompressSource"#)#;#assertTrue#(#FU#.#contentEquals#(#project#.#resolveFile#(#"../../asf-logo.gif"#)#,#project#.#resolveFile#(#"testout/asf-logo.gif"#)#)#)#;#}

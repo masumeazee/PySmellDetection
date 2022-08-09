@@ -1,1 +1,0 @@
-void#testLogInputString#(#)#{#executeTarget#(#"testLogInputString"#)#;##if#(#super#.#getLog#(#)#.#indexOf#(#"testLogInputString can-cat"#)#>=#0#)#{#assertDebuglogContaining#(#"Using input string"#)#;#}#}

@@ -1,1 +1,0 @@
-void#testWithEmptyPrefixAndRegex#(#)#throws#Exception#{#expectLogContaining#(#"testEchoWithEmptyPrefixToLog"#,#"test.property="#+#TEST_VALUE#)#;#}

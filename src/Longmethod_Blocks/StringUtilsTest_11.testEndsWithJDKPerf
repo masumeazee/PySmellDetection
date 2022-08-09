@@ -1,1 +1,0 @@
-void#testEndsWithJDKPerf#(#)#{#StringBuffer#buf#=#getFilledBuffer#(#1024#*#300#,#'a'#)#;##for#(#int#i#=#0#;##i#<#1000#;#i#++#)#{#assertTrue#(#buf#.#toString#(#)#.#endsWith#(#"aa"#)#)#;#}#}

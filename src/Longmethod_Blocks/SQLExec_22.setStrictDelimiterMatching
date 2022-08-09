@@ -1,1 +1,0 @@
-void#setStrictDelimiterMatching#(#boolean#b#)#{#strictDelimiterMatching#=#b#;#}

@@ -1,1 +1,0 @@
-Argument#createArgument#(#boolean#insertAtStart#)#{#Argument#argument#=#new#Argument#(#)#;##if#(#insertAtStart#)#{#arguments#.#insertElementAt#(#argument#,#0#)#;#}#else#{#arguments#.#addElement#(#argument#)#;#}##return#argument#;#}

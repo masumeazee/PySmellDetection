@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{##if#(#rc#==#null#)#{##return#;#}##resources#=#(#resources#==#null#)#?#new#FileUnion#(#)#:#resources#;#resources#.#add#(#rc#)#;#}

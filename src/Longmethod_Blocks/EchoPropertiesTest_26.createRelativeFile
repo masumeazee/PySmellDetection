@@ -1,1 +1,0 @@
-File#createRelativeFile#(#String#filename#)#{##if#(#filename#.#equals#(#"."#)#)#{##return#getProjectDir#(#)#;#}##// else##return#new#File#(#getProjectDir#(#)#,#filename#)#;#}

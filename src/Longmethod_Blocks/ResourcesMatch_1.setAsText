@@ -1,1 +1,0 @@
-void#setAsText#(#boolean#asText#)#{#this#.#asText#=#asText#;#}

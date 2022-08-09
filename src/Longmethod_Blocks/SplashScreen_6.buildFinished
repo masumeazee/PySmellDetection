@@ -1,1 +1,0 @@
-void#buildFinished#(#BuildEvent#event#)#{#pb#.#setValue#(#MAX#)#;#setVisible#(#false#)#;#dispose#(#)#;#}

@@ -1,1 +1,0 @@
-boolean#is272#(#)#{#AntClassLoader#l#=#null#;##try#{#l#=#getProject#(#)#.#createClassLoader#(#commandline#.#getClasspath#(#)#)#;#l#.#loadClass#(#"antlr.Version"#)#;##return#true#;#}##catch#(#ClassNotFoundException#e#)#{##return#false#;#}##finally#{##if#(#l#!=#null#)#{#l#.#cleanup#(#)#;#}#}#}

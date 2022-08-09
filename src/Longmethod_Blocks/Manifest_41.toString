@@ -1,1 +1,0 @@
-String#toString#(#)#{#StringWriter#sw#=#new#StringWriter#(#)#;##try#{#write#(#new#PrintWriter#(#sw#)#)#;#}##catch#(#IOException#e#)#{##return#null#;#}##return#sw#.#toString#(#)#;#}

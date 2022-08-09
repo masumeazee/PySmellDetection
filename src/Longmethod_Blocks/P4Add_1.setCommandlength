@@ -1,1 +1,0 @@
-void#setCommandlength#(#int#len#)#throws#BuildException#{##if#(#len#<=#0#)#{#throw#new#BuildException#(#"P4Add: Commandlength should be a positive number"#)#;#}##this#.#cmdLength#=#len#;#}

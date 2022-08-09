@@ -1,1 +1,0 @@
-void#verifySettings#(#)#{##if#(#size#<#0#)#{#setError#(#"The value attribute is required, and must be positive"#)#;#}#else##if#(#multiplier#<#1#)#{#setError#(#"Invalid Units supplied, must be K,Ki,M,Mi,G,Gi,T,or Ti"#)#;#}#else##if#(#sizelimit#<#0#)#{#setError#(#"Internal error: Code is not setting sizelimit correctly"#)#;#}#}

@@ -1,1 +1,0 @@
-void#testWrongClass#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testWrongClass"#,#"class not an RMIC adapter"#,#RmicAdapterFactory#.#ERROR_NOT_RMIC_ADAPTER#)#;#}

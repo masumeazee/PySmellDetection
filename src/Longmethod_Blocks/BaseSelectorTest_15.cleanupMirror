@@ -1,1 +1,0 @@
-void#cleanupMirror#(#)#{##if#(#tbed#!=#null#)#{#tbed#.#deleteMirror#(#)#;#tbed#=#null#;#}#}

@@ -1,1 +1,0 @@
-void#setProperty#(#Project#project#,#String#name#,#Object#value#)#{#PropertyHelper#.#getPropertyHelper#(#project#)#.#setProperty#(#name#,#value#,#true#)#;#}

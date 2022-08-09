@@ -1,1 +1,0 @@
-void#setClasspathref#(#Reference#r#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##createClasspath#(#)#.#setRefid#(#r#)#;#}

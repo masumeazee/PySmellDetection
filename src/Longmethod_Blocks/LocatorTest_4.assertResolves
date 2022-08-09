@@ -1,1 +1,0 @@
-String#assertResolves#(#String#path#)#{#String#asuri#=#new#File#(#path#)#.#toURI#(#)#.#toASCIIString#(#)#;#String#fullpath#=#System#.#getProperty#(#"user.dir"#)#+#File#.#separator#+#path#;#String#result#=#resolveTo#(#asuri#,#fullpath#,#fullpath#)#;##return#result#.#substring#(#result#.#lastIndexOf#(#File#.#separatorChar#)#+#1#)#;#}

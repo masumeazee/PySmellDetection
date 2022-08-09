@@ -1,1 +1,0 @@
-ClassLoader#generateClassLoader#(#)#{##if#(#scriptLoader#!=#null#)#{##return#scriptLoader#;#}##if#(#cpDelegate#==#null#)#{#scriptLoader#=#getClass#(#)#.#getClassLoader#(#)#;##return#scriptLoader#;#}##scriptLoader#=#cpDelegate#.#getClassLoader#(#)#;##return#scriptLoader#;#}

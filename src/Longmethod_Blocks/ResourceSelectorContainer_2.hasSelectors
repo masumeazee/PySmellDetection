@@ -1,1 +1,0 @@
-boolean#hasSelectors#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceSelectorContainer#)#getCheckedRef#(#)#)#.#hasSelectors#(#)#;#}##dieOnCircularReference#(#)#;##return#!#v#.#isEmpty#(#)#;#}

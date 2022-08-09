@@ -1,1 +1,0 @@
-String#getName#(#)#{#String#name#=#getResource#(#)#.#getName#(#)#;##if#(#isReference#(#)#)#{##return#name#;#}##String#[#]#mapped#=#mapper#.#mapFileName#(#name#)#;##return#mapped#!=#null#&&#mapped#.#length#>#0#?#mapped#[#0#]#:#null#;#}

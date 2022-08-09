@@ -1,1 +1,0 @@
-void#setFile#(#File#f#)#{#try#{#setURL#(#FILE_UTILS#.#getFileURL#(#f#)#)#;#}##catch#(#MalformedURLException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

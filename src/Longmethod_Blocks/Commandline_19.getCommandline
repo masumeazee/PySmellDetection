@@ -1,1 +1,0 @@
-String#[#]#getCommandline#(#)#{#List#commands#=#new#LinkedList#(#)#;#ListIterator#list#=#commands#.#listIterator#(#)#;#addCommandToList#(#list#)#;#final#String#[#]#result#=#new#String#[#commands#.#size#(#)#]#;##return#(#String#[#]#)#commands#.#toArray#(#result#)#;#}

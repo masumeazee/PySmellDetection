@@ -1,1 +1,0 @@
-void#checkArchiveAttributesAllowed#(#)#{##if#(#getProject#(#)#==#null#||#(#isReference#(#)#&&#(#getRefid#(#)#.#getReferencedObject#(#getProject#(#)#)#instanceof#ArchiveFileSet#)#)#)#{#checkAttributesAllowed#(#)#;#}#}

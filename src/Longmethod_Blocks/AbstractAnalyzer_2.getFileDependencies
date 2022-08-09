@@ -1,1 +1,0 @@
-Enumeration#getFileDependencies#(#)#{##if#(#!#supportsFileDependencies#(#)#)#{#throw#new#RuntimeException#(#"File dependencies are not supported "#+#"by this analyzer"#)#;#}##if#(#!#determined#)#{#determineDependencies#(#fileDependencies#,#classDependencies#)#;#}##return#fileDependencies#.#elements#(#)#;#}

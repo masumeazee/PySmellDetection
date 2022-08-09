@@ -1,1 +1,0 @@
-void#setErrorEncoding#(#String#errorEncoding#)#{##if#(#errorEncoding#==#null#)#{#throw#new#IllegalArgumentException#(#"errorEncoding must not be null"#)#;#}##synchronized#(#errMutex#)#{#this#.#errorEncoding#=#errorEncoding#;#}#}

@@ -1,1 +1,0 @@
-void#assertPrint#(#String#line#,#String#from#,#String#to#)#{#String#search#=#from#+#" print to System."#+#to#;#assertEquals#(#search#,#line#)#;#}

@@ -1,1 +1,0 @@
-IdentityStack#getInstance#(#Stack#s#)#{##if#(#s#instanceof#IdentityStack#)#{##return#(#IdentityStack#)#s#;#}##IdentityStack#result#=#new#IdentityStack#(#)#;##if#(#s#!=#null#)#{#result#.#addAll#(#s#)#;#}##return#result#;#}

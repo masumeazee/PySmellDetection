@@ -1,1 +1,0 @@
-String#[#]#mapFileName#(#String#sourceFileName#)#{#initScriptRunner#(#)#;#getRunner#(#)#.#addBean#(#"source"#,#sourceFileName#)#;#clear#(#)#;#executeScript#(#"ant_mapper"#)#;##if#(#files#.#size#(#)#==#0#)#{##return#null#;#}#else#{##return#(#String#[#]#)#files#.#toArray#(#EMPTY_STRING_ARRAY#)#;#}#}

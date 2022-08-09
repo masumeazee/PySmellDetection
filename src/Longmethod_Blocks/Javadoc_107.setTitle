@@ -1,1 +1,0 @@
-void#setTitle#(#String#src#)#{#Html#h#=#new#Html#(#)#;#h#.#addText#(#src#)#;#addTitle#(#h#)#;#}

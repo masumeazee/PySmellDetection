@@ -1,1 +1,0 @@
-void#assertAttribute#(#File#file#,#String#attributeName#)#{##if#(#file#==#null#)#{#throw#new#BuildException#(#"Required attribute "#+#attributeName#+#" not set"#)#;#}#}

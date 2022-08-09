@@ -1,1 +1,0 @@
-void#setNewenvironment#(#boolean#newenv#)#{#newEnvironment#=#newenv#;#}

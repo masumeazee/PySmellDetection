@@ -1,1 +1,0 @@
-void#setOutput#(#String#out#)#{#this#.#out#=#out#;#}

@@ -1,1 +1,0 @@
-void#setAngle#(#String#ang#)#{#angle#=#Float#.#parseFloat#(#ang#)#;#}

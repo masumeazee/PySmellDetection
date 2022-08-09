@@ -1,1 +1,0 @@
-boolean#setNew#(#String#property#,#Object#value#,#PropertyHelper#propertyHelper#)#{#Map#map#=#getMapForProperty#(#property#)#;##if#(#map#==#null#)#{##return#false#;#}##Object#currValue#=#map#.#get#(#property#)#;##if#(#currValue#==#NullReturn#.#NULL#)#{#map#.#put#(#property#,#value#)#;#}##return#true#;#}

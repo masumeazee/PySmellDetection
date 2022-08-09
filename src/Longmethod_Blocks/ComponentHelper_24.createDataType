@@ -1,1 +1,0 @@
-Object#createDataType#(#String#typeName#)#throws#BuildException#{##return#createComponent#(#typeName#)#;#}

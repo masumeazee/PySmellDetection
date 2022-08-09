@@ -1,1 +1,0 @@
-void#setCheckEvery#(#long#time#)#{#checkEvery#=#time#;#}

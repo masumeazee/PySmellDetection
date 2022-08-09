@@ -1,1 +1,0 @@
-void#testStyleIsSet#(#)#throws#Exception#{#expectSpecificBuildException#(#"testStyleIsSet"#,#"no stylesheet specified"#,#"specify the "#+#"stylesheet either as a filename in style "#+#"attribute or as a nested resource"#)#;#}

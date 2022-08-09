@@ -1,1 +1,0 @@
-BorlandDeploymentTool#createBorland#(#)#{#log#(#"Borland deployment tools"#,#Project#.#MSG_VERBOSE#)#;#BorlandDeploymentTool#tool#=#new#BorlandDeploymentTool#(#)#;#tool#.#setTask#(#this#)#;#deploymentTools#.#add#(#tool#)#;##return#tool#;#}

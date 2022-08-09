@@ -1,1 +1,0 @@
-String#resolveTo#(#String#uri#,#String#expectedUnix#,#String#expectedDos#)#{#String#result#=#Locator#.#fromURI#(#uri#)#;#assertResolved#(#uri#,#expectedUnix#,#result#,#unix#)#;#assertResolved#(#uri#,#expectedDos#,#result#,#windows#)#;##return#result#;#}

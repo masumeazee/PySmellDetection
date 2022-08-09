@@ -1,1 +1,0 @@
-void#createClassFooter#(#)#throws#IOException#{#writer#.#write#(#"}"#)#;#writer#.#newLine#(#)#;#}

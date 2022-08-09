@@ -1,1 +1,0 @@
-void#appendText#(#Element#parent#,#String#content#)#{#Document#doc#=#parent#.#getOwnerDocument#(#)#;#Text#t#=#doc#.#createTextNode#(#content#)#;#parent#.#appendChild#(#t#)#;#}

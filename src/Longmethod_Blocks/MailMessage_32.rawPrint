@@ -1,1 +1,0 @@
-void#rawPrint#(#String#s#)#{#int#len#=#s#.#length#(#)#;##for#(#int#i#=#0#;##i#<#len#;#i#++#)#{#rawWrite#(#s#.#charAt#(#i#)#)#;#}#}

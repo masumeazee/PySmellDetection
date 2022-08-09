@@ -1,1 +1,0 @@
-String#getOpType#(#)#{##if#(#getPname#(#)#!=#null#)#{##return#getPname#(#)#;#}#else#{##return#getObjSelect#(#)#;#}#}

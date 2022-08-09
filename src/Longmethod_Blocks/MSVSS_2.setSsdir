@@ -1,1 +1,0 @@
-void#setSsdir#(#String#dir#)#{#this#.#ssDir#=#FileUtils#.#translatePath#(#dir#)#;#}

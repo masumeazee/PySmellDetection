@@ -1,1 +1,0 @@
-void#testNoClassname#(#)#{#expectBuildException#(#"noClassname"#,#"required argument not specified"#)#;#}

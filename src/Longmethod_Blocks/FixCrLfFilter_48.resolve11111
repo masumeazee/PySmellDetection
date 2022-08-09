@@ -1,1 +1,0 @@
-CrLf#resolve#(#)#{##if#(#this#.#equals#(#ASIS#)#)#{##return#ASIS#;#}##if#(#this#.#equals#(#CR#)#||#this#.#equals#(#MAC#)#)#{##return#CR#;#}##if#(#this#.#equals#(#CRLF#)#||#this#.#equals#(#DOS#)#)#{##return#CRLF#;#}##if#(#this#.#equals#(#LF#)#||#this#.#equals#(#UNIX#)#)#{##return#LF#;#}##throw#new#IllegalStateException#(#"No replacement for "#+#this#)#;#}

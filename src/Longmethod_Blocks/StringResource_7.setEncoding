@@ -1,1 +1,0 @@
-void#setEncoding#(#String#s#)#{#checkAttributesAllowed#(#)#;#encoding#=#s#;#}

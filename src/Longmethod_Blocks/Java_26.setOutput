@@ -1,1 +1,0 @@
-void#setOutput#(#File#out#)#{#this#.#output#=#out#;#incompatibleWithSpawn#=#true#;#}

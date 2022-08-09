@@ -1,1 +1,0 @@
-boolean#isFileFileSet#(#ResourceCollection#rc#)#{##return#rc#instanceof#FileSet#&&#rc#.#isFilesystemOnly#(#)#;#}

@@ -1,1 +1,0 @@
-void#setMode#(#String#octalString#)#{#setFileMode#(#octalString#)#;#}

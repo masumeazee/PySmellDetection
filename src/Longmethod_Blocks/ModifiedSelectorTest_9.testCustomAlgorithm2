@@ -1,1 +1,0 @@
-void#testCustomAlgorithm2#(#)#{#String#algo#=#getAlgoName#(#"org.apache.tools.ant.types.selectors.MockAlgorithm"#)#;#assertTrue#(#"Wrong algorithm used: "#+#algo#,#algo#.#startsWith#(#"MockAlgorithm"#)#)#;#}

@@ -1,1 +1,0 @@
-void#addConfiguredAttribute#(#final#ExtraAttribute#attribute#)#{#extraAttributes#.#add#(#attribute#)#;#}

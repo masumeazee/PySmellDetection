@@ -1,1 +1,0 @@
-void#addDaemons#(#TaskList#daemonTasks#)#{##if#(#this#.#daemonTasks#!=#null#)#{#throw#new#BuildException#(#"Only one daemon group is supported"#)#;#}##this#.#daemonTasks#=#daemonTasks#;#}

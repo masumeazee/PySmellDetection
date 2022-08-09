@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#TEST_BUILD_FILE#)#;#}##void#tearDown#(#)#{#executeTarget#(#"clean"#)#;#}##void#testLibRefs#(#)#{#executeTarget#(#"testlibrefs"#)#;#File#f#=#getProject#(#)#.#resolveFile#(#"working/WEB-INF/lib/war.xml"#)#;#assertTrue#(#"File has been put into lib"#,#f#.#exists#(#)#)#;#}##

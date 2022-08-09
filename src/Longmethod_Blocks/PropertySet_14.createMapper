@@ -1,1 +1,0 @@
-Mapper#createMapper#(#)#{#assertNotReference#(#)#;##if#(#mapper#!=#null#)#{#throw#new#BuildException#(#"Too many <mapper>s!"#)#;#}##mapper#=#new#Mapper#(#getProject#(#)#)#;#setChecked#(#false#)#;##return#mapper#;#}

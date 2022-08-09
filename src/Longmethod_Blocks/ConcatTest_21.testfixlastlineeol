@@ -1,1 +1,0 @@
-void#testfixlastlineeol#(#)#throws#IOException#{#expectFileContains#(#"testfixlastlineeol"#,#"concat.linecr"#,#"end of line\rThis has"#)#;#}

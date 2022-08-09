@@ -1,5 +1,0 @@
-void#checkConfiguration#(#String#descriptorFileName#,#SAXParser#saxParser#)#throws#BuildException#{##/*
-         * For the GenericDeploymentTool, do nothing.  Vendor specific
-         * subclasses should throw a BuildException if the configuration is
-         * invalid for their server.
-         */#}

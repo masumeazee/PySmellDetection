@@ -1,1 +1,0 @@
-ResourceCollection#createControl#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#control#!=#null#)#{#throw#oneControl#(#)#;#}##control#=#new#Union#(#)#;#setChecked#(#false#)#;##return#control#;#}

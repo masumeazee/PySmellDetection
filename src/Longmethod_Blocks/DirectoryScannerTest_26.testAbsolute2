@@ -1,1 +1,0 @@
-void#testAbsolute2#(#)#{#getProject#(#)#.#executeTarget#(#"setup"#)#;#DirectoryScanner#ds#=#new#DirectoryScanner#(#)#;#ds#.#setIncludes#(#new#String#[#]#{#"alpha/**"#,#"alpha/beta/gamma/**"#}#)#;#ds#.#scan#(#)#;#String#[#]#mt#=#new#String#[#0#]#;#compareFiles#(#ds#,#mt#,#mt#)#;#}

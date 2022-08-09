@@ -1,1 +1,0 @@
-boolean#matches#(#String#argument#)#throws#BuildException#{##return#matches#(#argument#,#MATCH_DEFAULT#)#;#}

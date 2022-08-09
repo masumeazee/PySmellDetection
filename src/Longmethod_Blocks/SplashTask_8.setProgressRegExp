@@ -1,1 +1,0 @@
-void#setProgressRegExp#(#String#progressRegExp#)#{#this#.#progressRegExp#=#progressRegExp#;#}

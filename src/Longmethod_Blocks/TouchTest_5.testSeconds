@@ -1,1 +1,0 @@
-void#testSeconds#(#)#{#executeTarget#(#"seconds"#)#;#long#time#=#getTargetTime#(#)#;#}

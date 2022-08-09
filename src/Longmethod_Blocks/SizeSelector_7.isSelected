@@ -1,1 +1,0 @@
-boolean#isSelected#(#File#basedir#,#String#filename#,#File#file#)#{##// throw BuildException on error#validate#(#)#;##// Directory size never selected for##if#(#file#.#isDirectory#(#)#)#{##return#true#;#}##long#diff#=#file#.#length#(#)#-#sizelimit#;##return#when#.#evaluate#(#diff#==#0#?#0#:#(#int#)#(#diff#/#Math#.#abs#(#diff#)#)#)#;#}

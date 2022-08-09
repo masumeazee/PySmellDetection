@@ -1,1 +1,0 @@
-void#setSigalg#(#final#String#sigalg#)#{#this#.#sigalg#=#sigalg#;#}

@@ -1,1 +1,0 @@
-NestedSequential#createSequential#(#)#{##if#(#this#.#nestedSequential#!=#null#)#{#throw#new#BuildException#(#"Only one sequential allowed"#)#;#}##this#.#nestedSequential#=#new#NestedSequential#(#)#;##return#this#.#nestedSequential#;#}

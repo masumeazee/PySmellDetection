@@ -1,1 +1,0 @@
-void#writeByteArray#(#)#throws#IOException#{#stream#.#write#(#LINE#.#getBytes#(#)#,#0#,#LINE#.#length#(#)#)#;#}

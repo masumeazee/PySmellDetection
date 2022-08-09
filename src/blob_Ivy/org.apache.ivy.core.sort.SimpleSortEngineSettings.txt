@@ -1,1 +1,0 @@
-CircularDependencyStrategy#getCircularDependencyStrategy#(#)#{#return#circularStrategy#;#}##VersionMatcher#getVersionMatcher#(#)#{#return#versionMatcher#;#}##void#setCircularDependencyStrategy#(#CircularDependencyStrategy#strategy#)#{#circularStrategy#=#strategy#;#}##void#setVersionMatcher#(#VersionMatcher#matcher#)#{#versionMatcher#=#matcher#;#}##

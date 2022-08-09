@@ -1,1 +1,0 @@
-void#checkRevoked#(#java#.#security#.#Permission#perm#)#{#for#(#Iterator#i#=#revokedPermissions#.#listIterator#(#)#;##i#.#hasNext#(#)#;#)#{##if#(#(#(#Permissions#.#Permission#)#i#.#next#(#)#)#.#matches#(#perm#)#)#{#throw#new#SecurityException#(#"Permission "#+#perm#+#" was revoked."#)#;#}#}#}

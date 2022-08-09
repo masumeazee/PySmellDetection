@@ -1,1 +1,0 @@
-void#setErrorPrintStream#(#PrintStream#err#)#{#this#.#err#=#new#PrintStream#(#err#,#true#)#;#}

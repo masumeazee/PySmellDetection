@@ -1,1 +1,0 @@
-void#setLocalFileDataData#(#byte#[#]#data#)#{#localData#=#copy#(#data#)#;#}

@@ -1,1 +1,0 @@
-void#assertLogContaining#(#String#substring#)#{#String#realLog#=#getLog#(#)#;#assertTrue#(#"expecting log to contain \""#+#substring#+#"\" log was \""#+#realLog#+#"\""#,#realLog#.#indexOf#(#substring#)#>=#0#)#;#}

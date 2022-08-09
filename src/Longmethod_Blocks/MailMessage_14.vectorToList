@@ -1,1 +1,0 @@
-String#vectorToList#(#Vector#v#)#{#StringBuffer#buf#=#new#StringBuffer#(#)#;#Enumeration#e#=#v#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#buf#.#append#(#e#.#nextElement#(#)#)#;##if#(#e#.#hasMoreElements#(#)#)#{#buf#.#append#(#", "#)#;#}#}##return#buf#.#toString#(#)#;#}

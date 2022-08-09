@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#"src/etc/testcases/types/propertyset.xml"#)#;#}##void#testReferenceToTwoReferences#(#)#{#executeTarget#(#"reference-to-two-references"#)#;#}##void#testNestedMapped#(#)#{#executeTarget#(#"nested-mapped"#)#;#}##void#testNestedMappedMapped#(#)#{#executeTarget#(#"nested-mapped-mapped"#)#;#}##

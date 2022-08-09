@@ -1,1 +1,0 @@
-void#setManifest#(#File#manifest#)#{#config#.#manifest#=#manifest#;#}

@@ -1,1 +1,0 @@
-Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Path#)#getCheckedRef#(#)#)#.#iterator#(#)#;#}##dieOnCircularReference#(#)#;##if#(#getPreserveBC#(#)#)#{##return#new#FileResourceIterator#(#getProject#(#)#,#null#,#list#(#)#)#;#}##return#union#==#null#?#EMPTY_ITERATOR#:#assertFilesystemOnly#(#union#)#.#iterator#(#)#;#}

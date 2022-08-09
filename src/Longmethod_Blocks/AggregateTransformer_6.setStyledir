@@ -1,1 +1,0 @@
-void#setStyledir#(#File#styledir#)#{#this#.#styleDir#=#styledir#;#}

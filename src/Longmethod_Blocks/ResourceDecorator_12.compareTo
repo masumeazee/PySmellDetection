@@ -1,1 +1,0 @@
-int#compareTo#(#Object#other#)#{##if#(#other#==#this#)#{##return#0#;#}##if#(#other#instanceof#ResourceDecorator#)#{##return#getResource#(#)#.#compareTo#(#(#(#ResourceDecorator#)#other#)#.#getResource#(#)#)#;#}##return#getResource#(#)#.#compareTo#(#other#)#;#}

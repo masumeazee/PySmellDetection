@@ -1,1 +1,0 @@
-Resource#getXest#(#ResourceCollection#rc#,#ResourceComparator#c#)#{#Iterator#i#=#rc#.#iterator#(#)#;##if#(#!#i#.#hasNext#(#)#)#{##return#null#;#}##Resource#xest#=#(#Resource#)#i#.#next#(#)#;##while#(#i#.#hasNext#(#)#)#{#Resource#next#=#(#Resource#)#i#.#next#(#)#;##if#(#c#.#compare#(#xest#,#next#)#<#0#)#{#xest#=#next#;#}#}##return#xest#;#}

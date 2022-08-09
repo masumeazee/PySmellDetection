@@ -1,1 +1,0 @@
-void#addVendorFiles#(#Hashtable#ejbFiles#,#String#ddPrefix#)#{##// nothing to add for generic tool.#}

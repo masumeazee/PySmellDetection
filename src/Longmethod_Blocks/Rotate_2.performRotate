@@ -1,1 +1,0 @@
-PlanarImage#performRotate#(#PlanarImage#image#)#{#float#tAngle#=#(#float#)#(#angle#*#(#Math#.#PI#/#HALF_CIRCLE#)#)#;#ParameterBlock#pb#=#new#ParameterBlock#(#)#;#pb#.#addSource#(#image#)#;#pb#.#add#(#0.0F#)#;#pb#.#add#(#0.0F#)#;#pb#.#add#(#tAngle#)#;#pb#.#add#(#new#InterpolationNearest#(#)#)#;##return#JAI#.#create#(#"Rotate"#,#pb#,#null#)#;#}

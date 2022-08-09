@@ -1,1 +1,0 @@
-void#log#(#String#msg#,#int#level#)#{#if#(#level#<=#this#.#level#)#{#System#.#out#.#println#(#msg#)#;#}#}##void#rawlog#(#String#msg#,#int#level#)#{#log#(#msg#,#level#)#;#}##void#doProgress#(#)#{#System#.#out#.#print#(#"."#)#;#}##void#doEndProgress#(#String#msg#)#{#System#.#out#.#println#(#msg#)#;#}##int#getLevel#(#)#{#return#level#;#}##

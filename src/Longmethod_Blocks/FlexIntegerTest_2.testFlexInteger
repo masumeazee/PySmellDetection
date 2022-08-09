@@ -1,1 +1,0 @@
-void#testFlexInteger#(#)#{#executeTarget#(#"test"#)#;#assertEquals#(#project#.#getProperty#(#"flexint.value1"#)#,#"10"#)#;#assertEquals#(#project#.#getProperty#(#"flexint.value2"#)#,#"8"#)#;#}

@@ -1,1 +1,0 @@
-void#execute#(#)#throws#BuildException#{##if#(#P4View#!=#null#)#{#syncCmd#=#P4View#;#}##if#(#label#!=#null#&&#!#label#.#equals#(#""#)#)#{#syncCmd#=#syncCmd#+#"@"#+#label#;#}##log#(#"Execing sync "#+#P4CmdOpts#+#" "#+#syncCmd#,#Project#.#MSG_VERBOSE#)#;#execP4Command#(#"-s sync "#+#P4CmdOpts#+#" "#+#syncCmd#,#new#SimpleP4OutputHandler#(#this#)#)#;#}

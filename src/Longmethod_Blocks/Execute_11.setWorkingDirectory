@@ -1,1 +1,0 @@
-void#setWorkingDirectory#(#File#wd#)#{#workingDirectory#=#(#wd#==#null#||#wd#.#getAbsolutePath#(#)#.#equals#(#antWorkingDirectory#)#)#?#null#:#wd#;#}

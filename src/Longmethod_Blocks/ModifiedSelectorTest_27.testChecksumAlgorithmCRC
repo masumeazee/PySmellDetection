@@ -1,1 +1,0 @@
-void#testChecksumAlgorithmCRC#(#)#{#ChecksumAlgorithm#algo#=#new#ChecksumAlgorithm#(#)#;#algo#.#setAlgorithm#(#"CRC"#)#;#doTest#(#algo#)#;#}

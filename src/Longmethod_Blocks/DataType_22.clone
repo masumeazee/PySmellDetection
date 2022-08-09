@@ -1,1 +1,0 @@
-Object#clone#(#)#throws#CloneNotSupportedException#{#DataType#dt#=#(#DataType#)#super#.#clone#(#)#;#dt#.#setDescription#(#getDescription#(#)#)#;##if#(#getRefid#(#)#!=#null#)#{#dt#.#setRefid#(#getRefid#(#)#)#;#}##dt#.#setChecked#(#isChecked#(#)#)#;##return#dt#;#}

@@ -1,1 +1,0 @@
-boolean#allStars#(#char#[#]#chars#,#int#start#,#int#end#)#{#for#(#int#i#=#start#;##i#<=#end#;#++#i#)#{##if#(#chars#[#i#]#!=#'*'#)#{##return#false#;#}#}##return#true#;#}

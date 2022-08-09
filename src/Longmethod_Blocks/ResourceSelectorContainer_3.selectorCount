@@ -1,1 +1,0 @@
-int#selectorCount#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceSelectorContainer#)#getCheckedRef#(#)#)#.#selectorCount#(#)#;#}##dieOnCircularReference#(#)#;##return#v#.#size#(#)#;#}

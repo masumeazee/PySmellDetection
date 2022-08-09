@@ -1,1 +1,0 @@
-void#addOrReplaceTarget#(#Target#target#)#{#addOrReplaceTarget#(#target#.#getName#(#)#,#target#)#;#}

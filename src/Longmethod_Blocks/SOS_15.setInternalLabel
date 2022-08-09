@@ -1,1 +1,0 @@
-void#setInternalLabel#(#String#text#)#{#label#=#text#;#}

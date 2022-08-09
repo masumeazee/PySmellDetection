@@ -1,1 +1,0 @@
-boolean#sameDefinition#(#Object#obj#)#{##return#sameOrSimilar#(#obj#,#true#)#;#}

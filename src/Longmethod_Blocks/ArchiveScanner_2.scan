@@ -1,1 +1,0 @@
-void#scan#(#)#{##if#(#src#==#null#||#(#!#src#.#isExists#(#)#&&#!#errorOnMissingArchive#)#)#{##return#;#}##super#.#scan#(#)#;#}

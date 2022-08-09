@@ -1,1 +1,0 @@
-String#replaceProperties#(#String#value#)#throws#BuildException#{#Object#o#=#parseProperties#(#value#)#;##return#o#==#null#||#o#instanceof#String#?#(#String#)#o#:#o#.#toString#(#)#;#}

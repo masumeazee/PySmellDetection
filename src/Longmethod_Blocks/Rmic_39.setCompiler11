@@ -1,1 +1,0 @@
-void#setCompiler#(#String#compiler#)#{##if#(#compiler#.#length#(#)#>#0#)#{#facade#.#setImplementation#(#compiler#)#;#}#}

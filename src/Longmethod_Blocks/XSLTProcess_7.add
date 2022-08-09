@@ -1,1 +1,0 @@
-void#add#(#FileNameMapper#fileNameMapper#)#throws#BuildException#{#Mapper#mapper#=#new#Mapper#(#getProject#(#)#)#;#mapper#.#add#(#fileNameMapper#)#;#addMapper#(#mapper#)#;#}

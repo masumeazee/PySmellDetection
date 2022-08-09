@@ -1,1 +1,0 @@
-void#setTimeout#(#Integer#value#)#{#setTimeout#(#(#Long#)#(#(#value#==#null#)#?#null#:#new#Long#(#value#.#intValue#(#)#)#)#)#;#}

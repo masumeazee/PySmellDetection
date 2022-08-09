@@ -1,1 +1,0 @@
-Vector#tokenizePath#(#String#path#)#{##return#tokenizePath#(#path#,#File#.#separator#)#;#}

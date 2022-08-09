@@ -1,1 +1,0 @@
-void#checkExit#(#int#status#)#{#java#.#security#.#Permission#perm#=#new#java#.#lang#.#RuntimePermission#(#"exitVM"#,#null#)#;##try#{#checkPermission#(#perm#)#;#}##catch#(#SecurityException#e#)#{#throw#new#ExitException#(#e#.#getMessage#(#)#,#status#)#;#}#}

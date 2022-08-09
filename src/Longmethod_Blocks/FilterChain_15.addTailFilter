@@ -1,1 +1,0 @@
-void#addTailFilter#(#final#TailFilter#tailFilter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#tailFilter#)#;#}

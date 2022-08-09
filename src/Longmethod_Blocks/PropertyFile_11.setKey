@@ -1,1 +1,0 @@
-void#setKey#(#String#value#)#{#this#.#key#=#value#;#}

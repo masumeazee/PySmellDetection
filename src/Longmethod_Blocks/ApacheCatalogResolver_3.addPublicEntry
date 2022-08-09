@@ -1,1 +1,0 @@
-void#addPublicEntry#(#String#publicid#,#String#systemid#,#URL#base#)#{#ResourceLocation#dtd#=#new#ResourceLocation#(#)#;#dtd#.#setBase#(#base#)#;#dtd#.#setPublicId#(#publicid#)#;#dtd#.#setLocation#(#systemid#)#;#xmlCatalog#.#addDTD#(#dtd#)#;#}

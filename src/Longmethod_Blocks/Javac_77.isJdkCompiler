@@ -1,1 +1,0 @@
-boolean#isJdkCompiler#(#String#compilerImpl#)#{##return#MODERN#.#equals#(#compilerImpl#)#||#CLASSIC#.#equals#(#compilerImpl#)#||#JAVAC16#.#equals#(#compilerImpl#)#||#JAVAC15#.#equals#(#compilerImpl#)#||#JAVAC14#.#equals#(#compilerImpl#)#||#JAVAC13#.#equals#(#compilerImpl#)#||#JAVAC12#.#equals#(#compilerImpl#)#||#JAVAC11#.#equals#(#compilerImpl#)#;#}

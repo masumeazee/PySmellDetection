@@ -1,1 +1,0 @@
-InputStream#getInputStream#(#)#throws#IOException#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getInputStream#(#)#;#}##connect#(#)#;##try#{##return#conn#.#getInputStream#(#)#;#}##finally#{#conn#=#null#;#}#}

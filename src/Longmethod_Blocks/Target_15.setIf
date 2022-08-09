@@ -1,1 +1,0 @@
-void#setIf#(#String#property#)#{#ifCondition#=#property#==#null#?#""#:#property#;#}

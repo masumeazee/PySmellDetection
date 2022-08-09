@@ -1,1 +1,0 @@
-void#setTypeName#(#String#tn#)#{#mTypeName#=#tn#;#}

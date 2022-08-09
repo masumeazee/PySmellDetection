@@ -1,1 +1,0 @@
-Mapper#createMapper#(#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#mapper#!=#null#)#{#throw#new#BuildException#(#"Cannot define more than one mapper"#,#getLocation#(#)#)#;#}##setChecked#(#false#)#;#mapper#=#new#Mapper#(#getProject#(#)#)#;##return#mapper#;#}

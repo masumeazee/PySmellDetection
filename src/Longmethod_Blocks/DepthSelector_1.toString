@@ -1,1 +1,0 @@
-String#toString#(#)#{#StringBuffer#buf#=#new#StringBuffer#(#"{depthselector min: "#)#;#buf#.#append#(#min#)#;#buf#.#append#(#" max: "#)#;#buf#.#append#(#max#)#;#buf#.#append#(#"}"#)#;##return#buf#.#toString#(#)#;#}

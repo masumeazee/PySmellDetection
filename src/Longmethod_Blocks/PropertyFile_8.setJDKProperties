@@ -1,1 +1,0 @@
-void#setJDKProperties#(#boolean#val#)#{#useJDKProperties#=#val#;#}

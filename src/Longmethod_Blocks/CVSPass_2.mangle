@@ -1,1 +1,0 @@
-String#mangle#(#String#password#)#{#StringBuffer#buf#=#new#StringBuffer#(#)#;##for#(#int#i#=#0#;##i#<#password#.#length#(#)#;#i#++#)#{#buf#.#append#(#shifts#[#password#.#charAt#(#i#)#]#)#;#}##return#buf#.#toString#(#)#;#}

@@ -1,1 +1,0 @@
-void#setName#(#String#name#)#{#this#.#name#=#name#;#}##void#execute#(#)#{#if#(#name#==#null#)#{#throw#new#BuildException#(#"Missing attribute name"#)#;#}#LocalProperties#.#get#(#getProject#(#)#)#.#addLocal#(#name#)#;#}##

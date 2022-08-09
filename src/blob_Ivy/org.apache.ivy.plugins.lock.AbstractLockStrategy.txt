@@ -1,1 +1,0 @@
-String#getName#(#)#{#return#name#;#}##void#setName#(#String#name#)#{#this#.#name#=#name#;#}##String#toString#(#)#{#return#name#;#}##boolean#isDebugLocking#(#)#{#return#debugLocking#;#}##

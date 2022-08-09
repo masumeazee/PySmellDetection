@@ -1,1 +1,0 @@
-void#setResolver#(#ApacheCatalogResolver#resolver#)#{#this#.#resolver#=#resolver#;#}

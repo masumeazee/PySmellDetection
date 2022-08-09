@@ -1,1 +1,0 @@
-void#printMessage#(#final#String#message#,#final#PrintStream#stream#,#final#int#priority#)#{#stream#.#println#(#message#)#;#}

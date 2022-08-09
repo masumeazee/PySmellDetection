@@ -1,1 +1,0 @@
-BuildException#noChildrenAllowed#(#)#{##return#new#BuildException#(#"You must not specify nested "#+#"elements when using the refid attribute."#)#;#}

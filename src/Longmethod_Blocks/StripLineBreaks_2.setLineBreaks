@@ -1,1 +1,0 @@
-void#setLineBreaks#(#final#String#lineBreaks#)#{#this#.#lineBreaks#=#lineBreaks#;#}

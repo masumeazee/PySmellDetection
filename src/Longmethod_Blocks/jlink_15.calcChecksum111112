@@ -1,1 +1,0 @@
-long#calcChecksum#(#File#f#)#throws#IOException#{#BufferedInputStream#in#=#new#BufferedInputStream#(#new#FileInputStream#(#f#)#)#;##return#calcChecksum#(#in#)#;#}

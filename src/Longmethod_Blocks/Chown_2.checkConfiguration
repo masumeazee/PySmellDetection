@@ -1,1 +1,0 @@
-void#checkConfiguration#(#)#{##if#(#!#haveOwner#)#{#throw#new#BuildException#(#"Required attribute owner not set in"#+#" chown"#,#getLocation#(#)#)#;#}##super#.#checkConfiguration#(#)#;#}

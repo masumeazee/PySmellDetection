@@ -1,1 +1,0 @@
-void#addClasses#(#String#string#)#{#StringTokenizer#tokens#=#new#StringTokenizer#(#string#,#";"#)#;##while#(#tokens#.#hasMoreTokens#(#)#)#{#String#descriptor#=#tokens#.#nextToken#(#)#;#int#pos#=#descriptor#.#indexOf#(#'L'#)#;##if#(#pos#!=#-#1#)#{#addSlashClass#(#descriptor#.#substring#(#pos#+#1#)#)#;#}#}#}

@@ -1,1 +1,0 @@
-void#assertNoPrint#(#String#result#,#String#where#)#{#assertTrue#(#where#+#" '"#+#result#+#"' must not contain print statement"#,#result#.#indexOf#(#"print to System."#)#==#-#1#)#;#}

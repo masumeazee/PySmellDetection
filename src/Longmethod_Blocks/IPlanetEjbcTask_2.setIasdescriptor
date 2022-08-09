@@ -1,1 +1,0 @@
-void#setIasdescriptor#(#File#iasdescriptor#)#{#this#.#iasdescriptor#=#iasdescriptor#;#}

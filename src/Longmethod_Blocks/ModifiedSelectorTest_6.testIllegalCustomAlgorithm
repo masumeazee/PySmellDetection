@@ -1,1 +1,0 @@
-void#testIllegalCustomAlgorithm#(#)#{#try#{#getAlgoName#(#"java.lang.Object"#)#;#fail#(#"Illegal classname used."#)#;#}##catch#(#Exception#e#)#{#assertTrue#(#"Wrong exception type: "#+#e#.#getClass#(#)#.#getName#(#)#,#e#instanceof#BuildException#)#;#assertEquals#(#"Wrong exception message."#,#"Specified class (java.lang.Object) is not an Algorithm."#,#e#.#getMessage#(#)#)#;#}#}

@@ -1,1 +1,0 @@
-String#filter#(#String#line#)#{##if#(#line#.#trim#(#)#.#length#(#)#==#0#)#{##return#null#;#}##return#line#;#}

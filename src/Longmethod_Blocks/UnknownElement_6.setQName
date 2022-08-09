@@ -1,1 +1,0 @@
-void#setQName#(#String#qname#)#{#this#.#qname#=#qname#;#}

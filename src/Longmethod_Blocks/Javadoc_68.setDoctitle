@@ -1,1 +1,0 @@
-void#setDoctitle#(#String#doctitle#)#{#Html#h#=#new#Html#(#)#;#h#.#addText#(#doctitle#)#;#addDoctitle#(#h#)#;#}

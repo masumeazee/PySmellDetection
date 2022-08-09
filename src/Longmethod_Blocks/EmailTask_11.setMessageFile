@@ -1,1 +1,0 @@
-void#setMessageFile#(#File#file#)#{##if#(#this#.#message#!=#null#)#{#throw#new#BuildException#(#"Only one message can be sent in an "#+#"email"#)#;#}##this#.#message#=#new#Message#(#file#)#;#this#.#message#.#setProject#(#getProject#(#)#)#;#}

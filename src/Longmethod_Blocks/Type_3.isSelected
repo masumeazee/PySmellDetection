@@ -1,1 +1,0 @@
-boolean#isSelected#(#Resource#r#)#{##if#(#type#==#null#)#{#throw#new#BuildException#(#"The type attribute is required."#)#;#}##int#i#=#type#.#getIndex#(#)#;##return#i#==#2#||#(#r#.#isDirectory#(#)#?#i#==#1#:#i#==#0#)#;#}

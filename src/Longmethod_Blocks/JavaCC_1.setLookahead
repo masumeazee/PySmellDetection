@@ -1,1 +1,0 @@
-void#setLookahead#(#int#lookahead#)#{#optionalAttrs#.#put#(#LOOKAHEAD#,#new#Integer#(#lookahead#)#)#;#}

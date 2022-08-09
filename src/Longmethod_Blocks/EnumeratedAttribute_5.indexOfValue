@@ -1,1 +1,0 @@
-int#indexOfValue#(#String#value#)#{#String#[#]#values#=#getValues#(#)#;##if#(#values#==#null#||#value#==#null#)#{##return#-#1#;#}##for#(#int#i#=#0#;##i#<#values#.#length#;#i#++#)#{##if#(#value#.#equals#(#values#[#i#]#)#)#{##return#i#;#}#}##return#-#1#;#}

@@ -1,1 +1,0 @@
-void#addText#(#Text#text#)#{#instructions#.#add#(#text#)#;#}

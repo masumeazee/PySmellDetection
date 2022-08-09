@@ -1,1 +1,0 @@
-void#setChange#(#String#change#)#{#this#.#change#=#change#;#}

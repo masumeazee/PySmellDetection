@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{#while#(#true#)#{#int#c#=#in#.#read#(#)#;##if#(#c#==#-#1#)#{##return#c#;#}##if#(#!#(#isDeleteCharacter#(#(#char#)#c#)#)#)#{##return#c#;#}#}#}

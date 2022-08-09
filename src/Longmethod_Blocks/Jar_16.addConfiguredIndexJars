@@ -1,1 +1,0 @@
-void#addConfiguredIndexJars#(#Path#p#)#{##if#(#indexJars#==#null#)#{#indexJars#=#new#Path#(#getProject#(#)#)#;#}##indexJars#.#append#(#p#)#;#}

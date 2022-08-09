@@ -1,1 +1,0 @@
-void#testUnixLineSeparator#(#)#throws#IOException#{#try#{#super#.#testUnixLineSeparator#(#)#;#fail#(#"Should trigger once this bug is fixed. {@since 1.2}"#)#;#}##catch#(#AssertionFailedError#e#)#{#}#}

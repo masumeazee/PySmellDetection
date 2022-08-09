@@ -1,1 +1,0 @@
-void#tryToSetAParameter#(#Object#obj#,#String#name#,#String#value#)#{#Project#prj#=#(#getProject#(#)#!=#null#)#?#getProject#(#)#:#new#Project#(#)#;#IntrospectionHelper#iHelper#=#IntrospectionHelper#.#getHelper#(#prj#,#obj#.#getClass#(#)#)#;##try#{#iHelper#.#setAttribute#(#prj#,#obj#,#name#,#value#)#;#}##catch#(#org#.#apache#.#tools#.#ant#.#BuildException#e#)#{##// no-op#}#}

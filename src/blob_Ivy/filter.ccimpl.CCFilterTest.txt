@@ -1,1 +1,0 @@
-IFilter#getIFilter#(#)#{#return#new#CCFilter#(#)#;#}##

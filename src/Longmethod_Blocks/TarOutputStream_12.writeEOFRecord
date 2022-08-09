@@ -1,1 +1,0 @@
-void#writeEOFRecord#(#)#throws#IOException#{#for#(#int#i#=#0#;##i#<#recordBuf#.#length#;#++#i#)#{#recordBuf#[#i#]#=#0#;#}##buffer#.#writeRecord#(#recordBuf#)#;#}

@@ -1,1 +1,0 @@
-String#toString#(#)#{##return#element#.#getTagName#(#)#+#":"#+#element#.#getAttribute#(#"name"#)#;#}

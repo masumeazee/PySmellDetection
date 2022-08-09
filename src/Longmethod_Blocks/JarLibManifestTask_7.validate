@@ -1,1 +1,0 @@
-void#validate#(#)#throws#BuildException#{##if#(#null#==#destFile#)#{#throw#new#BuildException#(#"Destfile attribute not specified."#)#;#}##if#(#destFile#.#exists#(#)#&&#!#destFile#.#isFile#(#)#)#{#throw#new#BuildException#(#destFile#+#" is not a file."#)#;#}#}

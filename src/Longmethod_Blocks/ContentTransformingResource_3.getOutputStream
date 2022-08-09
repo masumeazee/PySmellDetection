@@ -1,1 +1,0 @@
-OutputStream#getOutputStream#(#)#throws#IOException#{#OutputStream#out#=#getResource#(#)#.#getOutputStream#(#)#;##if#(#out#!=#null#)#{#out#=#wrapStream#(#out#)#;#}##return#out#;#}

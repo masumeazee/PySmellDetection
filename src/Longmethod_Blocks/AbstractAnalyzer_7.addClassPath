@@ -1,1 +1,0 @@
-void#addClassPath#(#Path#classPath#)#{##if#(#classPath#==#null#)#{##return#;#}##this#.#classPath#.#append#(#classPath#)#;#this#.#classPath#.#setProject#(#classPath#.#getProject#(#)#)#;#}

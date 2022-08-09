@@ -1,1 +1,0 @@
-File#createTemporaryFile#(#)#throws#IOException#{#File#uploadFile#;#uploadFile#=#File#.#createTempFile#(#"scp"#,#"test"#,#tempDir#)#;#FileWriter#writer#=#new#FileWriter#(#uploadFile#)#;#writer#.#write#(#"Can you hear me now?\n"#)#;#writer#.#close#(#)#;#addCleanup#(#uploadFile#)#;##return#uploadFile#;#}

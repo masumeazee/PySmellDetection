@@ -1,1 +1,0 @@
-void#testAddElement#(#)#{#v#.#addElement#(#O#)#;#v#.#addElement#(#O#)#;#assertEquals#(#1#,#v#.#size#(#)#)#;#}

@@ -1,1 +1,0 @@
-void#tearDown#(#)#{#try#{#ftp#.#disconnect#(#)#;#}##catch#(#IOException#ioe#)#{##// do nothing#}##getProject#(#)#.#executeTarget#(#"cleanup"#)#;#}

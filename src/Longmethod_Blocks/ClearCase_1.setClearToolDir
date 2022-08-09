@@ -1,1 +1,0 @@
-void#setClearToolDir#(#String#dir#)#{#mClearToolDir#=#FileUtils#.#translatePath#(#dir#)#;#}

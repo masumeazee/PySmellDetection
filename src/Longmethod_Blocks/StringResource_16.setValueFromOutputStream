@@ -1,1 +1,0 @@
-void#setValueFromOutputStream#(#String#output#)#{#String#value#;##if#(#getProject#(#)#!=#null#)#{#value#=#getProject#(#)#.#replaceProperties#(#output#)#;#}#else#{#value#=#output#;#}##setValue#(#value#)#;#}

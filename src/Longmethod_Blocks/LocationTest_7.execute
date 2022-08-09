@@ -1,1 +1,0 @@
-void#execute#(#)#{#log#(#"Line: "#+#getLocation#(#)#.#getLineNumber#(#)#,#Project#.#MSG_INFO#)#;#}

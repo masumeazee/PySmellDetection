@@ -1,1 +1,0 @@
-void#setupExecutable#(#Execute#exe#,#String#[#]#command#)#{#exe#.#setAntRun#(#getProject#(#)#)#;#setupWorkingDir#(#exe#)#;#setupEnvironment#(#exe#)#;#setupCommandLine#(#exe#,#command#)#;#}

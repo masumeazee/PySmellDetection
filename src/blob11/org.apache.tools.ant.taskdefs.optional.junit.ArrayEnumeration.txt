@@ -1,1 +1,0 @@
-boolean#hasMoreElements#(#)#{#return#(#pos#<#array#.#length#)#;#}##Object#nextElement#(#)#throws#NoSuchElementException#{#if#(#hasMoreElements#(#)#)#{#Object#o#=#array#[#pos#]#;#pos#++#;#return#o#;#}#throw#new#NoSuchElementException#(#)#;#}##

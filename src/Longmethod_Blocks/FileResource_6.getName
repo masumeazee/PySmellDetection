@@ -1,1 +1,0 @@
-String#getName#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Resource#)#getCheckedRef#(#)#)#.#getName#(#)#;#}##File#b#=#getBaseDir#(#)#;##return#b#==#null#?#getNotNullFile#(#)#.#getName#(#)#:#FILE_UTILS#.#removeLeadingPath#(#b#,#getNotNullFile#(#)#)#;#}

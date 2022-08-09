@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/input.xml"#)#;#System#.#getProperties#(#)#.#put#(#PropertyFileInputHandler#.#FILE_NAME_KEY#,#getProject#(#)#.#resolveFile#(#"input.properties"#)#.#getAbsolutePath#(#)#)#;#getProject#(#)#.#setInputHandler#(#new#PropertyFileInputHandler#(#)#)#;#}

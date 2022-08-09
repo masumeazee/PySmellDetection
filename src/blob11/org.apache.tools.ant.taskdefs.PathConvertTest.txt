@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#BUILD_FILE#)#;#}##void#testMap#(#)#{#test#(#"testmap"#)#;#}##void#testMapper#(#)#{#test#(#"testmapper"#)#;#}##void#testNoTargetOs#(#)#{#executeTarget#(#"testnotargetos"#)#;#}##void#test#(#String#target#)#{#executeTarget#(#target#)#;#assertPropertyEquals#(#"result"#,#"test#"#+#BUILD_FILENAME#)#;#}##

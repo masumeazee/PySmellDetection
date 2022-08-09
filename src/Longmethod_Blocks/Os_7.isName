@@ -1,1 +1,0 @@
-boolean#isName#(#String#name#)#{##return#isOs#(#null#,#name#,#null#,#null#)#;#}

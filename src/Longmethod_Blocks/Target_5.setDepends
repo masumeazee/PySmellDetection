@@ -1,1 +1,0 @@
-void#setDepends#(#String#depS#)#{#for#(#Iterator#iter#=#parseDepends#(#depS#,#getName#(#)#,#"depends"#)#.#iterator#(#)#;##iter#.#hasNext#(#)#;#)#{#addDependency#(#(#String#)#iter#.#next#(#)#)#;#}#}

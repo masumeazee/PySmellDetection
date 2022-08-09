@@ -1,1 +1,0 @@
-void#setSrcFile#(#final#File#srcFile#)#{#addConfigured#(#new#FileResource#(#srcFile#)#)#;#}

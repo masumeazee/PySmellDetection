@@ -1,1 +1,0 @@
-void#setValue#(#String#value#)#{##if#(#currentIndex#>=#values#.#size#(#)#)#{#values#.#addElement#(#value#)#;#currentIndex#=#values#.#size#(#)#-#1#;#}#else#{#values#.#setElementAt#(#value#,#currentIndex#)#;#}#}

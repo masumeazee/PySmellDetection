@@ -1,1 +1,0 @@
-void#add#(#Filter#filter#)#{#filters#.#addElement#(#filter#)#;#}

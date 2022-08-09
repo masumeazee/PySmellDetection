@@ -1,1 +1,0 @@
-void#testIsContextRelativePath#(#)#{##if#(#Os#.#isFamily#(#"dos"#)#)#{#assertTrue#(#FileUtils#.#isContextRelativePath#(#"/\u00E4nt"#)#)#;#assertTrue#(#FileUtils#.#isContextRelativePath#(#"\\foo"#)#)#;#}#}

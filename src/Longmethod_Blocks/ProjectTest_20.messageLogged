@@ -1,1 +1,0 @@
-void#messageLogged#(#final#BuildEvent#actual#)#{#assertEquals#(#FOO#,#actual#.#getMessage#(#)#)#;##// each of the following lines would cause an##// infinite loop if the message wasn't swallowed#System#.#err#.#println#(#BAR#)#;#System#.#out#.#println#(#BAR#)#;#p#.#log#(#BAR#,#Project#.#MSG_INFO#)#;#}

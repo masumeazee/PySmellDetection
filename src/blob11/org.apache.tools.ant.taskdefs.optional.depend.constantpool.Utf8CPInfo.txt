@@ -1,1 +1,0 @@
-void#read#(#DataInputStream#cpStream#)#throws#IOException#{#value#=#cpStream#.#readUTF#(#)#;#}##String#toString#(#)#{#return#"UTF8 Value = "#+#value#;#}##String#getValue#(#)#{#return#value#;#}##

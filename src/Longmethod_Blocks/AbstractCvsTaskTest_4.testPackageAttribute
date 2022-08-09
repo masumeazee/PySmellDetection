@@ -1,1 +1,0 @@
-void#testPackageAttribute#(#)#{#File#f#=#getProject#(#)#.#resolveFile#(#"tmpdir/ant/build.xml"#)#;#assertTrue#(#"starting empty"#,#!#f#.#exists#(#)#)#;#expectLogContaining#(#"package-attribute"#,#"U ant/build.xml"#)#;#assertTrue#(#"now it is there"#,#f#.#exists#(#)#)#;#}

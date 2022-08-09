@@ -1,1 +1,0 @@
-void#setTarget#(#String#target#)#{#this#.#targetAttribute#=#target#;#}

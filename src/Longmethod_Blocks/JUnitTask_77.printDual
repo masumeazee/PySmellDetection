@@ -1,1 +1,0 @@
-void#printDual#(#BufferedWriter#w#,#PrintStream#s#,#String#text#)#throws#IOException#{#w#.#write#(#String#.#valueOf#(#text#)#)#;#s#.#print#(#text#)#;#}

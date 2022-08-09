@@ -1,1 +1,0 @@
-int#compareTo#(#Object#other#)#{##if#(#other#instanceof#TestInfos#)#{#TestInfos#otherInfos#=#(#TestInfos#)#other#;##return#toString#(#)#.#compareTo#(#otherInfos#.#toString#(#)#)#;#}#else#{##return#-#1#;#}#}

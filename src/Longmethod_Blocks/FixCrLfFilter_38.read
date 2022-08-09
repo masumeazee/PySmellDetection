@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{#int#c#=#super#.#read#(#)#;##switch#(#c#)#{#case#'\r'#:#case#'\n'#:#columnNumber#=#0#;#break#;#case#'\t'#:#int#width#=#tabLength#-#columnNumber#%#tabLength#;##if#(#!#editsBlocked#(#)#)#{#for#(#;##width#>#1#;#width#--#)#{#push#(#' '#)#;#}##c#=#' '#;#}##columnNumber#+=#width#;#break#;#default#:#columnNumber#++#;#}##return#c#;#}

@@ -1,1 +1,0 @@
-void#characters#(#char#[#]#ch#,#int#start#,#int#len#)#throws#SAXException#{#currentText#+=#new#String#(#ch#)#.#substring#(#start#,#start#+#len#)#;#}

@@ -1,1 +1,0 @@
-void#oldtestQuirkyLegacyBehavior#(#)#{#assertExpandsTo#(#"Class$subclass"#,#"Classsubclass"#)#;#assertExpandsTo#(#"$$$-"#,#"$-"#)#;#assertExpandsTo#(#"a$b"#,#"ab"#)#;#assertExpandsTo#(#"$}}"#,#"}}"#)#;#}

@@ -1,1 +1,0 @@
-void#testConfiguration3#(#)#{#int#[#]#expectedCounts#=#{#1#,#0#,#1#,#0#,#0#,#1#,#0#}#;#performConfigTest#(#"configuration.3"#,#expectedCounts#)#;#}

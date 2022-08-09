@@ -1,1 +1,0 @@
-void#merge#(#Manifest#other#)#throws#ManifestException#{#merge#(#other#,#false#)#;#}

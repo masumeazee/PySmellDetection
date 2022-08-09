@@ -1,1 +1,0 @@
-void#setProjectOnObject#(#Object#obj#)#{##if#(#project#==#null#)#{##return#;#}##if#(#obj#instanceof#BaseFilterReader#)#{#(#(#BaseFilterReader#)#obj#)#.#setProject#(#project#)#;##return#;#}##project#.#setProjectReference#(#obj#)#;#}

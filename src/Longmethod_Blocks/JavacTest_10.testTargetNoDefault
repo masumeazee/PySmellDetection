@@ -1,1 +1,0 @@
-void#testTargetNoDefault#(#)#{#assertNull#(#javac#.#getTarget#(#)#)#;#}

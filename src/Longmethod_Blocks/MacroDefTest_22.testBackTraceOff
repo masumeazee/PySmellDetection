@@ -1,1 +1,0 @@
-void#testBackTraceOff#(#)#{#try#{#executeTarget#(#"backtraceoff"#)#;#}##catch#(#BuildException#ex#)#{##if#(#ex#.#getMessage#(#)#.#indexOf#(#"following error occurred"#)#!=#-#1#)#{#fail#(#"error message contained backtrace - "#+#ex#.#getMessage#(#)#)#;#}#}#}

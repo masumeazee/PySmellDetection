@@ -1,1 +1,0 @@
-Object#as#(#Class#clazz#)#{##return#clazz#.#isAssignableFrom#(#getClass#(#)#)#?#this#:#null#;#}

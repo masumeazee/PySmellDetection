@@ -1,1 +1,0 @@
-void#injectParent#(#Parent#parent#)#{#this#.#parent#=#parent#;#}

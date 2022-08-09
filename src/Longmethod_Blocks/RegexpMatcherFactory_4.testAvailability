@@ -1,1 +1,0 @@
-void#testAvailability#(#String#className#)#throws#BuildException#{#try#{#Class#.#forName#(#className#)#;#}##catch#(#Throwable#t#)#{#throw#new#BuildException#(#t#)#;#}#}

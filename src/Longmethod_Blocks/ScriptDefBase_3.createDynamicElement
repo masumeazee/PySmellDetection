@@ -1,1 +1,0 @@
-Object#createDynamicElement#(#String#name#)#{#List#nestedElementList#=#(#List#)#nestedElementMap#.#get#(#name#)#;##if#(#nestedElementList#==#null#)#{#nestedElementList#=#new#ArrayList#(#)#;#nestedElementMap#.#put#(#name#,#nestedElementList#)#;#}##Object#element#=#getScript#(#)#.#createNestedElement#(#name#)#;#nestedElementList#.#add#(#element#)#;##return#element#;#}

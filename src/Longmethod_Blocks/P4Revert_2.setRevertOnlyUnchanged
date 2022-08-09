@@ -1,1 +1,0 @@
-void#setRevertOnlyUnchanged#(#boolean#onlyUnchanged#)#{#this#.#onlyUnchanged#=#onlyUnchanged#;#}

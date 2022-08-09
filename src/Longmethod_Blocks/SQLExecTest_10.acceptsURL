@@ -1,1 +1,0 @@
-boolean#acceptsURL#(#String#url#)#throws#SQLException#{##return#false#;#}

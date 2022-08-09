@@ -1,1 +1,0 @@
-void#handle#(#Resource#r#)#{#getPs#(#)#.#print#(#r#.#toString#(#)#)#;#getPs#(#)#.#print#(#" : "#)#;##//when writing to the log, we'll see what's happening:#long#size#=#r#.#getSize#(#)#;##if#(#size#==#Resource#.#UNKNOWN_SIZE#)#{#getPs#(#)#.#println#(#"unknown"#)#;#}#else#{#getPs#(#)#.#println#(#size#)#;#}#}

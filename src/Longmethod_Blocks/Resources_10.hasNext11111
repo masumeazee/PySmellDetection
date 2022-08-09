@@ -1,1 +1,0 @@
-boolean#hasNext#(#)#{#boolean#result#=#ri#!=#null#&&#ri#.#hasNext#(#)#;##while#(#!#result#&&#rci#.#hasNext#(#)#)#{#ri#=#(#(#ResourceCollection#)#rci#.#next#(#)#)#.#iterator#(#)#;#result#=#ri#.#hasNext#(#)#;#}##return#result#;#}

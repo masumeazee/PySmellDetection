@@ -1,1 +1,0 @@
-void#testWrongElement#(#)#throws#Exception#{#expectReportWithText#(#"testWrongElement"#,#XMLResultAggregator#.#WARNING_INVALID_ROOT_ELEMENT#)#;#}

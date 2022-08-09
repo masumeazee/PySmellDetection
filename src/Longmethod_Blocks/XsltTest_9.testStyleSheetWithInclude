@@ -1,1 +1,0 @@
-void#testStyleSheetWithInclude#(#)#throws#Exception#{#executeTarget#(#"testStyleSheetWithInclude"#)#;##if#(#getLog#(#)#.#indexOf#(#"java.io.FileNotFoundException"#)#!=#-#1#)#{#fail#(#"xsl:include was not found"#)#;#}#}

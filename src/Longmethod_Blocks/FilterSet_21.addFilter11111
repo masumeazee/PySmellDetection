@@ -1,1 +1,0 @@
-void#addFilter#(#String#token#,#String#value#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##addFilter#(#new#Filter#(#token#,#value#)#)#;#}

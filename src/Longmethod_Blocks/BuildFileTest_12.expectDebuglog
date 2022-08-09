@@ -1,1 +1,0 @@
-void#expectDebuglog#(#String#target#,#String#log#)#{#executeTarget#(#target#)#;#String#realLog#=#getFullLog#(#)#;#assertEquals#(#log#,#realLog#)#;#}

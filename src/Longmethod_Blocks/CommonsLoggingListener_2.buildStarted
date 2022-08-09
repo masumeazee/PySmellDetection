@@ -1,1 +1,0 @@
-void#buildStarted#(#BuildEvent#event#)#{#String#categoryString#=#PROJECT_LOG#;#Log#log#=#getLog#(#categoryString#,#null#)#;##if#(#initialized#)#{#realLog#(#log#,#"Build started."#,#Project#.#MSG_INFO#,#null#)#;#}#}

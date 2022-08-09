@@ -1,1 +1,0 @@
-void#deleteCachefile#(#)#{#File#basedir#=#new#File#(#buildfile#)#.#getParentFile#(#)#;#File#cacheFile#=#new#File#(#basedir#,#"cache.properties"#)#;#cacheFile#.#delete#(#)#;#}

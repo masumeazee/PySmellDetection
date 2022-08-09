@@ -1,1 +1,0 @@
-void#testRedirector2#(#)#throws#IOException#{#executeTarget#(#"redirector2"#)#;##if#(#getProject#(#)#.#getProperty#(#"test.can.run"#)#==#null#)#{##return#;#}##assertEquals#(#"unexpected output"#,#getProject#(#)#.#getProperty#(#"ant.file"#)#+#" out\n"#+#getProject#(#)#.#getProperty#(#"ant.file"#)#+#" err\n"#,#getFileString#(#"redirector.out"#)#)#;#}

@@ -1,1 +1,0 @@
-void#displayLibrary#(#final#File#file#)#throws#BuildException#{#final#Manifest#manifest#=#ExtensionUtil#.#getManifest#(#file#)#;#displayLibrary#(#file#,#manifest#)#;#}

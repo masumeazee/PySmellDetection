@@ -1,1 +1,0 @@
-boolean#convert#(#Native2Ascii#args#,#File#srcFile#,#File#destFile#)#throws#BuildException#{#Commandline#cmd#=#new#Commandline#(#)#;#setup#(#cmd#,#args#)#;#addFiles#(#cmd#,#args#,#srcFile#,#destFile#)#;##return#run#(#cmd#,#args#)#;#}

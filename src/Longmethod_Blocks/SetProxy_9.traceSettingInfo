@@ -1,1 +1,0 @@
-void#traceSettingInfo#(#)#{#log#(#"Setting proxy to "#+#(#proxyHost#!=#null#?#proxyHost#:#"''"#)#+#":"#+#proxyPort#,#Project#.#MSG_VERBOSE#)#;#}

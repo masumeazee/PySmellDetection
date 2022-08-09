@@ -1,1 +1,0 @@
-void#setFrom#(#String#address#)#{##if#(#this#.#from#!=#null#)#{#throw#new#BuildException#(#"Emails can only be from one address"#)#;#}##this#.#from#=#new#EmailAddress#(#address#)#;#}

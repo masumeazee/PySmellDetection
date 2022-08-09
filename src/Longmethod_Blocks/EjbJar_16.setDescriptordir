@@ -1,1 +1,0 @@
-void#setDescriptordir#(#File#inDir#)#{#config#.#descriptorDir#=#inDir#;#}

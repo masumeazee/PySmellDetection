@@ -1,1 +1,0 @@
-void#testCompileFileset#(#)#{#executeTarget#(#"test-fileset"#)#;#assertTrue#(#getProject#(#)#.#resolveFile#(#"output/org_example_Foo.h"#)#.#exists#(#)#)#;#}

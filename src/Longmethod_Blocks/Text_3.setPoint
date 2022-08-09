@@ -1,1 +1,0 @@
-void#setPoint#(#String#p#)#{#point#=#Integer#.#parseInt#(#p#)#;#}

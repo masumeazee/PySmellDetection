@@ -1,1 +1,0 @@
-boolean#isActionValid#(#)#{##return#(#getTask#(#)#.#getAction#(#)#.#equals#(#VALID_ACTIONS#[#0#]#)#)#;#}

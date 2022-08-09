@@ -1,1 +1,0 @@
-void#setUnless#(#Object#unlessProperty#)#{#this#.#unlessCondition#=#unlessProperty#;#}

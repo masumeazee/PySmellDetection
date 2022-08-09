@@ -1,1 +1,0 @@
-boolean#isPath#(#String#line#)#{##return#line#.#startsWith#(#"PATH="#)#||#line#.#startsWith#(#"Path="#)#;#}

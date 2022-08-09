@@ -1,1 +1,0 @@
-CrLf#newInstance#(#String#value#)#{#CrLf#c#=#new#CrLf#(#)#;#c#.#setValue#(#value#)#;##return#c#;#}

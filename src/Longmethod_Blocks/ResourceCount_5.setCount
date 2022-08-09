@@ -1,1 +1,0 @@
-void#setCount#(#int#c#)#{#count#=#new#Integer#(#c#)#;#}

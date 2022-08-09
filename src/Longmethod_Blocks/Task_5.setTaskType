@@ -1,1 +1,0 @@
-void#setTaskType#(#String#type#)#{#this#.#taskType#=#type#;#}

@@ -1,1 +1,0 @@
-void#addWebinf#(#ZipFileSet#fs#)#{##// We just set the prefix for this fileset, and pass it up.#fs#.#setPrefix#(#"WEB-INF/"#)#;#super#.#addFileset#(#fs#)#;#}

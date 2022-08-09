@@ -1,1 +1,0 @@
-void#setOutputEncoding#(#String#outputEncoding#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#outputEncoding#=#outputEncoding#;#}

@@ -1,1 +1,0 @@
-boolean#hasWildcards#(#String#input#)#{##return#(#input#.#indexOf#(#'*'#)#!=#-#1#||#input#.#indexOf#(#'?'#)#!=#-#1#)#;#}

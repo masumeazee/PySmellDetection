@@ -1,1 +1,0 @@
-void#processTimeout#(#)#throws#BuildTimeoutException#{#super#.#processTimeout#(#)#;#throw#new#BuildTimeoutException#(#text#,#getLocation#(#)#)#;#}

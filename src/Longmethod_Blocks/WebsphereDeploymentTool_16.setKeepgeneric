@@ -1,1 +1,0 @@
-void#setKeepgeneric#(#boolean#inValue#)#{#this#.#keepGeneric#=#inValue#;#}

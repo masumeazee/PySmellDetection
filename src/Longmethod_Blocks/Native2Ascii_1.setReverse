@@ -1,1 +1,0 @@
-void#setReverse#(#boolean#reverse#)#{#this#.#reverse#=#reverse#;#}

@@ -1,1 +1,0 @@
-void#testLoadManifest#(#)#{#executeTarget#(#"loadManifest"#)#;#assertNotNull#(#getProject#(#)#.#getProperty#(#"manifest"#)#)#;##// this actually relies on the first manifest being found on##// the classpath (probably rt.jar's) being valid#assertTrue#(#getProject#(#)#.#getProperty#(#"manifest"#)#.#startsWith#(#"Manifest-Version:"#)#)#;#}

@@ -1,1 +1,0 @@
-void#resetBufferInfo#(#)#{#Thread#current#=#Thread#.#currentThread#(#)#;#BufferInfo#bufferInfo#=#(#BufferInfo#)#buffers#.#get#(#current#)#;##try#{#bufferInfo#.#buffer#.#close#(#)#;#}##catch#(#IOException#e#)#{##// Shouldn't happen#}##bufferInfo#.#buffer#=#new#ByteArrayOutputStream#(#)#;#bufferInfo#.#crSeen#=#false#;#}

@@ -1,1 +1,0 @@
-void#setupDirectoryScanner#(#FileScanner#ds#)#{#setupDirectoryScanner#(#ds#,#getProject#(#)#)#;#}

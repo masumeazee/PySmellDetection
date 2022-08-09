@@ -1,1 +1,0 @@
-boolean#canEncodeChar#(#char#c#)#{##if#(#c#>=#0#&&#c#<#128#)#{##return#true#;#}##Simple8BitChar#r#=#this#.#encodeHighChar#(#c#)#;##return#r#!=#null#;#}

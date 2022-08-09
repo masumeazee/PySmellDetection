@@ -1,1 +1,0 @@
-String#getCompilerVersion#(#)#{#facade#.#setMagicValue#(#getProject#(#)#.#getProperty#(#"build.compiler"#)#)#;##return#facade#.#getImplementation#(#)#;#}

@@ -1,1 +1,0 @@
-void#setProjectPath#(#String#projectpath#)#{##if#(#projectpath#.#startsWith#(#SOSCmd#.#PROJECT_PREFIX#)#)#{#projectPath#=#projectpath#;#}#else#{#projectPath#=#SOSCmd#.#PROJECT_PREFIX#+#projectpath#;#}#}

@@ -1,1 +1,0 @@
-void#testResourcesmatchError#(#)#{#expectBuildException#(#"resourcesmatch-error"#,#"should fail because no resources specified"#)#;#}

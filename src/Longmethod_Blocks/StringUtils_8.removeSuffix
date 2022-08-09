@@ -1,1 +1,0 @@
-String#removeSuffix#(#String#string#,#String#suffix#)#{##if#(#string#.#endsWith#(#suffix#)#)#{##return#string#.#substring#(#0#,#string#.#length#(#)#-#suffix#.#length#(#)#)#;#}#else#{##return#string#;#}#}

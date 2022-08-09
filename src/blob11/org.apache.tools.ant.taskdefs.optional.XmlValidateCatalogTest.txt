@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#TASKDEFS_DIR#+#"xmlvalidate.xml"#)#;#}##void#tearDown#(#)#{#}##void#testXmlCatalogFiles#(#)#{#executeTarget#(#"xmlcatalogfiles"#)#;#}##void#testXmlCatalogPath#(#)#{#executeTarget#(#"xmlcatalogpath"#)#;#}##

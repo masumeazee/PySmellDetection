@@ -1,1 +1,0 @@
-void#setLogin#(#final#String#vssLogin#)#{#this#.#vssLogin#=#vssLogin#;#}

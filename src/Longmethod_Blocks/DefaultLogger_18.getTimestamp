@@ -1,1 +1,0 @@
-String#getTimestamp#(#)#{#Date#date#=#new#Date#(#System#.#currentTimeMillis#(#)#)#;#DateFormat#formatter#=#DateFormat#.#getDateTimeInstance#(#DateFormat#.#SHORT#,#DateFormat#.#SHORT#)#;#String#finishTime#=#formatter#.#format#(#date#)#;##return#finishTime#;#}

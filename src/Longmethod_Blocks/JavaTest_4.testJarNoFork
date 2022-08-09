@@ -1,1 +1,0 @@
-void#testJarNoFork#(#)#{#expectBuildExceptionContaining#(#"testJarNoFork"#,#"parameter validation"#,#"Cannot execute a jar in non-forked mode. "#+#"Please set fork='true'. "#)#;#}

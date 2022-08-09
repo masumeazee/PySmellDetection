@@ -1,1 +1,0 @@
-void#setTargetos#(#String#target#)#{#TargetOs#to#=#new#TargetOs#(#)#;#to#.#setValue#(#target#)#;#setTargetos#(#to#)#;#}

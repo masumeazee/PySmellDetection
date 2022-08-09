@@ -1,1 +1,0 @@
-Date#parseDateFromHeader#(#String#datestr#)#throws#ParseException#{#synchronized#(#DATE_HEADER_FORMAT_INT#)#{##return#DATE_HEADER_FORMAT_INT#.#parse#(#datestr#)#;#}#}

@@ -1,1 +1,0 @@
-void#stringReplace#(#StringBuffer#str#,#String#str1#,#String#str2#)#{#int#found#=#str#.#indexOf#(#str1#)#;#final#int#str1Length#=#str1#.#length#(#)#;#final#int#str2Length#=#str2#.#length#(#)#;##while#(#found#>=#0#)#{#str#.#replace#(#found#,#found#+#str1Length#,#str2#)#;#found#=#str#.#indexOf#(#str1#,#found#+#str2Length#)#;#}#}

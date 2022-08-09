@@ -1,1 +1,0 @@
-void#setFromfile#(#String#fromf#)#{#this#.#fromfile#=#fromf#;#}

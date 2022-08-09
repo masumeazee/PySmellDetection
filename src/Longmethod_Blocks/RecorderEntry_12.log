@@ -1,1 +1,0 @@
-void#log#(#String#mesg#,#int#level#)#{##if#(#record#&&#(#level#<=#loglevel#)#&&#out#!=#null#)#{#out#.#println#(#mesg#)#;#}#}

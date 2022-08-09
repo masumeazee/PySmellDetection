@@ -1,1 +1,0 @@
-void#setManager#(#String#manager#)#{#helper#.#setManager#(#manager#)#;#}

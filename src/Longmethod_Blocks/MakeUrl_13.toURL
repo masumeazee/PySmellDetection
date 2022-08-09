@@ -1,1 +1,0 @@
-String#toURL#(#File#fileToConvert#)#{#String#url#;##//create the URL##//ant equivalent of  fileToConvert.toURI().toURL().toExternalForm();#url#=#FileUtils#.#getFileUtils#(#)#.#toURI#(#fileToConvert#.#getAbsolutePath#(#)#)#;##return#url#;#}

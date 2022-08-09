@@ -1,1 +1,0 @@
-void#configureProject#(#Project#project#,#File#buildFile#)#throws#BuildException#{#FileResource#resource#=#new#FileResource#(#buildFile#)#;#ProjectHelper#helper#=#ProjectHelperRepository#.#getInstance#(#)#.#getProjectHelperForBuildFile#(#resource#)#;#project#.#addReference#(#PROJECTHELPER_REFERENCE#,#helper#)#;#helper#.#parse#(#project#,#buildFile#)#;#}

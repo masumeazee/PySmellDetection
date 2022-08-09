@@ -1,1 +1,0 @@
-long#getDuration#(#)#{#return#duration#;#}##int#getNbCopied#(#)#{#return#nbCopied#;#}##int#getNbUpToDate#(#)#{#return#nbUpToDate#;#}##long#getTotalCopiedSize#(#)#{#return#totalCopiedSize#;#}##

@@ -1,1 +1,0 @@
-void#executeFork#(#)#throws#BuildException#{##if#(#version#==#BorlandDeploymentTool#.#BAS#)#{#executeForkV4#(#)#;#}##if#(#version#==#BorlandDeploymentTool#.#BES#)#{#executeForkV5#(#)#;#}#}

@@ -1,1 +1,0 @@
-void#jdkSaveProperties#(#Properties#props#,#OutputStream#os#,#String#header#)#throws#IOException#{#try#{#props#.#store#(#os#,#header#)#;#}##catch#(#IOException#ioe#)#{#throw#new#BuildException#(#ioe#,#getLocation#(#)#)#;#}##finally#{##if#(#os#!=#null#)#{#try#{#os#.#close#(#)#;#}##catch#(#IOException#ioex#)#{#log#(#"Failed to close output stream"#)#;#}#}#}#}

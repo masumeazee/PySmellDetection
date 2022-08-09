@@ -1,1 +1,0 @@
-void#push#(#String#s#)#{#push#(#s#.#toCharArray#(#)#)#;#}

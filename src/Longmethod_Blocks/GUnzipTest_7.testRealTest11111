@@ -1,1 +1,0 @@
-void#testRealTest#(#String#target#)#throws#java#.#io#.#IOException#{#executeTarget#(#target#)#;#assertTrue#(#FILE_UTILS#.#contentEquals#(#project#.#resolveFile#(#"../asf-logo.gif"#)#,#project#.#resolveFile#(#"asf-logo.gif"#)#)#)#;#}

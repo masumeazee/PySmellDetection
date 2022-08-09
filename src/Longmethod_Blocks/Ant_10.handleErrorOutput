@@ -1,1 +1,0 @@
-void#handleErrorOutput#(#String#errorOutputToHandle#)#{##if#(#newProject#!=#null#)#{#newProject#.#demuxOutput#(#errorOutputToHandle#,#true#)#;#}#else#{#super#.#handleErrorOutput#(#errorOutputToHandle#)#;#}#}

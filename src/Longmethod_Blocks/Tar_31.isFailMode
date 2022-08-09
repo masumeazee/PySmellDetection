@@ -1,1 +1,0 @@
-boolean#isFailMode#(#)#{##return#FAIL#.#equalsIgnoreCase#(#getValue#(#)#)#;#}

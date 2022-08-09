@@ -1,1 +1,0 @@
-void#testInvalidSuite#(#)#{#TestRunner#runner#=#createRunner#(#InvalidSuiteTestCase#.#class#)#;#runner#.#run#(#)#;#String#error#=#runner#.#getFormatter#(#)#.#getError#(#)#;#assertEquals#(#error#,#JUnitTestRunner#.#ERRORS#,#runner#.#getRetCode#(#)#)#;#assertTrue#(#error#,#error#.#indexOf#(#"thrown on purpose"#)#!=#-#1#)#;#}

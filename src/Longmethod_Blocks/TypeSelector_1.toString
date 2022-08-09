@@ -1,1 +1,0 @@
-String#toString#(#)#{#StringBuffer#buf#=#new#StringBuffer#(#"{typeselector type: "#)#;#buf#.#append#(#type#)#;#buf#.#append#(#"}"#)#;##return#buf#.#toString#(#)#;#}

@@ -1,1 +1,0 @@
-int#getMode#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveResource#)#getCheckedRef#(#)#)#.#getMode#(#)#;#}##checkEntry#(#)#;##return#mode#;#}

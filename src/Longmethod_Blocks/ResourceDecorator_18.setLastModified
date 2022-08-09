@@ -1,1 +1,0 @@
-void#setLastModified#(#long#lastmodified#)#throws#BuildException#{#throw#new#BuildException#(#"you can't change the timestamp of a "#+#getDataTypeName#(#)#)#;#}

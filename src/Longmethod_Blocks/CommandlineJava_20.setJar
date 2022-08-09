@@ -1,1 +1,0 @@
-void#setJar#(#String#jarpathname#)#{#javaCommand#.#setExecutable#(#jarpathname#)#;#executeJar#=#true#;#}

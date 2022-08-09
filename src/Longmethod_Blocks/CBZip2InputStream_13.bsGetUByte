@@ -1,1 +1,0 @@
-char#bsGetUByte#(#)#throws#IOException#{##return#(#char#)#bsR#(#8#)#;#}

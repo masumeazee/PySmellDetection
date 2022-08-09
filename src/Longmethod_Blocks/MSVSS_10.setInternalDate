@@ -1,1 +1,0 @@
-void#setInternalDate#(#final#String#date#)#{#this#.#date#=#date#;#}

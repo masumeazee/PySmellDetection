@@ -1,1 +1,0 @@
-void#setCmpversion#(#CMPVersion#version#)#{#this#.#cmpVersion#=#version#.#getValue#(#)#;#}

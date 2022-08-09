@@ -1,1 +1,0 @@
-void#test1#(#)#{#executeTarget#(#"test1"#)#;#assertTrue#(#"translation of "#+#TASKDEFS_DIR#+#"/input/template.txt"#,#compareFiles#(#TASKDEFS_DIR#+#"/expected/de/template.txt"#,#TASKDEFS_DIR#+#"/output/de/template.txt"#)#)#;#}

@@ -1,1 +1,0 @@
-Channel#openExecChannel#(#String#command#)#throws#JSchException#{#ChannelExec#channel#=#(#ChannelExec#)#session#.#openChannel#(#"exec"#)#;#channel#.#setCommand#(#command#)#;##return#channel#;#}

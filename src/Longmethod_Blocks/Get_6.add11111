@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{#sources#.#add#(#rc#)#;#}

@@ -1,1 +1,0 @@
-Iterator#iterator#(#)#{##if#(#isReference#(#)#)#{##return#(#(#FileList#)#getRef#(#getProject#(#)#)#)#.#iterator#(#)#;#}##return#new#FileResourceIterator#(#getProject#(#)#,#dir#,#(#String#[#]#)#(#filenames#.#toArray#(#new#String#[#filenames#.#size#(#)#]#)#)#)#;#}

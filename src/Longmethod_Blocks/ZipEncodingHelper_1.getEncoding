@@ -1,1 +1,0 @@
-Simple8BitZipEncoding#getEncoding#(#)#{##if#(#this#.#encoding#==#null#)#{#this#.#encoding#=#new#Simple8BitZipEncoding#(#this#.#highChars#)#;#}##return#this#.#encoding#;#}

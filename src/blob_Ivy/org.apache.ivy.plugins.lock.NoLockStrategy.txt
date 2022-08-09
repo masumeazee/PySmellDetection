@@ -1,1 +1,0 @@
-boolean#lockArtifact#(#Artifact#artifact#,#File#artifactFileToDownload#)#{#return#true#;#}##void#unlockArtifact#(#Artifact#artifact#,#File#artifactFileToDownload#)#{#}##

@@ -1,1 +1,0 @@
-void#setSystemOutput#(#String#out#)#{#formatOutput#(#SYSTEM_OUT#,#out#)#;#}

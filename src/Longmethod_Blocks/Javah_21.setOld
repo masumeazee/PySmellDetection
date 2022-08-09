@@ -1,1 +1,0 @@
-void#setOld#(#boolean#old#)#{#this#.#old#=#old#;#}

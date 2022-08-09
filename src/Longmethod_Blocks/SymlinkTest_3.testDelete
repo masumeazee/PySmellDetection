@@ -1,1 +1,0 @@
-void#testDelete#(#)#{##if#(#supportsSymlinks#)#{#executeTarget#(#"test-delete"#)#;#p#=#getProject#(#)#;#String#linkDeleted#=#p#.#getProperty#(#"test.delete.link.still.there"#)#;#assertNotNull#(#"Actual file deleted by symlink"#,#p#.#getProperty#(#"test.delete.file.still.there"#)#)#;##if#(#linkDeleted#!=#null#)#{#fail#(#linkDeleted#)#;#}#}#}

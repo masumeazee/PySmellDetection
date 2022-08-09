@@ -1,1 +1,0 @@
-void#testFileSet#(#)#{#Path#p#=#new#Path#(#project#)#;#FileSet#f#=#new#FileSet#(#)#;#f#.#setProject#(#project#)#;#f#.#setDir#(#project#.#resolveFile#(#"."#)#)#;#f#.#setIncludes#(#"build.xml"#)#;#p#.#addFileset#(#f#)#;#String#[#]#l#=#p#.#list#(#)#;#assertEquals#(#1#,#l#.#length#)#;#assertEquals#(#project#.#resolveFile#(#"build.xml"#)#.#getAbsolutePath#(#)#,#l#[#0#]#)#;#}

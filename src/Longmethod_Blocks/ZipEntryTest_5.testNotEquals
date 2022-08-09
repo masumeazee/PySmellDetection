@@ -1,1 +1,0 @@
-void#testNotEquals#(#)#{#ZipEntry#entry1#=#new#ZipEntry#(#"foo"#)#;#ZipEntry#entry2#=#new#ZipEntry#(#"bar"#)#;#assertFalse#(#entry1#.#equals#(#entry2#)#)#;#}

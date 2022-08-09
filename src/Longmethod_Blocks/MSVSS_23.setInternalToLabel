@@ -1,1 +1,0 @@
-void#setInternalToLabel#(#final#String#toLabel#)#{#this#.#toLabel#=#toLabel#;#}

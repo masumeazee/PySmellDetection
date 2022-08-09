@@ -1,1 +1,0 @@
-void#setSystemError#(#String#out#)#{#formatOutput#(#SYSTEM_ERR#,#out#)#;#}

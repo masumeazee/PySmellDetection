@@ -1,1 +1,0 @@
-void#setErrorProperty#(#String#errorProperty#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#errorProperty#=#errorProperty#;#}

@@ -1,1 +1,0 @@
-void#setEcho#(#boolean#b#)#{#echoString#=#b#;#}

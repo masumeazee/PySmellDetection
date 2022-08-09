@@ -1,1 +1,0 @@
-void#testConfigurationNone#(#)#{#int#[#]#expectedCounts#=#{#0#,#0#,#0#,#0#,#0#,#0#,#0#}#;#performConfigTest#(#"configuration.none"#,#expectedCounts#)#;#}

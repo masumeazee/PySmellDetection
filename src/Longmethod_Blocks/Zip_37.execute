@@ -1,1 +1,0 @@
-void#execute#(#)#throws#BuildException#{##if#(#doubleFilePass#)#{#skipWriting#=#true#;#executeMain#(#)#;#skipWriting#=#false#;#executeMain#(#)#;#}#else#{#executeMain#(#)#;#}#}

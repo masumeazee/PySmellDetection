@@ -1,1 +1,0 @@
-String#toString#(#)#{#dieOnCircularReference#(#)#;#StringBuffer#buf#=#new#StringBuffer#(#)#;#Enumeration#e#=#selectorElements#(#)#;##if#(#e#.#hasMoreElements#(#)#)#{#while#(#e#.#hasMoreElements#(#)#)#{#buf#.#append#(#e#.#nextElement#(#)#.#toString#(#)#)#;##if#(#e#.#hasMoreElements#(#)#)#{#buf#.#append#(#", "#)#;#}#}#}##return#buf#.#toString#(#)#;#}

@@ -1,1 +1,0 @@
-String#[#]#mapFileName#(#String#sourceFileName#)#{##return#new#String#[#]#{#new#java#.#io#.#File#(#sourceFileName#)#.#getName#(#)#}#;#}

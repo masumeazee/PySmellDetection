@@ -1,1 +1,0 @@
-void#push#(#int#c#)#{#try#{#preempt#[#preemptIndex#++#]#=#c#;#}##catch#(#ArrayIndexOutOfBoundsException#e#)#{#int#[#]#p2#=#new#int#[#preempt#.#length#*#2#]#;#System#.#arraycopy#(#preempt#,#0#,#p2#,#0#,#preempt#.#length#)#;#preempt#=#p2#;#push#(#c#)#;#}#}

@@ -1,1 +1,0 @@
-void#start#(#Process#process#)#{##if#(#process#==#null#)#{#throw#new#NullPointerException#(#"process is null."#)#;#}##if#(#this#.#process#!=#null#)#{#throw#new#IllegalStateException#(#"Already running."#)#;#}##this#.#caught#=#null#;#this#.#killedProcess#=#false#;#this#.#watch#=#true#;#this#.#process#=#process#;#watchdog#.#start#(#)#;#}

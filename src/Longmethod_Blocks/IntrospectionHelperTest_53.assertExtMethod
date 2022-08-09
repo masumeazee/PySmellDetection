@@ -1,1 +1,0 @@
-void#assertExtMethod#(#Object#mo#,#String#methodName#,#Class#methodArg#,#Object#arg#,#Object#badArg#)#{#assertMethod#(#(#Method#)#mo#,#methodName#,#methodArg#,#arg#,#badArg#)#;#}

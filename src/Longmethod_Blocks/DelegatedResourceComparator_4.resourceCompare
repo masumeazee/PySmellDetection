@@ -1,1 +1,0 @@
-int#resourceCompare#(#Resource#foo#,#Resource#bar#)#{##//if no nested, natural order:##if#(#v#==#null#||#v#.#isEmpty#(#)#)#{##return#foo#.#compareTo#(#bar#)#;#}##int#result#=#0#;##for#(#Iterator#i#=#v#.#iterator#(#)#;##result#==#0#&&#i#.#hasNext#(#)#;#)#{#result#=#(#(#ResourceComparator#)#i#.#next#(#)#)#.#resourceCompare#(#foo#,#bar#)#;#}##return#result#;#}

@@ -1,1 +1,0 @@
-void#testSimple#(#)#{#expectLog#(#"simple"#,#"Hello World"#)#;#}

@@ -1,1 +1,0 @@
-void#setReplaceFilterFile#(#File#replaceFilterFile#)#{#setReplaceFilterResource#(#new#FileResource#(#getProject#(#)#,#replaceFilterFile#)#)#;#}

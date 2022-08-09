@@ -1,1 +1,0 @@
-String#classNameToResource#(#String#className#)#{##return#className#.#replace#(#'.'#,#'/'#)#+#".class"#;#}

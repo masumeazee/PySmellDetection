@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#c#)#{#checkChildrenAllowed#(#)#;##if#(#c#==#null#)#{##return#;#}##if#(#union#==#null#)#{#union#=#new#Union#(#)#;#union#.#setProject#(#getProject#(#)#)#;#union#.#setCache#(#cache#)#;#}##union#.#add#(#c#)#;#setChecked#(#false#)#;#}

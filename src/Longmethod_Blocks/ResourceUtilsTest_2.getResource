@@ -1,1 +1,0 @@
-Resource#getResource#(#String#name#)#{##return#new#Resource#(#name#)#;##// implies lastModified == 0#}

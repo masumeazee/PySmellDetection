@@ -1,1 +1,0 @@
-boolean#eval#(#)#throws#BuildException#{#Enumeration#e#=#getConditions#(#)#;##//initial state is false.#boolean#state#=#false#;##while#(#e#.#hasMoreElements#(#)#)#{#Condition#c#=#(#Condition#)#e#.#nextElement#(#)#;##//every condition is xored against the previous one#state#^=#c#.#eval#(#)#;#}##return#state#;#}

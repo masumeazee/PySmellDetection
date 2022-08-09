@@ -1,1 +1,0 @@
-String#toString#(#)#{#StringBuffer#buffer#=#new#StringBuffer#(#)#;#buffer#.#append#(#namespace#!=#null#?#namespace#:#"(anonymous)"#)#;#buffer#.#append#(#' '#)#;#buffer#.#append#(#url#!=#null#?#(#url#+#" "#)#:#""#)#;#buffer#.#append#(#file#!=#null#?#file#.#getAbsolutePath#(#)#:#""#)#;##return#buffer#.#toString#(#)#;#}

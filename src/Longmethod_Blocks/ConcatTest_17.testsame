@@ -1,1 +1,0 @@
-void#testsame#(#)#{#expectBuildException#(#"samefile"#,#"output file same as input"#)#;#}

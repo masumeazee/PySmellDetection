@@ -1,1 +1,0 @@
-void#startProject#(#)#{#timeStarted#=#new#GregorianCalendar#(#)#;#project#.#executeTarget#(#target#)#;#timeFinished#=#new#GregorianCalendar#(#)#;#}

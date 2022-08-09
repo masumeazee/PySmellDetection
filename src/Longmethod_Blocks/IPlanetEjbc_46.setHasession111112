@@ -1,1 +1,0 @@
-void#setHasession#(#boolean#hasession#)#{#this#.#hasession#=#hasession#;#}

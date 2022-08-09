@@ -1,1 +1,0 @@
-void#handleFlush#(#String#toFlush#)#{##if#(#newProject#!=#null#)#{#newProject#.#demuxFlush#(#toFlush#,#false#)#;#}#else#{#super#.#handleFlush#(#toFlush#)#;#}#}

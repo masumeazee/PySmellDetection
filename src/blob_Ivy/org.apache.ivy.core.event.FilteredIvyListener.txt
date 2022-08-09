@@ -1,1 +1,0 @@
-IvyListener#getIvyListener#(#)#{#return#listener#;#}##Filter#getFilter#(#)#{#return#filter#;#}##void#progress#(#IvyEvent#event#)#{#if#(#filter#.#accept#(#event#)#)#{#listener#.#progress#(#event#)#;#}#}##

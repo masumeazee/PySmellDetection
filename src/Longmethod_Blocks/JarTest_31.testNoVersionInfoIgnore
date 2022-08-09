@@ -1,1 +1,0 @@
-void#testNoVersionInfoIgnore#(#)#{#executeTarget#(#"testNoVersionInfoIgnore"#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"No Implementation-Title set."#)#>#-#1#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"No Implementation-Version set."#)#>#-#1#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"No Implementation-Vendor set."#)#>#-#1#)#;#}

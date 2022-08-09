@@ -1,1 +1,0 @@
-void#addText#(#char#[#]#buf#,#int#start#,#int#count#)#{##if#(#count#==#0#)#{##return#;#}##characters#=#(#(#characters#==#null#)#?#new#StringBuffer#(#count#)#:#characters#)#.#append#(#buf#,#start#,#count#)#;#}

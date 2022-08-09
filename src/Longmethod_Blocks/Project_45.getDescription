@@ -1,1 +1,0 @@
-String#getDescription#(#)#{##if#(#description#==#null#)#{#description#=#Description#.#getDescription#(#this#)#;#}##return#description#;#}

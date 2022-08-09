@@ -1,1 +1,0 @@
-void#setPropertiesResource#(#Resource#r#)#{#makeTokensFromProperties#(#r#)#;#}

@@ -1,1 +1,0 @@
-Statement#getStatement#(#)#throws#SQLException#{##if#(#statement#==#null#)#{#statement#=#getConnection#(#)#.#createStatement#(#)#;#statement#.#setEscapeProcessing#(#escapeProcessing#)#;#}##return#statement#;#}

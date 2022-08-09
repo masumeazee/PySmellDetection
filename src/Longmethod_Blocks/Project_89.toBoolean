@@ -1,1 +1,0 @@
-boolean#toBoolean#(#String#s#)#{##return#(#"on"#.#equalsIgnoreCase#(#s#)#||#"true"#.#equalsIgnoreCase#(#s#)#||#"yes"#.#equalsIgnoreCase#(#s#)#)#;#}

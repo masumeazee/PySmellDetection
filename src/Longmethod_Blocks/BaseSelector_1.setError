@@ -1,1 +1,0 @@
-void#setError#(#String#msg#)#{##if#(#errmsg#==#null#)#{#errmsg#=#msg#;#}#}

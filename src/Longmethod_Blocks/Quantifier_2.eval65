@@ -1,1 +1,0 @@
-boolean#eval#(#int#t#,#int#f#)#{##return#f#==#0#;#}

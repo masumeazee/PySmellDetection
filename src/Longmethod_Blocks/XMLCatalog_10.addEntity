@@ -1,1 +1,0 @@
-void#addEntity#(#ResourceLocation#entity#)#throws#BuildException#{#addDTD#(#entity#)#;#}

@@ -1,1 +1,0 @@
-void#setUmask#(#String#theUmask#)#{#this#.#umask#=#theUmask#;#}

@@ -1,1 +1,0 @@
-void#setGeneration#(#boolean#b#)#{#generation#=#b#;#}

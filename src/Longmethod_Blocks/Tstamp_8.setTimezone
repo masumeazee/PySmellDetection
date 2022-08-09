@@ -1,1 +1,0 @@
-void#setTimezone#(#String#id#)#{#timeZone#=#TimeZone#.#getTimeZone#(#id#)#;#}

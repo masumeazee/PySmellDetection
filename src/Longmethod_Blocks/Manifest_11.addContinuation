@@ -1,1 +1,0 @@
-void#addContinuation#(#String#line#)#{#String#currentValue#=#(#String#)#values#.#elementAt#(#currentIndex#)#;#setValue#(#currentValue#+#line#.#substring#(#1#)#)#;#}

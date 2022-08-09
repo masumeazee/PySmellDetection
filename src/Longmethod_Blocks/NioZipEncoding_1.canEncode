@@ -1,1 +1,0 @@
-boolean#canEncode#(#String#name#)#{#CharsetEncoder#enc#=#this#.#charset#.#newEncoder#(#)#;#enc#.#onMalformedInput#(#CodingErrorAction#.#REPORT#)#;#enc#.#onUnmappableCharacter#(#CodingErrorAction#.#REPORT#)#;##return#enc#.#canEncode#(#name#)#;#}

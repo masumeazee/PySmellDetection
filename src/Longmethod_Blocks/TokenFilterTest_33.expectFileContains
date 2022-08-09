@@ -1,1 +1,0 @@
-void#expectFileContains#(#String#target#,#String#name#,#String#contains#)#throws#IOException#{#executeTarget#(#target#)#;#expectFileContains#(#name#,#contains#)#;#}

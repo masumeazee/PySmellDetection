@@ -1,1 +1,0 @@
-int#getMajorVersionNumber#(#File#home#)#throws#BuildException#{##return#ARCHIVE_LOCATIONS_VS_MAJOR_VERSION#[#getArchiveLocationIndex#(#home#)#]#;#}

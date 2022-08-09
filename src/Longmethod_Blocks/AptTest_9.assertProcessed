@@ -1,1 +1,0 @@
-void#assertProcessed#(#)#{#assertLogContaining#(#"DistributedAnnotationProcessor-is-go"#)#;#assertLogContaining#(#"[-Abuild.dir="#)#;#assertLogContaining#(#"visiting DistributedAnnotationFactory"#)#;#}

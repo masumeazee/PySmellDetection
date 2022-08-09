@@ -1,5 +1,0 @@
-Object#createNestedElement#(#String#elementName#)#{#NestedElement#definition#=#(#NestedElement#)#nestedElementMap#.#get#(#elementName#)#;##if#(#definition#==#null#)#{#throw#new#BuildException#(#"<"#+#name#+#"> does not support "#+#"the <"#+#elementName#+#"> nested element"#)#;#}##Object#instance#=#null#;#String#classname#=#definition#.#className#;##if#(#classname#==#null#)#{#instance#=#getProject#(#)#.#createTask#(#definition#.#type#)#;##if#(#instance#==#null#)#{#instance#=#getProject#(#)#.#createDataType#(#definition#.#type#)#;#}#}#else#{##/*
-            // try the context classloader
-            ClassLoader loader
-                = Thread.currentThread().getContextClassLoader();
-            */#ClassLoader#loader#=#createLoader#(#)#;##try#{#instance#=#ClasspathUtils#.#newInstance#(#classname#,#loader#)#;#}##catch#(#BuildException#e#)#{#instance#=#ClasspathUtils#.#newInstance#(#classname#,#ScriptDef#.#class#.#getClassLoader#(#)#)#;#}##getProject#(#)#.#setProjectReference#(#instance#)#;#}##if#(#instance#==#null#)#{#throw#new#BuildException#(#"<"#+#name#+#"> is unable to create "#+#"the <"#+#elementName#+#"> nested element"#)#;#}##return#instance#;#}

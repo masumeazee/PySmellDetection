@@ -1,1 +1,0 @@
-List#getDelegates#(#Class#type#)#{#List#r#=#(#List#)#delegates#.#get#(#type#)#;##return#r#==#null#?#Collections#.#EMPTY_LIST#:#r#;#}

@@ -1,1 +1,0 @@
-FilterChain#createOutputFilterChain#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##FilterChain#result#=#new#FilterChain#(#)#;#result#.#setProject#(#getProject#(#)#)#;#outputFilterChains#.#add#(#result#)#;#setChecked#(#false#)#;##return#result#;#}

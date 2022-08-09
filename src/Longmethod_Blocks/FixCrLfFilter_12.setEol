@@ -1,1 +1,0 @@
-void#setEol#(#CrLf#attr#)#{#eol#=#attr#.#resolve#(#)#;#}

@@ -1,1 +1,0 @@
-void#testTaskDefinitionContains#(#)#{#assertTrue#(#p#.#getTaskDefinitions#(#)#.#contains#(#org#.#apache#.#tools#.#ant#.#taskdefs#.#Echo#.#class#)#)#;#}

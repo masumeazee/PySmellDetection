@@ -1,1 +1,0 @@
-void#testIf#(#)#{#try#{#executeTarget#(#"testIf"#)#;#}##catch#(#BuildException#be#)#{#fail#(#"foo has not been defined, testIf must not fail"#)#;#}##project#.#setProperty#(#"foo"#,#""#)#;#expectBuildException#(#"testIf"#,#"testIf must fail if foo has been set"#)#;#}

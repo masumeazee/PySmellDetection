@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{##if#(#eof#)#{##return#EOF#;#}##int#result#=#readCurrent#(#)#;##if#(#result#==#EOF#)#{#nextResource#(#)#;#result#=#readCurrent#(#)#;#}##return#result#;#}

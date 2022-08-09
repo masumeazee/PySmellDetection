@@ -1,1 +1,0 @@
-void#setExtension#(#String#ext#)#{#task#.#log#(#"extension is not used anymore"#,#Project#.#MSG_WARN#)#;#}

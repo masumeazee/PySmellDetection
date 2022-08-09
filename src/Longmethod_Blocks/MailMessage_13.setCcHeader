@@ -1,1 +1,0 @@
-void#setCcHeader#(#)#{##if#(#!#cc#.#isEmpty#(#)#)#{#setHeader#(#"Cc"#,#vectorToList#(#cc#)#)#;#}#}

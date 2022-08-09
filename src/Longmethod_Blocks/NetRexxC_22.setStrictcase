@@ -1,1 +1,0 @@
-void#setStrictcase#(#boolean#strictcase#)#{#this#.#strictcase#=#strictcase#;#}

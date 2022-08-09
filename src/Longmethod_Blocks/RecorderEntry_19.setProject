@@ -1,1 +1,0 @@
-void#setProject#(#Project#project#)#{#this#.#project#=#project#;##if#(#project#!=#null#)#{#project#.#addBuildListener#(#this#)#;#}#}

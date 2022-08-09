@@ -1,1 +1,0 @@
-void#setRealThing#(#Object#realThing#)#{#this#.#realThing#=#realThing#;#}

@@ -1,1 +1,0 @@
-void#setShowheaders#(#boolean#showheaders#)#{#this#.#showheaders#=#showheaders#;#}

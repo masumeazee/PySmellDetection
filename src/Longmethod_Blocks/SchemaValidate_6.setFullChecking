@@ -1,1 +1,0 @@
-void#setFullChecking#(#boolean#fullChecking#)#{#this#.#fullChecking#=#fullChecking#;#}

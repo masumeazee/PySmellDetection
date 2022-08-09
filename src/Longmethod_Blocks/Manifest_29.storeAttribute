@@ -1,1 +1,0 @@
-void#storeAttribute#(#Attribute#attribute#)#{##if#(#attribute#==#null#)#{##return#;#}##String#attributeKey#=#attribute#.#getKey#(#)#;#attributes#.#put#(#attributeKey#,#attribute#)#;##if#(#!#attributeIndex#.#contains#(#attributeKey#)#)#{#attributeIndex#.#addElement#(#attributeKey#)#;#}#}

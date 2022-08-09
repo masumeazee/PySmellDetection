@@ -1,1 +1,0 @@
-void#setFile#(#File#v#)#{#log#(#"working file "#+#v#,#Project#.#MSG_VERBOSE#)#;#this#.#file#=#v#;#}

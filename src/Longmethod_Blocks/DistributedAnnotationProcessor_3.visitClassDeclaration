@@ -1,1 +1,0 @@
-void#visitClassDeclaration#(#ClassDeclaration#d#)#{#echo#(#"visiting "#+#d#.#getQualifiedName#(#)#)#;#}

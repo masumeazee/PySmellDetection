@@ -1,1 +1,0 @@
-boolean#equals#(#Object#other#)#{##return#other#instanceof#AddAsisRemove#&&#getIndex#(#)#==#(#(#AddAsisRemove#)#other#)#.#getIndex#(#)#;#}

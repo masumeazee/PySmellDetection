@@ -1,1 +1,0 @@
-void#handleLogfile#(#)#{##if#(#isLogFileUsed#)#{#FileUtils#.#close#(#out#)#;#FileUtils#.#close#(#err#)#;#}#}

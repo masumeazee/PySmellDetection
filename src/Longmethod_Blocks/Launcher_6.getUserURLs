@@ -1,1 +1,0 @@
-URL#[#]#getUserURLs#(#)#throws#MalformedURLException#{#File#userLibDir#=#new#File#(#System#.#getProperty#(#USER_HOMEDIR#)#,#USER_LIBDIR#)#;##return#Locator#.#getLocationURLs#(#userLibDir#)#;#}

@@ -1,1 +1,0 @@
-String#getTaskName#(#)#{##//return elementName;##return#realThing#==#null#||#!#(#realThing#instanceof#Task#)#?#super#.#getTaskName#(#)#:#(#(#Task#)#realThing#)#.#getTaskName#(#)#;#}

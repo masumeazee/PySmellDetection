@@ -1,1 +1,0 @@
-Vector#vectorizeEmailAddresses#(#String#listString#)#{#Vector#emailList#=#new#Vector#(#)#;#StringTokenizer#tokens#=#new#StringTokenizer#(#listString#,#","#)#;##while#(#tokens#.#hasMoreTokens#(#)#)#{#emailList#.#addElement#(#new#EmailAddress#(#tokens#.#nextToken#(#)#)#)#;#}##return#emailList#;#}

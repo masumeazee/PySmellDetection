@@ -1,1 +1,0 @@
-void#setResource#(#String#res#)#{##if#(#definerSet#)#{#tooManyDefinitions#(#)#;#}##definerSet#=#true#;#this#.#resource#=#res#;#}

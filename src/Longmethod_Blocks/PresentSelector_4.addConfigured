@@ -1,1 +1,0 @@
-void#addConfigured#(#FileNameMapper#fileNameMapper#)#{##if#(#map#!=#null#||#mapperElement#!=#null#)#{#throw#new#BuildException#(#"Cannot define more than one mapper"#)#;#}##this#.#map#=#fileNameMapper#;#}

@@ -1,1 +1,0 @@
-void#setDest#(#File#dest#)#{#this#.#destination#=#dest#;#}

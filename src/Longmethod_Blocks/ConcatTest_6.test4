@@ -1,1 +1,0 @@
-void#test4#(#)#{#test3#(#)#;#File#file#=#new#File#(#getProjectDir#(#)#,#tempFile#)#;#final#long#origSize#=#file#.#length#(#)#;#executeTarget#(#"test4"#)#;#File#file2#=#new#File#(#getProjectDir#(#)#,#tempFile2#)#;#final#long#newSize#=#file2#.#length#(#)#;#assertEquals#(#origSize#*#3#,#newSize#)#;#}

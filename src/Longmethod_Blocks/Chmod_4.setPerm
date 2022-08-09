@@ -1,1 +1,0 @@
-void#setPerm#(#String#perm#)#{#createArg#(#)#.#setValue#(#perm#)#;#havePerm#=#true#;#}

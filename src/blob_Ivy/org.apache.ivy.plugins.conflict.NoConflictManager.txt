@@ -1,1 +1,0 @@
-Collection#resolveConflicts#(#IvyNode#parent#,#Collection#conflicts#)#{#return#conflicts#;#}##

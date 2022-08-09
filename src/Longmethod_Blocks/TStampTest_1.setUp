@@ -1,1 +1,0 @@
-void#setUp#(#)#throws#Exception#{#location#=#new#Location#(#"test.xml"#)#;#project#=#new#Project#(#)#;#tstamp#=#new#Tstamp#(#)#;#tstamp#.#setLocation#(#location#)#;#tstamp#.#setProject#(#project#)#;#}

@@ -1,1 +1,0 @@
-int#read#(#)#throws#IOException#{#int#c#=#in#.#read#(#)#;##if#(#c#==#replace#)##return#with#;##else##return#c#;#}

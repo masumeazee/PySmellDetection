@@ -1,1 +1,0 @@
-void#setInput#(#File#input#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#inputString#!=#null#)#{#throw#new#BuildException#(#"The \"input\" and \"inputstring\" "#+#"attributes cannot both be specified"#)#;#}##usingInput#=#true#;#inputMapper#=#createMergeMapper#(#input#)#;#}

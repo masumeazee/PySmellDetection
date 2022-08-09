@@ -1,1 +1,0 @@
-void#setFullpath#(#String#fullpath#)#{#checkArchiveAttributesAllowed#(#)#;##if#(#!#""#.#equals#(#prefix#)#&&#!#""#.#equals#(#fullpath#)#)#{#throw#new#BuildException#(#ERROR_PATH_AND_PREFIX#)#;#}##this#.#fullpath#=#fullpath#;#}

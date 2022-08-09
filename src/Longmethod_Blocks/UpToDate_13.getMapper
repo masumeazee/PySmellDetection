@@ -1,1 +1,0 @@
-FileNameMapper#getMapper#(#)#{#FileNameMapper#mapper#=#null#;##if#(#mapperElement#==#null#)#{#MergingMapper#mm#=#new#MergingMapper#(#)#;#mm#.#setTo#(#targetFile#.#getAbsolutePath#(#)#)#;#mapper#=#mm#;#}#else#{#mapper#=#mapperElement#.#getImplementation#(#)#;#}##return#mapper#;#}

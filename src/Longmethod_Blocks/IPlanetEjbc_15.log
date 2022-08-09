@@ -1,1 +1,0 @@
-void#log#(#String#msg#)#{##if#(#debugOutput#)#{#System#.#out#.#println#(#msg#)#;#}#}

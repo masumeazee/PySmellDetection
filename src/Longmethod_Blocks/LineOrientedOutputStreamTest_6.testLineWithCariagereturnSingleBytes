@@ -1,1 +1,0 @@
-void#testLineWithCariagereturnSingleBytes#(#)#throws#IOException#{#writeSingleBytes#(#)#;#stream#.#write#(#'\r'#)#;#stream#.#assertInvoked#(#)#;#}

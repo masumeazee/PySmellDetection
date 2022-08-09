@@ -1,1 +1,0 @@
-void#processDoUpdate#(#)#{##// Whether or not an actual update is required -##// we don't need to update if the original file doesn't exist##if#(#doUpdate#&&#!#zipFile#.#exists#(#)#)#{#doUpdate#=#false#;#logWhenWriting#(#"ignoring update attribute as "#+#archiveType#+#" doesn't exist."#,#Project#.#MSG_DEBUG#)#;#}#}

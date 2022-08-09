@@ -1,1 +1,0 @@
-String#[#]#getValues#(#)#{#return#VALUES#;#}##boolean#evaluate#(#int#comparisonResult#)#{#if#(#getIndex#(#)#==#-#1#)#{#throw#new#BuildException#(#"Comparison value not set."#)#;#}#int#[#]#i#=#comparisonResult#<#0#?#LESS_INDEX#:#comparisonResult#>#0#?#GREATER_INDEX#:#EQUAL_INDEX#;#return#Arrays#.#binarySearch#(#i#,#getIndex#(#)#)#>=#0#;#}##

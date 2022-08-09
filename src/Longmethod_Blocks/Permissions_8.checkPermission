@@ -1,4 +1,0 @@
-void#checkPermission#(#java#.#security#.#Permission#perm#)#{##if#(#active#)#{##if#(#delegateToOldSM#&&#!#perm#.#getName#(#)#.#equals#(#"exitVM"#)#)#{#boolean#permOK#=#false#;##if#(#granted#.#implies#(#perm#)#)#{#permOK#=#true#;#}##checkRevoked#(#perm#)#;##/*
-                     if the permission was not explicitly granted or revoked
-                     the original security manager will do its work
-                    */##if#(#!#permOK#&&#origSm#!=#null#)#{#origSm#.#checkPermission#(#perm#)#;#}#}#else#{##if#(#!#granted#.#implies#(#perm#)#)#{#throw#new#SecurityException#(#"Permission "#+#perm#+#" was not granted."#)#;#}##checkRevoked#(#perm#)#;#}#}#}

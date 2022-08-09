@@ -1,1 +1,0 @@
-void#setClientjar#(#File#clientjar#)#{#clientjarfile#=#clientjar#;#}

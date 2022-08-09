@@ -1,1 +1,0 @@
-boolean#selectionTest#(#File#srcfile#,#File#destfile#)#{#boolean#selected#=#SelectorUtils#.#isOutOfDate#(#srcfile#,#destfile#,#granularity#)#;##return#selected#;#}

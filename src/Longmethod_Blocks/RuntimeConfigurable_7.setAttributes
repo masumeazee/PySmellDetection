@@ -1,1 +1,0 @@
-void#setAttributes#(#AttributeList#attributes#)#{#this#.#attributes#=#new#AttributeListImpl#(#attributes#)#;##for#(#int#i#=#0#;##i#<#attributes#.#getLength#(#)#;#i#++#)#{#setAttribute#(#attributes#.#getName#(#i#)#,#attributes#.#getValue#(#i#)#)#;#}#}

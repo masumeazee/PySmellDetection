@@ -1,1 +1,0 @@
-String#[#]#getCommandline#(#)#{##//create the list#List#commands#=#new#LinkedList#(#)#;#final#ListIterator#listIterator#=#commands#.#listIterator#(#)#;##//fill it#addCommandsToList#(#listIterator#)#;##//convert to an array##return#(#String#[#]#)#commands#.#toArray#(#new#String#[#commands#.#size#(#)#]#)#;#}

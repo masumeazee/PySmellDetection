@@ -1,1 +1,0 @@
-void#setUser#(#String#p4User#)#{#this#.#P4User#=#"-u"#+#p4User#;#}

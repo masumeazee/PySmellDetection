@@ -1,1 +1,0 @@
-boolean#isNmtoken#(#String#s#)#{#final#int#length#=#s#.#length#(#)#;##for#(#int#i#=#0#;##i#<#length#;#i#++#)#{#char#c#=#s#.#charAt#(#i#)#;##// XXX - we are committing CombiningChar and Extender here##if#(#!#Character#.#isLetterOrDigit#(#c#)#&&#c#!=#'.'#&&#c#!=#'-'#&&#c#!=#'_'#&&#c#!=#':'#)#{##return#false#;#}#}##return#true#;#}

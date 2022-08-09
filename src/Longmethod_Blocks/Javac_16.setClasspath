@@ -1,1 +1,0 @@
-void#setClasspath#(#Path#classpath#)#{##if#(#compileClasspath#==#null#)#{#compileClasspath#=#classpath#;#}#else#{#compileClasspath#.#append#(#classpath#)#;#}#}

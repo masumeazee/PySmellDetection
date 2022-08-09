@@ -1,1 +1,0 @@
-String#convertSlashName#(#String#name#)#{##return#name#.#replace#(#'\\'#,#'.'#)#.#replace#(#'/'#,#'.'#)#;#}

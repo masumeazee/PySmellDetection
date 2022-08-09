@@ -1,1 +1,0 @@
-void#setDefaultTimeout#(#Integer#defaultTimeout#)#{##if#(#timeout#==#null#)#{#timeout#=#defaultTimeout#;#}#}

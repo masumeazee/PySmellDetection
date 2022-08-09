@@ -1,1 +1,0 @@
-void#setTimestampGranularity#(#Granularity#timestampGranularity#)#{##if#(#null#==#timestampGranularity#||#""#.#equals#(#timestampGranularity#.#getValue#(#)#)#)#{##return#;#}##this#.#timestampGranularity#=#timestampGranularity#;#}

@@ -1,1 +1,0 @@
-void#writeManifest#(#final#Manifest#manifest#)#throws#IOException#{#FileOutputStream#output#=#null#;##try#{#output#=#new#FileOutputStream#(#destFile#)#;#manifest#.#write#(#output#)#;#output#.#flush#(#)#;#}##finally#{##if#(#null#!=#output#)#{#try#{#output#.#close#(#)#;#}##catch#(#IOException#e#)#{##// ignore#}#}#}#}

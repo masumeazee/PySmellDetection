@@ -1,1 +1,0 @@
-void#setContextClassLoader#(#ClassLoader#loader#)#{#Thread#currentThread#=#Thread#.#currentThread#(#)#;#currentThread#.#setContextClassLoader#(#loader#)#;#}

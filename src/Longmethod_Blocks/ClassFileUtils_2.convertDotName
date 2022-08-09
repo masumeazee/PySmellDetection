@@ -1,1 +1,0 @@
-String#convertDotName#(#String#dotName#)#{##return#dotName#.#replace#(#'.'#,#'/'#)#;#}

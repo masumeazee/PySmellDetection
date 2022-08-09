@@ -1,1 +1,0 @@
-void#setStrict#(#StrictMode#strict#)#{#this#.#strict#=#strict#;#}

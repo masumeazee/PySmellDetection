@@ -1,1 +1,0 @@
-void#setVerifyproperty#(#String#verifyProperty#)#{#this#.#verifyProperty#=#verifyProperty#;#}

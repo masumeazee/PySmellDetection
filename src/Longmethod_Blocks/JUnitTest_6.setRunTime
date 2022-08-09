@@ -1,1 +1,0 @@
-void#setRunTime#(#long#runTime#)#{#this#.#runTime#=#runTime#;#}

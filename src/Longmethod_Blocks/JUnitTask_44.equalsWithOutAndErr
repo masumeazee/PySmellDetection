@@ -1,1 +1,0 @@
-boolean#equalsWithOutAndErr#(#String#summaryOption#)#{##return#summaryOption#!=#null#&&#"withoutanderr"#.#equals#(#summaryOption#.#toLowerCase#(#Locale#.#ENGLISH#)#)#;#}

@@ -1,1 +1,0 @@
-boolean#isValidRmiRemote#(#Class#testClass#)#{##return#getRemoteInterface#(#testClass#)#!=#null#;#}

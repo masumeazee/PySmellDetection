@@ -1,1 +1,0 @@
-void#printTail#(#PrintWriter#out#)#{#Assert#.#assertTrue#(#headCalled#)#;#Assert#.#assertTrue#(#targetCalled#)#;#Assert#.#assertTrue#(#!#tailCalled#)#;#Assert#.#assertTrue#(#elementCalled#>#0#)#;#tailCalled#=#true#;#p#.#log#(#TAIL_CALLED#)#;#}

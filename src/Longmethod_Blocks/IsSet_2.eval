@@ -1,1 +1,0 @@
-boolean#eval#(#)#throws#BuildException#{##if#(#property#==#null#)#{#throw#new#BuildException#(#"No property specified for isset "#+#"condition"#)#;#}##return#getProject#(#)#.#getProperty#(#property#)#!=#null#;#}

@@ -1,1 +1,0 @@
-String#addExtension#(#String#command#)#{##// This is the most common extension case - exe for windows and OS/2,##// nothing for *nix.##return#command#+#(#IS_DOS#?#".exe"#:#""#)#;#}

@@ -1,1 +1,0 @@
-void#testRemoveIndex#(#)#{#v#.#add#(#O#)#;#assertSame#(#O#,#v#.#remove#(#0#)#)#;#assertEquals#(#0#,#v#.#size#(#)#)#;##try#{#v#.#remove#(#0#)#;#fail#(#"expected an AIOBE"#)#;#}##catch#(#ArrayIndexOutOfBoundsException#e#)#{##// expected#}#}

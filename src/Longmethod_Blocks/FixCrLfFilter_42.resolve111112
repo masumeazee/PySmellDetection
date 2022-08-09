@@ -1,1 +1,0 @@
-AddAsisRemove#resolve#(#)#throws#IllegalStateException#{##if#(#this#.#equals#(#ASIS#)#)#{##return#ASIS#;#}##if#(#this#.#equals#(#ADD#)#)#{##return#ADD#;#}##if#(#this#.#equals#(#REMOVE#)#)#{##return#REMOVE#;#}##throw#new#IllegalStateException#(#"No replacement for "#+#this#)#;#}

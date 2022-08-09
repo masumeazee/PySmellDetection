@@ -1,1 +1,0 @@
-long#skip#(#long#i#)#throws#java#.#io#.#IOException#{##return#in#.#skip#(#i#)#;#}

@@ -1,1 +1,0 @@
-void#setFileDirParameter#(#String#fileDirParameter#)#{#this#.#fileDirParameter#=#fileDirParameter#;#}

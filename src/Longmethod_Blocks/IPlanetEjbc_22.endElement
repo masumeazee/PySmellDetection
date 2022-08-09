@@ -1,9 +1,0 @@
-void#endElement#(#String#name#)#throws#SAXException#{##/*
-             * If this is a standard EJB 1.1 descriptor, we are looking for one
-             * set of data, while if this is an iAS-specific descriptor, we're
-             * looking for different set of data.  Hand the processing off to
-             * the appropriate method.
-             */##if#(#iasDescriptor#)#{#iasCharacters#(#currentText#)#;#}#else#{#stdCharacters#(#currentText#)#;#}##/*
-             * I need to "pop" the element off the String (currentLoc) which
-             * always represents my current location in the XML document.
-             */#int#nameLength#=#name#.#length#(#)#+#1#;##// Add one for the "\"#int#locLength#=#currentLoc#.#length#(#)#;#currentLoc#=#currentLoc#.#substring#(#0#,#locLength#-#nameLength#)#;#}

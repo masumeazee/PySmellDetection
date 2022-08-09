@@ -1,1 +1,0 @@
-void#setWLdtd#(#String#inString#)#{#this#.#weblogicDTD#=#inString#;#}

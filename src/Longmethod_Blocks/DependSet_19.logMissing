@@ -1,1 +1,0 @@
-void#logMissing#(#ResourceCollection#missing#,#String#what#)#{##if#(#verbose#)#{#for#(#Iterator#i#=#missing#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Resource#r#=#(#Resource#)#i#.#next#(#)#;#log#(#"Expected "#+#what#+#" "#+#r#.#toLongString#(#)#+#" is missing."#)#;#}#}#}

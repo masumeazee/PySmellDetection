@@ -1,1 +1,0 @@
-void#setKeepformat#(#boolean#keepformat#)#{#this#.#keepformat#=#keepformat#;#}

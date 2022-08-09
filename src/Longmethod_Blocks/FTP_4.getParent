@@ -1,1 +1,0 @@
-String#getParent#(#)#{#String#result#=#""#;##for#(#int#i#=#0#;##i#<#parts#.#length#-#1#;#i#++#)#{#result#+=#File#.#separatorChar#+#parts#[#i#]#;#}##return#result#;#}

@@ -1,1 +1,0 @@
-void#makeBed#(#)#{#tbed#=#new#TaskdefForMakingBed#(#"setupfiles"#)#;#tbed#.#setUp#(#)#;#tbed#.#makeTestbed#(#)#;#}

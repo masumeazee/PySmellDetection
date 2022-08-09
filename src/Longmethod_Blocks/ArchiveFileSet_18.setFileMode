@@ -1,1 +1,0 @@
-void#setFileMode#(#String#octalString#)#{#checkArchiveAttributesAllowed#(#)#;#integerSetFileMode#(#Integer#.#parseInt#(#octalString#,#BASE_OCTAL#)#)#;#}

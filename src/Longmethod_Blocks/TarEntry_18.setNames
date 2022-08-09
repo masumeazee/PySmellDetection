@@ -1,1 +1,0 @@
-void#setNames#(#String#userName#,#String#groupName#)#{#setUserName#(#userName#)#;#setGroupName#(#groupName#)#;#}

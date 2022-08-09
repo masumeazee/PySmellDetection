@@ -1,1 +1,0 @@
-void#testWindowsLineSeparator#(#)#throws#IOException#{#reg#.#setPattern#(#"end of text$"#)#;#assertTrue#(#"Windows line separator"#,#!#reg#.#matches#(#"end of text\r\n"#)#)#;#}

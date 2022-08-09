@@ -1,1 +1,0 @@
-void#stdin#(#)#{#try#{#System#.#setIn#(#new#FileInputStream#(#getProject#(#)#.#resolveFile#(#"input.stdin"#)#)#)#;#}##catch#(#Exception#e#)#{#throw#e#instanceof#RuntimeException#?#(#RuntimeException#)#e#:#new#RuntimeException#(#e#.#getMessage#(#)#)#;#}#}

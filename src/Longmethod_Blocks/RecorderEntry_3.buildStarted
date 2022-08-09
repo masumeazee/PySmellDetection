@@ -1,1 +1,0 @@
-void#buildStarted#(#BuildEvent#event#)#{#log#(#"> BUILD STARTED"#,#Project#.#MSG_DEBUG#)#;#}

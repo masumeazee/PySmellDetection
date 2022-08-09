@@ -1,1 +1,0 @@
-void#setNoNamespaceFile#(#File#defaultSchemaFile#)#{#createAnonymousSchema#(#)#;#this#.#anonymousSchema#.#setFile#(#defaultSchemaFile#)#;#}

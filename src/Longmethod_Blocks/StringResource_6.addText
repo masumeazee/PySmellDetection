@@ -1,1 +1,0 @@
-void#addText#(#String#text#)#{#checkChildrenAllowed#(#)#;#setValue#(#getProject#(#)#.#replaceProperties#(#text#)#)#;#}

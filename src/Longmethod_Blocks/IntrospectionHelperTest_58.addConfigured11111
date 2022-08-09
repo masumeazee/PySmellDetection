@@ -1,1 +1,0 @@
-void#addConfigured#(#Hashtable#h#)#{##// Valid extension point, more derived than Map above, but *after* it!#assertEquals#(#makeTable#(#"key"#,#"value"#)#,#h#)#;#}

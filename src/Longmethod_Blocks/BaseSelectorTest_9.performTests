@@ -1,1 +1,0 @@
-void#performTests#(#FileSelector#selector#,#String#expected#)#{#String#result#=#selectionString#(#selector#)#;#String#diff#=#diff#(#expected#,#result#)#;#String#resolved#=#resolve#(#diff#)#;#assertEquals#(#"Differing files: "#+#resolved#,#result#,#expected#)#;#}

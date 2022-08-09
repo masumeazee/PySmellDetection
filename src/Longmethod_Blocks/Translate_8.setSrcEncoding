@@ -1,1 +1,0 @@
-void#setSrcEncoding#(#String#srcEncoding#)#{#this#.#srcEncoding#=#srcEncoding#;#}

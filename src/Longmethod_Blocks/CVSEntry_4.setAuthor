@@ -1,1 +1,0 @@
-void#setAuthor#(#final#String#author#)#{#this#.#author#=#author#;#}

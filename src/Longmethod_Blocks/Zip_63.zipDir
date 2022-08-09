@@ -1,1 +1,0 @@
-void#zipDir#(#File#dir#,#ZipOutputStream#zOut#,#String#vPath#,#int#mode#,#ZipExtraField#[#]#extra#)#throws#IOException#{#zipDir#(#dir#==#null#?#(#Resource#)#null#:#new#FileResource#(#dir#)#,#zOut#,#vPath#,#mode#,#extra#)#;#}

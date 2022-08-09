@@ -1,1 +1,0 @@
-void#setCmp#(#boolean#cmp#)#{#this#.#cmp#=#cmp#;#}

@@ -1,1 +1,0 @@
-String#getErrors#(#)#{#try#{#final#ByteArrayOutputStream#error#=#(#ByteArrayOutputStream#)#getErr#(#)#;#return#error#.#toString#(#"ASCII"#)#;#}#catch#(#final#Exception#e#)#{#return#null#;#}#}##void#stop#(#)#{#super#.#stop#(#)#;#try#{#getErr#(#)#.#close#(#)#;#getOut#(#)#.#close#(#)#;#}#catch#(#final#IOException#e#)#{#// plain impossible#throw#new#BuildException#(#e#)#;#}#}##

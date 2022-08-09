@@ -1,1 +1,0 @@
-ScriptRunnerBase#getRunner#(#)#{##return#new#ScriptRunnerCreator#(#projectComponent#.#getProject#(#)#)#.#createRunner#(#manager#,#language#,#generateClassLoader#(#)#)#;#}

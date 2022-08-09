@@ -1,1 +1,0 @@
-void#setXslResource#(#Resource#xslResource#)#{#this#.#xslResource#=#xslResource#;#}

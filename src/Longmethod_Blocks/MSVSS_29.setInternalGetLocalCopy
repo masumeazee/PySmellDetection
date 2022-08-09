@@ -1,1 +1,0 @@
-void#setInternalGetLocalCopy#(#final#boolean#getLocalCopy#)#{#this#.#getLocalCopy#=#getLocalCopy#;#}

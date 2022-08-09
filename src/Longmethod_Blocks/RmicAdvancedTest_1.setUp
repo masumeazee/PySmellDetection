@@ -1,1 +1,0 @@
-void#setUp#(#)#throws#Exception#{#super#.#setUp#(#)#;#configureProject#(#TASKDEFS_DIR#+#"rmic.xml"#)#;#}

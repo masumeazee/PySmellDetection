@@ -1,1 +1,0 @@
-void#setOperation#(#Operation#value#)#{#this#.#operation#=#Operation#.#toOperation#(#value#.#getValue#(#)#)#;#}

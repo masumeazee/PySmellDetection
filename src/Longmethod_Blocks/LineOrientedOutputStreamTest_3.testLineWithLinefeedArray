@@ -1,1 +1,0 @@
-void#testLineWithLinefeedArray#(#)#throws#IOException#{#writeByteArray#(#)#;#writeAsArray#(#'\n'#)#;#stream#.#assertInvoked#(#)#;#}

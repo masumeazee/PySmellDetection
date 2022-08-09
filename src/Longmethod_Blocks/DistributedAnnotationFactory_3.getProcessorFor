@@ -1,1 +1,0 @@
-AnnotationProcessor#getProcessorFor#(#Set#<#com#.#sun#.#mirror#.#declaration#.#AnnotationTypeDeclaration#>#annotationTypeDeclarations#,#AnnotationProcessorEnvironment#env#)#{##return#new#DistributedAnnotationProcessor#(#env#)#;#}

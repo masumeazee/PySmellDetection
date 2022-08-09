@@ -1,1 +1,0 @@
-void#setTempdir#(#File#tmpDir#)#{##if#(#tmpDir#!=#null#)#{##if#(#!#tmpDir#.#exists#(#)#||#!#tmpDir#.#isDirectory#(#)#)#{#throw#new#BuildException#(#tmpDir#.#toString#(#)#+#" is not a valid temp directory"#)#;#}#}##this#.#tmpDir#=#tmpDir#;#}

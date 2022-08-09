@@ -1,1 +1,0 @@
-void#setError#(#boolean#err#)#{#error#=#err#;##if#(#error#)#{#errorFlag#=#true#;#}#}

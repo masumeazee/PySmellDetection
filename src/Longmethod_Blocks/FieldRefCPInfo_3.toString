@@ -1,1 +1,0 @@
-String#toString#(#)#{#String#value#;##if#(#isResolved#(#)#)#{#value#=#"Field : Class = "#+#fieldClassName#+#", name = "#+#fieldName#+#", type = "#+#fieldType#;#}#else#{#value#=#"Field : Class index = "#+#classIndex#+#", name and type index = "#+#nameAndTypeIndex#;#}##return#value#;#}

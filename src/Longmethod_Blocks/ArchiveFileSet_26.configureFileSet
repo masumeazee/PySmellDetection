@@ -1,1 +1,0 @@
-void#configureFileSet#(#ArchiveFileSet#zfs#)#{#zfs#.#setPrefix#(#prefix#)#;#zfs#.#setFullpath#(#fullpath#)#;#zfs#.#fileModeHasBeenSet#=#fileModeHasBeenSet#;#zfs#.#fileMode#=#fileMode#;#zfs#.#dirModeHasBeenSet#=#dirModeHasBeenSet#;#zfs#.#dirMode#=#dirMode#;#}

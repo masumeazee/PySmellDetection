@@ -1,1 +1,0 @@
-void#printTargetDecl#(#PrintWriter#out#)#{#out#.#print#(#"<!ELEMENT target ("#)#;#out#.#print#(#TASKS#)#;#out#.#print#(#" | "#)#;#out#.#print#(#TYPES#)#;#out#.#println#(#")*>"#)#;#out#.#println#(#""#)#;#printTargetAttrs#(#out#,#"target"#)#;#out#.#println#(#"<!ELEMENT extension-point EMPTY>"#)#;#out#.#println#(#""#)#;#printTargetAttrs#(#out#,#"extension-point"#)#;#}

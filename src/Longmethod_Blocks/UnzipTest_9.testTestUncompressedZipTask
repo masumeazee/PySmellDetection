@@ -1,1 +1,0 @@
-void#testTestUncompressedZipTask#(#)#throws#java#.#io#.#IOException#{#executeTarget#(#"testUncompressedZipTask"#)#;#assertLogoUncorrupted#(#)#;#}

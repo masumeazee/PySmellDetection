@@ -1,1 +1,0 @@
-void#checkPackagesToDoc#(#Vector#packagesToDoc#,#Vector#sourceFilesToDoc#)#{##if#(#packageList#==#null#&&#packagesToDoc#.#size#(#)#==#0#&&#sourceFilesToDoc#.#size#(#)#==#0#)#{#throw#new#BuildException#(#"No source files and no packages have "#+#"been specified."#)#;#}#}

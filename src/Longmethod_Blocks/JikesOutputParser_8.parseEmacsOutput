@@ -1,1 +1,0 @@
-void#parseEmacsOutput#(#BufferedReader#reader#)#throws#IOException#{##// This may change, if we add advanced parsing capabilities.#parseStandardOutput#(#reader#)#;#}

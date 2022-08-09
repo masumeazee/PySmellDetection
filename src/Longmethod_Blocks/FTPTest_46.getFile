@@ -1,1 +1,0 @@
-void#getFile#(#FTPClient#ftp#,#String#dir#,#String#filename#)#throws#IOException#,#BuildException#{##if#(#this#.#simulatedFailuresLeft#>#0#)#{#this#.#simulatedFailuresLeft#--#;#throw#new#IOException#(#"Simulated failure for testing"#)#;#}##super#.#getFile#(#ftp#,#dir#,#filename#)#;#}

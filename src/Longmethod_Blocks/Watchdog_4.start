@@ -1,1 +1,0 @@
-void#start#(#)#{#stopped#=#false#;#Thread#t#=#new#Thread#(#this#,#"WATCHDOG"#)#;#t#.#setDaemon#(#true#)#;#t#.#start#(#)#;#}

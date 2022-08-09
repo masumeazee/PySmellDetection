@@ -1,1 +1,0 @@
-void#configure#(#EjbJar#.#Config#config#)#{#this#.#config#=#config#;#createAnalyzer#(#)#;#classpathLoader#=#null#;#}

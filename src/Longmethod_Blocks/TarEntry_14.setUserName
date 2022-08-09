@@ -1,1 +1,0 @@
-void#setUserName#(#String#userName#)#{#this#.#userName#=#new#StringBuffer#(#userName#)#;#}

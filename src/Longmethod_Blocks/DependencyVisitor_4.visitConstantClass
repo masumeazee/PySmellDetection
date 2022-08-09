@@ -1,1 +1,0 @@
-void#visitConstantClass#(#ConstantClass#constantClass#)#{#String#classname#=#constantClass#.#getConstantValue#(#constantPool#)#.#toString#(#)#;#addSlashClass#(#classname#)#;#}

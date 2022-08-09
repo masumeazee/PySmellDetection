@@ -1,1 +1,0 @@
-void#setEndToken#(#String#endOfToken#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##if#(#endOfToken#==#null#||#""#.#equals#(#endOfToken#)#)#{#throw#new#BuildException#(#"endToken must not be empty"#)#;#}##this#.#endOfToken#=#endOfToken#;#}

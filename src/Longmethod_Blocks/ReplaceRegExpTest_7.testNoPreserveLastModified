@@ -1,1 +1,0 @@
-void#testNoPreserveLastModified#(#)#throws#Exception#{#executeTarget#(#"lastModifiedSetup"#)#;#String#tmpdir#=#project#.#getProperty#(#"tmpregexp"#)#;#long#ts1#=#new#File#(#tmpdir#,#"test.txt"#)#.#lastModified#(#)#;#Thread#.#sleep#(#3000#)#;#executeTarget#(#"testNoPreserve"#)#;#assertTrue#(#ts1#<#new#File#(#tmpdir#,#"test.txt"#)#.#lastModified#(#)#)#;#}

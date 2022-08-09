@@ -1,1 +1,0 @@
-void#appendIncludes#(#String#[#]#includes#)#{#checkAttributesAllowed#(#)#;##if#(#includes#!=#null#)#{#for#(#int#i#=#0#;##i#<#includes#.#length#;#i#++#)#{#defaultPatterns#.#createInclude#(#)#.#setName#(#includes#[#i#]#)#;#}##ds#=#null#;#}#}

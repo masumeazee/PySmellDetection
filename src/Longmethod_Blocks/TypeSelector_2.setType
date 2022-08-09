@@ -1,1 +1,0 @@
-void#setType#(#FileType#fileTypes#)#{#this#.#type#=#fileTypes#.#getValue#(#)#;#}

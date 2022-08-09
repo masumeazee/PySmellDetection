@@ -1,1 +1,0 @@
-ZipLong#toDosTime#(#Date#time#)#{##return#new#ZipLong#(#toDosTime#(#time#.#getTime#(#)#)#)#;#}

@@ -1,1 +1,0 @@
-Hashtable#getProperties#(#)#{##//avoid concurrent modification:#synchronized#(#properties#)#{##return#new#Hashtable#(#properties#)#;#}##// There is a better way to save the context. This shouldn't##// delegate to next, it's for backward compatibility only.#}

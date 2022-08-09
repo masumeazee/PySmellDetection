@@ -1,1 +1,0 @@
-boolean#hasNext#(#)#{##if#(#wrapped#==#null#)#{##return#false#;#}##failFast#(#this#)#;##return#wrapped#.#hasNext#(#)#;#}

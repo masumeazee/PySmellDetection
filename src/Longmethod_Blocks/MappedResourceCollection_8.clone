@@ -1,1 +1,0 @@
-Object#clone#(#)#{#try#{#MappedResourceCollection#c#=#(#MappedResourceCollection#)#super#.#clone#(#)#;#c#.#nested#=#nested#;#c#.#mapper#=#mapper#;##return#c#;#}##catch#(#CloneNotSupportedException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

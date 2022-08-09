@@ -1,1 +1,0 @@
-void#cleanup#(#)#{#closeFile#(#)#;##if#(#project#!=#null#)#{#project#.#removeBuildListener#(#this#)#;#}##project#=#null#;#}

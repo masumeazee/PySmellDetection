@@ -1,1 +1,0 @@
-void#setStartToken#(#String#startToken#)#{#this#.#startToken#=#startToken#;#}

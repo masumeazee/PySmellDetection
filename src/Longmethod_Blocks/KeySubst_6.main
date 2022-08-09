@@ -1,1 +1,0 @@
-void#main#(#String#[#]#args#)#{#try#{#Hashtable#hash#=#new#Hashtable#(#)#;#hash#.#put#(#"VERSION"#,#"1.0.3"#)#;#hash#.#put#(#"b"#,#"ffff"#)#;#System#.#out#.#println#(#KeySubst#.#replace#(#"$f ${VERSION} f ${b} jj $"#,#hash#)#)#;#}##catch#(#Exception#e#)#{#e#.#printStackTrace#(#)#;#}#}

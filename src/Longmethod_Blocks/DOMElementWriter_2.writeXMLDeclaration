@@ -1,1 +1,0 @@
-void#writeXMLDeclaration#(#Writer#wri#)#throws#IOException#{##if#(#xmlDeclaration#)#{#wri#.#write#(#"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"#)#;#}#}

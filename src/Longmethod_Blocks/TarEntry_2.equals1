@@ -1,1 +1,0 @@
-boolean#equals#(#Object#it#)#{##if#(#it#==#null#||#getClass#(#)#!=#it#.#getClass#(#)#)#{##return#false#;#}##return#equals#(#(#TarEntry#)#it#)#;#}

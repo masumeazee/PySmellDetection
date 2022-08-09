@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/deltree.xml"#)#;#}##void#test1#(#)#{#expectBuildException#(#"test1"#,#"required argument not specified"#)#;#}##void#test2#(#)#{#// We try to delete the directory created in CopydirTest#executeTarget#(#"test2"#)#;#}##

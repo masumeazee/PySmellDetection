@@ -1,1 +1,0 @@
-InputStream#wrapStream#(#InputStream#in#)#throws#IOException#{#for#(#int#i#=#0#;##i#<#MAGIC#.#length#;#i#++#)#{##if#(#in#.#read#(#)#!=#MAGIC#[#i#]#)#{#throw#new#IOException#(#"Invalid bz2 stream."#)#;#}#}##return#new#CBZip2InputStream#(#in#)#;#}

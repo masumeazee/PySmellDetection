@@ -1,1 +1,0 @@
-Object#next#(#)#{##if#(#!#hasNext#(#)#)#{#throw#new#NoSuchElementException#(#)#;#}##return#ri#.#next#(#)#;#}

@@ -1,1 +1,0 @@
-Vector#getChoices#(#)#{#return#choices#;#}##boolean#isInputValid#(#)#{#return#choices#.#contains#(#getInput#(#)#)#||#(#""#.#equals#(#getInput#(#)#)#&&#getDefaultValue#(#)#!=#null#)#;#}##

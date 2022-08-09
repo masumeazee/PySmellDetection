@@ -1,1 +1,0 @@
-Class#findClass#(#String#name#)#throws#ClassNotFoundException#{#log#(#"Finding class "#+#name#,#Project#.#MSG_DEBUG#)#;##return#findClassInComponents#(#name#)#;#}

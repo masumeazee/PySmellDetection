@@ -1,1 +1,0 @@
-void#setDump#(#boolean#dump#)#{#this#.#dump#=#dump#;#}

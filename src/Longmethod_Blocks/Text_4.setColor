@@ -1,1 +1,0 @@
-void#setColor#(#String#c#)#{#color#=#c#;#}

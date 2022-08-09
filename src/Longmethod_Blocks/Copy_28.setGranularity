@@ -1,1 +1,0 @@
-void#setGranularity#(#long#granularity#)#{#this#.#granularity#=#granularity#;#}

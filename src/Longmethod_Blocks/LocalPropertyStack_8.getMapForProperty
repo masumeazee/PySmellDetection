@@ -1,1 +1,0 @@
-Map#getMapForProperty#(#String#property#)#{#for#(#Iterator#i#=#stack#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#Map#map#=#(#Map#)#i#.#next#(#)#;##if#(#map#.#get#(#property#)#!=#null#)#{##return#map#;#}#}##return#null#;#}

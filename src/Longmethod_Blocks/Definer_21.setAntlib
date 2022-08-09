@@ -1,1 +1,0 @@
-void#setAntlib#(#String#antlib#)#{##if#(#definerSet#)#{#tooManyDefinitions#(#)#;#}##if#(#!#antlib#.#startsWith#(#"antlib:"#)#)#{#throw#new#BuildException#(#"Invalid antlib attribute - it must start with antlib:"#)#;#}##setURI#(#antlib#)#;#this#.#resource#=#antlib#.#substring#(#"antlib:"#.#length#(#)#)#.#replace#(#'.'#,#'/'#)#+#"/antlib.xml"#;#definerSet#=#true#;#}

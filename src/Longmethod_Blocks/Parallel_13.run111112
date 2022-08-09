@@ -1,1 +1,0 @@
-void#run#(#)#{#try#{#wait#(#timeout#)#;##synchronized#(#semaphore#)#{#stillRunning#=#false#;#timedOut#=#true#;#semaphore#.#notifyAll#(#)#;#}#}##catch#(#InterruptedException#e#)#{##// ignore#}#}

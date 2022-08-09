@@ -1,1 +1,0 @@
-void#configureFileSet#(#ArchiveFileSet#zfs#)#{#super#.#configureFileSet#(#zfs#)#;##if#(#zfs#instanceof#TarFileSet#)#{#TarFileSet#tfs#=#(#TarFileSet#)#zfs#;#tfs#.#setUserName#(#userName#)#;#tfs#.#setGroup#(#groupName#)#;#tfs#.#setUid#(#uid#)#;#tfs#.#setGid#(#gid#)#;#}#}

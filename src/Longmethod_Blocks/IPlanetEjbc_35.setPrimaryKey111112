@@ -1,1 +1,0 @@
-void#setPrimaryKey#(#String#primaryKey#)#{#setPrimaryKey#(#new#Classname#(#primaryKey#)#)#;#}

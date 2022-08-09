@@ -1,1 +1,0 @@
-boolean#isFollowSymlinks#(#)#{##return#(#isReference#(#)#)#?#getRef#(#)#.#isFollowSymlinks#(#)#:#followSymlinks#;#}

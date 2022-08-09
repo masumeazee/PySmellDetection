@@ -1,1 +1,0 @@
-boolean#assumeJava13#(#)#{##return#"javac1.3"#.#equals#(#attributes#.#getCompilerVersion#(#)#)#;#}

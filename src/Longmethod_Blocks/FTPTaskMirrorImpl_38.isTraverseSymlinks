@@ -1,1 +1,0 @@
-boolean#isTraverseSymlinks#(#)#throws#IOException#,#BuildException#{##if#(#!#relativePathCalculated#)#{##// getRelativePath also finds about symlinks#getRelativePath#(#)#;#}##return#traversesSymlinks#;#}

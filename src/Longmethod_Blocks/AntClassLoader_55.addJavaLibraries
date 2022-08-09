@@ -1,1 +1,0 @@
-void#addJavaLibraries#(#)#{#Vector#packages#=#JavaEnvUtils#.#getJrePackages#(#)#;#Enumeration#e#=#packages#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#String#packageName#=#(#String#)#e#.#nextElement#(#)#;#addSystemPackageRoot#(#packageName#)#;#}#}

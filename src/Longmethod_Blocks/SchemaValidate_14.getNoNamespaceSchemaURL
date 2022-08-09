@@ -1,1 +1,0 @@
-String#getNoNamespaceSchemaURL#(#)#{##if#(#anonymousSchema#==#null#)#{##return#null#;#}#else#{##return#anonymousSchema#.#getSchemaLocationURL#(#)#;#}#}

@@ -1,1 +1,0 @@
-boolean#isUTF8#(#String#encoding#)#{##if#(#encoding#==#null#)#{##// check platform's default encoding#encoding#=#System#.#getProperty#(#"file.encoding"#)#;#}##return#UTF8#.#equalsIgnoreCase#(#encoding#)#||#"utf-8"#.#equalsIgnoreCase#(#encoding#)#;#}

@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{#resourcesSpecified#=#true#;#resources#.#add#(#rc#)#;#}

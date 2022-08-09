@@ -1,1 +1,0 @@
-File#getClassSource#(#ClassLoader#loader#,#String#className#)#{##return#LoaderUtils#.#getResourceSource#(#loader#,#LoaderUtils#.#classNameToResource#(#className#)#)#;#}

@@ -1,1 +1,0 @@
-void#targetStarted#(#BuildEvent#event#)#{#log#(#">> TARGET STARTED -- "#+#event#.#getTarget#(#)#,#Project#.#MSG_DEBUG#)#;#log#(#StringUtils#.#LINE_SEP#+#event#.#getTarget#(#)#.#getName#(#)#+#":"#,#Project#.#MSG_INFO#)#;#targetStartTime#=#System#.#currentTimeMillis#(#)#;#}

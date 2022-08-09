@@ -1,1 +1,0 @@
-int#size#(#)#{##return#parts#==#null#?#0#:#parts#.#length#;#}

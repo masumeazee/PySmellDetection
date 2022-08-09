@@ -1,1 +1,0 @@
-void#addTrim#(#TokenFilter#.#Trim#filter#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#filter#)#;#}

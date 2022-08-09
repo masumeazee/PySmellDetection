@@ -1,1 +1,0 @@
-void#setUserName#(#String#userName#)#{#checkTarFileSetAttributesAllowed#(#)#;#userNameSet#=#true#;#this#.#userName#=#userName#;#}

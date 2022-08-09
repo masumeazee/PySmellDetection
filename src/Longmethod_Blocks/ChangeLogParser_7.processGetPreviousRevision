@@ -1,1 +1,0 @@
-void#processGetPreviousRevision#(#final#String#line#)#{##if#(#!#line#.#startsWith#(#"revision "#)#)#{#throw#new#IllegalStateException#(#"Unexpected line from CVS: "#+#line#)#;#}##previousRevision#=#line#.#substring#(#"revision "#.#length#(#)#)#;#saveEntry#(#)#;#revision#=#previousRevision#;#status#=#GET_DATE#;#}

@@ -1,1 +1,0 @@
-void#testIsDynamic#(#)#{#assertTrue#(#"Not dynamic"#,#false#==#ih#.#isDynamic#(#)#)#;#}

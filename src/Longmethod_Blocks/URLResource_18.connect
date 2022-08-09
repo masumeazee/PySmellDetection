@@ -1,1 +1,0 @@
-void#connect#(#)#throws#IOException#{#URL#u#=#getURL#(#)#;##if#(#u#==#null#)#{#throw#new#BuildException#(#"URL not set"#)#;#}##if#(#conn#==#null#)#{#try#{#conn#=#u#.#openConnection#(#)#;#conn#.#connect#(#)#;#}##catch#(#IOException#e#)#{#log#(#e#.#toString#(#)#,#Project#.#MSG_ERR#)#;#conn#=#null#;#throw#e#;#}#}#}

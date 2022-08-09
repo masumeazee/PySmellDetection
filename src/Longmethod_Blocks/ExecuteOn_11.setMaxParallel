@@ -1,1 +1,0 @@
-void#setMaxParallel#(#int#max#)#{#maxParallel#=#max#;#}

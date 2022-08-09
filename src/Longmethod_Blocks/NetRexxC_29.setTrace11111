@@ -1,1 +1,0 @@
-void#setTrace#(#String#trace#)#{#TraceAttr#t#=#new#TraceAttr#(#)#;#t#.#setValue#(#trace#)#;#setTrace#(#t#)#;#}

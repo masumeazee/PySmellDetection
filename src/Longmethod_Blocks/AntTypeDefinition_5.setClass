@@ -1,1 +1,0 @@
-void#setClass#(#Class#clazz#)#{#this#.#clazz#=#clazz#;##if#(#clazz#==#null#)#{##return#;#}##this#.#classLoader#=#(#classLoader#==#null#)#?#clazz#.#getClassLoader#(#)#:#classLoader#;#this#.#className#=#(#className#==#null#)#?#clazz#.#getName#(#)#:#className#;#}

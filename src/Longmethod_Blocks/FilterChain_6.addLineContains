@@ -1,1 +1,0 @@
-void#addLineContains#(#final#LineContains#lineContains#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#lineContains#)#;#}

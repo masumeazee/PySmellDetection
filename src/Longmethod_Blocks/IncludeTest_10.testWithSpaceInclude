@@ -1,1 +1,0 @@
-void#testWithSpaceInclude#(#)#{#configureProject#(#"src/etc/testcases/core/include/with space/include.xml"#)#;##try#{#expectLog#(#"test1"#,#"from included entity in 'with space'"#)#;#}##catch#(#Throwable#t#)#{#throw#new#AssertionFailedError#(#t#.#toString#(#)#+#"; log=\n"#+#getFullLog#(#)#)#;#}#}

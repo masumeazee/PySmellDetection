@@ -1,1 +1,0 @@
-boolean#isVersion#(#String#version#)#{##return#isOs#(#null#,#null#,#null#,#version#)#;#}

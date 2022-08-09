@@ -1,1 +1,0 @@
-boolean#equals#(#TarEntry#it#)#{##return#getName#(#)#.#equals#(#it#.#getName#(#)#)#;#}

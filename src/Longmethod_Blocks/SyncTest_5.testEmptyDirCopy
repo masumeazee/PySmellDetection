@@ -1,1 +1,0 @@
-void#testEmptyDirCopy#(#)#{#executeTarget#(#"emptydircopy"#)#;#String#d#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/a/b/c/d"#;#assertFileIsNotPresent#(#d#)#;#String#c#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/a/b/c"#;#assertFileIsPresent#(#c#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"dangling"#)#==#-#1#)#;#}

@@ -1,1 +1,0 @@
-boolean#equals#(#Object#obj#)#{##if#(#obj#==#this#)#{##return#true#;#}##if#(#!#(#obj#instanceof#Directory#)#)#{##return#false#;#}##Directory#d#=#(#Directory#)#obj#;##return#this#.#directory#.#equals#(#d#.#directory#)#;#}

@@ -1,1 +1,0 @@
-void#printRes#(#ArrayList#ar#,#String#header#)#{#log#(#header#,#Project#.#MSG_INFO#)#;##for#(#int#i#=#0#;##i#<#ar#.#size#(#)#;#i#++#)#{#log#(#(#String#)#ar#.#get#(#i#)#,#Project#.#MSG_INFO#)#;#}#}

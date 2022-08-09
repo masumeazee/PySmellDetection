@@ -1,1 +1,0 @@
-boolean#supportsNestedElement#(#String#parentUri#,#String#elementName#)#{##if#(#isDynamic#(#)#||#addTypeMethods#.#size#(#)#>#0#)#{##return#true#;#}##return#supportsReflectElement#(#parentUri#,#elementName#)#;#}

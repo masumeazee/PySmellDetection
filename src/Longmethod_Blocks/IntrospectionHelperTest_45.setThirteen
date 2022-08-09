@@ -1,1 +1,0 @@
-void#setThirteen#(#Class#c#)#{#assertEquals#(#Project#.#class#,#c#)#;#}

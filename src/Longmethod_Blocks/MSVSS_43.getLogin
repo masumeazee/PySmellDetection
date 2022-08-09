@@ -1,1 +1,0 @@
-String#getLogin#(#)#{##return#vssLogin#!=#null#?#FLAG_LOGIN#+#vssLogin#:#""#;#}

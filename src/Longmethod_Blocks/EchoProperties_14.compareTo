@@ -1,1 +1,0 @@
-int#compareTo#(#Object#o#)#{#Tuple#that#=#(#Tuple#)#o#;##return#key#.#compareTo#(#that#.#key#)#;#}

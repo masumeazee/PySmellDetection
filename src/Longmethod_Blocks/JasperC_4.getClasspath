@@ -1,1 +1,0 @@
-Path#getClasspath#(#)#{#Path#p#=#getJspc#(#)#.#getClasspath#(#)#;##if#(#p#==#null#)#{#p#=#new#Path#(#getProject#(#)#)#;##return#p#.#concatSystemClasspath#(#"only"#)#;#}#else#{##return#p#.#concatSystemClasspath#(#"ignore"#)#;#}#}

@@ -1,1 +1,0 @@
-void#testHandleDollerMatch#(#)#throws#IOException#{##if#(#!#hasRegex#(#"testFilterReplaceRegex"#)#)##return#;##executeTarget#(#"dollermatch"#)#;#}

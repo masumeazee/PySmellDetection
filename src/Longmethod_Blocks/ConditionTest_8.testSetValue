@@ -1,1 +1,0 @@
-void#testSetValue#(#)#{#expectPropertySet#(#"setvalue"#,#"setvalue"#,#"woowoo"#)#;#}

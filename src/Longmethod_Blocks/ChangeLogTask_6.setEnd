@@ -1,1 +1,0 @@
-void#setEnd#(#final#Date#endDate#)#{#this#.#endDate#=#endDate#;#}

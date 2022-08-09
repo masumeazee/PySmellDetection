@@ -1,1 +1,0 @@
-Object#nextElement#(#)#throws#NoSuchElementException#{##if#(#e1#.#hasMoreElements#(#)#)#{##return#e1#.#nextElement#(#)#;#}#else#{##return#e2#.#nextElement#(#)#;#}#}

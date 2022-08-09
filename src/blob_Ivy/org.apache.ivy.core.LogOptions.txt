@@ -1,1 +1,0 @@
-String#getLog#(#)#{#return#log#;#}##LogOptions#setLog#(#String#log#)#{#this#.#log#=#log#;#return#this#;#}##

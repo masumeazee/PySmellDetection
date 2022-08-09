@@ -1,1 +1,0 @@
-void#setClasspathRef#(#Reference#pathRef#)#throws#BuildException#{#classpath#=#(#Path#)#pathRef#.#getReferencedObject#(#getProject#(#)#)#;#}

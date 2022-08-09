@@ -1,1 +1,0 @@
-ClassLoader#replaceContextLoader#(#)#{#ClassLoader#origContextClassLoader#=#Thread#.#currentThread#(#)#.#getContextClassLoader#(#)#;##if#(#getScriptClassLoader#(#)#==#null#)#{#setScriptClassLoader#(#getClass#(#)#.#getClassLoader#(#)#)#;#}##Thread#.#currentThread#(#)#.#setContextClassLoader#(#getScriptClassLoader#(#)#)#;##return#origContextClassLoader#;#}

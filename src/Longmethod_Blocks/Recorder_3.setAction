@@ -1,1 +1,0 @@
-void#setAction#(#ActionChoices#action#)#{##if#(#action#.#getValue#(#)#.#equalsIgnoreCase#(#"start"#)#)#{#start#=#Boolean#.#TRUE#;#}#else#{#start#=#Boolean#.#FALSE#;#}#}

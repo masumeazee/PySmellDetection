@@ -1,1 +1,0 @@
-void#setDisableDTD#(#boolean#disableDTD#)#{#this#.#disableDTD#=#disableDTD#;#}

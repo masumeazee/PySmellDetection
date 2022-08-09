@@ -1,1 +1,0 @@
-void#testBadURL#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testBadURL"#,#"error in URL"#,#IsReachable#.#ERROR_BAD_URL#)#;#}

@@ -1,1 +1,0 @@
-void#setNine#(#Integer#i#)#{#assertEquals#(#2#,#i#.#intValue#(#)#)#;#}

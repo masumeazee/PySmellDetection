@@ -1,1 +1,0 @@
-void#restoreSystem#(#)#throws#BuildException#{##if#(#sys#==#null#)#{#throw#new#BuildException#(#"Unbalanced nesting of SysProperties"#)#;#}##try#{#System#.#setProperties#(#sys#)#;#sys#=#null#;#}##catch#(#SecurityException#e#)#{#throw#new#BuildException#(#"Cannot modify system properties"#,#e#)#;#}#}

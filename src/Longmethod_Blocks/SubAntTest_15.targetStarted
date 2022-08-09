@@ -1,1 +1,0 @@
-void#targetStarted#(#BuildEvent#event#)#{##if#(#event#.#getTarget#(#)#.#getName#(#)#.#equals#(#""#)#)#{##return#;#}##if#(#error#==#null#)#{#try#{#assertEquals#(#expectedBasedirs#[#calls#++#]#,#event#.#getProject#(#)#.#getBaseDir#(#)#.#getAbsolutePath#(#)#)#;#}##catch#(#AssertionFailedError#e#)#{#error#=#e#;#}#}#}

@@ -1,1 +1,0 @@
-void#initBlock#(#)#{##// blockNo++;#this#.#crc#.#initialiseCRC#(#)#;#this#.#last#=#-#1#;##// ch = 0;#boolean#[#]#inUse#=#this#.#data#.#inUse#;##for#(#int#i#=#256#;##--#i#>=#0#;#)#{#inUse#[#i#]#=#false#;#}##/* 20 is just a paranoia constant */#this#.#allowableBlockSize#=#(#this#.#blockSize100k#*#BZip2Constants#.#baseBlockSize#)#-#20#;#}

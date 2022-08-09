@@ -1,1 +1,0 @@
-void#testResourceSelectorSelresTrue#(#)#{#BFT#bft#=#new#BFT#(#"modifiedselector"#)#;#bft#.#doTarget#(#"modifiedselectortest-ResourceSelresTrue"#)#;#bft#.#assertLogContaining#(#"does not provide an InputStream"#)#;#bft#.#deleteCachefile#(#)#;#}

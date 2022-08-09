@@ -1,1 +1,0 @@
-void#addConfiguredRedirector#(#RedirectorElement#redirectorElement#)#{##if#(#this#.#redirectorElement#!=#null#)#{#throw#new#BuildException#(#"cannot have > 1 nested redirectors"#)#;#}##this#.#redirectorElement#=#redirectorElement#;#incompatibleWithSpawn#=#true#;#}

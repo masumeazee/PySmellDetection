@@ -1,1 +1,0 @@
-void#addConfiguredComment#(#final#Comment#comment#)#{#comments#.#addElement#(#comment#.#getValue#(#)#)#;#}

@@ -1,1 +1,0 @@
-Path#getClasspath#(#)#{#Path#cp#=#null#;##if#(#classpath#==#null#)#{#cp#=#(#new#Path#(#getProject#(#)#)#)#.#concatSystemClasspath#(#"last"#)#;#}#else#{#cp#=#classpath#.#concatSystemClasspath#(#"ignore"#)#;#}##return#cp#;#}

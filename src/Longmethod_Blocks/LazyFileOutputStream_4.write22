@@ -1,1 +1,0 @@
-void#write#(#byte#[#]#b#,#int#offset#,#int#len#)#throws#IOException#{#ensureOpened#(#)#;#fos#.#write#(#b#,#offset#,#len#)#;#}

@@ -1,1 +1,0 @@
-Object#next#(#)#{##if#(#wrapped#==#null#||#!#wrapped#.#hasNext#(#)#)#{#throw#new#NoSuchElementException#(#)#;#}##failFast#(#this#)#;##try#{##return#wrapped#.#next#(#)#;#}##finally#{##if#(#!#wrapped#.#hasNext#(#)#)#{#wrapped#=#null#;#remove#(#this#)#;#}#}#}

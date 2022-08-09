@@ -1,1 +1,0 @@
-int#getRPort#(#)#{##if#(#rport#==#0#)#throw#new#BuildException#(#"rport is required for"#+#" LocalTunnel."#)#;##return#rport#;#}

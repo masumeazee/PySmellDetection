@@ -1,1 +1,0 @@
-void#setCaseSensitive#(#boolean#isCaseSensitive#)#{#usedMatchingTask#=#true#;#super#.#setCaseSensitive#(#isCaseSensitive#)#;#}

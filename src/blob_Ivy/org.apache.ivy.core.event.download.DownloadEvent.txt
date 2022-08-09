@@ -1,1 +1,0 @@
-void#addArtifactAttributes#(#Artifact#artifact#)#{#addMridAttributes#(#artifact#.#getModuleRevisionId#(#)#)#;#addAttributes#(#artifact#.#getAttributes#(#)#)#;#addAttribute#(#"metadata"#,#String#.#valueOf#(#artifact#.#isMetadata#(#)#)#)#;#}##Artifact#getArtifact#(#)#{#return#artifact#;#}##

@@ -1,1 +1,0 @@
-void#setMessage#(#String#message#,#int#priority#)#{#this#.#message#=#message#;#this#.#priority#=#priority#;#}

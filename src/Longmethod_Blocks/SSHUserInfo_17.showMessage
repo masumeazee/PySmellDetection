@@ -1,1 +1,0 @@
-void#showMessage#(#String#message#)#{##//log(message, Project.MSG_DEBUG);#}

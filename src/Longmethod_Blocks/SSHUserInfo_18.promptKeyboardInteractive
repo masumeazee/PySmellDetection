@@ -1,1 +1,0 @@
-String#[#]#promptKeyboardInteractive#(#String#destination#,#String#name#,#String#instruction#,#String#[#]#prompt#,#boolean#[#]#echo#)#{##if#(#prompt#.#length#!=#1#||#echo#[#0#]#||#this#.#password#==#null#)#{##return#null#;#}##String#[#]#response#=#new#String#[#1#]#;#response#[#0#]#=#this#.#password#;##return#response#;#}

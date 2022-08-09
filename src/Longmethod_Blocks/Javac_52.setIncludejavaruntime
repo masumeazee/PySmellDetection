@@ -1,1 +1,0 @@
-void#setIncludejavaruntime#(#boolean#include#)#{#includeJavaRuntime#=#include#;#}

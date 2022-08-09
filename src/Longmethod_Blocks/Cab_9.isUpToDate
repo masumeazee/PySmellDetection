@@ -1,1 +1,0 @@
-boolean#isUpToDate#(#Vector#files#)#{#boolean#upToDate#=#true#;##for#(#int#i#=#0#;##i#<#files#.#size#(#)#&&#upToDate#;#i#++#)#{#String#file#=#files#.#elementAt#(#i#)#.#toString#(#)#;##if#(#FILE_UTILS#.#resolveFile#(#baseDir#,#file#)#.#lastModified#(#)#>#cabFile#.#lastModified#(#)#)#{#upToDate#=#false#;#}#}##return#upToDate#;#}

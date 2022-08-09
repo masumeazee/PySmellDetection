@@ -1,1 +1,0 @@
-void#setInitialSiteCommand#(#String#initialCommand#)#{#this#.#initialSiteCommand#=#initialCommand#;#}

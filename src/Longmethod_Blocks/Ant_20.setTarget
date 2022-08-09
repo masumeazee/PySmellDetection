@@ -1,1 +1,0 @@
-void#setTarget#(#String#targetToAdd#)#{##if#(#targetToAdd#.#equals#(#""#)#)#{#throw#new#BuildException#(#"target attribute must not be empty"#)#;#}##targets#.#add#(#targetToAdd#)#;#targetAttributeSet#=#true#;#}

@@ -1,1 +1,0 @@
-void#setOnError#(#OnError#onError#)#{#this#.#onError#=#onError#.#getIndex#(#)#;#}

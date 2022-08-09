@@ -1,1 +1,0 @@
-OutputStream#getErrorStream#(#)#{#synchronized#(#errMutex#)#{##return#errorStream#;#}#}

@@ -1,1 +1,0 @@
-void#testAttributeDescription#(#)#{#expectLog#(#"attribute.description"#,#"description is hello world"#)#;#}

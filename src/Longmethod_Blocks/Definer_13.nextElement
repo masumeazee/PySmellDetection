@@ -1,1 +1,0 @@
-Object#nextElement#(#)#throws#NoSuchElementException#{##if#(#more#)#{#more#=#false#;##return#url#;#}#else#{#throw#new#NoSuchElementException#(#)#;#}#}

@@ -1,1 +1,0 @@
-void#setExecutable#(#String#ex#)#{#executable#=#ex#;#}

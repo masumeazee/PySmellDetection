@@ -1,1 +1,0 @@
-int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#ResourceCollection#)#(#getRef#(#getProject#(#)#)#)#)#.#size#(#)#;#}##if#(#src#==#null#)#{##return#super#.#size#(#)#;#}##ArchiveScanner#as#=#(#ArchiveScanner#)#getDirectoryScanner#(#getProject#(#)#)#;##return#as#.#getIncludedFilesCount#(#)#;#}

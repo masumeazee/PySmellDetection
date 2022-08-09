@@ -1,1 +1,0 @@
-Regexp#getRegexp#(#Project#p#)#{#init#(#p#)#;##if#(#isReference#(#)#)#{##return#getRef#(#p#)#.#getRegexp#(#p#)#;#}##setPattern#(#)#;##return#this#.#regexp#;#}

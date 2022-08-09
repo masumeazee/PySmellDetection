@@ -1,1 +1,0 @@
-void#addStripLineComments#(#final#StripLineComments#stripLineComments#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##setChecked#(#false#)#;#filterReaders#.#addElement#(#stripLineComments#)#;#}

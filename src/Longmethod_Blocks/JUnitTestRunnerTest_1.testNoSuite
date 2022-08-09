@@ -1,1 +1,0 @@
-void#testNoSuite#(#)#{#TestRunner#runner#=#createRunner#(#NoSuiteTestCase#.#class#)#;#runner#.#run#(#)#;#assertEquals#(#runner#.#getFormatter#(#)#.#getError#(#)#,#JUnitTestRunner#.#SUCCESS#,#runner#.#getRetCode#(#)#)#;#}

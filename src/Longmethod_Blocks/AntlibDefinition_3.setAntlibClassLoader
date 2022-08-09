@@ -1,1 +1,0 @@
-void#setAntlibClassLoader#(#ClassLoader#classLoader#)#{#this#.#antlibClassLoader#=#classLoader#;#}

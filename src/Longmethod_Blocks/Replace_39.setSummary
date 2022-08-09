@@ -1,1 +1,0 @@
-void#setSummary#(#boolean#summary#)#{#this#.#summary#=#summary#;#}

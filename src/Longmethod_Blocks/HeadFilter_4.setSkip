@@ -1,1 +1,0 @@
-void#setSkip#(#final#long#skip#)#{#this#.#skip#=#skip#;#}

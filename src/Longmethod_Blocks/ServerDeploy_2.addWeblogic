@@ -1,1 +1,0 @@
-void#addWeblogic#(#WebLogicHotDeploymentTool#tool#)#{#tool#.#setTask#(#this#)#;#vendorTools#.#addElement#(#tool#)#;#}

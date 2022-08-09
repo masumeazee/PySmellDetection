@@ -1,1 +1,0 @@
-void#expectAssertion#(#String#target#)#{#expectBuildExceptionContaining#(#target#,#"assertion not thrown in "#+#target#,#"Java returned: 1"#)#;#}

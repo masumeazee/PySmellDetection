@@ -1,1 +1,0 @@
-void#testRealTest#(#String#target#)#throws#java#.#io#.#IOException#{#executeTarget#(#target#)#;#assertTrue#(#"File content mismatch after bunzip2"#,#FILE_UTILS#.#contentEquals#(#project#.#resolveFile#(#"expected/asf-logo-huge.tar"#)#,#project#.#resolveFile#(#"asf-logo-huge.tar"#)#)#)#;#}

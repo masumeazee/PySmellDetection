@@ -1,1 +1,0 @@
-void#testSingleByte#(#)#throws#IOException#{#los#.#write#(#0#)#;#los#.#close#(#)#;#assertTrue#(#f#+#" has been written."#,#f#.#exists#(#)#)#;#}

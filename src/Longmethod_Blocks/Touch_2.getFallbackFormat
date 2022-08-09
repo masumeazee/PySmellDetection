@@ -1,1 +1,0 @@
-DateFormat#getFallbackFormat#(#)#{##return#DateFormat#.#getDateTimeInstance#(#DateFormat#.#SHORT#,#DateFormat#.#MEDIUM#,#Locale#.#US#)#;#}

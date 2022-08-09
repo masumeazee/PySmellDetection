@@ -1,1 +1,0 @@
-void#addOrReplaceTarget#(#String#targetName#,#Target#target#)#{#String#msg#=#" +Target: "#+#targetName#;#log#(#msg#,#MSG_DEBUG#)#;#target#.#setProject#(#this#)#;#targets#.#put#(#targetName#,#target#)#;#}

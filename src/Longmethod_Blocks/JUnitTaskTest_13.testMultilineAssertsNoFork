@@ -1,1 +1,0 @@
-void#testMultilineAssertsNoFork#(#)#{#expectLogNotContaining#(#"testMultilineAssertsNoFork"#,#"messed up)"#)#;#assertLogNotContaining#(#"crashed)"#)#;#}

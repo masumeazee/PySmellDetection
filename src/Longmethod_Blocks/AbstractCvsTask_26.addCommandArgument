@@ -1,1 +1,0 @@
-void#addCommandArgument#(#Commandline#c#,#String#arg#)#{#c#.#createArgument#(#)#.#setValue#(#arg#)#;#}

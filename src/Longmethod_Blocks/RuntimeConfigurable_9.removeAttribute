@@ -1,1 +1,0 @@
-void#removeAttribute#(#String#name#)#{#attributeNames#.#remove#(#name#)#;#attributeMap#.#remove#(#name#)#;#}

@@ -1,1 +1,0 @@
-boolean#hasEventMessage#(#String#eventPrefix#)#{##return#getFullLog#(#)#.#indexOf#(#eventPrefix#)#>=#0#;#}

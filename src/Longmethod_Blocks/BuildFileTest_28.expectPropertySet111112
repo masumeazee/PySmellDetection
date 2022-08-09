@@ -1,1 +1,0 @@
-void#expectPropertySet#(#String#target#,#String#property#,#String#value#)#{#executeTarget#(#target#)#;#assertPropertyEquals#(#property#,#value#)#;#}

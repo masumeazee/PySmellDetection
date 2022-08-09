@@ -1,1 +1,0 @@
-void#setOutputPrintStream#(#PrintStream#output#)#{#this#.#outStream#=#new#PrintStream#(#output#,#true#)#;#}

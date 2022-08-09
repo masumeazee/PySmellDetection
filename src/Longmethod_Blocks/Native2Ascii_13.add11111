@@ -1,1 +1,0 @@
-void#add#(#Native2AsciiAdapter#adapter#)#{##if#(#nestedAdapter#!=#null#)#{#throw#new#BuildException#(#"Can't have more than one native2ascii"#+#" adapter"#)#;#}##nestedAdapter#=#adapter#;#}

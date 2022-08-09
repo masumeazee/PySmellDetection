@@ -1,1 +1,0 @@
-int#lastIndexOf#(#Object#o#,#int#pos#)#{#for#(#int#i#=#pos#;##i#>=#0#;#i#--#)#{##if#(#get#(#i#)#==#o#)#{##return#i#;#}#}##return#-#1#;#}

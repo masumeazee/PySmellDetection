@@ -1,1 +1,0 @@
-void#setUp#(#)#{##// Windows adds the drive letter in uppercase, unless you run Cygwin#root#=#new#File#(#File#.#separator#)#.#getAbsolutePath#(#)#.#toUpperCase#(#)#;#}

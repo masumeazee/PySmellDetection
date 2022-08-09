@@ -1,1 +1,0 @@
-Class#getElementType#(#String#elementName#)#throws#BuildException#{#Class#nt#=#(#Class#)#nestedTypes#.#get#(#elementName#)#;##if#(#nt#==#null#)#{#throw#new#UnsupportedElementException#(#"Class "#+#bean#.#getName#(#)#+#" doesn't support the nested \""#+#elementName#+#"\" element."#,#elementName#)#;#}##return#nt#;#}

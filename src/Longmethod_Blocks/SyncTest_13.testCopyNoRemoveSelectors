@@ -1,1 +1,0 @@
-void#testCopyNoRemoveSelectors#(#)#{#executeTarget#(#"copynoremove-selectors"#)#;#String#d#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/a/b/c/d"#;#assertFileIsPresent#(#d#)#;#String#f#=#getProject#(#)#.#getProperty#(#"dest"#)#+#"/e/f"#;#assertFileIsPresent#(#f#)#;#assertTrue#(#getFullLog#(#)#.#indexOf#(#"Removing orphan file:"#)#==#-#1#)#;#}

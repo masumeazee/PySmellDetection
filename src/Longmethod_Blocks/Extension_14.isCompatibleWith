@@ -1,1 +1,0 @@
-boolean#isCompatibleWith#(#final#Extension#required#)#{##return#(#COMPATIBLE#==#getCompatibilityWith#(#required#)#)#;#}

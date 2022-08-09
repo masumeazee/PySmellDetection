@@ -1,1 +1,0 @@
-String#extractTargetName#(#BuildEvent#event#)#{##return#event#.#getTarget#(#)#.#getName#(#)#;#}

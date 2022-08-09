@@ -1,1 +1,0 @@
-void#setHeader#(#String#header#)#{#Html#h#=#new#Html#(#)#;#h#.#addText#(#header#)#;#addHeader#(#h#)#;#}

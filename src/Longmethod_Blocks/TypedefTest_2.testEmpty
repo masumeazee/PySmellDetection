@@ -1,1 +1,0 @@
-void#testEmpty#(#)#{#expectBuildException#(#"empty"#,#"required argument not specified"#)#;#}

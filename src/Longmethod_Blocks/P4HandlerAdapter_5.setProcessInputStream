@@ -1,1 +1,0 @@
-void#setProcessInputStream#(#OutputStream#os#)#throws#IOException#{#this#.#os#=#os#;#}

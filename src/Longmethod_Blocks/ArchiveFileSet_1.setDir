@@ -1,1 +1,0 @@
-void#setDir#(#File#dir#)#throws#BuildException#{#checkAttributesAllowed#(#)#;##if#(#src#!=#null#)#{#throw#new#BuildException#(#ERROR_DIR_AND_SRC_ATTRIBUTES#)#;#}##super#.#setDir#(#dir#)#;#hasDir#=#true#;#}

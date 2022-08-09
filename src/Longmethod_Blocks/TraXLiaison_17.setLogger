@@ -1,1 +1,0 @@
-void#setLogger#(#XSLTLogger#l#)#{#logger#=#l#;#}

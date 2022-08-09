@@ -1,1 +1,0 @@
-void#setFlatten#(#boolean#flatten#)#{#this#.#flatten#=#flatten#;#}

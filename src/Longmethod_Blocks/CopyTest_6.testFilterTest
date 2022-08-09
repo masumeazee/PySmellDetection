@@ -1,1 +1,0 @@
-void#testFilterTest#(#)#{#executeTarget#(#"filtertest"#)#;#assertTrue#(#getOutput#(#)#.#indexOf#(#"loop in tokens"#)#==#-#1#)#;#}

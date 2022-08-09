@@ -1,1 +1,0 @@
-void#expectOutputContaining#(#String#target#,#String#substring#)#{#executeTarget#(#target#)#;#assertOutputContaining#(#substring#)#;#}

@@ -1,1 +1,0 @@
-void#addVmArgument#(#CommandlineJava#command#,#String#arg#)#{#Commandline#.#Argument#argument#;#argument#=#command#.#createVmArgument#(#)#;#argument#.#setValue#(#arg#)#;#}

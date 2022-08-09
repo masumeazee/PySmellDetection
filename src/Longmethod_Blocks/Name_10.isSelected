@@ -1,1 +1,0 @@
-boolean#isSelected#(#Resource#r#)#{#String#n#=#r#.#getName#(#)#;##if#(#matches#(#n#)#)#{##return#true#;#}##String#s#=#r#.#toString#(#)#;##return#s#.#equals#(#n#)#?#false#:#matches#(#s#)#;#}

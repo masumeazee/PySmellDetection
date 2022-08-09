@@ -1,1 +1,0 @@
-void#subBuildFinished#(#BuildEvent#event#)#{#String#name#=#extractNameOrDefault#(#event#)#;#String#failed#=#event#.#getException#(#)#!=#null#?#"failing "#:#""#;#printMessage#(#StringUtils#.#LINE_SEP#+#getHeader#(#)#+#StringUtils#.#LINE_SEP#+#"Exiting "#+#failed#+#"project "#+#name#+#StringUtils#.#LINE_SEP#+#getFooter#(#)#,#out#,#event#.#getPriority#(#)#)#;#}

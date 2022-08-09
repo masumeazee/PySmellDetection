@@ -1,1 +1,0 @@
-void#sendQuit#(#)#throws#IOException#{#int#[#]#ok#=#{#OK_QUIT#}#;##try#{#send#(#"QUIT"#,#ok#)#;#}##catch#(#IOException#e#)#{#throw#new#ErrorInQuitException#(#e#)#;#}#}

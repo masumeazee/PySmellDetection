@@ -1,1 +1,0 @@
-void#setXloc#(#int#x#)#{#xloc#=#x#;#}

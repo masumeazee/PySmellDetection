@@ -1,1 +1,0 @@
-void#setFiles#(#String#filenames#)#{#StringTokenizer#t#=#new#StringTokenizer#(#filenames#,#", "#)#;##while#(#t#.#hasMoreTokens#(#)#)#{#createAttachments#(#)#.#add#(#new#FileResource#(#getProject#(#)#.#resolveFile#(#t#.#nextToken#(#)#)#)#)#;#}#}

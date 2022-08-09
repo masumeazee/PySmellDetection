@@ -1,1 +1,0 @@
-void#setCollapseAttributes#(#boolean#collapseAttributes#)#{#this#.#collapseAttributes#=#collapseAttributes#;#}

@@ -1,1 +1,0 @@
-void#testMagicPropertyOverridesEmptyString#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testMagicPropertyOverridesEmptyString"#,#"magic property not working"#,#RmicAdapterFactory#.#ERROR_UNKNOWN_COMPILER#)#;#}

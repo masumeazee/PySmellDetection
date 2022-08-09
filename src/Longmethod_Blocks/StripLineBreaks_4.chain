@@ -1,1 +1,0 @@
-Reader#chain#(#final#Reader#rdr#)#{#StripLineBreaks#newFilter#=#new#StripLineBreaks#(#rdr#)#;#newFilter#.#setLineBreaks#(#getLineBreaks#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

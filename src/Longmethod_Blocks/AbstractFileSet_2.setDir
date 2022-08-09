@@ -1,1 +1,0 @@
-void#setDir#(#File#dir#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##this#.#dir#=#dir#;#directoryScanner#=#null#;#}

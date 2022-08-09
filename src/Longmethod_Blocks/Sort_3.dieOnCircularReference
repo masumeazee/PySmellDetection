@@ -1,1 +1,0 @@
-void#dieOnCircularReference#(#Stack#stk#,#Project#p#)#throws#BuildException#{##if#(#isChecked#(#)#)#{##return#;#}##// check nested collection#super#.#dieOnCircularReference#(#stk#,#p#)#;##if#(#!#isReference#(#)#)#{#DataType#.#pushAndInvokeCircularReferenceCheck#(#comp#,#stk#,#p#)#;#setChecked#(#true#)#;#}#}

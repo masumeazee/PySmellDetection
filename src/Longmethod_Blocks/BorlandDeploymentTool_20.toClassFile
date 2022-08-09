@@ -1,1 +1,0 @@
-String#toClassFile#(#String#filename#)#{##//remove the .class#String#classfile#=#filename#.#substring#(#0#,#filename#.#lastIndexOf#(#".java"#)#)#;#classfile#=#classfile#+#".class"#;##return#classfile#;#}

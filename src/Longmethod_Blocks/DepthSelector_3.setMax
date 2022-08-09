@@ -1,1 +1,0 @@
-void#setMax#(#int#max#)#{#this#.#max#=#max#;#}

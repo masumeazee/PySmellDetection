@@ -1,1 +1,0 @@
-int#getUnixMode#(#)#{##return#platform#!=#PLATFORM_UNIX#?#0#:#(#int#)#(#(#getExternalAttributes#(#)#>#>#SHORT_SHIFT#)#&#SHORT_MASK#)#;#}

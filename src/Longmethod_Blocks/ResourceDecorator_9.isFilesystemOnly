@@ -1,1 +1,0 @@
-boolean#isFilesystemOnly#(#)#{##return#as#(#FileProvider#.#class#)#!=#null#;#}

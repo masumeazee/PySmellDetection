@@ -1,1 +1,0 @@
-Map#scan#(#Resource#[#]#fromResources#,#File#toDir#)#{##return#buildMap#(#fromResources#,#toDir#,#getMapper#(#)#)#;#}

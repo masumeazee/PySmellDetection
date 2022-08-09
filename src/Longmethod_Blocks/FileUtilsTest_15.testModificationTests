@@ -1,4 +1,0 @@
-void#testModificationTests#(#)#{##//get a time#long#firstTime#=#System#.#currentTimeMillis#(#)#;##//add some time. We assume no OS has a granularity this bad#long#secondTime#=#firstTime#+#60000#;##/*
-        assertTrue("same timestamp is up to date",
-                fu.isUpToDate(firstTime, firstTime));
-                */##//check that older is up to date with a newer dest#assertTrue#(#"older source files are up to date"#,#FILE_UTILS#.#isUpToDate#(#firstTime#,#secondTime#)#)#;##//check that older is up to date with a newer dest#assertFalse#(#"newer source files are no up to date"#,#FILE_UTILS#.#isUpToDate#(#secondTime#,#firstTime#)#)#;#assertTrue#(#"-1 dest timestamp implies nonexistence"#,#!#FILE_UTILS#.#isUpToDate#(#firstTime#,#-#1L#)#)#;#}

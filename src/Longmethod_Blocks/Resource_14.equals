@@ -1,1 +1,0 @@
-boolean#equals#(#Object#other#)#{##if#(#isReference#(#)#)#{##return#getCheckedRef#(#)#.#equals#(#other#)#;#}##return#other#.#getClass#(#)#.#equals#(#getClass#(#)#)#&&#compareTo#(#other#)#==#0#;#}

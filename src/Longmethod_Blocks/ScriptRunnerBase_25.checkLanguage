@@ -1,1 +1,0 @@
-void#checkLanguage#(#)#{##if#(#language#==#null#)#{#throw#new#BuildException#(#"script language must be specified"#)#;#}#}

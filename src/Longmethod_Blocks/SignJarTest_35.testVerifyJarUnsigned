@@ -1,1 +1,0 @@
-void#testVerifyJarUnsigned#(#)#{#expectBuildExceptionContaining#(#"testVerifyJarUnsigned"#,#"unsigned JAR file"#,#VerifyJar#.#ERROR_NO_VERIFY#)#;#}

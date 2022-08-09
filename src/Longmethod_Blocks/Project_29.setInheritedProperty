@@ -1,1 +1,0 @@
-void#setInheritedProperty#(#String#name#,#String#value#)#{#PropertyHelper#.#getPropertyHelper#(#this#)#.#setInheritedProperty#(#name#,#value#)#;#}

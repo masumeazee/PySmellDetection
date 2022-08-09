@@ -1,1 +1,0 @@
-void#add#(#ResourceComparator#c#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##comp#.#add#(#c#)#;#FailFast#.#invalidate#(#this#)#;#setChecked#(#false#)#;#}

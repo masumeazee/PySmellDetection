@@ -1,1 +1,0 @@
-String#translatePath#(#String#toProcess#)#{##return#FileUtils#.#translatePath#(#toProcess#)#;#}

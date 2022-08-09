@@ -1,1 +1,0 @@
-void#setCount#(#int#i#)#{#checkAttributesAllowed#(#)#;#count#=#i#;#}##int#getCount#(#)#{#return#count#;#}##int#size#(#)#{#int#sz#=#getResourceCollection#(#)#.#size#(#)#;#int#ct#=#getValidCount#(#)#;#return#sz#<#ct#?#sz#:#ct#;#}##int#getValidCount#(#)#{#int#ct#=#getCount#(#)#;#if#(#ct#<#0#)#{#throw#new#BuildException#(#BAD_COUNT#)#;#}#return#ct#;#}##

@@ -1,1 +1,0 @@
-Reader#chain#(#Reader#rdr#)#{#buffer#=#new#BufferingOutputFilterReader#(#rdr#)#;##return#buffer#;#}

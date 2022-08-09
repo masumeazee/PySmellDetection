@@ -1,1 +1,0 @@
-StringBuffer#getText#(#)#{##return#(#characters#==#null#)#?#new#StringBuffer#(#0#)#:#characters#;#}

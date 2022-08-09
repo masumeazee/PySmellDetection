@@ -1,1 +1,0 @@
-void#testByteArray#(#)#throws#IOException#{#los#.#write#(#new#byte#[#]#{#0#}#)#;#los#.#close#(#)#;#assertTrue#(#f#+#" has been written."#,#f#.#exists#(#)#)#;#}

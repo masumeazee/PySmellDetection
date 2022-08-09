@@ -1,1 +1,0 @@
-void#cleanup#(#)#{##if#(#cleanup#)#{#(#(#AntClassLoader#)#loader#)#.#cleanup#(#)#;#}#}

@@ -1,1 +1,0 @@
-Reader#chain#(#final#Reader#rdr#)#{#SuffixLines#newFilter#=#new#SuffixLines#(#rdr#)#;#newFilter#.#setSuffix#(#getSuffix#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

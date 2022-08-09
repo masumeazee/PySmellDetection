@@ -1,1 +1,0 @@
-void#setCvsroot#(#String#cvsRoot#)#{#this#.#cvsRoot#=#cvsRoot#;#}

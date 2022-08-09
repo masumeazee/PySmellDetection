@@ -1,1 +1,0 @@
-void#setLogFailedTests#(#boolean#logFailedTests#)#{#this#.#logFailedTests#=#logFailedTests#;#}

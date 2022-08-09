@@ -1,1 +1,0 @@
-boolean#isSelected#(#Resource#r#)#{##if#(#!#r#.#isDirectory#(#)#)#{##return#true#;#}#else##if#(#doFilesonly#)#{#logWhenWriting#(#"Ignoring directory "#+#r#.#getName#(#)#+#" as only files will"#+#" be added."#,#Project#.#MSG_VERBOSE#)#;#}##return#false#;#}

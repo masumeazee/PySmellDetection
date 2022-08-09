@@ -1,1 +1,0 @@
-Mapper#createMapper#(#)#throws#BuildException#{##if#(#mapperElement#!=#null#)#{#throw#new#BuildException#(#ERROR_MULTIPLE_MAPPERS#,#getLocation#(#)#)#;#}##mapperElement#=#new#Mapper#(#getProject#(#)#)#;##return#mapperElement#;#}

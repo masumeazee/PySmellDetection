@@ -1,1 +1,0 @@
-ZipShort#getCentralDirectoryLength#(#)#{##if#(#data#==#null#)#{#assembleData#(#)#;#}##return#new#ZipShort#(#data#.#length#)#;#}

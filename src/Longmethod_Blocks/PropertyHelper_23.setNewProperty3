@@ -1,1 +1,0 @@
-void#setNewProperty#(#String#ns#,#String#name#,#Object#value#)#{#setNewProperty#(#name#,#value#)#;#}

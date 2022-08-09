@@ -1,1 +1,0 @@
-void#add#(#JavahAdapter#adapter#)#{##if#(#nestedAdapter#!=#null#)#{#throw#new#BuildException#(#"Can't have more than one javah"#+#" adapter"#)#;#}##nestedAdapter#=#adapter#;#}

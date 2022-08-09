@@ -1,1 +1,0 @@
-Object#clone#(#)#{#try#{#JUnitTest#t#=#(#JUnitTest#)#super#.#clone#(#)#;#t#.#props#=#props#==#null#?#null#:#(#Properties#)#props#.#clone#(#)#;#t#.#formatters#=#(#Vector#)#formatters#.#clone#(#)#;##return#t#;#}##catch#(#CloneNotSupportedException#e#)#{##// plain impossible##return#this#;#}#}

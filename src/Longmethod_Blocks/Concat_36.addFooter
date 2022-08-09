@@ -1,1 +1,0 @@
-void#addFooter#(#TextElement#footerToAdd#)#{#this#.#footer#=#footerToAdd#;#}

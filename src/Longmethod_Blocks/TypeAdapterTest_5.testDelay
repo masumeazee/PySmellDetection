@@ -1,1 +1,0 @@
-void#testDelay#(#)#{#expectLogContaining#(#"delay"#,#"MyTask called"#)#;#}

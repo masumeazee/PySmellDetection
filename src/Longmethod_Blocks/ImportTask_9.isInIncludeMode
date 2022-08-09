@@ -1,1 +1,0 @@
-boolean#isInIncludeMode#(#)#{##return#"include"#.#equals#(#getTaskType#(#)#)#;#}

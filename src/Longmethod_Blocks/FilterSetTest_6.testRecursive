@@ -1,1 +1,0 @@
-void#testRecursive#(#)#{#String#result#=#"it works line"#;#String#line#=#"@test@ line"#;#FilterSet#fs#=#new#FilterSet#(#)#;#fs#.#addFilter#(#"test"#,#"@test1@"#)#;#fs#.#addFilter#(#"test1"#,#"@test2@"#)#;#fs#.#addFilter#(#"test2"#,#"it works"#)#;#fs#.#setBeginToken#(#"@"#)#;#fs#.#setEndToken#(#"@"#)#;#assertEquals#(#result#,#fs#.#replaceTokens#(#line#)#)#;#}

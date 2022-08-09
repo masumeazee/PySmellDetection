@@ -1,1 +1,0 @@
-void#setRootClass#(#String#rootClass#)#{#rootClasses#.#addElement#(#rootClass#)#;#}

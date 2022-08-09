@@ -1,1 +1,0 @@
-void#setDate#(#String#p#)#{##if#(#p#!=#null#&&#p#.#trim#(#)#.#length#(#)#>#0#)#{#addCommandArgument#(#"-D"#)#;#addCommandArgument#(#p#)#;#}#}

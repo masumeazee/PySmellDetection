@@ -1,1 +1,0 @@
-String#[#]#restrict#(#String#[#]#files#,#File#srcDir#,#File#destDir#,#FileNameMapper#mapper#)#{##return#restrict#(#files#,#srcDir#,#destDir#,#mapper#,#FILE_UTILS#.#getFileTimestampGranularity#(#)#)#;#}

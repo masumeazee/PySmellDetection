@@ -1,1 +1,0 @@
-void#setToList#(#String#list#)#{#StringTokenizer#tokens#=#new#StringTokenizer#(#list#,#","#)#;##while#(#tokens#.#hasMoreTokens#(#)#)#{#toList#.#addElement#(#new#EmailAddress#(#tokens#.#nextToken#(#)#)#)#;#}#}

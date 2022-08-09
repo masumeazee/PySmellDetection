@@ -1,1 +1,0 @@
-void#setClosure#(#boolean#closure#)#{#this#.#closure#=#closure#;#}

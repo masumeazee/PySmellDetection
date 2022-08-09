@@ -1,1 +1,0 @@
-File#getNotNullFile#(#)#{##if#(#getFile#(#)#==#null#)#{#throw#new#BuildException#(#"file attribute is null!"#)#;#}##dieOnCircularReference#(#)#;##return#getFile#(#)#;#}

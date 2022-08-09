@@ -1,1 +1,0 @@
-void#setLabel#(#String#l#)#{#label#=#l#;#}

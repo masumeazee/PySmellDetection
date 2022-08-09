@@ -1,1 +1,0 @@
-void#setUp#(#)#{#configureProject#(#"src/etc/testcases/taskdefs/optional/script.xml"#)#;#}##void#testCanLoad#(#)#{#expectLog#(#"useBeanshell"#,#"I'm here"#)#;#}##

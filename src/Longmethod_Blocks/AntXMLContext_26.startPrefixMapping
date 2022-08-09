@@ -1,1 +1,0 @@
-void#startPrefixMapping#(#String#prefix#,#String#uri#)#{#List#list#=#(#List#)#prefixMapping#.#get#(#prefix#)#;##if#(#list#==#null#)#{#list#=#new#ArrayList#(#)#;#prefixMapping#.#put#(#prefix#,#list#)#;#}##list#.#add#(#uri#)#;#}

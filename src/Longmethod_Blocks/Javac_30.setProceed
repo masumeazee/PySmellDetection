@@ -1,1 +1,0 @@
-void#setProceed#(#boolean#proceed#)#{#failOnError#=#!#proceed#;#}

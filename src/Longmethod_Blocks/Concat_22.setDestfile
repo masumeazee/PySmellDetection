@@ -1,1 +1,0 @@
-void#setDestfile#(#File#destinationFile#)#{#setDest#(#new#FileResource#(#destinationFile#)#)#;#}

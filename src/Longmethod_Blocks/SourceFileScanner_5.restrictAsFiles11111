@@ -1,1 +1,0 @@
-File#[#]#restrictAsFiles#(#String#[#]#files#,#File#srcDir#,#File#destDir#,#FileNameMapper#mapper#,#long#granularity#)#{#String#[#]#res#=#restrict#(#files#,#srcDir#,#destDir#,#mapper#,#granularity#)#;#File#[#]#result#=#new#File#[#res#.#length#]#;##for#(#int#i#=#0#;##i#<#res#.#length#;#i#++#)#{#result#[#i#]#=#new#File#(#srcDir#,#res#[#i#]#)#;#}##return#result#;#}

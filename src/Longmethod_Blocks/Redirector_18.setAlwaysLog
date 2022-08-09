@@ -1,1 +1,0 @@
-void#setAlwaysLog#(#boolean#alwaysLog#)#{#synchronized#(#outMutex#)#{#alwaysLogOut#=#alwaysLog#;#}##synchronized#(#errMutex#)#{#alwaysLogErr#=#alwaysLog#;#}#}

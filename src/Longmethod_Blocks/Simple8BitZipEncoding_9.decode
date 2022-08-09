@@ -1,1 +1,0 @@
-String#decode#(#byte#[#]#data#)#throws#IOException#{#char#[#]#ret#=#new#char#[#data#.#length#]#;##for#(#int#i#=#0#;##i#<#data#.#length#;#++#i#)#{#ret#[#i#]#=#this#.#decodeByte#(#data#[#i#]#)#;#}##return#new#String#(#ret#)#;#}

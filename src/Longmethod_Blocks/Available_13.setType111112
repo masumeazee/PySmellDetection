@@ -1,1 +1,0 @@
-void#setType#(#String#type#)#{#log#(#"DEPRECATED - The setType(String) method has been deprecated."#+#" Use setType(Available.FileDir) instead."#,#Project#.#MSG_WARN#)#;#this#.#type#=#new#FileDir#(#)#;#this#.#type#.#setValue#(#type#)#;#}

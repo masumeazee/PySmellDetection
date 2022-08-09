@@ -1,1 +1,0 @@
-void#setLongfile#(#TarLongFileMode#mode#)#{#this#.#longFileMode#=#mode#;#}

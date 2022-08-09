@@ -1,1 +1,0 @@
-void#testNoCrash#(#)#{#System#.#err#.#println#(#"method print to System.err"#)#;#System#.#out#.#println#(#"method print to System.out"#)#;#}

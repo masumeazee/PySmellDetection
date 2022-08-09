@@ -1,4 +1,0 @@
-Stack#getStack#(#)#{#Stack#threadStack#=#(#Stack#)#threadStacks#.#get#(#Thread#.#currentThread#(#)#)#;##if#(#threadStack#==#null#)#{#threadStack#=#new#Stack#(#)#;#threadStacks#.#put#(#Thread#.#currentThread#(#)#,#threadStack#)#;#}##/* For debugging purposes uncomment:
-        org.w3c.dom.Comment s = doc.createComment("stack=" + threadStack);
-        buildElement.element.appendChild(s);
-         */##return#threadStack#;#}

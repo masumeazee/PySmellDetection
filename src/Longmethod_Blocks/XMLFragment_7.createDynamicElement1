@@ -1,1 +1,0 @@
-Object#createDynamicElement#(#String#uri#,#String#name#,#String#qName#)#{#Element#e2#=#null#;##if#(#uri#.#equals#(#""#)#)#{#e2#=#doc#.#createElement#(#name#)#;#}#else#{#e2#=#doc#.#createElementNS#(#uri#,#qName#)#;#}##e#.#appendChild#(#e2#)#;##return#new#Child#(#e2#)#;#}

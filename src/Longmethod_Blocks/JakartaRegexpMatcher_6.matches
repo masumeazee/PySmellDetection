@@ -1,1 +1,0 @@
-boolean#matches#(#String#input#,#RE#reg#)#{##return#reg#.#match#(#input#)#;#}

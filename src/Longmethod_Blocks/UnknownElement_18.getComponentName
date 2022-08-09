@@ -1,1 +1,0 @@
-String#getComponentName#(#)#{##return#ProjectHelper#.#genComponentName#(#getNamespace#(#)#,#getTag#(#)#)#;#}

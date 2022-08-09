@@ -1,1 +1,0 @@
-Commandline#.#Marker#createTargetfile#(#)#{##if#(#targetFilePos#!=#null#)#{#throw#new#BuildException#(#getTaskType#(#)#+#" doesn\'t support multiple "#+#"targetfile elements."#,#getLocation#(#)#)#;#}##targetFilePos#=#cmdl#.#createMarker#(#)#;#srcIsFirst#=#(#srcFilePos#!=#null#)#;##return#targetFilePos#;#}

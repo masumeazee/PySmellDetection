@@ -1,1 +1,0 @@
-String#stripExtension#(#File#jspFile#)#{##return#StringUtils#.#removeSuffix#(#jspFile#.#getName#(#)#,#".jsp"#)#;#}

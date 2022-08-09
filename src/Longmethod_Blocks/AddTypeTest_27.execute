@@ -1,1 +1,0 @@
-void#execute#(#)#{#log#(#"execute: value is "#+#value#)#;#}

@@ -1,1 +1,0 @@
-boolean#setProperty#(#String#ns#,#String#name#,#Object#value#,#boolean#verbose#)#{##return#setProperty#(#name#,#value#,#verbose#)#;#}

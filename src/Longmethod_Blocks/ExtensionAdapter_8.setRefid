@@ -1,1 +1,0 @@
-void#setRefid#(#final#Reference#reference#)#throws#BuildException#{##if#(#null#!=#extensionName#||#null#!=#specificationVersion#||#null#!=#specificationVendor#||#null#!=#implementationVersion#||#null#!=#implementationVendorID#||#null#!=#implementationVendor#||#null#!=#implementationURL#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#reference#)#;#}

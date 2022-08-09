@@ -1,1 +1,0 @@
-int#getNextChar#(#)#throws#IOException#{##if#(#queueIndex#!=#-#1#)#{#final#int#ch#=#queuedData#.#charAt#(#queueIndex#++#)#;##if#(#queueIndex#>=#queuedData#.#length#(#)#)#{#queueIndex#=#-#1#;#}##return#ch#;#}##return#in#.#read#(#)#;#}

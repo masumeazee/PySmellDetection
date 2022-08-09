@@ -1,1 +1,0 @@
-void#setWhen#(#SizeComparisons#when#)#{#this#.#when#=#when#;#}

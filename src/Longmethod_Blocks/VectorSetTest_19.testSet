@@ -1,1 +1,0 @@
-void#testSet#(#)#{#v#.#add#(#O#)#;#Object#a#=#new#Object#(#)#;#assertSame#(#O#,#v#.#set#(#0#,#a#)#)#;#assertSame#(#a#,#v#.#get#(#0#)#)#;#assertEquals#(#1#,#v#.#size#(#)#)#;#}

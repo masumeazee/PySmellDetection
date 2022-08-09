@@ -1,1 +1,0 @@
-void#main#(#String#[#]#args#)#{#Beta#myBeta#=#new#Beta#(#)#;#System#.#out#.#println#(#myBeta#.#toString#(#)#)#;#}

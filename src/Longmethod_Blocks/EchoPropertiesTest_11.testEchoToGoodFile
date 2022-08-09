@@ -1,1 +1,0 @@
-void#testEchoToGoodFile#(#)#throws#Exception#{#executeTarget#(#"testEchoToGoodFile"#)#;#assertGoodFile#(#)#;#}

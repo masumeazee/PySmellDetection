@@ -1,1 +1,0 @@
-void#validate#(#)#{##if#(#resource#!=#null#&&#refid#!=#null#)#{#throw#new#BuildException#(#"Cannot set both resource and refid"#)#;#}##if#(#resource#==#null#&&#refid#!=#null#)#{#resolveRefid#(#)#;#}##if#(#resource#==#null#||#substring#==#null#)#{#throw#new#BuildException#(#"both resource and substring are required "#+#"in <resourcecontains>"#)#;#}#}

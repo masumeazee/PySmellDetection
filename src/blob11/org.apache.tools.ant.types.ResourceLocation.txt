@@ -1,1 +1,0 @@
-void#setPublicId#(#String#publicId#)#{#this#.#publicId#=#publicId#;#}##void#setLocation#(#String#location#)#{#this#.#location#=#location#;#}##void#setBase#(#URL#base#)#{#this#.#base#=#base#;#}##String#getPublicId#(#)#{#return#publicId#;#}##String#getLocation#(#)#{#return#location#;#}##URL#getBase#(#)#{#return#base#;#}##

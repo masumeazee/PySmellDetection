@@ -1,1 +1,0 @@
-void#tooManyDefinitions#(#)#{#throw#new#BuildException#(#"Only one of the attributes name, file and resource"#+#" can be set"#,#getLocation#(#)#)#;#}

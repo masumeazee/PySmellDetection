@@ -1,1 +1,0 @@
-String#extractProjectName#(#BuildEvent#event#)#{#Project#project#=#event#.#getProject#(#)#;##return#(#project#!=#null#)#?#project#.#getName#(#)#:#null#;#}

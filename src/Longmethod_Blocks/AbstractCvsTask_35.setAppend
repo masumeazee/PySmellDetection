@@ -1,1 +1,0 @@
-void#setAppend#(#boolean#value#)#{#this#.#append#=#value#;#}

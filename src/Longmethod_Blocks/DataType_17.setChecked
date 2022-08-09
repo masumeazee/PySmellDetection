@@ -1,1 +1,0 @@
-void#setChecked#(#final#boolean#checked#)#{#this#.#checked#=#checked#;#}

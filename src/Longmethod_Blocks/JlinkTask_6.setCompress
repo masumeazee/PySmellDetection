@@ -1,1 +1,0 @@
-void#setCompress#(#boolean#compress#)#{#this#.#compress#=#compress#;#}

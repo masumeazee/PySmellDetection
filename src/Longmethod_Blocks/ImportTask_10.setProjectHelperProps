@@ -1,1 +1,0 @@
-void#setProjectHelperProps#(#String#prefix#,#String#prefixSep#,#boolean#inIncludeMode#)#{#ProjectHelper#.#setCurrentTargetPrefix#(#prefix#)#;#ProjectHelper#.#setCurrentPrefixSeparator#(#prefixSep#)#;#ProjectHelper#.#setInIncludeMode#(#inIncludeMode#)#;#}

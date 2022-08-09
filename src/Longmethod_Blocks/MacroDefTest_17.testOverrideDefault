@@ -1,1 +1,0 @@
-void#testOverrideDefault#(#)#{#expectLog#(#"override.default"#,#"value is new"#)#;#}

@@ -1,1 +1,0 @@
-void#endTestSuite#(#JUnitTest#suite#)#throws#BuildException#{##if#(#out#!=#null#)#{#try#{#out#.#write#(#grafitto#)#;#out#.#flush#(#)#;#}##catch#(#IOException#ioex#)#{#throw#new#BuildException#(#"Unable to write output"#,#ioex#)#;#}##finally#{##if#(#out#!=#System#.#out#&&#out#!=#System#.#err#)#{#try#{#out#.#close#(#)#;#}##catch#(#IOException#e#)#{##// ignore#}#}#}#}#}

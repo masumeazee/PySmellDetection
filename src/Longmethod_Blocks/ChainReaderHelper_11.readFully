@@ -1,1 +1,0 @@
-String#readFully#(#Reader#rdr#)#throws#IOException#{##return#FileUtils#.#readFully#(#rdr#,#bufferSize#)#;#}

@@ -1,1 +1,0 @@
-boolean#isFilesystemOnly#(#)#{##if#(#isReference#(#)#)#{##return#(#(#Archives#)#getCheckedRef#(#)#)#.#isFilesystemOnly#(#)#;#}##dieOnCircularReference#(#)#;##return#false#;#}

@@ -1,1 +1,0 @@
-int#handleInput#(#byte#[#]#buffer#,#int#offset#,#int#length#)#throws#IOException#{#synchronized#(#inMutex#)#{##if#(#inputStream#==#null#)#{##return#managingTask#.#getProject#(#)#.#defaultInput#(#buffer#,#offset#,#length#)#;#}##return#inputStream#.#read#(#buffer#,#offset#,#length#)#;#}#}

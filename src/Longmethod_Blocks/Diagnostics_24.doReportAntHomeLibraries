@@ -1,1 +1,0 @@
-void#doReportAntHomeLibraries#(#PrintStream#out#)#{#out#.#println#(#MagicNames#.#ANT_HOME#+#": "#+#System#.#getProperty#(#MagicNames#.#ANT_HOME#)#)#;#File#[#]#libs#=#listLibraries#(#)#;#printLibraries#(#libs#,#out#)#;#}

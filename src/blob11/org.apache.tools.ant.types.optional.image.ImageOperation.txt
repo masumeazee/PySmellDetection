@@ -1,1 +1,0 @@
-void#addRotate#(#Rotate#instr#)#{#instructions#.#add#(#instr#)#;#}##void#addDraw#(#Draw#instr#)#{#instructions#.#add#(#instr#)#;#}##void#addRectangle#(#Rectangle#instr#)#{#instructions#.#add#(#instr#)#;#}##void#addText#(#Text#instr#)#{#instructions#.#add#(#instr#)#;#}##void#addScale#(#Scale#instr#)#{#instructions#.#add#(#instr#)#;#}##

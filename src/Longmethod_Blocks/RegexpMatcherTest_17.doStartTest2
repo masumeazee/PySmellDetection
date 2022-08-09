@@ -1,1 +1,0 @@
-void#doStartTest2#(#String#text#)#{#reg#.#setPattern#(#"^Line1"#)#;#assertTrue#(#"^Line1 in default mode"#,#reg#.#matches#(#text#)#)#;#assertTrue#(#"^Line1 in single line mode"#,#reg#.#matches#(#text#,#RegexpMatcher#.#MATCH_SINGLELINE#)#)#;#assertTrue#(#"^Line1 in multi line mode"#,#reg#.#matches#(#text#,#RegexpMatcher#.#MATCH_MULTILINE#)#)#;#}

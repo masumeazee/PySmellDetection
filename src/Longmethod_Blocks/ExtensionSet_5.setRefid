@@ -1,1 +1,0 @@
-void#setRefid#(#final#Reference#reference#)#throws#BuildException#{##if#(#!#extensions#.#isEmpty#(#)#||#!#extensionsFilesets#.#isEmpty#(#)#)#{#throw#tooManyAttributes#(#)#;#}##super#.#setRefid#(#reference#)#;#}

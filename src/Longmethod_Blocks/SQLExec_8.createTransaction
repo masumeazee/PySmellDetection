@@ -1,1 +1,0 @@
-Transaction#createTransaction#(#)#{#Transaction#t#=#new#Transaction#(#)#;#transactions#.#addElement#(#t#)#;##return#t#;#}

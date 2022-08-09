@@ -1,1 +1,0 @@
-void#setNewer#(#boolean#newer#)#{#this#.#newerOnly#=#newer#;#}

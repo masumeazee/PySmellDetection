@@ -1,1 +1,0 @@
-void#buildFinished#(#BuildEvent#event#)#{##if#(#initialized#)#{#Logger#log#=#Logger#.#getLogger#(#Project#.#class#.#getName#(#)#)#;##if#(#event#.#getException#(#)#==#null#)#{#log#.#info#(#"Build finished."#)#;#}#else#{#log#.#error#(#"Build finished with error."#,#event#.#getException#(#)#)#;#}#}#}

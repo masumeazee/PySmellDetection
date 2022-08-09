@@ -1,1 +1,0 @@
-void#setSymbols#(#boolean#symbols#)#{#this#.#symbols#=#symbols#;#}

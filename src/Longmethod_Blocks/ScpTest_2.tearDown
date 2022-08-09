@@ -1,1 +1,0 @@
-void#tearDown#(#)#{#for#(#Iterator#i#=#cleanUpList#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#File#file#=#(#File#)#i#.#next#(#)#;#file#.#delete#(#)#;#}#}

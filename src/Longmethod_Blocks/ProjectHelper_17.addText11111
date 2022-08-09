@@ -1,1 +1,0 @@
-void#addText#(#Project#project#,#Object#target#,#String#text#)#throws#BuildException#{##if#(#text#==#null#)#{##return#;#}##if#(#target#instanceof#TypeAdapter#)#{#target#=#(#(#TypeAdapter#)#target#)#.#getProxy#(#)#;#}##IntrospectionHelper#.#getHelper#(#project#,#target#.#getClass#(#)#)#.#addText#(#project#,#target#,#text#)#;#}

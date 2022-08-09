@@ -1,1 +1,0 @@
-void#addElement#(#Object#o#)#{#doAdd#(#size#(#)#,#o#)#;#}

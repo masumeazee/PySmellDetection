@@ -1,1 +1,0 @@
-void#setType#(#Type#value#)#{#this#.#type#=#Type#.#toType#(#value#.#getValue#(#)#)#;#}

@@ -1,1 +1,0 @@
-void#setAutocommit#(#boolean#autocommit#)#{#this#.#autocommit#=#autocommit#;#}

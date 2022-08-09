@@ -1,1 +1,0 @@
-void#addArgIf#(#boolean#b#,#String#arg#)#{##if#(#b#)#{#cmd#.#createArgument#(#)#.#setValue#(#arg#)#;#}#}

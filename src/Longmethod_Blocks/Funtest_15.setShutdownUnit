@@ -1,1 +1,0 @@
-void#setShutdownUnit#(#WaitFor#.#Unit#unit#)#{#shutdownUnitMultiplier#=#unit#.#getMultiplier#(#)#;#}

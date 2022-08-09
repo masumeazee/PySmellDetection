@@ -1,1 +1,0 @@
-Path#createUnifiedSourcePath#(#)#{#Path#p#=#path#==#null#?#new#Path#(#getProject#(#)#)#:#(#Path#)#path#.#clone#(#)#;#Vector#s#=#createUnifiedSources#(#)#;#Enumeration#e#=#s#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#p#.#add#(#(#FileSet#)#e#.#nextElement#(#)#)#;#}##return#p#;#}

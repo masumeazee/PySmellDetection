@@ -1,1 +1,0 @@
-String#getVersion#(#)#{##return#version#!=#null#?#FLAG_VERSION#+#version#:#""#;#}

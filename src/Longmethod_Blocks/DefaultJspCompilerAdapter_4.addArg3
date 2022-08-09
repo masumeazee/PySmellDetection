@@ -1,1 +1,0 @@
-void#addArg#(#CommandlineJava#cmd#,#String#argument#)#{##if#(#argument#!=#null#&&#argument#.#length#(#)#!=#0#)#{#cmd#.#createArgument#(#)#.#setValue#(#argument#)#;#}#}

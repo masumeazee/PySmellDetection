@@ -1,1 +1,0 @@
-void#testASCIIFileRoundtripExplicitUnicodeExtra#(#)#throws#IOException#{#testFileRoundtrip#(#US_ASCII#,#false#,#true#)#;#}

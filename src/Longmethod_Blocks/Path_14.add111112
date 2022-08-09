@@ -1,1 +1,0 @@
-void#add#(#Path#path#)#throws#BuildException#{##if#(#path#==#this#)#{#throw#circularReference#(#)#;#}##if#(#path#.#getProject#(#)#==#null#)#{#path#.#setProject#(#getProject#(#)#)#;#}##add#(#(#ResourceCollection#)#path#)#;#}

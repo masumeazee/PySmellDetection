@@ -1,1 +1,0 @@
-void#setInIncludeMode#(#boolean#includeMode#)#{#inIncludeMode#.#set#(#includeMode#?#Boolean#.#TRUE#:#Boolean#.#FALSE#)#;#}

@@ -1,1 +1,0 @@
-boolean#evaluate#(#long#t1#,#long#t2#)#{##return#evaluate#(#t1#,#t2#,#FILE_UTILS#.#getFileTimestampGranularity#(#)#)#;#}

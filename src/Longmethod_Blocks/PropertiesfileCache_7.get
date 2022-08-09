@@ -1,1 +1,0 @@
-Object#get#(#Object#key#)#{##if#(#!#cacheLoaded#)#{#load#(#)#;#}##try#{##return#cache#.#getProperty#(#String#.#valueOf#(#key#)#)#;#}##catch#(#ClassCastException#e#)#{##return#null#;#}#}

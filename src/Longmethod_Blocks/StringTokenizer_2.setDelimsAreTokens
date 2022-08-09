@@ -1,1 +1,0 @@
-void#setDelimsAreTokens#(#boolean#delimsAreTokens#)#{#this#.#delimsAreTokens#=#delimsAreTokens#;#}

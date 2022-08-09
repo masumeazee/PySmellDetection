@@ -1,1 +1,0 @@
-String#rtrimWildcardTokens#(#String#input#)#{##return#new#TokenizedPattern#(#input#)#.#rtrimWildcardTokens#(#)#.#toString#(#)#;#}

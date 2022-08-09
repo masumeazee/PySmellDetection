@@ -1,1 +1,0 @@
-void#deleteEmptyJavaFiles#(#)#{##if#(#javaFiles#!=#null#)#{#Enumeration#e#=#javaFiles#.#elements#(#)#;##while#(#e#.#hasMoreElements#(#)#)#{#File#file#=#(#File#)#e#.#nextElement#(#)#;##if#(#file#.#exists#(#)#&&#file#.#length#(#)#==#0#)#{#log#(#"deleting empty output file "#+#file#)#;#file#.#delete#(#)#;#}#}#}#}

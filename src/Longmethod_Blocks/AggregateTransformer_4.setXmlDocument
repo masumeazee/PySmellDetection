@@ -1,1 +1,0 @@
-void#setXmlDocument#(#Document#doc#)#{#this#.#document#=#doc#;#}

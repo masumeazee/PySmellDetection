@@ -1,1 +1,0 @@
-void#testHttpURI#(#)#throws#Exception#{#String#url#=#"http://ant.apache.org"#;##try#{#Locator#.#fromURI#(#url#)#;#}##catch#(#IllegalArgumentException#e#)#{#String#message#=#e#.#getMessage#(#)#;#assertTrue#(#message#,#message#.#indexOf#(#Locator#.#ERROR_NOT_FILE_URI#)#>=#0#)#;#assertTrue#(#message#,#message#.#indexOf#(#url#)#>=#0#)#;#}#}

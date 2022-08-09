@@ -1,1 +1,0 @@
-void#testStripJavaComments#(#)#throws#BuildException#{#executeTarget#(#"testStripJavaComments"#)#;#final#String#expected#=#project#.#getProperty#(#"expected"#)#;#final#String#generated#=#project#.#getProperty#(#"testStripJavaComments"#)#;#assertEquals#(#expected#,#generated#)#;#}

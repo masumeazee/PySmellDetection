@@ -1,1 +1,0 @@
-void#addPreserveInTarget#(#SyncTarget#s#)#{##if#(#syncTarget#!=#null#)#{#throw#new#BuildException#(#"you must not specify multiple "#+#"preserveintarget elements."#)#;#}##syncTarget#=#s#;#}

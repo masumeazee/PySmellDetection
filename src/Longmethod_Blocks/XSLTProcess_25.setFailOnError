@@ -1,1 +1,0 @@
-void#setFailOnError#(#boolean#b#)#{#failOnError#=#b#;#}

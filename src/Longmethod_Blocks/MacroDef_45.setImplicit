@@ -1,1 +1,0 @@
-void#setImplicit#(#boolean#implicit#)#{#this#.#implicit#=#implicit#;#}

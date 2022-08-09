@@ -1,1 +1,0 @@
-void#read#(#DataInputStream#cpStream#)#throws#IOException#{#setValue#(#new#Integer#(#cpStream#.#readInt#(#)#)#)#;#}##String#toString#(#)#{#return#"Integer Constant Pool Entry: "#+#getValue#(#)#;#}##

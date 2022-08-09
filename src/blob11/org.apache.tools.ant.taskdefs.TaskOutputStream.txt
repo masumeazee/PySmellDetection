@@ -1,1 +1,0 @@
-void#write#(#int#c#)#throws#IOException#{#char#cc#=#(#char#)#c#;#if#(#cc#==#'\r'#||#cc#==#'\n'#)#{#// line feed#if#(#line#.#length#(#)#>#0#)#{#processLine#(#)#;#}#}#else#{#line#.#append#(#cc#)#;#}#}##void#processLine#(#)#{#String#s#=#line#.#toString#(#)#;#task#.#log#(#s#,#msgOutputLevel#)#;#line#=#new#StringBuffer#(#)#;#}##

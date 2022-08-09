@@ -1,1 +1,0 @@
-void#setupRedirector#(#)#{#super#.#setupRedirector#(#)#;#redirector#.#setAppendProperties#(#true#)#;#}

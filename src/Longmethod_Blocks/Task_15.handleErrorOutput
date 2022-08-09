@@ -1,1 +1,0 @@
-void#handleErrorOutput#(#String#output#)#{#log#(#output#,#Project#.#MSG_WARN#)#;#}

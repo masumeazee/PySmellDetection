@@ -1,1 +1,0 @@
-void#setSuppressExceptionNotSignalled#(#boolean#suppressExceptionNotSignalled#)#{#this#.#suppressExceptionNotSignalled#=#suppressExceptionNotSignalled#;#}

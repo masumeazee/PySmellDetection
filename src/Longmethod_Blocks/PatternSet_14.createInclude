@@ -1,1 +1,0 @@
-NameEntry#createInclude#(#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##return#addPatternToList#(#includeList#)#;#}

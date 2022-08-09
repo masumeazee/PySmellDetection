@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#c#)#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##if#(#c#==#null#)#{##return#;#}##if#(#rc#==#null#)#{#rc#=#new#Vector#(#)#;#}##rc#.#add#(#c#)#;#invalidateExistingIterators#(#)#;#coll#=#null#;#setChecked#(#false#)#;#}

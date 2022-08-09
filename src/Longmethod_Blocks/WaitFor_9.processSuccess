@@ -1,1 +1,0 @@
-void#processSuccess#(#)#{#log#(#getTaskName#(#)#+#": condition was met"#,#Project#.#MSG_VERBOSE#)#;#}

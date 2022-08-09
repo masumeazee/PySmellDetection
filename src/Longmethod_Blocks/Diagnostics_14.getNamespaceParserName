@@ -1,1 +1,0 @@
-String#getNamespaceParserName#(#)#{#try#{#XMLReader#reader#=#JAXPUtils#.#getNamespaceXMLReader#(#)#;##return#reader#.#getClass#(#)#.#getName#(#)#;#}##catch#(#BuildException#e#)#{##//ignore#ignoreThrowable#(#e#)#;##return#null#;#}#}

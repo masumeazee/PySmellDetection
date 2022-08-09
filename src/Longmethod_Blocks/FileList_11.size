@@ -1,1 +1,0 @@
-int#size#(#)#{##if#(#isReference#(#)#)#{##return#(#(#FileList#)#getRef#(#getProject#(#)#)#)#.#size#(#)#;#}##return#filenames#.#size#(#)#;#}

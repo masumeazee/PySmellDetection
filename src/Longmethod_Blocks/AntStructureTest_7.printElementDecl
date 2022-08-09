@@ -1,1 +1,0 @@
-void#printElementDecl#(#PrintWriter#out#,#Project#p#,#String#name#,#Class#element#)#{#Assert#.#assertTrue#(#headCalled#)#;#Assert#.#assertTrue#(#targetCalled#)#;#Assert#.#assertTrue#(#!#tailCalled#)#;#elementCalled#++#;#this#.#p#=#p#;#}

@@ -1,1 +1,0 @@
-boolean#readChunk#(#)#throws#IOException#{#int#bufferLength#=#0#;#bufferLength#=#reader#.#read#(#buffer#)#;##if#(#bufferLength#<#0#)#{##return#false#;#}##outputBuffer#.#append#(#new#String#(#buffer#,#0#,#bufferLength#)#)#;##return#true#;#}

@@ -1,1 +1,0 @@
-void#testSpacedURI#(#)#throws#Exception#{#resolveTo#(#"file:C:\\Program Files\\Ant\\lib"#,#"C:\\Program Files\\Ant\\lib"#,#"C:\\Program Files\\Ant\\lib"#)#;#}

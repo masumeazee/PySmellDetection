@@ -1,1 +1,0 @@
-boolean#enableXercesSchemaValidation#(#)#{#try#{#setFeature#(#XmlConstants#.#FEATURE_XSD#,#true#)#;##//set the schema source for the doc#setNoNamespaceSchemaProperty#(#XmlConstants#.#PROPERTY_NO_NAMESPACE_SCHEMA_LOCATION#)#;#}##catch#(#BuildException#e#)#{#log#(#e#.#toString#(#)#,#Project#.#MSG_VERBOSE#)#;##return#false#;#}##return#true#;#}

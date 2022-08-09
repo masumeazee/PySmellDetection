@@ -1,1 +1,0 @@
-void#setSrcdir#(#Path#srcPath#)#{#this#.#srcPath#=#srcPath#;#}

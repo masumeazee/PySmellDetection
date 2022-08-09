@@ -1,1 +1,0 @@
-void#tearDown#(#)#throws#Exception#{#File#file#=#new#File#(#project#.#getBaseDir#(#)#,#LOCAL_PATH#)#;##if#(#file#.#exists#(#)#)#{#file#.#delete#(#)#;#}#}

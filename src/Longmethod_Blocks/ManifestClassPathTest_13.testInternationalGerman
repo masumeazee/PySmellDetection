@@ -1,1 +1,0 @@
-void#testInternationalGerman#(#)#{#executeTarget#(#"international-german"#)#;#expectLogContaining#(#"run-two-jars"#,#"beta alpha"#)#;#}

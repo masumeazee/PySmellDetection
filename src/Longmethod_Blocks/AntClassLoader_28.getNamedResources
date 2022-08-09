@@ -1,1 +1,0 @@
-Enumeration##/*<URL>*/#getNamedResources#(#String#name#)#throws#IOException#{##return#findResources#(#name#,#false#)#;#}

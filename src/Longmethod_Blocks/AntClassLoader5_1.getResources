@@ -1,1 +1,0 @@
-Enumeration#getResources#(#String#name#)#throws#IOException#{##return#getNamedResources#(#name#)#;#}

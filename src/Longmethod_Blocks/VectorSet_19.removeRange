@@ -1,1 +1,0 @@
-void#removeRange#(#final#int#fromIndex#,#int#toIndex#)#{#while#(#toIndex#>#fromIndex#)#{#remove#(#--#toIndex#)#;#}#}

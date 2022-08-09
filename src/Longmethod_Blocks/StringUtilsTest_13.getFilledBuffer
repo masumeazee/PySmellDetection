@@ -1,1 +1,0 @@
-StringBuffer#getFilledBuffer#(#int#size#,#char#ch#)#{#StringBuffer#buf#=#new#StringBuffer#(#size#)#;##for#(#int#i#=#0#;##i#<#size#;#i#++#)#{#buf#.#append#(#ch#)#;#}#;##return#buf#;#}

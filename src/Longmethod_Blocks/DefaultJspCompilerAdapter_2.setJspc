@@ -1,1 +1,0 @@
-void#setJspc#(#JspC#owner#)#{#this#.#owner#=#owner#;#}

@@ -1,1 +1,0 @@
-void#setKeepgenerated#(#boolean#keepgenerated#)#{#this#.#keepgenerated#=#keepgenerated#;#}

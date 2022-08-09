@@ -1,1 +1,0 @@
-void#setImplementationVersion#(#final#String#implementationVersion#)#{#verifyNotAReference#(#)#;#this#.#implementationVersion#=#new#DeweyDecimal#(#implementationVersion#)#;#}

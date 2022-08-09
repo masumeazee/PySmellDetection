@@ -1,1 +1,0 @@
-void#deploy#(#)#throws#BuildException#{#java#.#setClassname#(#className#)#;#java#.#setClasspath#(#getClasspath#(#)#)#;#java#.#setFork#(#true#)#;#java#.#setFailonerror#(#true#)#;#java#.#execute#(#)#;#}

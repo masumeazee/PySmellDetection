@@ -1,1 +1,0 @@
-void#testResourcename#(#)#{#executeTarget#(#"testResourcename"#)#;#assertNotNull#(#getProject#(#)#.#getProperty#(#"defaults"#)#)#;#}

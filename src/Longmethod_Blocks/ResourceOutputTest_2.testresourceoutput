@@ -1,1 +1,0 @@
-void#testresourceoutput#(#)#{#try#{#testoutputbe#(#new#Resource#(#"foo"#)#)#;#fail#(#"should have caught UnsupportedOperationException"#)#;#}##catch#(#UnsupportedOperationException#e#)#{#}#}

@@ -1,1 +1,0 @@
-int#getUTF8Entry#(#String#value#)#{#int#index#=#-#1#;#Integer#indexInteger#=#(#Integer#)#utf8Indexes#.#get#(#value#)#;##if#(#indexInteger#!=#null#)#{#index#=#indexInteger#.#intValue#(#)#;#}##return#index#;#}

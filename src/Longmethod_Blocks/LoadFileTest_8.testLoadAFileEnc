@@ -1,1 +1,0 @@
-void#testLoadAFileEnc#(#)#throws#BuildException#{#executeTarget#(#"testLoadAFileEnc"#)#;##if#(#project#.#getProperty#(#"testLoadAFileEnc"#)#==#null#)#{#fail#(#"file load failed"#)#;#}#}

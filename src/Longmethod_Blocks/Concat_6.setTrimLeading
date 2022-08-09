@@ -1,1 +1,0 @@
-void#setTrimLeading#(#boolean#strip#)#{#this#.#trimLeading#=#strip#;#}

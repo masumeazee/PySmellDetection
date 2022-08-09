@@ -1,1 +1,0 @@
-boolean#supportsNestedElement#(#String#elementName#)#{##return#supportsNestedElement#(#""#,#elementName#)#;#}

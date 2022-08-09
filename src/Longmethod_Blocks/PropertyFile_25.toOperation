@@ -1,1 +1,0 @@
-int#toOperation#(#String#oper#)#{##if#(#"+"#.#equals#(#oper#)#)#{##return#INCREMENT_OPER#;#}#else##if#(#"-"#.#equals#(#oper#)#)#{##return#DECREMENT_OPER#;#}#else##if#(#"del"#.#equals#(#oper#)#)#{##return#DELETE_OPER#;#}##return#EQUALS_OPER#;#}

@@ -1,1 +1,0 @@
-void#setDocumentLocator#(#Locator#locator#)#{#context#.#setLocator#(#locator#)#;#}

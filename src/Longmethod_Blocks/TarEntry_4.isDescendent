@@ -1,1 +1,0 @@
-boolean#isDescendent#(#TarEntry#desc#)#{##return#desc#.#getName#(#)#.#startsWith#(#getName#(#)#)#;#}

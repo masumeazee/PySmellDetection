@@ -1,1 +1,0 @@
-Collection#getCollection#(#)#{#ResourceCollection#rc#=#getResourceCollection#(#)#;#Iterator#iter#=#rc#.#iterator#(#)#;##if#(#!#(#iter#.#hasNext#(#)#)#)#{##return#Collections#.#EMPTY_SET#;#}##List#result#=#(#List#)#CollectionUtils#.#asCollection#(#iter#)#;#Collections#.#sort#(#result#,#comp#)#;##return#result#;#}

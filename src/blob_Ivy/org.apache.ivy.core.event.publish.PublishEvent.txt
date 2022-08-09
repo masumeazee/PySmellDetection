@@ -1,1 +1,0 @@
-DependencyResolver#getResolver#(#)#{#return#resolver#;#}##File#getData#(#)#{#return#data#;#}##Artifact#getArtifact#(#)#{#return#artifact#;#}##boolean#isOverwrite#(#)#{#return#overwrite#;#}##

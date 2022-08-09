@@ -1,1 +1,0 @@
-Object#getUserProperty#(#String#ns#,#String#name#)#{##return#getUserProperty#(#name#)#;#}

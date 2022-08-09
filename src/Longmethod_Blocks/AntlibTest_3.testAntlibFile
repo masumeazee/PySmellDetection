@@ -1,1 +1,0 @@
-void#testAntlibFile#(#)#{#expectLog#(#"antlib.file"#,#"MyTask called"#)#;#}

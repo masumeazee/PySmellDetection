@@ -1,1 +1,0 @@
-void#setInputEncoding#(#String#inputEncoding#)#{##if#(#inputEncoding#==#null#)#{#throw#new#IllegalArgumentException#(#"inputEncoding must not be null"#)#;#}##synchronized#(#inMutex#)#{#this#.#inputEncoding#=#inputEncoding#;#}#}

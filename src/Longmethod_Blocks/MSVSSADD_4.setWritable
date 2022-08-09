@@ -1,1 +1,0 @@
-void#setWritable#(#boolean#writable#)#{#super#.#setInternalWritable#(#writable#)#;#}

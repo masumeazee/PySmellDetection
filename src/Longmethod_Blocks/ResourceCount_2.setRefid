@@ -1,1 +1,0 @@
-void#setRefid#(#Reference#r#)#{#Object#o#=#r#.#getReferencedObject#(#)#;##if#(#!#(#o#instanceof#ResourceCollection#)#)#{#throw#new#BuildException#(#r#.#getRefId#(#)#+#" doesn\'t denote a ResourceCollection"#)#;#}##add#(#(#ResourceCollection#)#o#)#;#}

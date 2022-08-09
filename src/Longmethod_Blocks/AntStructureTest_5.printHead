@@ -1,1 +1,0 @@
-void#printHead#(#PrintWriter#out#,#Project#p#,#Hashtable#tasks#,#Hashtable#types#)#{#Assert#.#assertTrue#(#!#headCalled#)#;#Assert#.#assertTrue#(#!#targetCalled#)#;#Assert#.#assertTrue#(#!#tailCalled#)#;#Assert#.#assertEquals#(#0#,#elementCalled#)#;#headCalled#=#true#;#}

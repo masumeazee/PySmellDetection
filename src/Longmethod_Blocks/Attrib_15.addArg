@@ -1,1 +1,0 @@
-void#addArg#(#boolean#sign#,#String#attribute#)#{#createArg#(#)#.#setValue#(#getSignString#(#sign#)#+#attribute#)#;#haveAttr#=#true#;#}

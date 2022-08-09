@@ -1,1 +1,0 @@
-void#setImplementation#(#String#impl#)#{##if#(#"default"#.#equals#(#impl#)#)#{#facade#.#setImplementation#(#Native2AsciiAdapterFactory#.#getDefault#(#)#)#;#}#else#{#facade#.#setImplementation#(#impl#)#;#}#}

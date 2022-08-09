@@ -1,1 +1,0 @@
-void#write#(#Element#root#,#OutputStream#out#)#throws#IOException#{#Writer#wri#=#new#OutputStreamWriter#(#out#,#"UTF8"#)#;#writeXMLDeclaration#(#wri#)#;#write#(#root#,#wri#,#0#,#"  "#)#;#wri#.#flush#(#)#;#}

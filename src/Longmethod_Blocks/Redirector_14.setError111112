@@ -1,1 +1,0 @@
-void#setError#(#File#error#)#{#setError#(#(#error#==#null#)#?#null#:#new#File#[#]#{#error#}#)#;#}

@@ -1,1 +1,0 @@
-void#validateAttributes#(#)#throws#BuildException#{##if#(#destDir#==#null#)#{#throw#new#BuildException#(#ERROR_NO_DESTDIR#)#;#}##if#(#mapper#==#null#)#{#throw#new#BuildException#(#ERROR_NO_MAPPER#)#;#}##if#(#path#==#null#)#{#throw#new#BuildException#(#ERROR_NO_PATH#)#;#}#}

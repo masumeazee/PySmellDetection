@@ -1,1 +1,0 @@
-void#addParam#(#Parameter#parameter#)#{#configParameter#.#add#(#parameter#)#;#}

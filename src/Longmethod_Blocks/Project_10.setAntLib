@@ -1,1 +1,0 @@
-void#setAntLib#(#)#{#File#antlib#=#org#.#apache#.#tools#.#ant#.#launch#.#Locator#.#getClassSource#(#Project#.#class#)#;##if#(#antlib#!=#null#)#{#setPropertyInternal#(#MagicNames#.#ANT_LIB#,#antlib#.#getAbsolutePath#(#)#)#;#}#}

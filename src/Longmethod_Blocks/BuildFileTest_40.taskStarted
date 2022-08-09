@@ -1,1 +1,0 @@
-void#taskStarted#(#BuildEvent#event#)#{##//System.out.println("taskStarted " + event.getTask().getTaskName());#}

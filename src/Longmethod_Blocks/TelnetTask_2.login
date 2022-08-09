@@ -1,1 +1,0 @@
-void#login#(#AntTelnetClient#telnet#)#{##if#(#addCarriageReturn#)#{#telnet#.#sendString#(#"\n"#,#true#)#;#}##telnet#.#waitForString#(#"ogin:"#)#;#telnet#.#sendString#(#userid#,#true#)#;#telnet#.#waitForString#(#"assword:"#)#;#telnet#.#sendString#(#password#,#false#)#;#}

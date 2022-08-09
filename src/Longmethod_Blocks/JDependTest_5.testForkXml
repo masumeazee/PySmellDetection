@@ -1,1 +1,0 @@
-void#testForkXml#(#)#{#expectLogContaining#(#"fork-xml"#,#"<DependsUpon>"#)#;#}

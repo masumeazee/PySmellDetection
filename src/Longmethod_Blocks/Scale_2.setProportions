@@ -1,1 +1,0 @@
-void#setProportions#(#ProportionsAttribute#pa#)#{#proportions#=#pa#.#getValue#(#)#;#}

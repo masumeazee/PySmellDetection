@@ -1,1 +1,0 @@
-void#testStandaloneCR#(#)#throws#IOException#{#reg#.#setPattern#(#"end of text$"#)#;#assertTrue#(#"standalone CR"#,#!#reg#.#matches#(#"end of text\r"#)#)#;#}

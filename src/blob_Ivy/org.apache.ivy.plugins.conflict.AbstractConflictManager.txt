@@ -1,1 +1,0 @@
-IvySettings#getSettings#(#)#{#return#settings#;#}##void#setSettings#(#IvySettings#settings#)#{#this#.#settings#=#settings#;#}##String#getName#(#)#{#return#name#;#}##void#setName#(#String#name#)#{#this#.#name#=#name#;#}##String#toString#(#)#{#return#name#;#}##void#handleAllBlacklistedRevisions#(#DependencyDescriptor#dd#,#Collection#foundBlacklisted#)#{#}##

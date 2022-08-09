@@ -1,1 +1,0 @@
-void#setIgnoreErrors#(#boolean#b#)#{#ignoreErrors#=#b#;#}

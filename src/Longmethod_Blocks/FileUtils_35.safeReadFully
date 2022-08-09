@@ -1,1 +1,0 @@
-String#safeReadFully#(#Reader#reader#)#throws#IOException#{#String#ret#=#readFully#(#reader#)#;##return#ret#==#null#?#""#:#ret#;#}

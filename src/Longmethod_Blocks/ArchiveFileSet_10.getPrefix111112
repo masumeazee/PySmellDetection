@@ -1,1 +1,0 @@
-String#getPrefix#(#Project#p#)#{##if#(#isReference#(#)#)#{##return#(#(#ArchiveFileSet#)#getRef#(#p#)#)#.#getPrefix#(#p#)#;#}##dieOnCircularReference#(#p#)#;##return#prefix#;#}

@@ -1,1 +1,0 @@
-boolean#hasMoreElements#(#)#{#while#(#index#<#enumArray#.#length#)#{##if#(#enumArray#[#index#]#!=#null#&&#enumArray#[#index#]#.#hasMoreElements#(#)#)#{##return#true#;#}##index#++#;#}##return#false#;#}

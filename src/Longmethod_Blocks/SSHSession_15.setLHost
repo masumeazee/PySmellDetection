@@ -1,1 +1,0 @@
-void#setLHost#(#String#lhost#)#{#this#.#lhost#=#lhost#;#}

@@ -1,1 +1,0 @@
-void#addDataTypeDefinition#(#AntTypeDefinition#def#)#{##if#(#!#def#.#isRestrict#(#)#)#{#updateDataTypeDefinition#(#def#)#;#}#else#{#updateRestrictedDefinition#(#def#)#;#}#}

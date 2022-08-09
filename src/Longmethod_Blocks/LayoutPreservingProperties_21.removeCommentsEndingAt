@@ -1,7 +1,0 @@
-void#removeCommentsEndingAt#(#int#pos#)#{##/* We want to remove comments preceding this position. Step
-         * back counting blank lines (call this range B1) until we hit
-         * something non-blank. If what we hit is not a comment, then
-         * exit. If what we hit is a comment, then step back counting
-         * comment lines (call this range C1). Nullify lines in C1 and
-         * B1.
-         */#int#end#=#pos#-#1#;##// step pos back until it hits something non-blank#for#(#pos#=#end#;##pos#>#0#;#pos#--#)#{##if#(#!#(#logicalLines#.#get#(#pos#)#instanceof#Blank#)#)#{#break#;#}#}##// if the thing it hits is not a comment, then we have nothing##// to remove##if#(#!#(#logicalLines#.#get#(#pos#)#instanceof#Comment#)#)#{##return#;#}##// step back until we hit the start of the comment#for#(#;##pos#>=#0#;#pos#--#)#{##if#(#!#(#logicalLines#.#get#(#pos#)#instanceof#Comment#)#)#{#break#;#}#}##// now we want to delete from pos+1 to end#for#(#pos#++#;##pos#<=#end#;#pos#++#)#{#logicalLines#.#set#(#pos#,#null#)#;#}#}

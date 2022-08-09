@@ -1,1 +1,0 @@
-void#setSubject#(#String#subj#)#{#setHeader#(#"Subject"#,#subj#)#;#}

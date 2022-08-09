@@ -1,1 +1,0 @@
-ExecTask#createJarSigner#(#)#{#final#ExecTask#cmd#=#new#ExecTask#(#this#)#;##if#(#executable#==#null#)#{#cmd#.#setExecutable#(#JavaEnvUtils#.#getJdkExecutable#(#JARSIGNER_COMMAND#)#)#;#}#else#{#cmd#.#setExecutable#(#executable#)#;#}##cmd#.#setTaskType#(#JARSIGNER_COMMAND#)#;#cmd#.#setFailonerror#(#true#)#;#cmd#.#addConfiguredRedirector#(#redirector#)#;##return#cmd#;#}

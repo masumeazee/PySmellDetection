@@ -1,1 +1,0 @@
-String#replaceProperties#(#Project#project#,#String#value#)#throws#BuildException#{##// needed since project properties are not accessible##return#project#.#replaceProperties#(#value#)#;#}

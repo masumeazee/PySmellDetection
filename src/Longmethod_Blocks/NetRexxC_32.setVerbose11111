@@ -1,1 +1,0 @@
-void#setVerbose#(#String#verbose#)#{#VerboseAttr#v#=#new#VerboseAttr#(#)#;#v#.#setValue#(#verbose#)#;#setVerbose#(#v#)#;#}

@@ -1,1 +1,0 @@
-SAXParserFactory#getNSParserFactory#(#)#throws#BuildException#{##if#(#nsParserFactory#==#null#)#{#nsParserFactory#=#newParserFactory#(#)#;#nsParserFactory#.#setNamespaceAware#(#true#)#;#}##return#nsParserFactory#;#}

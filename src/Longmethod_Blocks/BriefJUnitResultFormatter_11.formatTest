@@ -1,1 +1,0 @@
-String#formatTest#(#Test#test#)#{##if#(#test#==#null#)#{##return#"Null Test: "#;#}#else#{##return#"Testcase: "#+#test#.#toString#(#)#+#":"#;#}#}

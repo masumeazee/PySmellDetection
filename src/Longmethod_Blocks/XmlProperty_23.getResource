@@ -1,1 +1,0 @@
-Resource#getResource#(#)#{##// delegate this way around to support subclasses that##// overwrite getFile#File#f#=#getFile#(#)#;#FileProvider#fp#=#(#FileProvider#)#src#.#as#(#FileProvider#.#class#)#;##return#f#==#null#?#src#:#fp#!=#null#&&#fp#.#getFile#(#)#.#equals#(#f#)#?#src#:#new#FileResource#(#f#)#;#}

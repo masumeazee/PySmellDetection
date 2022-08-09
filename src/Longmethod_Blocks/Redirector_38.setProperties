@@ -1,1 +1,0 @@
-void#setProperties#(#)#{#synchronized#(#outMutex#)#{##if#(#baos#!=#null#)#{#try#{#baos#.#close#(#)#;#}##catch#(#IOException#eyeOhEx#)#{##// Ignore exception#}#}#}##synchronized#(#errMutex#)#{##if#(#errorBaos#!=#null#)#{#try#{#errorBaos#.#close#(#)#;#}##catch#(#IOException#eyeOhEx#)#{##// Ignore exception#}#}#}#}

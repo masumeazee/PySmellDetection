@@ -1,1 +1,0 @@
-void#testGetRequest#(#)#{#expectPropertySet#(#"test-get-request"#,#"test-get-request"#)#;#assertPropertyUnset#(#"test-get-request-bad-url"#)#;#}

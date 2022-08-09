@@ -1,1 +1,0 @@
-void#warning#(#TransformerException#e#)#{##if#(#!#suppressWarnings#)#{#logError#(#e#,#"Warning"#)#;#}#}

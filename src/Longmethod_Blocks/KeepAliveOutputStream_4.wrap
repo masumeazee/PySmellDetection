@@ -1,1 +1,0 @@
-PrintStream#wrap#(#PrintStream#ps#)#{##return#new#PrintStream#(#new#KeepAliveOutputStream#(#ps#)#)#;#}

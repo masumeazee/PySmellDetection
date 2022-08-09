@@ -1,1 +1,0 @@
-void#setTimeToWait#(#int#timeToWait#)#{#this#.#timeToWait#=#timeToWait#;#project#.#setProperty#(#"timeToWait"#,#Long#.#toString#(#timeToWait#)#)#;#}

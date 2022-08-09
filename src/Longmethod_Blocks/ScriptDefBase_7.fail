@@ -1,1 +1,0 @@
-void#fail#(#String#message#)#{#throw#new#BuildException#(#message#)#;#}

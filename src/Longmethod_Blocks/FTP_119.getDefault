@@ -1,1 +1,0 @@
-LanguageCode#getDefault#(#)#{#LanguageCode#lc#=#new#LanguageCode#(#)#;#lc#.#setValue#(#""#)#;##return#lc#;#}

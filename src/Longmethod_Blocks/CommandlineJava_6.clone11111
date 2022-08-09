@@ -1,1 +1,0 @@
-Object#clone#(#)#throws#CloneNotSupportedException#{#try#{#SysProperties#c#=#(#SysProperties#)#super#.#clone#(#)#;#c#.#variables#=#(#Vector#)#variables#.#clone#(#)#;#c#.#propertySets#=#(#Vector#)#propertySets#.#clone#(#)#;##return#c#;#}##catch#(#CloneNotSupportedException#e#)#{##return#null#;#}#}

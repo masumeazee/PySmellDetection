@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{##if#(#rc#==#null#)#{#throw#new#BuildException#(#"Cannot add null ResourceCollection"#)#;#}##synchronized#(#this#)#{##if#(#resources#==#null#)#{#resources#=#new#Union#(#)#;#}#}##resources#.#add#(#rc#)#;#}

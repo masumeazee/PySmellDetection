@@ -1,1 +1,0 @@
-void#integerSetFileMode#(#int#mode#)#{#fileModeHasBeenSet#=#true#;#this#.#fileMode#=#UnixStat#.#FILE_FLAG#|#mode#;#}

@@ -1,1 +1,0 @@
-void#setComparatorClass#(#String#classname#)#{#comparatorClass#=#classname#;#}

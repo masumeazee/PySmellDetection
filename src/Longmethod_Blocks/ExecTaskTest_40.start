@@ -1,1 +1,0 @@
-void#start#(#)#{#worker#=#new#Thread#(#this#,#myBuildFile#.#toString#(#)#+#"/"#+#target#)#;#worker#.#start#(#)#;#}

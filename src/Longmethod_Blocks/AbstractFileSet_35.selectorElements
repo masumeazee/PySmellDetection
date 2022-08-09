@@ -1,1 +1,0 @@
-Enumeration#selectorElements#(#)#{##if#(#isReference#(#)#)#{##return#getRef#(#getProject#(#)#)#.#selectorElements#(#)#;#}##dieOnCircularReference#(#)#;##return#selectors#.#elements#(#)#;#}

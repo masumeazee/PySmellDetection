@@ -1,1 +1,0 @@
-void#testDigestAlgorithmSHA#(#)#{#DigestAlgorithm#algo#=#new#DigestAlgorithm#(#)#;#algo#.#setAlgorithm#(#"SHA"#)#;#doTest#(#algo#)#;#}

@@ -1,1 +1,0 @@
-void#addImageOperation#(#ImageOperation#instr#)#{#instructions#.#add#(#instr#)#;#}

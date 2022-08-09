@@ -1,1 +1,0 @@
-Parallel#newParallel#(#long#parallelTimeout#,#Task#child#)#{#Parallel#par#=#newParallel#(#parallelTimeout#)#;#par#.#addTask#(#child#)#;##return#par#;#}

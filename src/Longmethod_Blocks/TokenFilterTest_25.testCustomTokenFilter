@@ -1,1 +1,0 @@
-void#testCustomTokenFilter#(#)#throws#IOException#{#expectFileContains#(#"customtokenfilter"#,#"result/custom"#,#"Hello World"#)#;#}

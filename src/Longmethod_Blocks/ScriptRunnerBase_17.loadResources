@@ -1,1 +1,0 @@
-void#loadResources#(#ResourceCollection#collection#)#{#Iterator#resources#=#collection#.#iterator#(#)#;##while#(#resources#.#hasNext#(#)#)#{#Resource#resource#=#(#Resource#)#resources#.#next#(#)#;#loadResource#(#resource#)#;#}#}

@@ -1,1 +1,0 @@
-void#addContainsRegexp#(#ContainsRegexpSelector#selector#)#{#usedMatchingTask#=#true#;#super#.#addContainsRegexp#(#selector#)#;#}

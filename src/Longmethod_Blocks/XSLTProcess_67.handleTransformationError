@@ -1,1 +1,0 @@
-void#handleTransformationError#(#Exception#ex#)#{##if#(#failOnError#&&#failOnTransformationError#)#{#throw#new#BuildException#(#ex#)#;#}#else#{#log#(#"Caught an error during transformation: "#+#ex#,#Project#.#MSG_WARN#)#;#}#}

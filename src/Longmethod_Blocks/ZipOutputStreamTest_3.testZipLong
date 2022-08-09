@@ -1,1 +1,0 @@
-void#testZipLong#(#)#throws#Exception#{#ZipLong#test#=#ZipOutputStream#.#toDosTime#(#time#)#;#assertEquals#(#test#.#getValue#(#)#,#zl#.#getValue#(#)#)#;#}

@@ -1,1 +1,0 @@
-void#methodToJavadoc#(#String#anArgument#)#{#}##String#toString#(#)#{#return#this#.#getClass#(#)#.#getName#(#)#;#}##String#anotherString#(#)#{#return#"An arbitrary string."#;#}##

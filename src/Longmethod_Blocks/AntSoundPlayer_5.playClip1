@@ -1,1 +1,0 @@
-void#playClip#(#Clip#clip#,#long#duration#)#{#clip#.#loop#(#Clip#.#LOOP_CONTINUOUSLY#)#;##try#{#Thread#.#sleep#(#duration#)#;#}##catch#(#InterruptedException#e#)#{##// Ignore Exception#}##clip#.#stop#(#)#;#}

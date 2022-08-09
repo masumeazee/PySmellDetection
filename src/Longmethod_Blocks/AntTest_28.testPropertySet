@@ -1,1 +1,0 @@
-void#testPropertySet#(#)#{#executeTarget#(#"test-propertyset"#)#;#assertTrue#(#getLog#(#)#.#indexOf#(#"test1 is ${test1}"#)#>#-#1#)#;#assertTrue#(#getLog#(#)#.#indexOf#(#"test2 is ${test2}"#)#>#-#1#)#;#assertTrue#(#getLog#(#)#.#indexOf#(#"test1.x is 1"#)#>#-#1#)#;#}

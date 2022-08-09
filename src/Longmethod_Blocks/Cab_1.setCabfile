@@ -1,1 +1,0 @@
-void#setCabfile#(#File#cabFile#)#{#this#.#cabFile#=#cabFile#;#}

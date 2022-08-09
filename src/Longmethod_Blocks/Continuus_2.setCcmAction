@@ -1,1 +1,0 @@
-void#setCcmAction#(#String#v#)#{#this#.#ccmAction#=#v#;#}

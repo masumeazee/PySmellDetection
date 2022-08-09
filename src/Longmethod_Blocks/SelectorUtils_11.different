@@ -1,1 +1,0 @@
-boolean#different#(#boolean#caseSensitive#,#char#ch#,#char#other#)#{##return#caseSensitive#?#ch#!=#other#:#Character#.#toUpperCase#(#ch#)#!=#Character#.#toUpperCase#(#other#)#;#}

@@ -1,1 +1,0 @@
-void#testPhaseOfMoon#(#)#{#TimeZone#timeZone#=#TimeZone#.#getTimeZone#(#"GMT"#)#;#Calendar#cal#=#Calendar#.#getInstance#(#timeZone#)#;##// should be full moon#cal#.#set#(#2002#,#2#,#27#)#;#assertEquals#(#4#,#DateUtils#.#getPhaseOfMoon#(#cal#)#)#;##// should be new moon#cal#.#set#(#2002#,#2#,#12#)#;#assertEquals#(#0#,#DateUtils#.#getPhaseOfMoon#(#cal#)#)#;#}

@@ -1,1 +1,0 @@
-void#setSecurityManager#(#)#throws#BuildException#{#origSm#=#System#.#getSecurityManager#(#)#;#init#(#)#;#System#.#setSecurityManager#(#new#MySM#(#)#)#;#active#=#true#;#}

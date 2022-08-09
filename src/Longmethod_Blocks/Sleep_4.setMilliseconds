@@ -1,1 +1,0 @@
-void#setMilliseconds#(#int#milliseconds#)#{#this#.#milliseconds#=#milliseconds#;#}

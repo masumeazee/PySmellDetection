@@ -1,1 +1,0 @@
-FileNameMapper#getMapper#(#)#{#FileNameMapper#mapper#=#null#;##if#(#mapperElement#!=#null#)#{#mapper#=#mapperElement#.#getImplementation#(#)#;#}#else##if#(#flatten#)#{#mapper#=#new#FlatFileNameMapper#(#)#;#}#else#{#mapper#=#new#IdentityMapper#(#)#;#}##return#mapper#;#}

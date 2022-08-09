@@ -1,1 +1,0 @@
-Object#getReferencedObject#(#)#throws#BuildException#{##if#(#project#==#null#)#{#throw#new#BuildException#(#"No project set on reference to "#+#refid#)#;#}##return#getReferencedObject#(#project#)#;#}

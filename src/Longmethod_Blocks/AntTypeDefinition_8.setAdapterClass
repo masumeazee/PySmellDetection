@@ -1,1 +1,0 @@
-void#setAdapterClass#(#Class#adapterClass#)#{#this#.#adapterClass#=#adapterClass#;#}

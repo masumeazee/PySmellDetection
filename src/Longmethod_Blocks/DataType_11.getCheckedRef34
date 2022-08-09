@@ -1,1 +1,0 @@
-Object#getCheckedRef#(#final#Class#requiredClass#,#final#String#dataTypeName#)#{##return#getCheckedRef#(#requiredClass#,#dataTypeName#,#getProject#(#)#)#;#}

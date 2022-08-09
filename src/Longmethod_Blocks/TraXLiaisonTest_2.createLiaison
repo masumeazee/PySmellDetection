@@ -1,1 +1,0 @@
-XSLTLiaison#createLiaison#(#)#throws#Exception#{#TraXLiaison#l#=#new#TraXLiaison#(#)#;#l#.#setLogger#(#this#)#;##return#l#;#}

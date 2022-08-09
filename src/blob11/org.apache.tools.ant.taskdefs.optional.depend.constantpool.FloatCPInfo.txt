@@ -1,1 +1,0 @@
-void#read#(#DataInputStream#cpStream#)#throws#IOException#{#setValue#(#new#Float#(#cpStream#.#readFloat#(#)#)#)#;#}##String#toString#(#)#{#return#"Float Constant Pool Entry: "#+#getValue#(#)#;#}##

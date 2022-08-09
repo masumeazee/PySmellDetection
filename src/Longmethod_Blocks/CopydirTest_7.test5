@@ -1,1 +1,0 @@
-void#test5#(#)#{#executeTarget#(#"test5"#)#;#java#.#io#.#File#f#=#new#java#.#io#.#File#(#getProjectDir#(#)#,#"../taskdefs.tmp"#)#;##if#(#!#f#.#exists#(#)#||#!#f#.#isDirectory#(#)#)#{#fail#(#"Copy failed"#)#;#}##// We keep this, so we have something to delete in later tests :-)#}

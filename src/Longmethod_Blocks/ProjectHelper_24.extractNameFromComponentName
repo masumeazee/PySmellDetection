@@ -1,1 +1,0 @@
-String#extractNameFromComponentName#(#String#componentName#)#{#int#index#=#componentName#.#lastIndexOf#(#':'#)#;##if#(#index#==#-#1#)#{##return#componentName#;#}##return#componentName#.#substring#(#index#+#1#)#;#}

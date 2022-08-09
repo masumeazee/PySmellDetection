@@ -1,1 +1,0 @@
-void#setUp#(#)#{##// project reference is set in super.setUp()#super#.#setUp#(#)#;##// init the testclasses path object#Project#prj#=#getProject#(#)#;##if#(#prj#!=#null#)#{#testclasses#=#new#Path#(#prj#,#prj#.#getProperty#(#"build.tests.value"#)#)#;#}#}

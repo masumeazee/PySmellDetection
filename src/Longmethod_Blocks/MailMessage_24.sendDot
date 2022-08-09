@@ -1,1 +1,0 @@
-void#sendDot#(#)#throws#IOException#{#int#[#]#ok#=#{#OK_DOT#}#;#send#(#"\r\n."#,#ok#)#;##// make sure dot is on new line#}

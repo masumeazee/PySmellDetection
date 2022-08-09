@@ -1,1 +1,0 @@
-CrLf#getEol#(#)#{##// Return copy so that the call must call setEol() to change the state##// of fixCRLF##return#eol#.#newInstance#(#)#;#}

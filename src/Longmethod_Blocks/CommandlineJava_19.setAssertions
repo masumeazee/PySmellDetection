@@ -1,1 +1,0 @@
-void#setAssertions#(#Assertions#assertions#)#{#this#.#assertions#=#assertions#;#}

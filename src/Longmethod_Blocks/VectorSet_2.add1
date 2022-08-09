@@ -1,1 +1,0 @@
-void#add#(#int#index#,#Object#o#)#{#doAdd#(#index#,#o#)#;#}

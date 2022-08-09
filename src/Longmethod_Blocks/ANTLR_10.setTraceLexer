@@ -1,1 +1,0 @@
-void#setTraceLexer#(#boolean#enable#)#{#traceLexer#=#enable#;#}

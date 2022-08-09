@@ -1,1 +1,0 @@
-void#setDestDir#(#File#destDir#)#{#this#.#destDir#=#destDir#;#}

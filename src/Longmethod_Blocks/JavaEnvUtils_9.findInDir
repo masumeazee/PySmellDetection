@@ -1,1 +1,0 @@
-File#findInDir#(#String#dirName#,#String#commandName#)#{#File#dir#=#FILE_UTILS#.#normalize#(#dirName#)#;#File#executable#=#null#;##if#(#dir#.#exists#(#)#)#{#executable#=#new#File#(#dir#,#addExtension#(#commandName#)#)#;##if#(#!#executable#.#exists#(#)#)#{#executable#=#null#;#}#}##return#executable#;#}

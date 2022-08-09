@@ -1,1 +1,0 @@
-void#setLocation#(#Location#location#)#{#this#.#location#=#location#;#}

@@ -1,1 +1,0 @@
-void#setSystemProperties#(#CommandlineJava#.#SysProperties#s#)#{#sysProperties#=#s#;#}

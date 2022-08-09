@@ -1,1 +1,0 @@
-void#logStart#(#BuildEvent#event#,#Date#start#,#String#name#)#{#String#msg#=#StringUtils#.#LINE_SEP#+#name#+#": started "#+#start#;#printMessage#(#msg#,#out#,#event#.#getPriority#(#)#)#;#log#(#msg#)#;#}

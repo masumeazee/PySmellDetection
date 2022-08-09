@@ -1,1 +1,0 @@
-void#resolveAllProperties#(#Map#props#)#throws#BuildException#{#PropertyHelper#propertyHelper#=#(#PropertyHelper#)#PropertyHelper#.#getPropertyHelper#(#getProject#(#)#)#;#new#ResolvePropertyMap#(#getProject#(#)#,#propertyHelper#,#propertyHelper#.#getExpanders#(#)#)#.#resolveAllProperties#(#props#)#;#}

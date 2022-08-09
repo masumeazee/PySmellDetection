@@ -1,1 +1,0 @@
-void#addBuildEvent#(#final#String#message#,#final#int#priority#)#{#final#BuildEvent#be#=#new#BuildEvent#(#project#)#;#be#.#setMessage#(#message#,#priority#)#;#buffer#.#addElement#(#be#)#;#}

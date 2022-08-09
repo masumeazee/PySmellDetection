@@ -1,1 +1,0 @@
-boolean#isHiddenSetMethod#(#String#name#,#Class#type#)#{##if#(#"setLocation"#.#equals#(#name#)#&&#org#.#apache#.#tools#.#ant#.#Location#.#class#.#equals#(#type#)#)#{##return#true#;#}##if#(#"setTaskType"#.#equals#(#name#)#&&#java#.#lang#.#String#.#class#.#equals#(#type#)#)#{##return#true#;#}##return#false#;#}

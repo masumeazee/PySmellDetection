@@ -1,1 +1,0 @@
-void#testRemoveAll#(#)#{#v#.#add#(#O#)#;#assertTrue#(#v#.#removeAll#(#Arrays#.#asList#(#new#Object#[#]#{#O#,#O#}#)#)#)#;#assertEquals#(#0#,#v#.#size#(#)#)#;#assertFalse#(#v#.#removeAll#(#Arrays#.#asList#(#new#Object#[#]#{#O#,#O#}#)#)#)#;#}

@@ -1,1 +1,0 @@
-void#testNoDuplicateSchema#(#)#throws#Exception#{#expectBuildExceptionContaining#(#"testNoDuplicateSchema"#,#"duplicate schemas with different values"#,#SchemaValidate#.#ERROR_DUPLICATE_SCHEMA#)#;#}

@@ -1,1 +1,0 @@
-void#add#(#ResourceCollection#rc#)#{##if#(#rc#instanceof#FileSet#&&#rc#.#isFilesystemOnly#(#)#)#{##// receives special treatment in copy that this task relies on#myCopy#.#add#(#rc#)#;#}#else#{##if#(#resources#==#null#)#{#resources#=#new#Restrict#(#)#;#resources#.#add#(#new#Exists#(#)#)#;#myCopy#.#add#(#resources#)#;#}##resources#.#add#(#rc#)#;#}#}

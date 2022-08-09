@@ -1,1 +1,0 @@
-Hashtable#getFiles#(#)#{##return#(#ejbFiles#==#null#)#?#new#Hashtable#(#)#:#ejbFiles#;#}

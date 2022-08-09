@@ -1,1 +1,0 @@
-Object#evaluate#(#String#property#,#PropertyHelper#propertyHelper#)#{#Object#o#=#null#;##if#(#property#.#startsWith#(#PREFIX#)#&&#propertyHelper#.#getProject#(#)#!=#null#)#{#o#=#propertyHelper#.#getProject#(#)#.#getReference#(#property#.#substring#(#PREFIX_LEN#)#)#;#}##return#o#==#null#?#null#:#o#.#toString#(#)#;#}

@@ -1,1 +1,0 @@
-void#printDescription#(#Project#project#)#{##if#(#project#.#getDescription#(#)#!=#null#)#{#project#.#log#(#project#.#getDescription#(#)#)#;#}#}

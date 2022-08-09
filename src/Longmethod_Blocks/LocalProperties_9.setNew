@@ -1,1 +1,0 @@
-boolean#setNew#(#String#property#,#Object#value#,#PropertyHelper#propertyHelper#)#{##return#current#(#)#.#setNew#(#property#,#value#,#propertyHelper#)#;#}

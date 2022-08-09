@@ -1,1 +1,0 @@
-void#setPermissions#(#Permissions#permissions#)#{#perm#=#permissions#;#}

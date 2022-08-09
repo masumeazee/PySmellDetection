@@ -1,1 +1,0 @@
-void#closeFile#(#)#{##if#(#out#!=#null#)#{#out#.#close#(#)#;#out#=#null#;#}#}

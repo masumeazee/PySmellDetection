@@ -1,1 +1,0 @@
-void#testFileConstructor#(#)#{#new#TarEntry#(#new#java#.#io#.#File#(#"/foo"#)#)#;#}

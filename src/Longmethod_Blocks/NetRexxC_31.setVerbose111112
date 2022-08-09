@@ -1,1 +1,0 @@
-void#setVerbose#(#VerboseAttr#verbose#)#{#this#.#verbose#=#verbose#.#getValue#(#)#;#}

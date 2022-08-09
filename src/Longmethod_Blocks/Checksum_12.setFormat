@@ -1,1 +1,0 @@
-void#setFormat#(#FormatElement#e#)#{#format#=#e#.#getFormat#(#)#;#}

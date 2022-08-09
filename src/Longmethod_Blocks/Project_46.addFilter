@@ -1,1 +1,0 @@
-void#addFilter#(#String#token#,#String#value#)#{##if#(#token#==#null#)#{##return#;#}##globalFilterSet#.#addFilter#(#new#FilterSet#.#Filter#(#token#,#value#)#)#;#}

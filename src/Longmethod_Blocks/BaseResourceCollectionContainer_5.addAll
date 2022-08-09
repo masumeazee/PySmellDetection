@@ -1,1 +1,0 @@
-void#addAll#(#Collection#c#)#throws#BuildException#{##if#(#isReference#(#)#)#{#throw#noChildrenAllowed#(#)#;#}##try#{#for#(#Iterator#i#=#c#.#iterator#(#)#;##i#.#hasNext#(#)#;#)#{#add#(#(#ResourceCollection#)#i#.#next#(#)#)#;#}#}##catch#(#ClassCastException#e#)#{#throw#new#BuildException#(#e#)#;#}#}

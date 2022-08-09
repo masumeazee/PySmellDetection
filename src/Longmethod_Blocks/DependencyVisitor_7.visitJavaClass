@@ -1,1 +1,0 @@
-void#visitJavaClass#(#JavaClass#javaClass#)#{#addClass#(#javaClass#.#getClassName#(#)#)#;#}

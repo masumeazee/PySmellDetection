@@ -1,1 +1,0 @@
-void#from#(#String#from#)#throws#IOException#{#sendFrom#(#from#)#;#this#.#from#=#from#;#}

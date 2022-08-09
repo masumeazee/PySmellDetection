@@ -1,1 +1,0 @@
-void#testAwkCommand#(#)#{#Commandline#c#=#new#Commandline#(#)#;#c#.#setExecutable#(#"awk"#)#;#c#.#createArgument#(#)#.#setValue#(#"'NR == 2 { print $NF }'"#)#;#String#[#]#s#=#c#.#getCommandline#(#)#;#assertNotNull#(#s#)#;#assertEquals#(#2#,#s#.#length#)#;#assertEquals#(#"awk"#,#s#[#0#]#)#;#assertEquals#(#"'NR == 2 { print $NF }'"#,#s#[#1#]#)#;#}

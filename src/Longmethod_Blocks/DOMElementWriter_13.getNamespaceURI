@@ -1,1 +1,0 @@
-String#getNamespaceURI#(#Node#n#)#{#String#uri#=#n#.#getNamespaceURI#(#)#;##if#(#uri#==#null#)#{##// FIXME: Is "No Namespace is Empty Namespace" really OK?#uri#=#""#;#}##return#uri#;#}

@@ -1,1 +1,0 @@
-void#setProcessInputStream#(#OutputStream#os#)#{##if#(#input#!=#null#)#{#inputPump#=#createInputPump#(#input#,#os#,#true#)#;#}#else#{#try#{#os#.#close#(#)#;#}##catch#(#IOException#e#)#{##//ignore#}#}#}

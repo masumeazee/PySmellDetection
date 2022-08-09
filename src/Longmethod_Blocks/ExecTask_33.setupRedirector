@@ -1,1 +1,0 @@
-void#setupRedirector#(#)#{#redirector#.#setInput#(#input#)#;#redirector#.#setInputString#(#inputString#)#;#redirector#.#setOutput#(#output#)#;#redirector#.#setError#(#error#)#;#}

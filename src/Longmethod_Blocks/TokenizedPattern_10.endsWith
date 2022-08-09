@@ -1,1 +1,0 @@
-boolean#endsWith#(#String#s#)#{##return#tokenizedPattern#.#length#>#0#&&#tokenizedPattern#[#tokenizedPattern#.#length#-#1#]#.#equals#(#s#)#;#}

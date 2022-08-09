@@ -1,1 +1,0 @@
-void#setBold#(#boolean#state#)#{#bold#=#state#;#}

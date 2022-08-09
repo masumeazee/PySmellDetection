@@ -1,1 +1,0 @@
-int#compareTo#(#Object#other#)#{##if#(#isReference#(#)#)#{##return#(#(#Comparable#)#getCheckedRef#(#)#)#.#compareTo#(#other#)#;#}##if#(#!#(#other#instanceof#Resource#)#)#{#throw#new#IllegalArgumentException#(#"Can only be compared with Resources"#)#;#}##return#toString#(#)#.#compareTo#(#other#.#toString#(#)#)#;#}

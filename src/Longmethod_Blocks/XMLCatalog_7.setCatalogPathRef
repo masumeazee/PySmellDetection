@@ -1,1 +1,0 @@
-void#setCatalogPathRef#(#Reference#r#)#{##if#(#isReference#(#)#)#{#throw#tooManyAttributes#(#)#;#}##createCatalogPath#(#)#.#setRefid#(#r#)#;#setChecked#(#false#)#;#}

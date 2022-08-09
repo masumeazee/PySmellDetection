@@ -1,1 +1,0 @@
-void#close#(#)#throws#IOException#{##// do not close the stream#}

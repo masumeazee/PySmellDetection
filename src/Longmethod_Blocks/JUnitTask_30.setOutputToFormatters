@@ -1,1 +1,0 @@
-void#setOutputToFormatters#(#boolean#outputToFormatters#)#{#this#.#outputToFormatters#=#outputToFormatters#;#}

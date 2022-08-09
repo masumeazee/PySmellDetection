@@ -1,1 +1,0 @@
-void#setReplyTo#(#String#address#)#{#this#.#replyToList#.#add#(#new#EmailAddress#(#address#)#)#;#}

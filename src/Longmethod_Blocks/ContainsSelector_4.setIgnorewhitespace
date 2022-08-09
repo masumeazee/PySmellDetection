@@ -1,1 +1,0 @@
-void#setIgnorewhitespace#(#boolean#ignorewhitespace#)#{#this#.#ignorewhitespace#=#ignorewhitespace#;#}

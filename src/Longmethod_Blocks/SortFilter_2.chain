@@ -1,1 +1,0 @@
-Reader#chain#(#final#Reader#rdr#)#{#SortFilter#newFilter#=#new#SortFilter#(#rdr#)#;#newFilter#.#setReverse#(#isReverse#(#)#)#;#newFilter#.#setComparator#(#getComparator#(#)#)#;#newFilter#.#setInitialized#(#true#)#;##return#newFilter#;#}

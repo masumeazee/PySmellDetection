@@ -1,1 +1,0 @@
-void#testCloseSingleBytes#(#)#throws#IOException#{#writeSingleBytes#(#)#;#stream#.#close#(#)#;#stream#.#assertInvoked#(#)#;#stream#=#null#;#}

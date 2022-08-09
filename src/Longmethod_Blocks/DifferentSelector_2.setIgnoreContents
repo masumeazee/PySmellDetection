@@ -1,1 +1,0 @@
-void#setIgnoreContents#(#boolean#ignoreContents#)#{#this#.#ignoreContents#=#ignoreContents#;#}

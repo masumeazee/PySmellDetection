@@ -1,1 +1,0 @@
-void#cleanUpClassLoaders#(#List##/*<AntClassLoader>*/#loaders#)#{#for#(#Iterator#it#=#loaders#.#iterator#(#)#;##it#.#hasNext#(#)#;#)#{#(#(#AntClassLoader#)#it#.#next#(#)#)#.#cleanup#(#)#;#}#}

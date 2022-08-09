@@ -1,1 +1,0 @@
-void#setFile2#(#File#file2#)#{#this#.#file2#=#file2#;#}

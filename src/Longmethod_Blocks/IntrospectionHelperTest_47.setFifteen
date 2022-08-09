@@ -1,1 +1,0 @@
-void#setFifteen#(#char#c#)#{#assertEquals#(#c#,#'a'#)#;#}

@@ -1,1 +1,0 @@
-void#setCvsRoot#(#String#root#)#{##// Check if not real cvsroot => set it to null##if#(#root#!=#null#)#{##if#(#root#.#trim#(#)#.#equals#(#""#)#)#{#root#=#null#;#}#}##this#.#cvsRoot#=#root#;#}

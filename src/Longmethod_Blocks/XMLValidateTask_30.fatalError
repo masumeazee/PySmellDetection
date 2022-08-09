@@ -1,1 +1,0 @@
-void#fatalError#(#SAXParseException#exception#)#{#failed#=#true#;#doLog#(#exception#,#Project#.#MSG_ERR#)#;#}

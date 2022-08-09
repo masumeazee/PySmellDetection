@@ -1,1 +1,0 @@
-boolean#isCompatible#(#final#DeweyDecimal#first#,#final#DeweyDecimal#second#)#{##return#first#.#isGreaterThanOrEqual#(#second#)#;#}

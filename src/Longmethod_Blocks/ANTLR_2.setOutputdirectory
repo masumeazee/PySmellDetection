@@ -1,1 +1,0 @@
-void#setOutputdirectory#(#File#outputDirectory#)#{#log#(#"Setting output directory to: "#+#outputDirectory#.#toString#(#)#,#Project#.#MSG_VERBOSE#)#;#this#.#outputDirectory#=#outputDirectory#;#}

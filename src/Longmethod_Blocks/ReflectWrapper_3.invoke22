@@ -1,1 +1,0 @@
-Object#invoke#(#String#methodName#,#Class#argType#,#Object#arg#)#{##return#ReflectUtil#.#invoke#(#obj#,#methodName#,#argType#,#arg#)#;#}

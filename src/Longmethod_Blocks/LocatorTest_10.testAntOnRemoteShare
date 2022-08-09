@@ -1,1 +1,0 @@
-void#testAntOnRemoteShare#(#)#throws#Throwable#{#String#resolved#=#Locator#.#fromJarURI#(#SHARED_JAR_URI#)#;#assertResolved#(#SHARED_JAR_URI#,#LAUNCHER_JAR#,#resolved#,#true#)#;#}

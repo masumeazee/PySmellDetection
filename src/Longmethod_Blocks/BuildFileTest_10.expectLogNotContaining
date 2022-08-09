@@ -1,1 +1,0 @@
-void#expectLogNotContaining#(#String#target#,#String#log#)#{#executeTarget#(#target#)#;#assertLogNotContaining#(#log#)#;#}

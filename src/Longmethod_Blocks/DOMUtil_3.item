@@ -1,1 +1,0 @@
-Node#item#(#int#i#)#{#try#{##return#(#Node#)#elementAt#(#i#)#;#}##catch#(#ArrayIndexOutOfBoundsException#e#)#{##return#null#;##// conforming to NodeList interface#}#}

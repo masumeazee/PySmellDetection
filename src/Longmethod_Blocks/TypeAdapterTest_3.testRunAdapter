@@ -1,1 +1,0 @@
-void#testRunAdapter#(#)#{#expectLogContaining#(#"runadapter"#,#"MyRunnable called"#)#;#}

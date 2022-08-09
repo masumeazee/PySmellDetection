@@ -1,1 +1,0 @@
-String#mirrorSelectionString#(#FileSelector#selector#)#{##return#selectionString#(#mirrordir#,#mirrorfiles#,#selector#)#;#}

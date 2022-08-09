@@ -1,1 +1,0 @@
-void#testGetWithSelectorRetryable1#(#)#{#getProject#(#)#.#addTaskDefinition#(#"ftp"#,#oneFailureFTP#.#class#)#;##try#{#getProject#(#)#.#executeTarget#(#"ftp-get-with-selector-retryable"#)#;#}##catch#(#BuildException#bx#)#{#fail#(#"Two retries expected, failed after one."#)#;#}#}

@@ -1,1 +1,0 @@
-boolean#accept#(#File#dir#,#String#name#)#{#String#littleName#=#name#.#toLowerCase#(#Locale#.#US#)#;##for#(#int#i#=#0#;##i#<#extensions#.#length#;#++#i#)#{##if#(#littleName#.#endsWith#(#extensions#[#i#]#)#)#{##return#true#;#}#}##return#false#;#}

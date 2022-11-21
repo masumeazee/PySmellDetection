@@ -23,7 +23,7 @@
  
  First phase :
  
-__there is a parser to retrieve components of code like as class, method or fuction and ... in java language programming for both types
+__there is a parser to retrieve components of code like as class, method or fuction in java language programming for both types
 of Blob and Long method Smells.
 
 __ the results are the separated methods and classes in text known as document. Text files includes the seperated document of project 

@@ -21,7 +21,7 @@
  
  The structure of project ::
  
- first phase ,
+ First phase :
  
 __there is a parser to retrieve components of code like as class, method or fuction and ... in java language programming for both types
 of Blob and Long method Smells.
@@ -29,7 +29,7 @@ of Blob and Long method Smells.
 __ the results are the separated methods and classes in text known as document. Text files includes the seperated document of project 
 like Apache Ant and Apache Ivy in java version 8.0. 
 
-__ Each Document includes some blocks and the texual analysis and inforamtion retrieval will be implimented on one block set of it.
+__ Each Document includes some blocks and the texual analysis and inforamtion retrieval will be implimented on one set of it.
 
 
  

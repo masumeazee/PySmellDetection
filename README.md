@@ -3,25 +3,14 @@
 
 **** Textual Smell Detection  ****
  
- In general, demand for frequent changes in time constraints, the ease of maintaining the quality of codes, testing and 
- ongoing maintenance of a software has become one of the challenges for developers. Also, the lack of proper documentation 
- during software programming and the fact that many developers do not follow the standards of programming, they apply the easiest 
- possible way to implement changes and this will cause a technical drop in  software programming cycle.
- 
- Over time, these non-operational defects (poor design and implementation) known as smelly or dirty code.
- Several methods have been provided for detecting and identifying the smell codes. One of the most important of these methods 
- is the metric based on the body of code, which is the main solution to determine code smells by the structural characteristics
- of components of code (component-method metric).
- 
- ****************************************************************
- Based on the analysis of the set of code errors (smell) ,identifying these errors in the source code components are easily done
- by detecting promiscuous responsibilities. For example, in Blob smell, it is a definition of a large class that includes various
- tasks or envy feature smell that refers to the connection or belonging of a method with several classes.
- *****************************************************************
+ The demand for frequent changes in time constraints and the need to maintain the quality of code, test and ongoing maintenance of software has become a challenge for developers. Additionally, the lack of proper documentation during software programming and the fact that many developers do not follow programming standards can lead to a decrease in the software development cycle.
+
+Over time, these non-operational defects, known as "smelly or dirty code," can accumulate. Several methods have been developed to detect and identify these smells in code. One of the most important methods is using metrics based on the structure of the code, known as the "component-method metric."
+
+By analyzing the set of code errors, or smells, these errors can be easily identified in the source code components by detecting promiscuous responsibilities. For example, the "Blob smell" is a definition of a large class that includes various tasks, and the "Envy feature smell" refers to the connection or belonging of a method with several classes.
+
  
  The structure of project ::
- 
- First phase :
  
 __there is a parser to retrieve components of code like as class, method or fuction in java language programming for both types
 of Blob and Long method Smells.
